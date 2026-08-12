@@ -1255,27 +1255,28 @@ async function startQuiz(type, scope, mode, letters) {
     window.CLOZE_3K_RAW = [];
     await loadData('pools_index');
     const lettersToLoad = mode === 'random' ? POOLS_INDEX_LETTERS : (letters || []);
+    const loads = [];
     for (const letter of lettersToLoad) {
-      await loadData(`pools_${letter}`);
-      if (type === 'cloze') await loadData(`cloze_${letter}`);
+      loads.push(loadData(`pools_${letter}`));
+      if (type === 'cloze') loads.push(loadData(`cloze_${letter}`));
     }
+    await Promise.all(loads);
   } else {
     // 每周积累：加载周索引与所选周的词库/题库，并加载 3K 词库作干扰项兜底
     await loadData('weekly_index');
     window.POOLS_WEEKLY = { BASE: [], PLURAL: [], THIRD: [], ING: [], PAST: [], COMP: [], SUPER: [], DICT: {}, POS: {}, VARIANTS: {} };
     window.CLOZE_WEEKLY_RAW = [];
     const weeksToLoad = mode === 'random' ? WEEKLY_INDEX.map(w => w.id) : (letters || []);
+    const weekLoads = [];
     for (const weekId of weeksToLoad) {
       const week = WEEKLY_INDEX.find(w => w.id === weekId);
       if (!week) continue;
-      await loadData(week.pools);
-      if (type === 'cloze') await loadData(week.cloze);
+      weekLoads.push(loadData(week.pools));
+      if (type === 'cloze') weekLoads.push(loadData(week.cloze));
     }
     window.POOLS_3K = { BASE: [], PLURAL: [], THIRD: [], ING: [], PAST: [], COMP: [], SUPER: [], DICT: {}, POS: {} };
     await loadData('pools_index');
-    for (const letter of POOLS_INDEX_LETTERS) {
-      await loadData(`pools_${letter}`);
-    }
+    await Promise.all(weekLoads.concat(POOLS_INDEX_LETTERS.map(letter => loadData(`pools_${letter}`))));
   }
 
   let rawData;
@@ -1671,10 +1672,11 @@ async function startRandom() {
     window.POOLS_3K = { BASE: [], PLURAL: [], THIRD: [], ING: [], PAST: [], COMP: [], SUPER: [], DICT: {}, POS: {} };
     window.CLOZE_3K_RAW = [];
     await loadData('pools_index');
+    const randomLoads = [];
     for (const letter of POOLS_INDEX_LETTERS) {
-      await loadData(`pools_${letter}`);
-      await loadData(`cloze_${letter}`);
+      randomLoads.push(loadData(`pools_${letter}`), loadData(`cloze_${letter}`));
     }
+    await Promise.all(randomLoads);
 
     const allCloze3k = generateQuizSet(shuffle(CLOZE_3K_RAW).slice(0, 10), 'cloze', '3k');
     const allMatch3k = generateQuizSet(null, 'match', '3k');
