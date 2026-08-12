@@ -1,0 +1,16 @@
+[
+  {
+    "q": "The doctor took an <span class='blank'>_____</span> of my chest to check for any problems.",
+    "answer": "X-ray",
+    "explain": "X-ray n. X光。",
+    "translation": "医生给我的胸部拍了<strong>X光</strong>以检查是否有问题。",
+    "pool": "BASE"
+  },
+  {
+    "q": "They <span class='blank'>_____</span> the suitcase at the airport to search for dangerous items.",
+    "answer": "X-rayed",
+    "explain": "X-ray v. 用X光检查。",
+    "translation": "他们在机场用<strong>X光</strong>检查了行李箱以搜寻危险物品。",
+    "pool": "PAST"
+  }
+]

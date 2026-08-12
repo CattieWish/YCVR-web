@@ -1,0 +1,1768 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>YC-VR — 词汇复习</title>
+<style>
+  :root {
+    --bg: #0b0d12;
+    --surface: #12161d;
+    --surface-hover: #171d26;
+    --text: #edf0f5;
+    --text-secondary: #97a1b1;
+    --accent: #8da2fb;
+    --accent-2: #5eead4;
+    --accent-hover: #b7c2ff;
+    --success: #34d399;
+    --error: #fb7185;
+    --warning: #fbbf24;
+    --border: #26303d;
+    --glow-accent: rgba(141, 162, 251, .18);
+    --glow-mint: rgba(94, 234, 212, .12);
+  }
+  body.mode-challenge {
+    --accent: #a78bfa;
+    --accent-2: #34d399;
+    --accent-hover: #c4b5fd;
+    --glow-accent: rgba(167, 139, 250, .24);
+    --glow-mint: rgba(52, 211, 153, .16);
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body {
+    font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    min-height: 100vh;
+    line-height: 1.6;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+  }
+  body {
+    background:
+      radial-gradient(620px 420px at 85% -10%, rgba(141, 162, 251, .08), transparent 62%),
+      radial-gradient(520px 400px at -10% 100%, rgba(94, 234, 212, .05), transparent 62%),
+      var(--bg);
+    background-attachment: fixed;
+  }
+  body.mode-challenge {
+    background:
+      radial-gradient(640px 430px at 85% -10%, rgba(167, 139, 250, .10), transparent 62%),
+      radial-gradient(540px 410px at -10% 100%, rgba(52, 211, 153, .07), transparent 62%),
+      var(--bg);
+  }
+  .page {
+    display: none;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 40px 24px;
+    animation: fadeIn .4s ease;
+  }
+  .page.active { display: block; }
+  @keyframes fadeIn { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: translateY(0); } }
+  .header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 48px;
+  }
+  .logo {
+    font-size: 1.6rem;
+    font-weight: 800;
+    letter-spacing: 3px;
+    background: linear-gradient(92deg, var(--accent) 10%, var(--accent-2) 90%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    filter: drop-shadow(0 0 8px var(--glow-accent));
+  }
+  .subtitle {
+    font-size: .85rem;
+    color: var(--text-secondary);
+    letter-spacing: 1px;
+    transition: opacity .4s;
+  }
+  .back-btn {
+    background: transparent;
+    border: 1px solid var(--border);
+    color: var(--text-secondary);
+    padding: 8px 18px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: .85rem;
+    transition: .2s;
+  }
+  .back-btn:hover { border-color: var(--accent); color: var(--accent); }
+  .card-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 20px;
+  }
+  .card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    padding: 32px 28px;
+    cursor: pointer;
+    transition: transform .25s, border-color .25s, box-shadow .25s;
+    position: relative;
+    overflow: hidden;
+  }
+  .card::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(120deg, rgba(141, 162, 251, .10), rgba(94, 234, 212, .07) 60%, transparent);
+    opacity: 0;
+    transition: .25s;
+    pointer-events: none;
+  }
+  .card:hover {
+    transform: translateY(-3px);
+    border-color: var(--accent);
+    box-shadow: 0 10px 28px rgba(0, 0, 0, .28), 0 0 0 1px var(--glow-accent);
+  }
+  .card:hover::before { opacity: 1; }
+  .card-icon {
+    display: block;
+    font-size: 1.8rem;
+    margin-bottom: 12px;
+  }
+  /* 随机挑战主卡片：渐变描边，挑战模式下才轻度呼吸 */
+  .card-hero {
+    border: 1px solid transparent;
+    background:
+      linear-gradient(var(--surface), var(--surface)) padding-box,
+      linear-gradient(120deg, var(--accent), var(--accent-2)) border-box;
+  }
+  body.mode-challenge .card-hero {
+    animation: heroGlow 5s ease-in-out infinite;
+  }
+  @keyframes heroGlow {
+    0%, 100% { box-shadow: 0 0 12px var(--glow-accent); }
+    50% { box-shadow: 0 0 24px var(--glow-accent); }
+  }
+  .mode-badge {
+    display: none;
+    align-items: center;
+    gap: 6px;
+    margin-left: 8px;
+    padding: 2px 8px;
+    border-radius: 999px;
+    font-size: .68rem;
+    letter-spacing: 1px;
+    border: 1px solid var(--accent);
+    color: var(--accent);
+    background: var(--glow-accent);
+    vertical-align: middle;
+  }
+  body.mode-challenge .mode-badge { display: inline-flex; }
+  .card-title {
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin-bottom: 8px;
+  }
+  .card-desc {
+    font-size: .9rem;
+    color: var(--text-secondary);
+  }
+  .card-count {
+    position: absolute;
+    top: 20px; right: 24px;
+    font-size: .75rem;
+    color: var(--accent);
+    background: var(--glow-mint);
+    padding: 4px 12px;
+    border-radius: 20px;
+  }
+  .quiz-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 32px;
+  }
+  /* 答题进度条 */
+  #quiz-progress {
+    position: fixed;
+    top: 0; left: 0; right: 0;
+    height: 4px;
+    background: rgba(255, 255, 255, .05);
+    z-index: 200;
+    display: none;
+  }
+  #quiz-progress-fill {
+    height: 100%;
+    width: 0%;
+    background: linear-gradient(90deg, var(--accent), var(--accent-2));
+    box-shadow: 0 0 10px var(--glow-accent);
+    transition: width .3s ease;
+  }
+  body:not(.mode-challenge) #quiz-progress-fill {
+    box-shadow: none;
+  }
+  body.mode-challenge #quiz-progress {
+    height: 6px;
+    background: rgba(167, 139, 250, .14);
+  }
+  body.mode-challenge #quiz-progress-fill {
+    position: relative;
+    overflow: hidden;
+  }
+  body.mode-challenge #quiz-progress-fill::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(90deg, transparent, rgba(255, 255, 255, .22), transparent);
+    transform: translateX(-100%);
+    animation: sheen 1.6s linear infinite;
+  }
+  @keyframes sheen {
+    to { transform: translateX(100%); }
+  }
+  .question-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    padding: 30px;
+    margin-bottom: 20px;
+  }
+  body.mode-challenge #page-quiz .question-card {
+    border-color: rgba(167, 139, 250, .22);
+    background: linear-gradient(180deg, rgba(167, 139, 250, .055), var(--surface) 42%);
+  }
+  body.mode-challenge #page-quiz .option {
+    background: #0d0f15;
+  }
+  .question-num {
+    font-size: .75rem;
+    color: var(--accent-2);
+    margin-bottom: 12px;
+    letter-spacing: 1.5px;
+    font-weight: 600;
+  }
+  .question-text {
+    font-size: 1.2rem;
+    margin-bottom: 22px;
+    line-height: 1.75;
+    letter-spacing: .01em;
+  }
+  .blank {
+    display: inline-block;
+    min-width: 80px;
+    border-bottom: 2px solid var(--accent);
+    text-align: center;
+    color: var(--accent);
+    padding: 0 4px;
+  }
+  .options {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+  .option {
+    background: var(--bg);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 14px 18px;
+    cursor: pointer;
+    transition: .2s;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif;
+    letter-spacing: .015em;
+  }
+  .option:hover { border-color: var(--accent); background: var(--surface-hover); }
+  .option.selected {
+    border-color: var(--accent);
+    background: rgba(141, 162, 251, .10);
+    box-shadow: 0 0 10px var(--glow-accent);
+  }
+  .option.correct {
+    border-color: var(--success);
+    background: rgba(74, 222, 128, .08);
+    animation: pop .45s ease;
+  }
+  .option.wrong {
+    border-color: var(--error);
+    background: rgba(251, 113, 133, .08);
+    animation: shake .4s ease;
+  }
+  @keyframes pop { 0% { transform: scale(1); } 40% { transform: scale(1.03); } 100% { transform: scale(1); } }
+  @keyframes shake { 0%, 100% { transform: translateX(0); } 25% { transform: translateX(-5px); } 75% { transform: translateX(5px); } }
+  .option-letter {
+    width: 28px; height: 28px;
+    border-radius: 50%;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    display: flex; align-items: center; justify-content: center;
+    font-size: .8rem; font-weight: 600;
+    flex-shrink: 0;
+  }
+  .option.selected .option-letter { background: var(--accent); color: var(--bg); border-color: var(--accent); }
+  .option.correct .option-letter { background: var(--success); color: var(--bg); border-color: var(--success); }
+  .option.wrong .option-letter { background: var(--error); color: var(--bg); border-color: var(--error); }
+  .btn-primary {
+    background: linear-gradient(120deg, var(--accent), #8b5cf6);
+    color: #14101f;
+    border: none;
+    padding: 14px 36px;
+    border-radius: 12px;
+    font-size: 1rem;
+    font-weight: 700;
+    cursor: pointer;
+    transition: .2s;
+    display: inline-block;
+    margin-top: 24px;
+    box-shadow: 0 4px 18px var(--glow-accent);
+  }
+  .btn-primary:hover { transform: translateY(-2px); box-shadow: 0 8px 22px var(--glow-accent); }
+  .btn-primary:disabled { opacity: .5; cursor: not-allowed; transform: none; box-shadow: none; }
+  .btn-secondary {
+    background: transparent;
+    color: var(--accent);
+    border: 1px solid var(--accent);
+    padding: 14px 36px;
+    border-radius: 12px;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: .2s;
+    display: inline-block;
+    margin-top: 24px;
+    margin-left: 12px;
+  }
+  .btn-secondary:hover { background: var(--glow-accent); }
+  button:focus-visible, .back-btn:focus-visible, .letter-btn:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 3px;
+  }
+  .result-box {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    padding: 40px;
+    text-align: center;
+  }
+  .score-title {
+    font-size: 1.3rem;
+    font-weight: 700;
+    margin-bottom: 16px;
+    min-height: 1.6em;
+  }
+  .score-num {
+    font-size: 4rem;
+    font-weight: 800;
+    line-height: 1;
+    font-variant-numeric: tabular-nums;
+    background: linear-gradient(92deg, var(--accent), var(--accent-2));
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+  }
+  .score-label {
+    font-size: 1rem;
+    color: var(--text-secondary);
+    margin-top: 8px;
+  }
+  .reward-btn {
+    background: linear-gradient(135deg, var(--accent), var(--accent-2));
+    color: #14101f;
+    border: none;
+    padding: 16px 40px;
+    border-radius: 12px;
+    font-size: 1.1rem;
+    font-weight: 700;
+    cursor: pointer;
+    transition: .2s;
+    margin-top: 24px;
+    display: inline-block;
+    animation: pulse 2s 3;
+  }
+  .reward-btn:hover { transform: scale(1.05); }
+  @keyframes pulse { 0%, 100% { box-shadow: 0 0 0 0 var(--glow-accent); } 50% { box-shadow: 0 0 18px 6px var(--glow-accent); } }
+  /* 通关撒花 */
+  .confetti-piece {
+    position: fixed;
+    top: -40px;
+    z-index: 999;
+    pointer-events: none;
+    animation: confetti-fall linear forwards;
+  }
+  @keyframes confetti-fall {
+    to { transform: translateY(110vh) rotate(720deg); opacity: .9; }
+  }
+  .placeholder-page {
+    text-align: center;
+    padding: 80px 24px;
+  }
+  .placeholder-icon {
+    font-size: 4rem;
+    margin-bottom: 24px;
+    opacity: .3;
+  }
+  .placeholder-title {
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-bottom: 12px;
+  }
+  .placeholder-text {
+    color: var(--text-secondary);
+    max-width: 400px;
+    margin: 0 auto 32px;
+  }
+  .topic-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 16px;
+  }
+  .topic-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 24px;
+    cursor: pointer;
+    transition: .2s;
+  }
+  .topic-card:hover { border-color: var(--accent); transform: translateY(-2px); }
+  .topic-name { font-weight: 600; margin-bottom: 4px; }
+  .topic-status { font-size: .8rem; color: var(--text-secondary); }
+  .explain {
+    font-size: .85rem;
+    color: var(--text-secondary);
+    margin-top: 12px;
+    padding-top: 12px;
+    border-top: 1px solid var(--border);
+  }
+  .translation {
+    font-size: .85rem;
+    color: var(--text-secondary);
+    margin-top: 12px;
+    padding-top: 12px;
+    border-top: 1px solid var(--border);
+  }
+  .translation strong { color: var(--accent); }
+  .sort-hint {
+    font-size: .75rem;
+    color: var(--text-secondary);
+    margin: 0 0 18px;
+    text-align: left;
+  }
+  .status-box {
+    border: 1px solid var(--border);
+    background: var(--surface);
+    color: var(--text-secondary);
+    border-radius: 12px;
+    padding: 14px 16px;
+    margin-bottom: 18px;
+    font-size: .9rem;
+  }
+  .status-box.loading { border-color: var(--accent); color: var(--text); }
+  .status-box.error { border-color: var(--error); color: var(--error); }
+  .status-box.empty { border-color: var(--warning); color: var(--warning); }
+  /* 字母选择页：键盘按键风格 */
+  .letter-grid {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    gap: 12px;
+    max-width: 500px;
+    margin: 0 auto;
+  }
+  .letter-btn {
+    background: linear-gradient(180deg, #1c1c2c, #15151f);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 16px 8px;
+    cursor: pointer;
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: var(--text);
+    transition: .15s;
+    text-align: center;
+    box-shadow: 0 3px 0 #0d0d16;
+  }
+  .letter-btn:hover { border-color: var(--accent); transform: translateY(-2px); }
+  .letter-btn:active { transform: translateY(1px); box-shadow: 0 1px 0 #0d0d16; }
+  .letter-btn.selected {
+    border-color: var(--accent);
+    background: linear-gradient(180deg, rgba(141, 162, 251, .20), rgba(141, 162, 251, .10));
+    color: var(--accent-hover);
+    box-shadow: 0 3px 0 rgba(141, 162, 251, .22), 0 0 10px var(--glow-accent);
+  }
+  .letter-btn.disabled {
+    opacity: .25;
+    cursor: not-allowed;
+  }
+  /* 倒计时 */
+  #timer-display {
+    position: fixed;
+    top: 20px;
+    right: 24px;
+    background: var(--surface);
+    border: 2px solid var(--border);
+    border-radius: 12px;
+    padding: 10px 20px;
+    font-size: 1.2rem;
+    font-weight: 700;
+    font-variant-numeric: tabular-nums;
+    z-index: 100;
+    display: none;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, .4);
+  }
+  #timer-display.warning { border-color: var(--warning); color: var(--warning); }
+  #timer-display.critical { animation: pulse 1s 3; border-color: var(--error); color: var(--error); }
+  body.mode-challenge #timer-display {
+    border-color: var(--accent);
+    color: var(--accent);
+    background: linear-gradient(180deg, rgba(167, 139, 250, .12), var(--surface));
+  }
+  body.mode-challenge #timer-display.warning { border-color: var(--warning); color: var(--warning); }
+  body.mode-challenge #timer-display.critical { border-color: var(--error); color: var(--error); }
+  body.mode-challenge #page-random-home .result-box,
+  body.mode-challenge #page-result .result-box {
+    border-color: rgba(167, 139, 250, .28);
+    background: linear-gradient(180deg, rgba(167, 139, 250, .07), var(--surface) 46%);
+    box-shadow: 0 18px 50px rgba(0, 0, 0, .35);
+  }
+  .card-full-width {
+    grid-column: 1 / -1;
+  }
+  /* 首页次级入口：小卡片行（Gaming English / About） */
+  .card-grid-small {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 14px;
+    margin-top: 20px;
+  }
+  .card-small {
+    padding: 18px 16px;
+    border-radius: 12px;
+    opacity: .85;
+  }
+  .card-small .card-icon { font-size: 1.3rem; margin-bottom: 8px; }
+  .card-small .card-title { font-size: .95rem; margin-bottom: 4px; }
+  .card-small .card-desc { font-size: .78rem; }
+  /* 周选择卡片选中态 */
+  .card.selected {
+    border-color: var(--accent);
+    background: linear-gradient(180deg, rgba(141, 162, 251, .16), rgba(141, 162, 251, .06));
+    box-shadow: 0 0 12px var(--glow-accent);
+  }
+  /* 复习材料表格 */
+  .material-table-wrap { overflow-x: auto; }
+  .material-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: .9rem;
+    line-height: 1.6;
+  }
+  .material-table th, .material-table td {
+    border: 1px solid var(--border);
+    padding: 8px 12px;
+    text-align: left;
+    vertical-align: top;
+  }
+  .material-table th {
+    background: var(--surface);
+    color: var(--accent-hover);
+    white-space: nowrap;
+  }
+  .material-table td:first-child { font-weight: 600; white-space: nowrap; }
+  @media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after {
+      animation-duration: .01ms !important;
+      animation-iteration-count: 1 !important;
+      scroll-behavior: auto !important;
+      transition-duration: .01ms !important;
+    }
+  }
+  @media (max-width: 600px) {
+    .card-grid { grid-template-columns: 1fr; }
+    .card-full-width { grid-column: auto; }
+    .page { padding: 24px 16px; }
+    .score-num { font-size: 3rem; }
+    .letter-grid { grid-template-columns: repeat(5, 1fr); }
+    #timer-display {
+      top: 12px;
+      right: 16px;
+      padding: 8px 14px;
+      font-size: 1rem;
+    }
+  }
+</style>
+</head>
+<body>
+
+<!-- 倒计时 -->
+<div id="timer-display">⏱ <span id="timer-text">60</span>s</div>
+
+<!-- 答题进度条 -->
+<div id="quiz-progress"><div id="quiz-progress-fill"></div></div>
+
+<!-- HOME -->
+<div class="page active" id="page-home">
+  <div class="header">
+    <div>
+      <div class="logo">YC-VR</div>
+      <div class="subtitle" id="tagline">词汇复习 · 进阶之路</div>
+    </div>
+  </div>
+  <div class="card-grid">
+    <div class="card" onclick="goTo('page-standard-3k')">
+      <span class="card-icon">📚</span>
+      <div class="card-title">课标3K</div>
+      <div class="card-desc">高中课标附录要求词汇</div>
+    </div>
+    <div class="card" onclick="goTo('page-weekly')">
+      <span class="card-icon">🗓️</span>
+      <div class="card-title">每周积累</div>
+      <div class="card-desc">每周词汇复习材料 · 选词填空 · 词义匹配</div>
+    </div>
+    <div class="card card-full-width card-hero" onclick="goTo('page-random-home')">
+      <span class="card-icon">⚡</span>
+      <div class="card-title">随机挑战</div>
+      <div class="card-desc">混合题型 · 计时计分 · 90% 解锁小游戏</div>
+    </div>
+  </div>
+  <div class="card-grid-small">
+    <div class="card card-small" onclick="goTo('page-dark')">
+      <span class="card-icon">🎮</span>
+      <div class="card-title">Gaming English</div>
+      <div class="card-desc">游戏主题英语阅读 · 筹备中</div>
+    </div>
+    <div class="card card-small" onclick="goTo('page-about')">
+      <span class="card-icon">ℹ️</span>
+      <div class="card-title">About this site</div>
+      <div class="card-desc">关于本站</div>
+    </div>
+  </div>
+</div>
+
+<!-- ABOUT -->
+<div class="page" id="page-about">
+  <div class="header">
+    <div>
+      <div class="logo" style="font-size:1.2rem;">About this site</div>
+      <div class="subtitle">关于本站</div>
+    </div>
+    <button class="back-btn" onclick="goTo('page-home')">返回首页</button>
+  </div>
+  <div class="placeholder-page">
+    <div class="placeholder-icon">ℹ️</div>
+    <div class="placeholder-title">内容待定</div>
+    <div class="placeholder-text">
+      站点介绍正在筹备中。<br>
+      此处将展示本站内容构成与版本信息。
+    </div>
+    <button class="back-btn" onclick="goTo('page-home')">返回首页</button>
+  </div>
+</div>
+
+<!-- 课标3K -->
+<div class="page" id="page-standard-3k">
+  <div class="header">
+    <div>
+      <div class="logo" style="font-size:1.2rem;">课标3K</div>
+      <div class="subtitle">选择题型和范围</div>
+    </div>
+    <button class="back-btn" onclick="goTo('page-home')">← 返回</button>
+  </div>
+  <div class="card-grid">
+    <div class="card" onclick="startQuiz('cloze','3k','random')">
+      <span class="card-count">10题</span>
+      <div class="card-title">选词填空 · 3K随机</div>
+      <div class="card-desc">从全部课标3K词汇中随机出题</div>
+    </div>
+    <div class="card" onclick="goToLetterSelect('cloze','3k')">
+      <span class="card-count">10题</span>
+      <div class="card-title">选词填空 · 定向随机</div>
+      <div class="card-desc">先选择首字母，再按范围出题</div>
+    </div>
+    <div class="card" onclick="startQuiz('match','3k','random')">
+      <span class="card-count">10题</span>
+      <div class="card-title">词义匹配 · 3K随机</div>
+      <div class="card-desc">从全部课标3K词汇中随机出题</div>
+    </div>
+    <div class="card" onclick="goToLetterSelect('match','3k')">
+      <span class="card-count">10题</span>
+      <div class="card-title">词义匹配 · 定向随机</div>
+      <div class="card-desc">先选择首字母，再按范围出题</div>
+    </div>
+  </div>
+</div>
+
+<!-- 每周积累 -->
+<div class="page" id="page-weekly">
+  <div class="header">
+    <div>
+      <div class="logo" style="font-size:1.2rem;">每周积累</div>
+      <div class="subtitle">选择题型和范围</div>
+    </div>
+    <button class="back-btn" onclick="goTo('page-home')">← 返回</button>
+  </div>
+  <div class="card-grid">
+    <div class="card" onclick="startQuiz('cloze','weekly','random')">
+      <span class="card-count">10题</span>
+      <div class="card-title">选词填空 · 全随机</div>
+      <div class="card-desc">从全部每周积累词汇中随机出题</div>
+    </div>
+    <div class="card" onclick="goToWeekSelect('cloze')">
+      <span class="card-count">10题</span>
+      <div class="card-title">选词填空 · 定向随机</div>
+      <div class="card-desc">先选择复习材料，再按范围出题</div>
+    </div>
+    <div class="card" onclick="startQuiz('match','weekly','random')">
+      <span class="card-count">10题</span>
+      <div class="card-title">词义匹配 · 全随机</div>
+      <div class="card-desc">从全部每周积累词汇中随机出题</div>
+    </div>
+    <div class="card" onclick="goToWeekSelect('match')">
+      <span class="card-count">10题</span>
+      <div class="card-title">词义匹配 · 定向随机</div>
+      <div class="card-desc">先选择复习材料，再按范围出题</div>
+    </div>
+    <div class="card card-full-width" onclick="goToMaterialSelect()">
+      <span class="card-icon">📖</span>
+      <div class="card-title">每周词汇复习材料</div>
+      <div class="card-desc">点选想要回顾的复习材料</div>
+    </div>
+  </div>
+</div>
+
+<!-- 周选择 -->
+<div class="page" id="page-week-select">
+  <div class="header">
+    <div>
+      <div class="logo" style="font-size:1.2rem;" id="week-select-title">定向出题</div>
+      <div class="subtitle">选择要考查的复习材料（可多选）</div>
+    </div>
+    <button class="back-btn" onclick="goTo('page-weekly')">← 返回</button>
+  </div>
+  <div class="card-grid" id="week-grid" style="margin-top:32px;"></div>
+  <div style="text-align:center; margin-top:32px;">
+    <button class="btn-primary" id="start-week-directed-btn" onclick="startWeekDirectedQuiz()" disabled>开始出题</button>
+    <p id="week-hint" style="color:var(--text-secondary); margin-top:12px; font-size:.85rem;">请至少选择1期材料</p>
+  </div>
+</div>
+
+<!-- 复习材料 -->
+<div class="page" id="page-week-material">
+  <div class="header">
+    <div>
+      <div class="logo" style="font-size:1.2rem;">每周词汇复习材料</div>
+      <div class="subtitle" id="material-subtitle">点选想要回顾的复习材料</div>
+    </div>
+    <button class="back-btn" onclick="goTo('page-weekly')">← 返回</button>
+  </div>
+  <div class="card-grid" id="material-grid" style="margin-top:32px;"></div>
+  <div id="material-content" style="margin-top:24px;"></div>
+</div>
+
+<!-- 字母选择 -->
+<div class="page" id="page-letter-select">
+  <div class="header">
+    <div>
+      <div class="logo" style="font-size:1.2rem;" id="letter-select-title">定向出题</div>
+      <div class="subtitle">选择要考查的首字母（可多选）</div>
+    </div>
+    <button class="back-btn" onclick="goTo('page-standard-3k')">← 返回</button>
+  </div>
+  <div class="letter-grid" id="letter-grid" style="margin-top:32px;"></div>
+  <div style="text-align:center; margin-top:32px;">
+    <button class="btn-primary" id="start-directed-btn" onclick="startDirectedQuiz()" disabled>开始出题</button>
+    <p id="letter-hint" style="color:var(--text-secondary); margin-top:12px; font-size:.85rem;">请至少选择1个字母</p>
+  </div>
+</div>
+
+<!-- QUIZ -->
+<div class="page" id="page-quiz">
+  <div class="header">
+    <div>
+      <div class="logo" id="quiz-title" style="font-size:1.2rem;">答题</div>
+      <div class="subtitle" id="quiz-sub">请选出最佳答案</div>
+    </div>
+    <button class="back-btn" onclick="quitQuiz()">退出</button>
+  </div>
+  <div class="sort-hint" id="sort-hint">选项已按首字母排序</div>
+  <div id="quiz-status" class="status-box" style="display:none;"></div>
+  <div id="quiz-container"></div>
+</div>
+
+<!-- RANDOM HOME -->
+<div class="page" id="page-random-home">
+  <div class="header">
+    <div>
+      <div class="logo" style="font-size:1.2rem;">随机挑战</div>
+      <div class="subtitle">混合题型 · 10题 · 限时60秒<span class="mode-badge">ARCADE</span></div>
+    </div>
+    <button class="back-btn" onclick="goTo('page-home')">← 返回</button>
+  </div>
+  <div class="result-box" style="margin-top:40px;">
+    <div class="placeholder-icon">🎯</div>
+    <div class="placeholder-title" style="margin-top:0">准备好了吗？</div>
+    <div class="placeholder-text">
+      题目将从<strong>课标 3K</strong>和<strong>周周积累</strong>中随机抽取，<br>
+      包含选词填空和词义匹配两种题型。<br>
+      限时 60 秒，达到 90% 正确率可解锁触屏小游戏。
+    </div>
+    <button class="btn-primary" onclick="startRandom()" style="margin-top:16px">开始挑战</button>
+  </div>
+</div>
+
+<!-- RESULT -->
+<div class="page" id="page-result">
+  <div class="header">
+    <div>
+      <div class="logo" style="font-size:1.2rem;">挑战结果</div>
+    </div>
+    <button class="back-btn" onclick="goTo('page-home')">返回首页</button>
+  </div>
+  <div class="result-box" style="margin-top:40px;">
+    <div class="score-title" id="score-title"></div>
+    <div class="score-num" id="score-num">0%</div>
+    <div class="score-label" id="score-label">正确率</div>
+    <div id="reward-box" style="margin-top:24px; display:none;">
+      <div style="color:var(--success); font-size:1.1rem; font-weight:600;">🎉 恭喜解锁小游戏！</div>
+      <button class="reward-btn" onclick="goTo('page-mini-game')">玩个小游戏 →</button>
+    </div>
+    <div id="retry-box" style="margin-top:24px;">
+      <button class="btn-primary" onclick="startRandom()">再试一次</button>
+    </div>
+  </div>
+</div>
+
+<!-- GAMING PLACEHOLDER -->
+<div class="page" id="page-gaming-topic">
+  <div class="header">
+    <div>
+      <div class="logo" style="font-size:1.2rem;">Gaming English</div>
+      <div class="subtitle" id="gaming-topic-name">阅读文章</div>
+    </div>
+    <button class="back-btn" onclick="goTo('page-dark')">← 返回</button>
+  </div>
+  <div class="placeholder-page">
+    <div class="placeholder-icon">📄</div>
+    <div class="placeholder-title">内容待定</div>
+    <div class="placeholder-text">
+      阅读文章与题目正在筹备中。<br>
+      此处将展示与游戏主题相关的英语阅读材料与讨论题。
+    </div>
+    <button class="back-btn" onclick="goTo('page-dark')">返回目录</button>
+  </div>
+</div>
+
+<!-- DARK SIDE -->
+<div class="page" id="page-dark">
+  <div class="header">
+    <div>
+      <div class="logo" style="font-size:1.2rem;">Gaming English</div>
+      <div class="subtitle">游戏主题阅读</div>
+    </div>
+    <button class="back-btn" onclick="goTo('page-home')">返回首页</button>
+  </div>
+  <div class="topic-grid" style="margin-top:32px;">
+    <div class="topic-card" onclick="goTo('page-gaming-topic')">
+      <div class="topic-name">1. Immersion</div>
+      <div class="topic-status">内容待定</div>
+    </div>
+    <div class="topic-card" onclick="goTo('page-gaming-topic')">
+      <div class="topic-name">2. Silent Protagonist</div>
+      <div class="topic-status">内容待定</div>
+    </div>
+    <div class="topic-card" onclick="goTo('page-gaming-topic')">
+      <div class="topic-name">3. Compulsion and Obsession</div>
+      <div class="topic-status">内容待定</div>
+    </div>
+    <div class="topic-card" onclick="goTo('page-gaming-topic')">
+      <div class="topic-name">4. Meaningful Choices and Roleplaying</div>
+      <div class="topic-status">内容待定</div>
+    </div>
+  </div>
+</div>
+
+
+<!-- MINI GAME PLACEHOLDER -->
+<div class="page" id="page-mini-game">
+  <div class="header">
+    <div>
+      <div class="logo" style="font-size:1.2rem;">小游戏</div>
+      <div class="subtitle">随机挑战奖励<span class="mode-badge">ARCADE</span></div>
+    </div>
+    <button class="back-btn" onclick="goTo('page-home')">返回首页</button>
+  </div>
+  <div class="placeholder-page">
+    <div class="placeholder-icon">🕹️</div>
+    <div class="placeholder-title">内容待定</div>
+    <div class="placeholder-text">
+      触屏小游戏正在筹备中。<br>
+      此处将放置随机挑战达标后的奖励小游戏。
+    </div>
+    <button class="back-btn" onclick="goTo('page-home')">返回首页</button>
+  </div>
+</div>
+
+<script>
+// ===== DATA LOADING =====
+const dataCache = {};
+
+async function loadData(key) {
+  let data;
+  if (dataCache[key]) {
+    data = dataCache[key];
+  } else {
+    const res = await fetch(`data/${key}.json`);
+    if (!res.ok) throw new Error(`加载失败: data/${key}.json (${res.status})`);
+    data = await res.json();
+    dataCache[key] = data;
+  }
+
+  if (key === 'pools_index') {
+    window.VARIANT_MAP = data.VARIANT_MAP;
+    window.POOLS_INDEX_LETTERS = data.letters;
+  } else if (key === 'weekly_index') {
+    window.WEEKLY_INDEX = data.weeks;
+  } else if (key.startsWith('pools_weekly_')) {
+    if (!window.POOLS_WEEKLY) window.POOLS_WEEKLY = { BASE: [], PLURAL: [], THIRD: [], ING: [], PAST: [], COMP: [], SUPER: [], DICT: {}, POS: {}, VARIANTS: {} };
+    ['BASE','PLURAL','THIRD','ING','PAST','COMP','SUPER'].forEach(p => {
+      if (data[p]) window.POOLS_WEEKLY[p] = window.POOLS_WEEKLY[p].concat(data[p]);
+    });
+    if (data.DICT) Object.assign(window.POOLS_WEEKLY.DICT, data.DICT);
+    if (data.POS) Object.assign(window.POOLS_WEEKLY.POS, data.POS);
+    if (data.VARIANTS) Object.assign(window.POOLS_WEEKLY.VARIANTS, data.VARIANTS);
+  } else if (key.startsWith('cloze_weekly_')) {
+    if (!window.CLOZE_WEEKLY_RAW) window.CLOZE_WEEKLY_RAW = [];
+    window.CLOZE_WEEKLY_RAW = window.CLOZE_WEEKLY_RAW.concat(data);
+  } else if (key.startsWith('pools_')) {
+    if (!window.POOLS_3K) window.POOLS_3K = { BASE: [], PLURAL: [], THIRD: [], ING: [], PAST: [], COMP: [], SUPER: [], DICT: {}, POS: {} };
+    ['BASE','PLURAL','THIRD','ING','PAST','COMP','SUPER'].forEach(p => {
+      if (data[p]) window.POOLS_3K[p] = window.POOLS_3K[p].concat(data[p]);
+    });
+    if (data.DICT) Object.assign(window.POOLS_3K.DICT, data.DICT);
+    if (data.POS) Object.assign(window.POOLS_3K.POS, data.POS);
+  } else if (key.startsWith('cloze_')) {
+    if (!window.CLOZE_3K_RAW) window.CLOZE_3K_RAW = [];
+    window.CLOZE_3K_RAW = window.CLOZE_3K_RAW.concat(data);
+  }
+  return data;
+}
+
+// ===== STATE =====
+let currentQuiz = [];
+let currentAnswers = {};
+let currentType = '';
+let currentScope = '';
+let currentMode = ''; // 'random' | 'directed'
+let currentLetters = [];
+let submitted = false;
+let generatedQuestions = [];
+let timerInterval = null;
+let timeLeft = 60;
+
+let letterSelectType = '';
+let letterSelectScope = '';
+let selectedLetters = [];
+
+function setPageMode(id) {
+  const challengePages = ['page-random-home', 'page-result', 'page-dark', 'page-gaming-topic', 'page-mini-game'];
+  const isChallenge = challengePages.includes(id) || (id === 'page-quiz' && currentType === 'random');
+  document.body.classList.toggle('mode-challenge', isChallenge);
+}
+
+function goTo(id) {
+  document.querySelectorAll('.page').forEach(p => p.classList.remove('active'));
+  document.getElementById(id).classList.add('active');
+  setPageMode(id);
+  window.scrollTo(0,0);
+  const bar = document.getElementById('quiz-progress');
+  if (bar) bar.style.display = id === 'page-quiz' ? 'block' : 'none';
+  if (id === 'page-quiz') updateQuizProgress();
+}
+
+function setQuizStatus(message, type) {
+  const el = document.getElementById('quiz-status');
+  if (!el) return;
+  if (!message) {
+    el.style.display = 'none';
+    el.textContent = '';
+    el.className = 'status-box';
+    return;
+  }
+  el.className = 'status-box' + (type ? ' ' + type : '');
+  el.textContent = message;
+  el.style.display = 'block';
+}
+
+function shuffle(arr) {
+  const a = [...arr];
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+
+function getPos(word, item) {
+  if (item && item.pool && item.pool !== 'BASE') {
+    const poolToPos = {
+      'PLURAL': ['n'], 'THIRD': ['v'], 'ING': ['v'], 'PAST': ['v'],
+      'COMP': ['adj'], 'SUPER': ['adj']
+    };
+    if (poolToPos[item.pool]) return poolToPos[item.pool];
+  }
+  if (item && item.pool === 'BASE' && item.explain) {
+    let m = item.explain.match(/^\w+\s+(v\.|n\.|adj\.|adv\.|prep\.|aux\.|num\.)/);
+    if (m) {
+      const posMap = {'v.': 'v', 'n.': 'n', 'adj.': 'adj', 'adv.': 'adv', 'prep.': 'prep', 'aux.': 'aux', 'num.': 'num'};
+      return [posMap[m[1]]];
+    }
+    m = item.explain.match(/^\w+\s*\((v\.|n\.|adj\.|adv\.|prep\.|aux\.|num\.)/);
+    if (m) {
+      const posMap = {'v.': 'v', 'n.': 'n', 'adj.': 'adj', 'adv.': 'adv', 'prep.': 'prep', 'aux.': 'aux', 'num.': 'num'};
+      return [posMap[m[1]]];
+    }
+  }
+  if (!window.POOLS_3K || !window.POOLS_3K.POS) return null;
+  if (window.POOLS_3K.POS[word]) return window.POOLS_3K.POS[word];
+  if (window.POOLS_3K.POS[word.toLowerCase()]) return window.POOLS_3K.POS[word.toLowerCase()];
+  const base = window.VARIANT_MAP && window.VARIANT_MAP[word.toLowerCase()];
+  if (base && window.POOLS_3K.POS[base]) return window.POOLS_3K.POS[base];
+  const usToUk = {
+    'behavior': 'behaviour', 'color': 'colour', 'favor': 'favour',
+    'humor': 'humour', 'labor': 'labour', 'neighbor': 'neighbour',
+    'center': 'centre', 'meter': 'metre', 'theater': 'theatre',
+    'organize': 'organise', 'realize': 'realise', 'recognize': 'recognise',
+    'analyze': 'analyse', 'civilize': 'civilise', 'specialize': 'specialise'
+  };
+  const uk = usToUk[word.toLowerCase()];
+  if (uk && window.POOLS_3K.POS[uk]) return window.POOLS_3K.POS[uk];
+  return null;
+}
+
+function getBaseDictEntries() {
+  const dict = window.POOLS_3K ? window.POOLS_3K.DICT : {};
+  const base = new Set(window.POOLS_3K ? window.POOLS_3K.BASE : []);
+  return Object.entries(dict).filter(([word]) => base.has(word));
+}
+
+function getWeeklyPos(word) {
+  if (!window.POOLS_WEEKLY) return null;
+  if (window.POOLS_WEEKLY.POS[word]) return window.POOLS_WEEKLY.POS[word];
+  const w = word.toLowerCase();
+  if (window.POOLS_WEEKLY.POS[w]) return window.POOLS_WEEKLY.POS[w];
+  const base = window.POOLS_WEEKLY.VARIANTS && window.POOLS_WEEKLY.VARIANTS[w];
+  if (base && window.POOLS_WEEKLY.POS[base]) return window.POOLS_WEEKLY.POS[base];
+  return null;
+}
+
+function generateQuizSet(rawData, type, scope) {
+  const poolMap = {
+    'BASE': window.POOLS_3K ? window.POOLS_3K.BASE : [],
+    'PLURAL': window.POOLS_3K ? window.POOLS_3K.PLURAL : [],
+    'THIRD': window.POOLS_3K ? window.POOLS_3K.THIRD : [],
+    'ING': window.POOLS_3K ? window.POOLS_3K.ING : [],
+    'PAST': window.POOLS_3K ? window.POOLS_3K.PAST : [],
+    'COMP': window.POOLS_3K ? window.POOLS_3K.COMP : [],
+    'SUPER': window.POOLS_3K ? window.POOLS_3K.SUPER : []
+  };
+
+  if (type === 'match' && scope === '3k') {
+    const baseDictEntries = getBaseDictEntries();
+    const allWords = baseDictEntries.map(([word]) => word);
+    const shuffledWords = shuffle(allWords).slice(0, 10);
+    return shuffledWords.map(q => {
+      const answer = window.POOLS_3K.DICT[q];
+      const qFirstLetter = q[0].toLowerCase();
+      const allEntries = baseDictEntries
+        .filter(([en, cn]) => en.toLowerCase().startsWith(qFirstLetter));
+      const allMeanings = allEntries.map(([en, cn]) => cn);
+      let filtered = allMeanings.filter(m => m !== answer);
+      let effectiveEntries = allEntries;
+      if (filtered.length < 3) {
+        effectiveEntries = baseDictEntries;
+        const allMeaningsFull = effectiveEntries.map(([en, cn]) => cn);
+        filtered = allMeaningsFull.filter(m => m !== answer);
+      }
+      const distractors = shuffle(filtered).slice(0, 3);
+      const all = [answer, ...distractors];
+      all.sort((a, b) => a.localeCompare(b, 'zh-CN'));
+      const meaningToWord = {};
+      effectiveEntries.forEach(([en, cn]) => { meaningToWord[cn] = en; });
+      return {
+        q: q, answer: answer, options: all, a: all.indexOf(answer),
+        explain: null, translation: null, optionWords: all.map(m => meaningToWord[m] || '?'),
+        type: type, scope: scope
+      };
+    });
+  }
+
+  // 词义匹配 · 每周积累：题目从周 DICT 抽取，干扰项优先周词库、不够回退 3K
+  if (type === 'match' && scope === 'weekly') {
+    const weeklyEntries = Object.entries(window.POOLS_WEEKLY ? window.POOLS_WEEKLY.DICT : {});
+    const base3kEntries = getBaseDictEntries();
+    const shuffledWords = shuffle(weeklyEntries.map(([word]) => word)).slice(0, 10);
+    return shuffledWords.map(q => {
+      const answer = window.POOLS_WEEKLY.DICT[q];
+      const qFirstLetter = q[0].toLowerCase();
+      const sameLetter = entries => entries.filter(([en]) => en !== q && en.toLowerCase().startsWith(qFirstLetter));
+      const otherLetters = entries => entries.filter(([en]) => en !== q && !en.toLowerCase().startsWith(qFirstLetter));
+      const tiers = [
+        sameLetter(weeklyEntries), otherLetters(weeklyEntries),
+        sameLetter(base3kEntries), otherLetters(base3kEntries)
+      ];
+      const picked = [];
+      const usedMeanings = new Set([answer]);
+      const meaningToWord = { [answer]: q };
+      for (const tier of tiers) {
+        if (picked.length >= 3) break;
+        for (const [en, cn] of shuffle(tier)) {
+          if (picked.length >= 3) break;
+          if (usedMeanings.has(cn)) continue;
+          usedMeanings.add(cn);
+          picked.push(cn);
+          meaningToWord[cn] = en;
+        }
+      }
+      const all = [answer, ...picked];
+      all.sort((a, b) => a.localeCompare(b, 'zh-CN'));
+      return {
+        q: q, answer: answer, options: all, a: all.indexOf(answer),
+        explain: null, translation: null, optionWords: all.map(m => meaningToWord[m] || '?'),
+        type: type, scope: scope
+      };
+    });
+  }
+
+  return rawData.map(item => {
+    const answer = item.answer;
+    let gen;
+    const poolName = item.pool || 'BASE';
+    const firstLetter = answer[0].toLowerCase();
+
+    if (scope === 'weekly') {
+      // 每周积累选词填空：干扰项优先周词库同词性，不够回退 3K 全词库
+      const poolToPos = {
+        'PLURAL': ['n'], 'THIRD': ['v'], 'ING': ['v'], 'PAST': ['v'],
+        'COMP': ['adj'], 'SUPER': ['adj']
+      };
+      const answerPos = poolName !== 'BASE' ? poolToPos[poolName] : getWeeklyPos(answer);
+      const weeklyVariants = (window.POOLS_WEEKLY && window.POOLS_WEEKLY.VARIANTS) || {};
+      const baseWord = weeklyVariants[answer.toLowerCase()] || (VARIANT_MAP && VARIANT_MAP[answer.toLowerCase()]);
+      const siblings = [];
+      if (baseWord) {
+        [weeklyVariants, VARIANT_MAP].forEach(m => {
+          if (!m) return;
+          Object.keys(m).forEach(k => {
+            if (m[k] === baseWord && k !== answer.toLowerCase() && !siblings.includes(k)) siblings.push(k);
+          });
+        });
+      }
+      const posCompatible = w => {
+        if (!answerPos || answerPos.length === 0) return true;
+        const wPos = getWeeklyPos(w) || getPos(w, null);
+        if (!wPos || wPos.length === 0) return true;
+        return wPos.some(p => answerPos.includes(p));
+      };
+      const candidates = (pool, sameLetter) => pool.filter(w =>
+        w.toLowerCase() !== answer.toLowerCase() &&
+        !siblings.includes(w.toLowerCase()) &&
+        (!sameLetter || w.toLowerCase().startsWith(firstLetter)) &&
+        posCompatible(w)
+      );
+      const weeklyPool = window.POOLS_WEEKLY ? (window.POOLS_WEEKLY[poolName] || []) : [];
+      const pool3k = poolMap[poolName] || poolMap['BASE'];
+      const tiers = [
+        candidates(weeklyPool, true), candidates(weeklyPool, false),
+        candidates(pool3k, true), candidates(pool3k, false)
+      ];
+      const picked = [];
+      const seen = new Set([answer.toLowerCase()]);
+      for (const tier of tiers) {
+        if (picked.length >= 3) break;
+        for (const w of shuffle(tier)) {
+          if (picked.length >= 3) break;
+          const lw = w.toLowerCase();
+          if (seen.has(lw)) continue;
+          seen.add(lw);
+          picked.push(w);
+        }
+      }
+      const all = [answer, ...picked];
+      all.sort((a, b) => a.toLowerCase().localeCompare(b.toLowerCase()));
+      gen = { options: all, correctIndex: all.indexOf(answer) };
+      if (item.q && item.q.startsWith("<span class='blank'>")) {
+        gen.options = all.map(w => w.charAt(0).toUpperCase() + w.slice(1));
+        gen.correctIndex = all.indexOf(answer);
+      }
+    } else {
+      const pool = poolMap[poolName] || poolMap['BASE'];
+      let filtered = pool.filter(w =>
+        w.toLowerCase().startsWith(firstLetter) &&
+        w.toLowerCase() !== answer.toLowerCase()
+      );
+      const answerPos = getPos(answer, item);
+      if (answerPos && answerPos.length > 0) {
+        const posFiltered = filtered.filter(w => {
+          const wPos = getPos(w, null);
+          if (!wPos || wPos.length === 0) return true;
+          return wPos.some(p => answerPos.includes(p));
+        });
+        if (posFiltered.length >= 3) filtered = posFiltered;
+      }
+      const baseWord = VARIANT_MAP && VARIANT_MAP[answer.toLowerCase()];
+      if (baseWord) {
+        const siblings = Object.keys(VARIANT_MAP)
+          .filter(k => VARIANT_MAP[k] === baseWord && k !== answer.toLowerCase());
+        filtered = filtered.filter(w => !siblings.includes(w.toLowerCase()));
+      }
+      let finalFiltered = filtered.length >= 3 ? filtered : pool.filter(w => w.toLowerCase() !== answer.toLowerCase());
+      if (finalFiltered.length < 3) {
+        const basePool = poolMap['BASE'] || [];
+        finalFiltered = basePool.filter(w => w.toLowerCase() !== answer.toLowerCase());
+      }
+      const distractors = shuffle(finalFiltered).slice(0, 3);
+      const all = [answer, ...distractors];
+      all.sort((a, b) => a.toLowerCase().localeCompare(b.toLowerCase()));
+      gen = { options: all, correctIndex: all.indexOf(answer) };
+      // 句首挖空：所有选项首字母大写
+      if (item.q && item.q.startsWith("<span class='blank'>")) {
+        gen.options = all.map(w => w.charAt(0).toUpperCase() + w.slice(1));
+        gen.correctIndex = all.indexOf(answer);
+      }
+    }
+    return {
+      q: item.q, answer: answer, options: gen.options, a: gen.correctIndex,
+      explain: item.explain, translation: item.translation, optionWords: gen.optionWords || null,
+      type: type, scope: scope
+    };
+  });
+}
+
+async function startQuiz(type, scope, mode, letters) {
+  currentType = type;
+  currentScope = scope;
+  currentMode = mode;
+  currentLetters = letters || [];
+  currentAnswers = {};
+  submitted = false;
+  stopTimer();
+  goTo('page-quiz');
+  setQuizStatus('正在加载题目…', 'loading');
+  document.getElementById('quiz-container').innerHTML = '';
+
+  try {
+  if (scope === '3k') {
+    window.POOLS_3K = { BASE: [], PLURAL: [], THIRD: [], ING: [], PAST: [], COMP: [], SUPER: [], DICT: {}, POS: {} };
+    window.CLOZE_3K_RAW = [];
+    await loadData('pools_index');
+    const lettersToLoad = mode === 'random' ? POOLS_INDEX_LETTERS : (letters || []);
+    for (const letter of lettersToLoad) {
+      await loadData(`pools_${letter}`);
+      if (type === 'cloze') await loadData(`cloze_${letter}`);
+    }
+  } else {
+    // 每周积累：加载周索引与所选周的词库/题库，并加载 3K 词库作干扰项兜底
+    await loadData('weekly_index');
+    window.POOLS_WEEKLY = { BASE: [], PLURAL: [], THIRD: [], ING: [], PAST: [], COMP: [], SUPER: [], DICT: {}, POS: {}, VARIANTS: {} };
+    window.CLOZE_WEEKLY_RAW = [];
+    const weeksToLoad = mode === 'random' ? WEEKLY_INDEX.map(w => w.id) : (letters || []);
+    for (const weekId of weeksToLoad) {
+      const week = WEEKLY_INDEX.find(w => w.id === weekId);
+      if (!week) continue;
+      await loadData(week.pools);
+      if (type === 'cloze') await loadData(week.cloze);
+    }
+    window.POOLS_3K = { BASE: [], PLURAL: [], THIRD: [], ING: [], PAST: [], COMP: [], SUPER: [], DICT: {}, POS: {} };
+    await loadData('pools_index');
+    for (const letter of POOLS_INDEX_LETTERS) {
+      await loadData(`pools_${letter}`);
+    }
+  }
+
+  let rawData;
+  if (type === 'cloze' && scope === '3k') rawData = CLOZE_3K_RAW;
+  else if (type === 'cloze' && scope === 'weekly') rawData = CLOZE_WEEKLY_RAW;
+
+  if (type === 'match') {
+    generatedQuestions = generateQuizSet(null, 'match', scope);
+  } else {
+    generatedQuestions = generateQuizSet(shuffle(rawData).slice(0, 10), type, scope);
+  }
+  currentQuiz = generatedQuestions;
+
+  if (currentQuiz.length === 0) {
+    setQuizStatus('选定范围内暂无可用题目，请调整选择后再试。', 'empty');
+    document.getElementById('quiz-container').innerHTML = '';
+    return;
+  }
+
+  document.getElementById('quiz-title').textContent =
+    (type === 'cloze' ? '选词填空' : '词义匹配') + ' · ' + (scope === '3k' ? '课标 3K' : '周周积累') + (mode === 'directed' ? ' · 定向' : '');
+  document.getElementById('quiz-sub').textContent = '共 ' + currentQuiz.length + ' 题';
+
+  const hint = document.getElementById('sort-hint');
+  hint.textContent = type === 'cloze' ? '选项已按字母首字母排序' : '选项已按拼音首字母排序';
+
+  renderQuiz();
+  goTo('page-quiz');
+  if (mode === 'random' && type === 'random') startTimer();
+  } catch (e) {
+    console.error('题目加载失败:', e);
+    setQuizStatus('题目加载失败，请稍后重试。', 'error');
+    document.getElementById('quiz-container').innerHTML = '';
+  }
+}
+
+function renderQuiz() {
+  const box = document.getElementById('quiz-container');
+  setQuizStatus('');
+  let html = '';
+  currentQuiz.forEach((item, idx) => {
+    const ans = currentAnswers[idx];
+    const hasAnswer = ans !== undefined;
+    html += '<div class="question-card" id="q-' + idx + '">';
+    html += '<div class="question-num">QUESTION ' + (idx + 1) + ' / ' + currentQuiz.length + '</div>';
+    if (item.type === 'cloze' || (currentType === 'cloze' && !item.type)) {
+      html += '<div class="question-text">' + item.q + '</div>';
+    } else {
+      html += '<div class="question-text">选择 "<strong>' + item.q + '</strong>" 的正确释义：</div>';
+    }
+    html += '<div class="options">';
+    item.options.forEach((opt, oidx) => {
+      let cls = 'option';
+      if (submitted) {
+        if (oidx === item.a) cls += ' correct';
+        else if (hasAnswer && oidx === ans) cls += ' wrong';
+      } else if (hasAnswer && oidx === ans) {
+        cls += ' selected';
+      }
+      html += '<div class="' + cls + '" onclick="selectOption(' + idx + ', ' + oidx + ')" id="opt-' + idx + '-' + oidx + '">';
+      html += '<span class="option-letter">' + String.fromCharCode(65+oidx) + '</span>';
+      html += '<span>' + opt + '</span>';
+      html += '</div>';
+    });
+    html += '</div>';
+    if (submitted) {
+      if (item.type === 'cloze' || (currentType === 'cloze' && !item.type)) {
+        let explainText = item.explain || '';
+        if (item.answer) {
+          const ans = item.answer;
+          const highlight = '<span style="color:var(--accent);font-weight:600;">' + ans + '</span>';
+          if (explainText.includes(ans)) {
+            explainText = explainText.split(ans).join(highlight);
+          } else {
+            const base = VARIANT_MAP && VARIANT_MAP[ans.toLowerCase()];
+            if (base && explainText.includes(base)) {
+              const baseHighlight = '<span style="color:var(--accent);font-weight:600;">' + base + '</span>';
+              explainText = explainText.split(base).join(baseHighlight);
+            }
+          }
+        }
+        html += '<div class="explain"><strong>解析：</strong>' + explainText + '</div>';
+        if (item.translation) {
+          html += '<div class="translation"><strong>句意：</strong>' + item.translation + '</div>';
+        }
+      } else {
+        let distractorInfo = '';
+        item.options.forEach(function(opt, oidx) {
+          if (oidx !== item.a) {
+            distractorInfo += (distractorInfo ? '、' : '') + item.optionWords[oidx] + '（' + opt + '）';
+          }
+        });
+        html += '<div class="explain"><strong>其他选项：</strong>' + distractorInfo + '</div>';
+      }
+    }
+    html += '</div>';
+  });
+
+  if (!submitted) {
+    html += '<button class="btn-primary" onclick="submitQuiz()" id="submit-btn">提交答案</button>';
+  } else {
+    html += '<button class="btn-primary" onclick="quitQuiz()">完成</button>';
+    if (currentType !== 'random') {
+      html += '<button class="btn-secondary" onclick="retryQuiz()">再试一次</button>';
+    }
+  }
+  box.innerHTML = html;
+}
+
+function selectOption(qIdx, oIdx) {
+  if (submitted) return;
+  currentAnswers[qIdx] = oIdx;
+  const card = document.getElementById('q-' + qIdx);
+  const opts = card.querySelectorAll('.option');
+  opts.forEach((opt, i) => {
+    opt.classList.remove('selected');
+    if (i === oIdx) opt.classList.add('selected');
+  });
+  updateQuizProgress();
+}
+
+function submitQuiz() {
+  if (Object.keys(currentAnswers).length < currentQuiz.length) {
+    alert('请完成所有题目后再提交。');
+    return;
+  }
+  submitted = true;
+  stopTimer();
+  if (currentType === 'random') {
+    let correct = 0;
+    currentQuiz.forEach((q, i) => {
+      if (currentAnswers[i] === q.a) correct++;
+    });
+    const pct = Math.round((correct / currentQuiz.length) * 100);
+    animateScore(pct);
+    document.getElementById('score-title').textContent =
+      pct >= 90 ? '👑 词汇王者' : (pct >= 70 ? '🚀 稳扎稳打' : '💪 继续加油');
+    if (pct >= 90) {
+      launchConfetti();
+      document.getElementById('reward-box').style.display = 'block';
+      document.getElementById('retry-box').style.display = 'none';
+    } else {
+      document.getElementById('reward-box').style.display = 'none';
+      document.getElementById('retry-box').style.display = 'block';
+    }
+    goTo('page-result');
+  } else {
+    renderQuiz();
+  }
+}
+
+function quitQuiz() {
+  stopTimer();
+  if (currentType === 'random') {
+    goTo('page-home');
+  } else if (currentScope === 'weekly') {
+    goTo('page-weekly');
+  } else {
+    goTo('page-standard-3k');
+  }
+}
+
+function retryQuiz() {
+  startQuiz(currentType, currentScope, currentMode, currentLetters);
+}
+
+// ===== 字母选择页 =====
+function goToLetterSelect(type, scope) {
+  letterSelectType = type;
+  letterSelectScope = scope;
+  selectedLetters = [];
+  document.getElementById('letter-select-title').textContent =
+    (type === 'cloze' ? '选词填空' : '词义匹配') + ' · 定向随机';
+  renderLetterGrid();
+  goTo('page-letter-select');
+}
+
+function renderLetterGrid() {
+  const grid = document.getElementById('letter-grid');
+  let html = '';
+  for (let i = 0; i < 26; i++) {
+    const letter = String.fromCharCode(97 + i);
+    const hasData = window.POOLS_INDEX_LETTERS && window.POOLS_INDEX_LETTERS.includes(letter);
+    const cls = 'letter-btn' + (selectedLetters.includes(letter) ? ' selected' : '') + (hasData ? '' : ' disabled');
+    html += '<div class="' + cls + '" onclick="toggleLetter(\'' + letter + '\',' + hasData + ')">' + letter.toUpperCase() + '</div>';
+  }
+  grid.innerHTML = html;
+  updateLetterHint();
+}
+
+function toggleLetter(letter, hasData) {
+  if (!hasData) return;
+  if (selectedLetters.includes(letter)) {
+    selectedLetters = selectedLetters.filter(l => l !== letter);
+  } else {
+    selectedLetters.push(letter);
+  }
+  renderLetterGrid();
+}
+
+function updateLetterHint() {
+  const btn = document.getElementById('start-directed-btn');
+  const hint = document.getElementById('letter-hint');
+  if (selectedLetters.length > 0) {
+    btn.disabled = false;
+    hint.textContent = '已选择 ' + selectedLetters.length + ' 个字母';
+    hint.style.color = 'var(--accent)';
+  } else {
+    btn.disabled = true;
+    hint.textContent = '请至少选择1个字母';
+    hint.style.color = 'var(--text-secondary)';
+  }
+}
+
+function startDirectedQuiz() {
+  if (selectedLetters.length === 0) return;
+  startQuiz(letterSelectType, letterSelectScope, 'directed', selectedLetters);
+}
+
+// ===== 周选择页 =====
+let weekSelectType = '';
+let selectedWeeks = [];
+
+async function goToWeekSelect(type) {
+  weekSelectType = type;
+  selectedWeeks = [];
+  document.getElementById('week-select-title').textContent =
+    (type === 'cloze' ? '选词填空' : '词义匹配') + ' · 定向随机';
+  try {
+    await loadData('weekly_index');
+    renderWeekGrid();
+    goTo('page-week-select');
+  } catch (e) {
+    console.error('周索引加载失败:', e);
+    alert('每周积累数据加载失败，请稍后重试。');
+  }
+}
+
+function renderWeekGrid() {
+  const grid = document.getElementById('week-grid');
+  const weeks = window.WEEKLY_INDEX || [];
+  let html = '';
+  weeks.forEach(w => {
+    const cls = 'card' + (selectedWeeks.includes(w.id) ? ' selected' : '');
+    html += '<div class="' + cls + '" onclick="toggleWeek(\'' + w.id + '\')">' +
+      '<div class="card-title">' + w.title + '</div>' +
+      '<div class="card-desc">' + (w.subtitle || '') + '</div></div>';
+  });
+  grid.innerHTML = html;
+  updateWeekHint();
+}
+
+function toggleWeek(weekId) {
+  if (selectedWeeks.includes(weekId)) {
+    selectedWeeks = selectedWeeks.filter(id => id !== weekId);
+  } else {
+    selectedWeeks.push(weekId);
+  }
+  renderWeekGrid();
+}
+
+function updateWeekHint() {
+  const btn = document.getElementById('start-week-directed-btn');
+  const hint = document.getElementById('week-hint');
+  if (selectedWeeks.length > 0) {
+    btn.disabled = false;
+    hint.textContent = '已选择 ' + selectedWeeks.length + ' 期材料';
+    hint.style.color = 'var(--accent)';
+  } else {
+    btn.disabled = true;
+    hint.textContent = '请至少选择1期材料';
+    hint.style.color = 'var(--text-secondary)';
+  }
+}
+
+function startWeekDirectedQuiz() {
+  if (selectedWeeks.length === 0) return;
+  startQuiz(weekSelectType, 'weekly', 'directed', selectedWeeks);
+}
+
+// ===== 复习材料浏览 =====
+async function goToMaterialSelect() {
+  try {
+    await loadData('weekly_index');
+    const grid = document.getElementById('material-grid');
+    let html = '';
+    (window.WEEKLY_INDEX || []).forEach(w => {
+      html += '<div class="card" onclick="showWeekMaterial(\'' + w.id + '\', this)">' +
+        '<div class="card-title">' + w.title + '</div>' +
+        '<div class="card-desc">' + (w.subtitle || '') + '</div></div>';
+    });
+    grid.innerHTML = html;
+    document.getElementById('material-content').innerHTML = '';
+    document.getElementById('material-subtitle').textContent = '点选想要回顾的复习材料';
+    goTo('page-week-material');
+  } catch (e) {
+    console.error('周索引加载失败:', e);
+    alert('每周积累数据加载失败，请稍后重试。');
+  }
+}
+
+async function showWeekMaterial(weekId, cardEl) {
+  const week = (window.WEEKLY_INDEX || []).find(w => w.id === weekId);
+  if (!week) return;
+  document.querySelectorAll('#material-grid .card').forEach(c => c.classList.remove('selected'));
+  if (cardEl) cardEl.classList.add('selected');
+  const box = document.getElementById('material-content');
+  box.innerHTML = '<div class="status-box loading">正在加载材料…</div>';
+  try {
+    const res = await fetch('data/' + week.material);
+    if (!res.ok) throw new Error('加载失败: data/' + week.material + ' (' + res.status + ')');
+    const md = await res.text();
+    document.getElementById('material-subtitle').textContent = week.title;
+    box.innerHTML = '<div class="material-table-wrap">' + renderMaterialTable(md) + '</div>';
+    box.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  } catch (e) {
+    console.error('材料加载失败:', e);
+    box.innerHTML = '<div class="status-box error">材料加载失败，请稍后重试。</div>';
+  }
+}
+
+function renderMaterialTable(md) {
+  const rows = md.split('\n')
+    .map(line => line.trim())
+    .filter(line => line.startsWith('|') && line.endsWith('|'))
+    .map(line => line.slice(1, -1).split('|').map(cell => cell.trim()))
+    .filter(cells => !cells.every(c => /^-+$/.test(c.replace(/:/g, ''))));
+  if (rows.length === 0) return '<p>材料为空。</p>';
+  let html = '<table class="material-table"><thead><tr>';
+  rows[0].forEach(c => { html += '<th>' + c + '</th>'; });
+  html += '</tr></thead><tbody>';
+  rows.slice(1).forEach(cells => {
+    html += '<tr>';
+    cells.forEach(c => { html += '<td>' + c + '</td>'; });
+    html += '</tr>';
+  });
+  html += '</tbody></table>';
+  return html;
+}
+
+// ===== 倒计时 =====
+function startTimer() {
+  const display = document.getElementById('timer-display');
+  display.style.display = 'block';
+  timeLeft = 60;
+  updateTimerDisplay();
+  timerInterval = setInterval(() => {
+    timeLeft--;
+    updateTimerDisplay();
+    if (timeLeft <= 0) {
+      clearInterval(timerInterval);
+      timerInterval = null;
+      autoSubmit();
+    }
+  }, 1000);
+}
+
+function updateTimerDisplay() {
+  const display = document.getElementById('timer-display');
+  document.getElementById('timer-text').textContent = timeLeft;
+  display.classList.remove('warning', 'critical');
+  if (timeLeft <= 10) display.classList.add('critical');
+  else if (timeLeft <= 30) display.classList.add('warning');
+}
+
+function stopTimer() {
+  if (timerInterval) {
+    clearInterval(timerInterval);
+    timerInterval = null;
+  }
+  document.getElementById('timer-display').style.display = 'none';
+}
+
+function autoSubmit() {
+  if (!submitted) {
+    for (let i = 0; i < currentQuiz.length; i++) {
+      if (currentAnswers[i] === undefined) currentAnswers[i] = -1;
+    }
+    submitQuiz();
+  }
+}
+
+// ===== 随机挑战 =====
+async function startRandom() {
+  try {
+    currentType = 'random';
+    currentAnswers = {};
+    submitted = false;
+    stopTimer();
+    goTo('page-quiz');
+    setQuizStatus('正在准备随机挑战…', 'loading');
+    document.getElementById('quiz-container').innerHTML = '';
+    window.POOLS_3K = { BASE: [], PLURAL: [], THIRD: [], ING: [], PAST: [], COMP: [], SUPER: [], DICT: {}, POS: {} };
+    window.CLOZE_3K_RAW = [];
+    await loadData('pools_index');
+    for (const letter of POOLS_INDEX_LETTERS) {
+      await loadData(`pools_${letter}`);
+      await loadData(`cloze_${letter}`);
+    }
+
+    const allCloze3k = generateQuizSet(shuffle(CLOZE_3K_RAW).slice(0, 10), 'cloze', '3k');
+    const allMatch3k = generateQuizSet(null, 'match', '3k');
+
+    const all = [...allCloze3k, ...allMatch3k];
+    for (let i = all.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [all[i], all[j]] = [all[j], all[i]];
+    }
+
+    currentQuiz = all.slice(0, 10);
+    currentType = 'random';
+    currentAnswers = {};
+    submitted = false;
+    document.getElementById('quiz-title').textContent = '随机挑战';
+    document.getElementById('quiz-sub').innerHTML = '共 10 题 · 混合题型 · 限时 60 秒<span class="mode-badge">ARCADE</span>';
+    document.getElementById('sort-hint').textContent = '选项已按字母/拼音首字母排序';
+    renderQuiz();
+    goTo('page-quiz');
+    startTimer();
+  } catch (e) {
+    console.error('随机挑战出错:', e);
+    stopTimer();
+    setQuizStatus('随机挑战加载失败，请稍后重试。', 'error');
+    document.getElementById('quiz-container').innerHTML = '';
+  }
+}
+
+// ===== 游戏化增强 =====
+function updateQuizProgress() {
+  const fill = document.getElementById('quiz-progress-fill');
+  if (!fill || !currentQuiz.length) return;
+  const done = Object.keys(currentAnswers).length;
+  fill.style.width = (done / currentQuiz.length * 100) + '%';
+}
+
+function animateScore(target) {
+  const el = document.getElementById('score-num');
+  const t0 = performance.now();
+  const dur = 900;
+  function step(t) {
+    const p = Math.min(1, (t - t0) / dur);
+    el.textContent = Math.round(target * (1 - Math.pow(1 - p, 3))) + '%';
+    if (p < 1) requestAnimationFrame(step);
+  }
+  requestAnimationFrame(step);
+}
+
+function launchConfetti() {
+  const emojis = ['🎉', '✨', '⭐', '🎊', '💜', '💚'];
+  for (let i = 0; i < 40; i++) {
+    const s = document.createElement('span');
+    s.className = 'confetti-piece';
+    s.textContent = emojis[Math.floor(Math.random() * emojis.length)];
+    s.style.left = (Math.random() * 100) + 'vw';
+    s.style.fontSize = (14 + Math.random() * 18) + 'px';
+    s.style.animationDuration = (2 + Math.random() * 2.5) + 's';
+    s.style.animationDelay = (Math.random() * 0.8) + 's';
+    document.body.appendChild(s);
+    setTimeout(() => s.remove(), 5500);
+  }
+}
+
+// 首页随机标语
+const TAGLINES = [
+  '词汇复习 · 进阶之路',
+  '每天 10 题，词汇量悄悄起飞',
+  '今天的单词，是明天的分数',
+  '刷题不头秃，词汇在进步',
+  '小小词汇，拿捏拿捏'
+];
+let taglineIdx = 0;
+setInterval(() => {
+  const el = document.getElementById('tagline');
+  if (!el) return;
+  taglineIdx = (taglineIdx + 1) % TAGLINES.length;
+  el.style.opacity = 0;
+  setTimeout(() => { el.textContent = TAGLINES[taglineIdx]; el.style.opacity = 1; }, 400);
+}, 5000);
+
+// ===== 初始化 =====
+document.addEventListener('DOMContentLoaded', async function() {
+  try {
+    await loadData('pools_index');
+  } catch (e) {
+    console.error('初始化数据加载失败:', e);
+  }
+});
+</script>
+</body>
+</html>

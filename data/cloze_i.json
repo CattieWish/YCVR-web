@@ -1,0 +1,618 @@
+[
+  {
+    "q": "The cold drink needed some <span class='blank'>_____</span> to make it refreshing on such a hot day.",
+    "answer": "ice",
+    "explain": "ice n. 冰。",
+    "translation": "这么热的天，冷饮需要加些<strong>冰</strong>才能变得清爽。",
+    "pool": "BASE"
+  },
+  {
+    "q": "We stopped at a small shop to buy <span class='blank'>_____</span> on a very hot afternoon.",
+    "answer": "ice-cream",
+    "explain": "ice-cream n. 冰淇淋。",
+    "translation": "在一个非常炎热的下午，我们在一家小店停下来买<strong>冰淇淋</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "She had a brilliant <span class='blank'>_____</span> for the new marketing campaign next month.",
+    "answer": "idea",
+    "explain": "idea n. 主意。",
+    "translation": "她为下个月的营销活动想出了一个绝妙的<strong>主意</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "This quiet location is <span class='blank'>_____</span> for opening a small family bookstore.",
+    "answer": "ideal",
+    "explain": "ideal adj. 理想的。",
+    "translation": "这个安静的地点<strong>非常适合</strong>开一家小型家庭书店。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The two dresses looked completely <span class='blank'>_____</span> even though they were from different brands.",
+    "answer": "identical",
+    "explain": "identical adj. 相同的。",
+    "translation": "这两条裙子看起来完全<strong>一样</strong>，尽管它们来自不同的品牌。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The witness was able to <span class='blank'>_____</span> the suspect from a photo lineup at the police station.",
+    "answer": "identify",
+    "explain": "identify v. 识别。",
+    "translation": "目击者能够从警察局的照片队列中<strong>辨认</strong>出嫌疑人。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The thief tried to steal the old man's <span class='blank'>_____</span> to get a bank loan illegally.",
+    "answer": "identity",
+    "explain": "identity n. 身份。",
+    "translation": "小偷试图窃取老人的<strong>身份</strong>以非法获得银行贷款。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The phrase 'break a leg' is an English <span class='blank'>_____</span> that actually means good luck.",
+    "answer": "idiom",
+    "explain": "idiom n. 习语。",
+    "translation": "短语'break a leg'是一个英语<strong>习语</strong>，实际上意思是祝好运。",
+    "pool": "BASE"
+  },
+  {
+    "q": "She completely <span class='blank'>_____</span> my warnings and went ahead with the risky plan anyway.",
+    "answer": "ignored",
+    "explain": "ignore v. 忽视。",
+    "translation": "她完全无视我的警告，还是继续执行了那个危险的计划。",
+    "pool": "PAST"
+  },
+  {
+    "q": "She felt too <span class='blank'>_____</span> to go to work, so she stayed in bed and rested all day.",
+    "answer": "ill",
+    "explain": "ill adj. 生病的。",
+    "translation": "她感觉病得太重没法去上班，所以整天躺在床上休息。",
+    "pool": "BASE"
+  },
+  {
+    "q": "It is <span class='blank'>_____</span> to drive a car without a valid license in most countries around the world.",
+    "answer": "illegal",
+    "explain": "illegal adj. 非法的。",
+    "translation": "在大多数国家，没有有效驾照驾驶汽车是<strong>违法的</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "His sudden <span class='blank'>_____</span> prevented him from attending the important business meeting.",
+    "answer": "illness",
+    "explain": "illness n. 疾病。",
+    "translation": "他突然<strong>生病</strong>，使他无法参加那次重要的商务会议。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The teacher used a simple diagram to <span class='blank'>_____</span> the complex process for the students.",
+    "answer": "illustrate",
+    "explain": "illustrate v. 说明。",
+    "translation": "老师用一张简单的图表向学生<strong>说明</strong>这个复杂的过程。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The company wants to improve its public <span class='blank'>_____</span> through better customer service.",
+    "answer": "image",
+    "explain": "image n. 形象。",
+    "translation": "公司希望通过更好的客户服务来改善其公众<strong>形象</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "It is hard to <span class='blank'>_____</span> what daily life would be like on a distant planet.",
+    "answer": "imagine",
+    "explain": "imagine v. 想象。",
+    "translation": "很难想象在遥远星球上的日常生活会是什么样<strong>子</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Please call me <span class='blank'>_____</span> if you notice any problems with the computer system.",
+    "answer": "immediately",
+    "explain": "immediately adv. 立即。",
+    "translation": "如果你发现计算机系统有任何问题，请<strong>立即</strong>给我打电话。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The new government policy will have a significant <span class='blank'>_____</span> on small local businesses.",
+    "answer": "impact",
+    "explain": "impact n. 影响。",
+    "translation": "新的政府政策将对当地小型企业产生重大<strong>影响</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "I did not mean to <span class='blank'>_____</span> that you were wrong; I was just asking honest questions.",
+    "answer": "imply",
+    "explain": "imply v. 暗示。",
+    "translation": "我不是<strong>暗示</strong>你错了，我只是问了一些诚实的问题。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The store <span class='blank'>_____</span> handmade goods from several countries in Southeast Asia.",
+    "answer": "imported",
+    "explain": "import v. 进口。",
+    "translation": "这家商店从东南亚几个国家<strong>进口</strong>手工制品。",
+    "pool": "PAST"
+  },
+  {
+    "q": "It is <span class='blank'>_____</span> to drink enough water every day for good health and energy.",
+    "answer": "important",
+    "explain": "important adj. 重要的。",
+    "translation": "每天喝足够的水对健康和精力很<strong>重要</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "It is <span class='blank'>_____</span> to finish this huge project by tomorrow without extra help.",
+    "answer": "impossible",
+    "explain": "impossible adj. 不可能的。",
+    "translation": "没有额外的帮助，要在明天之前完成这个庞大的项目是<strong>不可能的</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The guests were deeply <span class='blank'>_____</span> by the hotel's warm and friendly service.",
+    "answer": "impressed",
+    "explain": "impress v. 使印象深刻。",
+    "translation": "客人们对酒店热情友好的服务<strong>印象深刻</strong>。",
+    "pool": "PAST"
+  },
+  {
+    "q": "He made a good <span class='blank'>_____</span> on the interviewer by arriving early and dressing neatly.",
+    "answer": "impression",
+    "explain": "impression n. 印象。",
+    "translation": "他通过早到和穿着整洁给面试官留下了好<strong>印象</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Her English skills have <span class='blank'>_____</span> greatly since she moved to London last year.",
+    "answer": "improved",
+    "explain": "improve v. 改善。",
+    "translation": "自从去年搬到伦敦以来，她的英语技能有了很大<strong>提高</strong>。",
+    "pool": "PAST"
+  },
+  {
+    "q": "There is only one <span class='blank'>_____</span> of space between the desk and the bedroom wall.",
+    "answer": "inch",
+    "explain": "inch n. 英寸。",
+    "translation": "书桌和卧室墙之间只有一<strong>英寸</strong>的空间。",
+    "pool": "BASE"
+  },
+  {
+    "q": "A strange <span class='blank'>_____</span> happened at the train station that made everyone nervous.",
+    "answer": "incident",
+    "explain": "incident n. 事件。",
+    "translation": "火车站发生了一件奇怪的<strong>事件</strong>，让所有人都紧张起来。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The price does not <span class='blank'>_____</span> tax, so you will need to pay a little extra.",
+    "answer": "include",
+    "explain": "include v. 包括。",
+    "translation": "这个价格不<strong>包括</strong>税费，所以你需要额外支付一点。",
+    "pool": "BASE"
+  },
+  {
+    "q": "She earns a good monthly <span class='blank'>_____</span> from her online teaching business.",
+    "answer": "income",
+    "explain": "income n. 收入。",
+    "translation": "她从她的在线教学业务中获得了不错的月<strong>收入</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The company's profits have <span class='blank'>_____</span> by twenty percent since the new manager arrived.",
+    "answer": "increased",
+    "explain": "increase v. 增加。",
+    "translation": "自从新经理上任以来，公司的利润<strong>增加</strong>了百分之二十。",
+    "pool": "PAST"
+  },
+  {
+    "q": "The view from the top of the mountain was absolutely <span class='blank'>_____</span> and breathtaking.",
+    "answer": "incredible",
+    "explain": "incredible adj. 难以置信的。",
+    "translation": "山顶的景色绝对令人<strong>难以置信</strong>，令人叹为观止。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The weather during our vacation was <span class='blank'>_____</span> terrible from the first day to the last.",
+    "answer": "indeed",
+    "explain": "indeed adv. 确实。",
+    "translation": "我们度假期间的天气<strong>确实</strong>糟糕，从第一天到最后一天都是如此。",
+    "pool": "BASE"
+  },
+  {
+    "q": "She moved out of her parents' house at eighteen to become financially <span class='blank'>_____</span>.",
+    "answer": "independent",
+    "explain": "independent adj. 独立的。",
+    "translation": "她十八岁时搬出了父母家，以实现经济<strong>独立</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The survey results clearly <span class='blank'>_____</span> that most local people support the new policy.",
+    "answer": "indicated",
+    "explain": "indicate v. 表明。",
+    "translation": "调查结果清楚地<strong>表明</strong>，大多数当地民众支持这项新政策。",
+    "pool": "PAST"
+  },
+  {
+    "q": "Each <span class='blank'>_____</span> student has different strengths and weaknesses in learning.",
+    "answer": "individual",
+    "explain": "individual n. 个人。",
+    "translation": "每个<strong>学生</strong>在学习中都有不同的优势和劣势。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The tourism <span class='blank'>_____</span> brings millions of dollars to the local economy every year.",
+    "answer": "industry",
+    "explain": "industry n. 产业。",
+    "translation": "旅游<strong>业</strong>每年为当地经济带来数百万美元的收入。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The doctor treated the bacterial <span class='blank'>_____</span> with a strong dose of antibiotics.",
+    "answer": "infection",
+    "explain": "infection n. 感染。",
+    "translation": "医生用大剂量抗生素治疗了这种细菌<strong>感染</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "From his silence and body language, we can <span class='blank'>_____</span> that he does not agree with us.",
+    "answer": "infer",
+    "explain": "infer v. 推断。",
+    "translation": "从他的沉默和肢体语言中，我们可以<strong>推断</strong>出他不同意我们的观点。",
+    "pool": "BASE"
+  },
+  {
+    "q": "His parents heavily <span class='blank'>_____</span> his final decision to study medicine at university.",
+    "answer": "influenced",
+    "explain": "influence v. 影响。",
+    "translation": "他的父母对他最终在大学学习医学的决定产生了很大<strong>影响</strong>。",
+    "pool": "PAST"
+  },
+  {
+    "q": "She is one of the most <span class='blank'>_____</span> writers in modern American literature today.",
+    "answer": "influential",
+    "explain": "influential adj. 有影响力的。",
+    "translation": "她是当今现代美国文学中最有<strong>影响力的</strong>作家之一。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Please read the <span class='blank'>_____</span> carefully before you fill out the application form.",
+    "answer": "information",
+    "explain": "information n. 信息。",
+    "translation": "在填写申请表之前，请仔细阅读这些<strong>信息</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "My <span class='blank'>_____</span> reaction was to say no, but I changed my mind after thinking about it.",
+    "answer": "initial",
+    "explain": "initial adj. 最初的。",
+    "translation": "我<strong>最初的</strong>反应是拒绝，但考虑之后我改变了主意。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The company launched a new <span class='blank'>_____</span> to reduce plastic waste in the office.",
+    "answer": "initiative",
+    "explain": "initiative n. 倡议。",
+    "translation": "公司发起了一项新<strong>倡议</strong>，以减少办公室里的塑料垃圾。",
+    "pool": "BASE"
+  },
+  {
+    "q": "He suffered a serious leg <span class='blank'>_____</span> during the football match last Saturday.",
+    "answer": "injury",
+    "explain": "injury n. 伤害。",
+    "translation": "上周六的足球比赛中，他的腿部受了重<strong>伤</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The old city is surrounded by an <span class='blank'>_____</span> ring of modern office buildings.",
+    "answer": "inner",
+    "explain": "inner adj. 内部的。",
+    "translation": "这座古城被一圈现代办公楼的<strong>内</strong>环所包围。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The lawyer proved that his client was completely <span class='blank'>_____</span> of the crime.",
+    "answer": "innocent",
+    "explain": "innocent adj. 无辜的。",
+    "translation": "律师证明他的当事人完全<strong>无罪</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The smartphone was one of the greatest <span class='blank'>_____</span> of the twenty-first century.",
+    "answer": "innovation",
+    "explain": "innovation n. 创新。",
+    "translation": "智能手机是二十一世纪最伟大的<strong>创新</strong>之一。",
+    "pool": "BASE"
+  },
+  {
+    "q": "We truly value your <span class='blank'>_____</span> on how to improve our customer service experience.",
+    "answer": "input",
+    "explain": "input n. 意见。",
+    "translation": "我们非常重视您对如何改善客户服务体验的<strong>意见</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "If you have any questions about the tour, please <span class='blank'>_____</span> at the front desk.",
+    "answer": "inquire",
+    "explain": "inquire v. 询问。",
+    "translation": "如果您对旅游有任何问题，请在前台<strong>询问</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "A small flying <span class='blank'>_____</span> crawled across the window in the warm morning sunlight.",
+    "answer": "insect",
+    "explain": "insect n. 昆虫。",
+    "translation": "一只小飞<strong>虫</strong>在温暖的晨光中爬过窗户。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The research gave us a valuable <span class='blank'>_____</span> into how young people shop online.",
+    "answer": "insight",
+    "explain": "insight n. 见解。",
+    "translation": "这项研究让我们对年轻人如何网购有了宝贵的<strong>见解</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "She <span class='blank'>_____</span> on paying for the dinner even though I offered to split the bill.",
+    "answer": "insisted",
+    "explain": "insist v. 坚持。",
+    "translation": "尽管我提出分摊账单，她仍<strong>坚持</strong>要付晚餐的钱。",
+    "pool": "PAST"
+  },
+  {
+    "q": "The old building passed a safety <span class='blank'>_____</span> without any serious problems.",
+    "answer": "inspection",
+    "explain": "inspection n. 检查。",
+    "translation": "这座老建筑通过了安全<strong>检查</strong>，没有任何严重问题。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The documentary was truly <span class='blank'>_____</span> and made me want to volunteer in my community.",
+    "answer": "inspiring",
+    "explain": "inspire v. 激励。",
+    "translation": "这部纪录片真的很<strong>鼓舞人心</strong>，让我想在我的社区做志愿者。",
+    "pool": "ING"
+  },
+  {
+    "q": "For <span class='blank'>_____</span>, many people now work from home instead of going to the office.",
+    "answer": "instance",
+    "explain": "instance n. 例子。",
+    "translation": "<strong>例如</strong>，许多人现在在家工作而不是去办公室。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The coffee mix provides an <span class='blank'>_____</span> hot drink with just a cup of water.",
+    "answer": "instant",
+    "explain": "instant adj. 立即的。",
+    "translation": "这种咖啡混合物只需一杯水就能提供<strong>即时的</strong>热饮。",
+    "pool": "BASE"
+  },
+  {
+    "q": "We could not find a taxi, so we took the bus <span class='blank'>_____</span> and arrived on time.",
+    "answer": "instead",
+    "explain": "instead adv. 代替。",
+    "translation": "我们找不到出租车，所以改乘公交车，准时到达了。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The research <span class='blank'>_____</span> was founded in nineteen sixty-five to study climate change.",
+    "answer": "institute",
+    "explain": "institute n. 研究所。",
+    "translation": "该研究<strong>所</strong>成立于1965年，旨在研究气候变化。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The university is the oldest educational <span class='blank'>_____</span> in the entire country.",
+    "answer": "institution",
+    "explain": "institution n. 机构。",
+    "translation": "这所大学是全国最古老的教育<strong>机构</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Please follow the <span class='blank'>_____</span> carefully when you assemble the new furniture.",
+    "answer": "instruction",
+    "explain": "instruction n. 说明。",
+    "translation": "组装新家具时，请仔细遵循<strong>说明书</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The violin is a musical <span class='blank'>_____</span> that requires years of dedicated practice.",
+    "answer": "instrument",
+    "explain": "instrument n. 乐器。",
+    "translation": "小提琴是一种需要多年专注练习的<strong>乐器</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "It is wise to buy travel <span class='blank'>_____</span> before you go abroad for your vacation.",
+    "answer": "insurance",
+    "explain": "insurance n. 保险。",
+    "translation": "在国外度假之前购买旅行<strong>保险</strong>是明智的。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The new system was successfully <span class='blank'>_____</span> into the existing company platform.",
+    "answer": "integrated",
+    "explain": "integrate v. 整合。",
+    "translation": "新系统被成功地<strong>整合</strong>到现有的公司平台中。",
+    "pool": "PAST"
+  },
+  {
+    "q": "A person of <span class='blank'>_____</span> always tells the truth even when it is difficult to do so.",
+    "answer": "integrity",
+    "explain": "integrity n. 正直。",
+    "translation": "一个<strong>正直</strong>的人即使在困难时也会说真话。",
+    "pool": "BASE"
+  },
+  {
+    "q": "She is an <span class='blank'>_____</span> student who always asks thoughtful and deep questions.",
+    "answer": "intelligent",
+    "explain": "intelligent adj. 聪明的。",
+    "translation": "她是一个<strong>聪明的</strong>学生，总是提出深思熟虑的问题。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Do you <span class='blank'>_____</span> to stay here for the whole summer or just for a short week?",
+    "answer": "intend",
+    "explain": "intend v. 打算。",
+    "translation": "你<strong>打算</strong>在这里度过整个夏天还是仅仅一周？",
+    "pool": "BASE"
+  },
+  {
+    "q": "The summer heat was so <span class='blank'>_____</span> that we had to stay indoors all afternoon.",
+    "answer": "intense",
+    "explain": "intense adj. 强烈的。",
+    "translation": "夏天的酷热如此<strong>强烈</strong>，以至于我们整个下午都不得不待在室内。",
+    "pool": "BASE"
+  },
+  {
+    "q": "It was not my <span class='blank'>_____</span> to hurt your feelings; I am truly sorry for what I said.",
+    "answer": "intention",
+    "explain": "intention n. 意图。",
+    "translation": "我无意<strong>伤害</strong>你的感情；我对我所说的话深表歉意。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The friendly <span class='blank'>_____</span> between the two groups was filmed for the documentary.",
+    "answer": "interaction",
+    "explain": "interaction n. 互动。",
+    "translation": "两组人之间的友好<strong>互动</strong>被拍摄下来用于纪录片。",
+    "pool": "BASE"
+  },
+  {
+    "q": "He has a strong <span class='blank'>_____</span> in learning how to play the guitar very well.",
+    "answer": "interest",
+    "explain": "interest n. 兴趣。",
+    "translation": "他对学习如何弹好吉他有着浓厚的<strong>兴趣</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The history book was so <span class='blank'>_____</span> that I could not stop reading it at night.",
+    "answer": "interesting",
+    "explain": "interesting adj. 有趣的。",
+    "translation": "这本历史书太<strong>有趣</strong>了，我晚上读得停不下来。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The company is dealing with an <span class='blank'>_____</span> problem in its management team.",
+    "answer": "internal",
+    "explain": "internal adj. 内部的。",
+    "translation": "公司正在处理管理团队<strong>内部的</strong>某个问题。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The airport handles flights from over fifty <span class='blank'>_____</span> destinations around the world.",
+    "answer": "international",
+    "explain": "international adj. 国际的。",
+    "translation": "该机场处理来自全球五十多个<strong>国际</strong>目的地的航班。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Can you <span class='blank'>_____</span> what this old sign means? It is written in a local dialect.",
+    "answer": "interpret",
+    "explain": "interpret v. 解释。",
+    "translation": "你能<strong>解释</strong>这个旧标志的意思吗？它是用当地方言写的。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Please do not <span class='blank'>_____</span> the speaker during the important presentation.",
+    "answer": "interrupt",
+    "explain": "interrupt v. 打断。",
+    "translation": "在重要的演讲过程中，请不要<strong>打断</strong>演讲者。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The teacher's quick <span class='blank'>_____</span> stopped the fight from getting much worse.",
+    "answer": "intervention",
+    "explain": "intervention n. 干预。",
+    "translation": "老师的迅速<strong>干预</strong>阻止了打架进一步恶化。",
+    "pool": "BASE"
+  },
+  {
+    "q": "She has a job <span class='blank'>_____</span> tomorrow morning with a large technology company.",
+    "answer": "interview",
+    "explain": "interview n. 面试。",
+    "translation": "她明天上午有一家大型科技公司的<strong>面试</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Let me <span class='blank'>_____</span> you to my colleague, who works in the marketing department.",
+    "answer": "introduce",
+    "explain": "introduce v. 介绍。",
+    "translation": "让我把你<strong>介绍</strong>给我的同事，他在市场部工作。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The book begins with a brief <span class='blank'>_____</span> to the author's life and early career.",
+    "answer": "introduction",
+    "explain": "introduction n. 介绍。",
+    "translation": "这本书以作者生平和早期职业生涯的简短<strong>介绍</strong>开始。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The scientist hopes to <span class='blank'>_____</span> a new medicine that can cure this rare disease.",
+    "answer": "invent",
+    "explain": "invent v. 发明。",
+    "translation": "这位科学家希望<strong>发明</strong>一种可以治疗这种罕见疾病的新药。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The printing press was one of the most important <span class='blank'>_____</span> in human history.",
+    "answer": "invention",
+    "explain": "invention n. 发明。",
+    "translation": "印刷机是人类历史上最重要的<strong>发明</strong>之一。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The police are <span class='blank'>_____</span> the cause of the accident very thoroughly and carefully.",
+    "answer": "investigating",
+    "explain": "investigate v. 调查。",
+    "translation": "警方正在非常彻底和仔细地<strong>调查</strong>事故的原因。",
+    "pool": "ING"
+  },
+  {
+    "q": "Buying a house is a major financial <span class='blank'>_____</span> for most working families.",
+    "answer": "investment",
+    "explain": "investment n. 投资。",
+    "translation": "买房对大多数工薪家庭来说是一项重大的财务<strong>投资</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "We decided to <span class='blank'>_____</span> our neighbors to dinner next Saturday evening.",
+    "answer": "invite",
+    "explain": "invite v. 邀请。",
+    "translation": "我们决定<strong>邀请</strong>邻居下周六晚上来吃晚饭。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The new project is <span class='blank'>_____</span> over twenty people from different departments.",
+    "answer": "involving",
+    "explain": "involve v. 涉及。",
+    "translation": "这个新项目<strong>涉及</strong>来自不同部门的二十多人。",
+    "pool": "ING"
+  },
+  {
+    "q": "She <span class='blank'>_____</span> her clothes every Sunday before the start of the work week.",
+    "answer": "irons",
+    "explain": "iron v. 熨烫。",
+    "translation": "她每周日都会<strong>熨烫</strong>衣服，为工作周做准备。",
+    "pool": "THIRD"
+  },
+  {
+    "q": "The small tropical <span class='blank'>_____</span> is only accessible by boat during the summer months.",
+    "answer": "island",
+    "explain": "island n. 岛。",
+    "translation": "这座热带小<strong>岛</strong>仅在夏季几个月可乘船到达。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The local government <span class='blank'>_____</span> a public warning about the approaching storm.",
+    "answer": "issued",
+    "explain": "issue v. 发布。",
+    "translation": "当地政府<strong>发布</strong>了关于即将来临的暴风雨的公开警告。",
+    "pool": "PAST"
+  },
+  {
+    "q": "Each <span class='blank'>_____</span> on the shopping list must be checked before we leave the store.",
+    "answer": "item",
+    "explain": "item n. 物品。",
+    "translation": "购物清单上的每件<strong>物品</strong>必须在我们离开商店前检查。",
+    "pool": "BASE"
+  }
+]

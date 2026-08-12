@@ -1,0 +1,324 @@
+[
+  {
+    "q": "We planned a two-week <span class='blank'>_____</span> to the beach for our summer holiday.",
+    "answer": "vacation",
+    "explain": "vacation n. 假期。",
+    "translation": "我们计划了一个为期两周的<strong>假期</strong>去海滩过暑假。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The small village lies in a green <span class='blank'>_____</span> between two high mountains.",
+    "answer": "valley",
+    "explain": "valley n. 山谷。",
+    "translation": "这个小村庄坐落在一个位于两座高山之间的绿色<strong>山谷</strong>里。",
+    "pool": "BASE"
+  },
+  {
+    "q": "This old ring is very <span class='blank'>_____</span> because it belonged to my grandmother.",
+    "answer": "valuable",
+    "explain": "valuable adj. 有价值的；珍贵的。",
+    "translation": "这枚旧戒指非常<strong>珍贵</strong>，因为它是我祖母传下来的。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The <span class='blank'>_____</span> of the house has increased by twenty percent this year.",
+    "answer": "value",
+    "explain": "value n. 价值。",
+    "translation": "这栋房子的<strong>价值</strong>今年上涨了百分之二十。",
+    "pool": "BASE"
+  },
+  {
+    "q": "She always <span class='blank'>_____</span> honesty more than money in her personal life.",
+    "answer": "values",
+    "explain": "value v. 重视。第三人称单数 values。",
+    "translation": "她在个人生活中始终<strong>重视</strong>诚实胜过金钱。",
+    "pool": "THIRD"
+  },
+  {
+    "q": "There is a wide <span class='blank'>_____</span> in temperature between day and night here.",
+    "answer": "variation",
+    "explain": "variation n. 变化；差异。",
+    "translation": "这里昼夜温差有很大的<strong>变化</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The store sells a large <span class='blank'>_____</span> of fresh fruits and vegetables daily.",
+    "answer": "variety",
+    "explain": "variety n. 多样性；种类。",
+    "translation": "这家商店每天出售大量<strong>各种各样的</strong>新鲜水果和蔬菜。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The museum has <span class='blank'>_____</span> kinds of art from many different countries.",
+    "answer": "various",
+    "explain": "various adj. 各种各样的。",
+    "translation": "博物馆有来自许多不同国家的<strong>各种</strong>艺术品。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The price of fresh fish <span class='blank'>_____</span> depending on the season and weather.",
+    "answer": "varies",
+    "explain": "vary v. 变化。第三人称单数 varies。",
+    "translation": "鲜鱼的价格因季节和天气而<strong>变化</strong>。",
+    "pool": "THIRD"
+  },
+  {
+    "q": "She put the fresh flowers in a tall glass <span class='blank'>_____</span> on the table.",
+    "answer": "vase",
+    "explain": "vase n. 花瓶。",
+    "translation": "她把鲜花放在了桌上一个高高的玻璃<strong>花瓶</strong>里。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The desert is a <span class='blank'>_____</span> area of sand that stretches for miles.",
+    "answer": "vast",
+    "explain": "vast adj. 广阔的。",
+    "translation": "沙漠是一片<strong>广阔的</strong>沙地，绵延数英里。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Eating at least one green <span class='blank'>_____</span> every day is good for your health.",
+    "answer": "vegetable",
+    "explain": "vegetable n. 蔬菜。",
+    "translation": "每天至少吃一种绿色<strong>蔬菜</strong>对健康有益。",
+    "pool": "BASE"
+  },
+  {
+    "q": "A large <span class='blank'>_____</span> blocked the narrow road and caused a long traffic jam.",
+    "answer": "vehicle",
+    "explain": "vehicle n. 车辆。",
+    "translation": "一辆大型<strong>车辆</strong>堵住了狭窄的道路，造成了长时间的交通堵塞。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The concert <span class='blank'>_____</span> was changed to a larger hall because of high demand.",
+    "answer": "venue",
+    "explain": "venue n. 场地；场馆。",
+    "translation": "由于需求量大，音乐会<strong>场地</strong>被改到了更大的礼堂。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The movie <span class='blank'>_____</span> of the book was quite different from the original story.",
+    "answer": "version",
+    "explain": "version n. 版本。",
+    "translation": "这本书的电影<strong>版本</strong>与原作故事有很大不同。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The <span class='blank'>_____</span> of the accident was taken to the hospital immediately.",
+    "answer": "victim",
+    "explain": "victim n. 受害者。",
+    "translation": "事故的<strong>受害者</strong>被立即送往医院。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The team celebrated their <span class='blank'>_____</span> with a big party after the game.",
+    "answer": "victory",
+    "explain": "victory n. 胜利。",
+    "translation": "球队在赛后举行盛大派对庆祝<strong>胜利</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "We watched a short <span class='blank'>_____</span> about the history of the ancient city.",
+    "answer": "video",
+    "explain": "video n. 视频。",
+    "translation": "我们看了一段关于这座古城历史的短<strong>视频</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "They <span class='blank'>_____</span> the entire wedding ceremony with two cameras.",
+    "answer": "videoed",
+    "explain": "video v. 录像。过去式 videoed。",
+    "translation": "他们用两台摄像机<strong>录制了</strong>整场婚礼。",
+    "pool": "PAST"
+  },
+  {
+    "q": "The hotel room has a beautiful <span class='blank'>_____</span> of the mountains and lake.",
+    "answer": "view",
+    "explain": "view n. 景色。",
+    "translation": "酒店房间可以看到山和湖的美丽<strong>景色</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The painting was <span class='blank'>_____</span> by thousands of people at the museum.",
+    "answer": "viewed",
+    "explain": "view v. 观看。过去式 viewed。",
+    "translation": "这幅画在博物馆被成千上万人<strong>观看</strong>。",
+    "pool": "PAST"
+  },
+  {
+    "q": "The small <span class='blank'>_____</span> has only one shop and a school for local children.",
+    "answer": "village",
+    "explain": "village n. 村庄。",
+    "translation": "这个小<strong>村庄</strong>只有一家商店和一所供当地孩子上学的学校。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The police are working hard to stop street <span class='blank'>_____</span> in the city center.",
+    "answer": "violence",
+    "explain": "violence n. 暴力。",
+    "translation": "警方正在努力制止市中心的街头<strong>暴力</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "She has played the <span class='blank'>_____</span> since she was six years old.",
+    "answer": "violin",
+    "explain": "violin n. 小提琴。",
+    "translation": "她从六岁起就开始拉<strong>小提琴</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The company held a <span class='blank'>_____</span> meeting because everyone worked from home.",
+    "answer": "virtual",
+    "explain": "virtual adj. 虚拟的。",
+    "translation": "公司举行了<strong>虚拟</strong>会议，因为大家都在家办公。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Patience is a <span class='blank'>_____</span> that helps you succeed in difficult situations.",
+    "answer": "virtue",
+    "explain": "virtue n. 美德。",
+    "translation": "耐心是一种能帮助你在困境中取得成功的<strong>美德</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "A computer <span class='blank'>_____</span> can destroy important files on your hard drive.",
+    "answer": "virus",
+    "explain": "virus n. 病毒。",
+    "translation": "计算机<strong>病毒</strong>可能破坏你硬盘上的重要文件。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The stars are clearly <span class='blank'>_____</span> on a dark night away from city lights.",
+    "answer": "visible",
+    "explain": "visible adj. 可见的。",
+    "translation": "在远离城市灯光的黑夜中，星星清晰<strong>可见</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The leader had a clear <span class='blank'>_____</span> of how the city should look in ten years.",
+    "answer": "vision",
+    "explain": "vision n. 愿景。",
+    "translation": "这位领导人对城市十年后的面貌有清晰的<strong>愿景</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "During our <span class='blank'>_____</span> to the zoo, we saw many rare animals.",
+    "answer": "visit",
+    "explain": "visit n. 参观。",
+    "translation": "在我们<strong>参观</strong>动物园期间，我们看到了许多珍稀动物。",
+    "pool": "BASE"
+  },
+  {
+    "q": "We <span class='blank'>_____</span> the old castle and learned about its interesting history.",
+    "answer": "visited",
+    "explain": "visit v. 参观。过去式 visited。",
+    "translation": "我们<strong>参观了</strong>古堡，了解了它有趣的历史。",
+    "pool": "PAST"
+  },
+  {
+    "q": "The museum welcomes thousands of <span class='blank'>_____</span> from around the world.",
+    "answer": "visitors",
+    "explain": "visitor n. 参观者；游客。",
+    "translation": "博物馆每年欢迎成千上万来自世界各地的<strong>参观者</strong>。",
+    "pool": "PLURAL"
+  },
+  {
+    "q": "The report includes many <span class='blank'>_____</span> aids like charts and pictures.",
+    "answer": "visual",
+    "explain": "visual adj. 视觉的。",
+    "translation": "报告包含许多<strong>视觉</strong>辅助工具，如图表和图片。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The presentation included a powerful <span class='blank'>_____</span> that explained the idea clearly.",
+    "answer": "visual",
+    "explain": "visual n. 视觉资料。",
+    "translation": "演示文稿中包含一个强有力的<strong>视觉资料</strong>，清晰地解释了这个概念。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Clean water is <span class='blank'>_____</span> for the health of all living things on Earth.",
+    "answer": "vital",
+    "explain": "vital adj. 至关重要的。",
+    "translation": "清洁的水对地球上所有生物的生存<strong>至关重要</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The artist used <span class='blank'>_____</span> colors to make the painting look full of life.",
+    "answer": "vivid",
+    "explain": "vivid adj. 生动的。",
+    "translation": "艺术家使用了<strong>生动的</strong>色彩，使画作充满活力。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Reading books is one of the best ways to build your English <span class='blank'>_____</span>.",
+    "answer": "vocabulary",
+    "explain": "vocabulary n. 词汇。",
+    "translation": "阅读是积累英语<strong>词汇</strong>的最佳方式之一。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The singer has a beautiful <span class='blank'>_____</span> that fills the entire concert hall.",
+    "answer": "voice",
+    "explain": "voice n. 声音；嗓音。",
+    "translation": "这位歌手拥有美丽的<strong>嗓音</strong>，充满了整个音乐厅。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Several parents <span class='blank'>_____</span> their concerns about the new school policy.",
+    "answer": "voiced",
+    "explain": "voice v. 表达。过去式 voiced。",
+    "translation": "几位家长<strong>表达了</strong>他们对新学校政策的担忧。",
+    "pool": "PAST"
+  },
+  {
+    "q": "The <span class='blank'>_____</span> erupted last year and sent ash high into the sky.",
+    "answer": "volcano",
+    "explain": "volcano n. 火山。",
+    "translation": "这座<strong>火山</strong>去年喷发，将火山灰高高地送入天空。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Our school team won the <span class='blank'>_____</span> match against the visiting team.",
+    "answer": "volleyball",
+    "explain": "volleyball n. 排球。",
+    "translation": "我们校队在对阵客队的<strong>排球</strong>比赛中获胜。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Please turn down the <span class='blank'>_____</span> of the music; it is too loud for me.",
+    "answer": "volume",
+    "explain": "volume n. 音量。",
+    "translation": "请把音乐的<strong>音量</strong>调低，对我来说太响了。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The <span class='blank'>_____</span> helped serve food to the homeless at the shelter.",
+    "answer": "volunteer",
+    "explain": "volunteer n. 志愿者。",
+    "translation": "这名<strong>志愿者</strong>在收容所帮忙为无家可归者提供食物。",
+    "pool": "BASE"
+  },
+  {
+    "q": "She <span class='blank'>_____</span> to help clean up the park after the festival ended.",
+    "answer": "volunteered",
+    "explain": "volunteer v. 自愿。过去式 volunteered。",
+    "translation": "节日结束后，她<strong>自愿</strong>帮忙清理公园。",
+    "pool": "PAST"
+  },
+  {
+    "q": "The final <span class='blank'>_____</span> was very close, with only ten votes between the two sides.",
+    "answer": "vote",
+    "explain": "vote n. 投票。",
+    "translation": "最终<strong>投票</strong>结果非常接近，双方仅差十票。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The committee <span class='blank'>_____</span> to accept the new plan by a large majority.",
+    "answer": "voted",
+    "explain": "vote v. 投票。过去式 voted。",
+    "translation": "委员会以绝大多数<strong>投票</strong>通过了新计划。",
+    "pool": "PAST"
+  }
+]

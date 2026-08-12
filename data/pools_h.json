@@ -1,0 +1,657 @@
+{
+  "BASE": [
+    "habit",
+    "habitat",
+    "hair",
+    "half",
+    "hall",
+    "ham",
+    "hamburger",
+    "hand",
+    "handbag",
+    "handkerchief",
+    "handle",
+    "handsome",
+    "handwriting",
+    "hang",
+    "happen",
+    "happy",
+    "hard",
+    "hardly",
+    "harm",
+    "harmful",
+    "harmonious",
+    "harmony",
+    "harvest",
+    "hat",
+    "hatch",
+    "hate",
+    "have",
+    "head",
+    "headache",
+    "health",
+    "healthy",
+    "hear",
+    "heart",
+    "heat",
+    "heavy",
+    "height",
+    "help",
+    "helpful",
+    "hen",
+    "hence",
+    "herb",
+    "here",
+    "hero",
+    "hesitate",
+    "hide",
+    "high",
+    "highlight",
+    "hike",
+    "hill",
+    "hire",
+    "historic",
+    "history",
+    "hit",
+    "hobby",
+    "hold",
+    "hole",
+    "holiday",
+    "home",
+    "hometown",
+    "homework",
+    "honest",
+    "honey",
+    "honour",
+    "hope",
+    "horrible",
+    "horse",
+    "hospital",
+    "host",
+    "hot",
+    "hotel",
+    "hour",
+    "house",
+    "household",
+    "housework",
+    "housing",
+    "how",
+    "however",
+    "hug",
+    "huge",
+    "human",
+    "humble",
+    "humorous",
+    "hundred",
+    "hungry",
+    "hunt",
+    "hurricane",
+    "hurry",
+    "hurt",
+    "husband",
+    "hydrogen"
+  ],
+  "PLURAL": [
+    "habits",
+    "habitats",
+    "hairs",
+    "halves",
+    "halls",
+    "hams",
+    "hamburgers",
+    "hands",
+    "handbags",
+    "handkerchiefs",
+    "handles",
+    "harms",
+    "harmonies",
+    "harvests",
+    "hats",
+    "hatches",
+    "hates",
+    "heads",
+    "headaches",
+    "hearts",
+    "heats",
+    "heights",
+    "helps",
+    "hens",
+    "herbs",
+    "heroes",
+    "hides",
+    "highlights",
+    "hikes",
+    "hills",
+    "hires",
+    "histories",
+    "hits",
+    "hobbies",
+    "holds",
+    "holes",
+    "holidays",
+    "homes",
+    "hometowns",
+    "honeys",
+    "honours",
+    "hopes",
+    "horses",
+    "hospitals",
+    "hosts",
+    "hotels",
+    "hours",
+    "houses",
+    "households",
+    "housings",
+    "hugs",
+    "humans",
+    "hundreds",
+    "hunts",
+    "hurricanes",
+    "hurries",
+    "hurts",
+    "husbands"
+  ],
+  "THIRD": [
+    "hands",
+    "handles",
+    "hangs",
+    "happens",
+    "harms",
+    "harvests",
+    "hatches",
+    "hates",
+    "has",
+    "heads",
+    "hears",
+    "heats",
+    "helps",
+    "hesitates",
+    "hides",
+    "highlights",
+    "hikes",
+    "hires",
+    "hits",
+    "holds",
+    "honours",
+    "hopes",
+    "hosts",
+    "houses",
+    "hugs",
+    "hunts",
+    "hurries",
+    "hurts"
+  ],
+  "ING": [
+    "handing",
+    "handling",
+    "hanging",
+    "happening",
+    "harming",
+    "harvesting",
+    "hatching",
+    "hating",
+    "having",
+    "heading",
+    "hearing",
+    "heating",
+    "helping",
+    "hesitating",
+    "hiding",
+    "highlighting",
+    "hiking",
+    "hiring",
+    "hitting",
+    "holding",
+    "honouring",
+    "hoping",
+    "hosting",
+    "housing",
+    "hugging",
+    "hunting",
+    "hurrying",
+    "hurting"
+  ],
+  "PAST": [
+    "handed",
+    "handled",
+    "hung",
+    "happened",
+    "harmed",
+    "harvested",
+    "hatched",
+    "hated",
+    "had",
+    "headed",
+    "heard",
+    "heated",
+    "helped",
+    "hesitated",
+    "hid",
+    "hidden",
+    "highlighted",
+    "hiked",
+    "hired",
+    "hit",
+    "held",
+    "honoured",
+    "hoped",
+    "hosted",
+    "housed",
+    "hugged",
+    "hunted",
+    "hurried",
+    "hurt"
+  ],
+  "COMP": [
+    "happier",
+    "harder",
+    "healthier",
+    "heavier",
+    "higher",
+    "hotter",
+    "humbler",
+    "hungrier"
+  ],
+  "SUPER": [
+    "happiest",
+    "hardest",
+    "healthiest",
+    "heaviest",
+    "highest",
+    "hottest",
+    "humblest",
+    "hungriest"
+  ],
+  "DICT": {
+    "habit": "n. 习惯",
+    "habitat": "n. 栖息地",
+    "hair": "n. 头发",
+    "half": "n. 一半",
+    "hall": "n. 大厅",
+    "ham": "n. 火腿",
+    "hamburger": "n. 汉堡包",
+    "hand": "n. 手 / v. 交给",
+    "handbag": "n. 手提包",
+    "handkerchief": "n. 手帕",
+    "handle": "n. 把手 / v. 处理",
+    "handsome": "adj. 英俊的",
+    "handwriting": "n. 书法",
+    "hang": "v. 悬挂；绞死",
+    "happen": "v. 发生",
+    "happy": "adj. 快乐的",
+    "hard": "adj. 困难的 / adv. 努力地",
+    "hardly": "adv. 几乎不",
+    "harm": "n. 伤害 / v. 伤害",
+    "harmful": "adj. 有害的",
+    "harmonious": "adj. 和谐的",
+    "harmony": "n. 和谐",
+    "harvest": "n. 收获 / v. 收割",
+    "hat": "n. 帽子",
+    "hatch": "n. 舱口 / v. 孵化",
+    "hate": "n. 恨 / v. 憎恨",
+    "have": "v. 有",
+    "head": "n. 头 / v. 朝…行进",
+    "headache": "n. 头痛",
+    "health": "n. 健康",
+    "healthy": "adj. 健康的",
+    "hear": "v. 听见",
+    "heart": "n. 心脏",
+    "heat": "n. 热 / v. 加热",
+    "heavy": "adj. 重的",
+    "height": "n. 高度",
+    "help": "n. 帮助 / v. 帮助",
+    "helpful": "adj. 有帮助的",
+    "hen": "n. 母鸡",
+    "hence": "adv. 因此",
+    "herb": "n. 草药",
+    "here": "adv. 这里",
+    "hero": "n. 英雄",
+    "hesitate": "v. 犹豫",
+    "hide": "n. 兽皮 / v. 隐藏",
+    "high": "adj. 高的 / adv. 高地",
+    "highlight": "n. 亮点 / v. 强调",
+    "hike": "n. 远足 / v. 远足",
+    "hill": "n. 小山",
+    "hire": "n. 租用 / v. 雇用",
+    "historic": "adj. 历史的",
+    "history": "n. 历史",
+    "hit": "n. 打击 / v. 打击",
+    "hobby": "n. 爱好",
+    "hold": "n. 握住 / v. 握住",
+    "hole": "n. 洞",
+    "holiday": "n. 假期",
+    "home": "n. 家 / adv. 在家",
+    "hometown": "n. 家乡",
+    "homework": "n. 家庭作业",
+    "honest": "adj. 诚实的",
+    "honey": "n. 蜂蜜",
+    "honour": "n. 荣誉 / v. 尊敬",
+    "hope": "n. 希望 / v. 希望",
+    "horrible": "adj. 可怕的",
+    "horse": "n. 马",
+    "hospital": "n. 医院",
+    "host": "n. 主人 / v. 主办",
+    "hot": "adj. 热的",
+    "hotel": "n. 旅馆",
+    "hour": "n. 小时",
+    "house": "n. 房子 / v. 给…提供住处",
+    "household": "n. 家庭 / adj. 家庭的",
+    "housework": "n. 家务",
+    "housing": "n. 住房",
+    "how": "adv. 怎样",
+    "however": "adv. 然而",
+    "hug": "n. 拥抱 / v. 拥抱",
+    "huge": "adj. 巨大的",
+    "human": "n. 人 / adj. 人类的",
+    "humble": "adj. 谦逊的",
+    "humorous": "adj. 幽默的",
+    "hundred": "n. 一百",
+    "hungry": "adj. 饥饿的",
+    "hunt": "n. 狩猎 / v. 狩猎",
+    "hurricane": "n. 飓风",
+    "hurry": "n. 匆忙 / v. 赶快",
+    "hurt": "n. 伤害 / v. 伤害",
+    "husband": "n. 丈夫",
+    "hydrogen": "n. 氢"
+  },
+  "POS": {
+    "habit": [
+      "n"
+    ],
+    "habitat": [
+      "n"
+    ],
+    "hair": [
+      "n"
+    ],
+    "half": [
+      "n"
+    ],
+    "hall": [
+      "n"
+    ],
+    "ham": [
+      "n"
+    ],
+    "hamburger": [
+      "n"
+    ],
+    "hand": [
+      "n",
+      "v"
+    ],
+    "handbag": [
+      "n"
+    ],
+    "handkerchief": [
+      "n"
+    ],
+    "handle": [
+      "n",
+      "v"
+    ],
+    "handsome": [
+      "adj"
+    ],
+    "handwriting": [
+      "n"
+    ],
+    "hang": [
+      "v"
+    ],
+    "happen": [
+      "v"
+    ],
+    "happy": [
+      "adj"
+    ],
+    "hard": [
+      "adj",
+      "adv"
+    ],
+    "hardly": [
+      "adv"
+    ],
+    "harm": [
+      "n",
+      "v"
+    ],
+    "harmful": [
+      "adj"
+    ],
+    "harmonious": [
+      "adj"
+    ],
+    "harmony": [
+      "n"
+    ],
+    "harvest": [
+      "n",
+      "v"
+    ],
+    "hat": [
+      "n"
+    ],
+    "hatch": [
+      "n",
+      "v"
+    ],
+    "hate": [
+      "n",
+      "v"
+    ],
+    "have": [
+      "v"
+    ],
+    "head": [
+      "n",
+      "v"
+    ],
+    "headache": [
+      "n"
+    ],
+    "health": [
+      "n"
+    ],
+    "healthy": [
+      "adj"
+    ],
+    "hear": [
+      "v"
+    ],
+    "heart": [
+      "n"
+    ],
+    "heat": [
+      "n",
+      "v"
+    ],
+    "heavy": [
+      "adj"
+    ],
+    "height": [
+      "n"
+    ],
+    "help": [
+      "n",
+      "v"
+    ],
+    "helpful": [
+      "adj"
+    ],
+    "hen": [
+      "n"
+    ],
+    "hence": [
+      "adv"
+    ],
+    "herb": [
+      "n"
+    ],
+    "here": [
+      "adv"
+    ],
+    "hero": [
+      "n"
+    ],
+    "hesitate": [
+      "v"
+    ],
+    "hide": [
+      "n",
+      "v"
+    ],
+    "high": [
+      "adj",
+      "adv"
+    ],
+    "highlight": [
+      "n",
+      "v"
+    ],
+    "hike": [
+      "n",
+      "v"
+    ],
+    "hill": [
+      "n"
+    ],
+    "hire": [
+      "n",
+      "v"
+    ],
+    "historic": [
+      "adj"
+    ],
+    "history": [
+      "n"
+    ],
+    "hit": [
+      "n",
+      "v"
+    ],
+    "hobby": [
+      "n"
+    ],
+    "hold": [
+      "n",
+      "v"
+    ],
+    "hole": [
+      "n"
+    ],
+    "holiday": [
+      "n"
+    ],
+    "home": [
+      "n",
+      "adv"
+    ],
+    "hometown": [
+      "n"
+    ],
+    "homework": [
+      "n"
+    ],
+    "honest": [
+      "adj"
+    ],
+    "honey": [
+      "n"
+    ],
+    "honour": [
+      "n",
+      "v"
+    ],
+    "hope": [
+      "n",
+      "v"
+    ],
+    "horrible": [
+      "adj"
+    ],
+    "horse": [
+      "n"
+    ],
+    "hospital": [
+      "n"
+    ],
+    "host": [
+      "n",
+      "v"
+    ],
+    "hot": [
+      "adj"
+    ],
+    "hotel": [
+      "n"
+    ],
+    "hour": [
+      "n"
+    ],
+    "house": [
+      "n",
+      "v"
+    ],
+    "household": [
+      "n",
+      "adj"
+    ],
+    "housework": [
+      "n"
+    ],
+    "housing": [
+      "n"
+    ],
+    "how": [
+      "adv"
+    ],
+    "however": [
+      "adv"
+    ],
+    "hug": [
+      "n",
+      "v"
+    ],
+    "huge": [
+      "adj"
+    ],
+    "human": [
+      "n",
+      "adj"
+    ],
+    "humble": [
+      "adj"
+    ],
+    "humorous": [
+      "adj"
+    ],
+    "hundred": [
+      "n"
+    ],
+    "hungry": [
+      "adj"
+    ],
+    "hunt": [
+      "n",
+      "v"
+    ],
+    "hurricane": [
+      "n"
+    ],
+    "hurry": [
+      "n",
+      "v"
+    ],
+    "hurt": [
+      "n",
+      "v"
+    ],
+    "husband": [
+      "n"
+    ],
+    "hydrogen": [
+      "n"
+    ]
+  }
+}

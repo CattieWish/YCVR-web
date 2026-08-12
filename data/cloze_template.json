@@ -1,0 +1,9 @@
+[
+  {
+    "q": "英文句子，用 <span class='blank'>_____</span> 标记填空位置",
+    "answer": "答案单词",
+    "explain": "单词 词性. 中文释义。",
+    "translation": "中文翻译，答案词用 <strong>答案词</strong> 加粗",
+    "pool": "BASE"
+  }
+]

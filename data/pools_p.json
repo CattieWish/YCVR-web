@@ -1,0 +1,1723 @@
+{
+  "BASE": [
+    "pace",
+    "pack",
+    "package",
+    "page",
+    "pain",
+    "paint",
+    "pair",
+    "palace",
+    "pale",
+    "pan",
+    "pancake",
+    "panda",
+    "panel",
+    "panic",
+    "paper",
+    "paragraph",
+    "parcel",
+    "pardon",
+    "parent",
+    "park",
+    "parking",
+    "part",
+    "participate",
+    "particular",
+    "partner",
+    "party",
+    "pass",
+    "passage",
+    "passenger",
+    "passion",
+    "passive",
+    "passport",
+    "past",
+    "patent",
+    "path",
+    "patience",
+    "patient",
+    "pattern",
+    "pay",
+    "peace",
+    "peak",
+    "pear",
+    "pen",
+    "pencil",
+    "people",
+    "pepper",
+    "perceive",
+    "percent",
+    "percentage",
+    "perfect",
+    "performance",
+    "perhaps",
+    "period",
+    "permanent",
+    "permit",
+    "person",
+    "personal",
+    "personality",
+    "persuade",
+    "pessimistic",
+    "pet",
+    "petrol",
+    "phase",
+    "phenomenon",
+    "philosophy",
+    "phone",
+    "photo",
+    "photographer",
+    "phrase",
+    "physician",
+    "physics",
+    "piano",
+    "pick",
+    "picnic",
+    "picture",
+    "pie",
+    "piece",
+    "pig",
+    "pill",
+    "pilot",
+    "pink",
+    "pioneer",
+    "pipe",
+    "pity",
+    "place",
+    "plain",
+    "plan",
+    "plane",
+    "planet",
+    "plant",
+    "plastic",
+    "plate",
+    "platform",
+    "play",
+    "player",
+    "playground",
+    "pleasant",
+    "please",
+    "pleasure",
+    "plenty",
+    "plot",
+    "plug",
+    "pocket",
+    "poem",
+    "poet",
+    "poetry",
+    "point",
+    "poison",
+    "polar",
+    "pole",
+    "police",
+    "policeman",
+    "policewoman",
+    "policy",
+    "polish",
+    "polite",
+    "political",
+    "politician",
+    "politics",
+    "pollute",
+    "pollution",
+    "pond",
+    "pool",
+    "poor",
+    "popular",
+    "population",
+    "pork",
+    "port",
+    "pose",
+    "position",
+    "positive",
+    "possession",
+    "possible",
+    "post",
+    "postcard",
+    "poster",
+    "postman",
+    "postpone",
+    "pot",
+    "potato",
+    "potential",
+    "pound",
+    "pour",
+    "power",
+    "practical",
+    "practice",
+    "praise",
+    "pray",
+    "precious",
+    "precisely",
+    "predict",
+    "prefer",
+    "preference",
+    "prejudice",
+    "premier",
+    "prepare",
+    "present",
+    "presentation",
+    "preserve",
+    "president",
+    "press",
+    "pressure",
+    "pretend",
+    "pretty",
+    "prevent",
+    "previous",
+    "price",
+    "pride",
+    "primary",
+    "primitive",
+    "principle",
+    "print",
+    "prior",
+    "priority",
+    "prison",
+    "private",
+    "prize",
+    "probably",
+    "problem",
+    "procedure",
+    "proceed",
+    "process",
+    "produce",
+    "product",
+    "profession",
+    "professional",
+    "professor",
+    "profile",
+    "profit",
+    "programme",
+    "progress",
+    "prohibit",
+    "project",
+    "promise",
+    "promote",
+    "pronounce",
+    "pronunciation",
+    "proof",
+    "proper",
+    "property",
+    "proposal",
+    "prospect",
+    "protect",
+    "protein",
+    "protest",
+    "proud",
+    "prove",
+    "provide",
+    "province",
+    "psychology",
+    "pub",
+    "public",
+    "publish",
+    "pudding",
+    "pull",
+    "punish",
+    "pupil",
+    "purchase",
+    "pure",
+    "purple",
+    "purpose",
+    "purse",
+    "pursue",
+    "push",
+    "put"
+  ],
+  "PLURAL": [
+    "paces",
+    "packages",
+    "packs",
+    "pages",
+    "pains",
+    "paints",
+    "pairs",
+    "palaces",
+    "pancakes",
+    "pandas",
+    "panels",
+    "pans",
+    "papers",
+    "paragraphs",
+    "parcels",
+    "pardons",
+    "parents",
+    "parks",
+    "parties",
+    "partners",
+    "parts",
+    "passages",
+    "passengers",
+    "passes",
+    "passions",
+    "passports",
+    "patents",
+    "paths",
+    "patients",
+    "patterns",
+    "peaks",
+    "pears",
+    "pencils",
+    "pens",
+    "peppers",
+    "percentages",
+    "performances",
+    "periods",
+    "permits",
+    "personalities",
+    "persons",
+    "pets",
+    "phases",
+    "phenomena",
+    "philosophies",
+    "phones",
+    "photographers",
+    "photos",
+    "phrases",
+    "physicians",
+    "pianos",
+    "picks",
+    "picnics",
+    "pictures",
+    "pieces",
+    "pies",
+    "pigs",
+    "pills",
+    "pilots",
+    "pioneers",
+    "pipes",
+    "places",
+    "plains",
+    "planes",
+    "planets",
+    "plans",
+    "plants",
+    "plates",
+    "platforms",
+    "players",
+    "playgrounds",
+    "plays",
+    "pleasures",
+    "plots",
+    "plugs",
+    "pockets",
+    "poems",
+    "poets",
+    "points",
+    "poisons",
+    "poles",
+    "policemen",
+    "policewomen",
+    "policies",
+    "politicians",
+    "ponds",
+    "pools",
+    "populations",
+    "ports",
+    "poses",
+    "positions",
+    "possessions",
+    "postcards",
+    "posters",
+    "postmen",
+    "posts",
+    "potatoes",
+    "pots",
+    "pounds",
+    "powers",
+    "practices",
+    "preferences",
+    "prejudices",
+    "premiers",
+    "presentations",
+    "presents",
+    "presidents",
+    "pressures",
+    "prices",
+    "primaries",
+    "principles",
+    "prints",
+    "priorities",
+    "prisons",
+    "privates",
+    "prizes",
+    "problems",
+    "procedures",
+    "processes",
+    "products",
+    "professionals",
+    "professions",
+    "professors",
+    "profiles",
+    "profits",
+    "programmes",
+    "projects",
+    "promises",
+    "pronunciations",
+    "proofs",
+    "properties",
+    "proposals",
+    "prospects",
+    "proteins",
+    "protests",
+    "provinces",
+    "pubs",
+    "puddings",
+    "pulls",
+    "pupils",
+    "purchases",
+    "purposes",
+    "purses",
+    "pushes"
+  ],
+  "THIRD": [
+    "paces",
+    "packages",
+    "packs",
+    "pages",
+    "paints",
+    "pairs",
+    "panics",
+    "papers",
+    "pardons",
+    "parks",
+    "participates",
+    "parties",
+    "partners",
+    "parts",
+    "passes",
+    "patents",
+    "patterns",
+    "pays",
+    "peaks",
+    "pencils",
+    "pens",
+    "peoples",
+    "peppers",
+    "perceives",
+    "perfects",
+    "permits",
+    "persuades",
+    "pets",
+    "phases",
+    "phones",
+    "photos",
+    "phrases",
+    "picks",
+    "picnics",
+    "pictures",
+    "pieces",
+    "pilots",
+    "pioneers",
+    "pipes",
+    "pities",
+    "places",
+    "plans",
+    "plants",
+    "plates",
+    "plays",
+    "pleases",
+    "plots",
+    "plugs",
+    "pockets",
+    "points",
+    "poisons",
+    "poles",
+    "polices",
+    "polishes",
+    "pollutes",
+    "pools",
+    "poses",
+    "positions",
+    "postpones",
+    "posts",
+    "pots",
+    "pounds",
+    "pours",
+    "powers",
+    "practices",
+    "praises",
+    "prays",
+    "predicts",
+    "prefers",
+    "prejudices",
+    "prepares",
+    "presents",
+    "preserves",
+    "presses",
+    "pressures",
+    "pretends",
+    "prevents",
+    "prices",
+    "prides",
+    "prints",
+    "prizes",
+    "proceeds",
+    "processes",
+    "produces",
+    "profiles",
+    "profits",
+    "programmes",
+    "progresses",
+    "prohibits",
+    "projects",
+    "promises",
+    "promotes",
+    "pronounces",
+    "proofs",
+    "prospects",
+    "protects",
+    "protests",
+    "proves",
+    "provides",
+    "publishes",
+    "pulls",
+    "punishes",
+    "purchases",
+    "pursues",
+    "pushes",
+    "puts"
+  ],
+  "ING": [
+    "pacing",
+    "packaging",
+    "packing",
+    "paging",
+    "painting",
+    "pairing",
+    "panicking",
+    "papering",
+    "pardoning",
+    "parking",
+    "participating",
+    "parting",
+    "partnering",
+    "partying",
+    "passing",
+    "patenting",
+    "patterning",
+    "paying",
+    "peaking",
+    "penciling",
+    "penning",
+    "peopling",
+    "peppering",
+    "perceiving",
+    "perfecting",
+    "permitting",
+    "persuading",
+    "petting",
+    "phasing",
+    "phoning",
+    "photoing",
+    "phrasing",
+    "picking",
+    "picnicking",
+    "picturing",
+    "piecing",
+    "piloting",
+    "pioneering",
+    "piping",
+    "pitying",
+    "placing",
+    "planning",
+    "planting",
+    "plating",
+    "playing",
+    "pleasing",
+    "plotting",
+    "plugging",
+    "pocketing",
+    "pointing",
+    "poisoning",
+    "policing",
+    "poling",
+    "polishing",
+    "polluting",
+    "pooling",
+    "posing",
+    "positioning",
+    "posting",
+    "postponing",
+    "potting",
+    "pounding",
+    "pouring",
+    "powering",
+    "practicing",
+    "praising",
+    "praying",
+    "predicting",
+    "preferring",
+    "prejudicing",
+    "preparing",
+    "presenting",
+    "preserving",
+    "pressing",
+    "pressuring",
+    "pretending",
+    "preventing",
+    "pricing",
+    "priding",
+    "printing",
+    "prizing",
+    "proceeding",
+    "processing",
+    "producing",
+    "profiling",
+    "profiting",
+    "programming",
+    "progressing",
+    "prohibiting",
+    "projecting",
+    "promising",
+    "promoting",
+    "pronouncing",
+    "proofing",
+    "prospecting",
+    "protecting",
+    "protesting",
+    "providing",
+    "proving",
+    "publishing",
+    "pulling",
+    "punishing",
+    "purchasing",
+    "pursuing",
+    "pushing",
+    "putting"
+  ],
+  "PAST": [
+    "paced",
+    "packaged",
+    "packed",
+    "paged",
+    "paid",
+    "painted",
+    "paired",
+    "panicked",
+    "papered",
+    "pardoned",
+    "parked",
+    "parted",
+    "participated",
+    "partied",
+    "partnered",
+    "passed",
+    "patented",
+    "patterned",
+    "peaked",
+    "penciled",
+    "penned",
+    "peopled",
+    "peppered",
+    "perceived",
+    "perfected",
+    "permitted",
+    "persuaded",
+    "petted",
+    "phased",
+    "phoned",
+    "photoed",
+    "phrased",
+    "picked",
+    "picnicked",
+    "pictured",
+    "pieced",
+    "piloted",
+    "pioneered",
+    "piped",
+    "pitied",
+    "placed",
+    "planned",
+    "planted",
+    "plated",
+    "played",
+    "pleased",
+    "plotted",
+    "plugged",
+    "pocketed",
+    "pointed",
+    "poisoned",
+    "poled",
+    "policed",
+    "polished",
+    "polluted",
+    "pooled",
+    "posed",
+    "positioned",
+    "posted",
+    "postponed",
+    "potted",
+    "pounded",
+    "poured",
+    "powered",
+    "practiced",
+    "praised",
+    "prayed",
+    "predicted",
+    "preferred",
+    "prejudiced",
+    "prepared",
+    "presented",
+    "preserved",
+    "pressed",
+    "pressured",
+    "pretended",
+    "prevented",
+    "priced",
+    "prided",
+    "printed",
+    "prized",
+    "proceeded",
+    "processed",
+    "produced",
+    "profiled",
+    "profited",
+    "programmed",
+    "progressed",
+    "prohibited",
+    "projected",
+    "promised",
+    "promoted",
+    "pronounced",
+    "proofed",
+    "prospected",
+    "protected",
+    "protested",
+    "proved",
+    "provided",
+    "published",
+    "pulled",
+    "punished",
+    "purchased",
+    "pursued",
+    "pushed",
+    "put"
+  ],
+  "COMP": [
+    "paler",
+    "plainer",
+    "politer",
+    "poorer",
+    "prettier",
+    "prouder",
+    "purer"
+  ],
+  "SUPER": [
+    "palest",
+    "plainest",
+    "politest",
+    "poorest",
+    "prettiest",
+    "proudest",
+    "purest"
+  ],
+  "DICT": {
+    "pace": "n. 步速，节奏 / v. 踱步",
+    "pack": "n. 包，包裹 / v. 打包，收拾",
+    "package": "n. 包裹；包装 / v. 包装",
+    "page": "n. 页 / v. 呼叫，传呼",
+    "pain": "n. 疼痛，痛苦",
+    "paint": "n. 油漆，涂料 / v. 粉刷；绘画",
+    "pair": "n. 一双，一对 / v. 使成对，配对",
+    "palace": "n. 宫殿",
+    "pale": "adj. 苍白的；浅色的",
+    "pan": "n. 平底锅",
+    "pancake": "n. 薄煎饼",
+    "panda": "n. 熊猫",
+    "panel": "n. 面板；专门小组",
+    "panic": "n. 恐慌 / v. 惊慌",
+    "paper": "n. 纸；报纸；论文 / v. 裱糊，贴纸",
+    "paragraph": "n. 段落",
+    "parcel": "n. 包裹",
+    "pardon": "n. 赦免；原谅 / v. 赦免；原谅",
+    "parent": "n. 父亲或母亲，家长",
+    "park": "n. 公园 / v. 停车",
+    "parking": "n. 停车；停车位",
+    "part": "n. 部分；角色 / v. 分开，分离",
+    "participate": "v. 参加，参与",
+    "particular": "adj. 特定的；挑剔的",
+    "partner": "n. 伙伴，搭档 / v. 与…合作",
+    "party": "n. 聚会；政党 / v. 参加聚会，狂欢",
+    "pass": "n. 通行证 / v. 通过；传递",
+    "passage": "n. 通道；段落",
+    "passenger": "n. 乘客",
+    "passion": "n. 热情，酷爱",
+    "passive": "adj. 被动的，消极的",
+    "passport": "n. 护照",
+    "past": "n. 过去，往事 / adj. 过去的",
+    "patent": "n. 专利 / v. 获得专利",
+    "path": "n. 小路，路径",
+    "patience": "n. 耐心",
+    "patient": "n. 病人 / adj. 有耐心的",
+    "pattern": "n. 图案；模式 / v. 使形成图案",
+    "pay": "n. 工资，报酬 / v. 支付",
+    "peace": "n. 和平；平静",
+    "peak": "n. 山峰；顶峰 / v. 达到顶峰 / adj. 高峰的",
+    "pear": "n. 梨",
+    "pen": "n. 钢笔 / v. 写，撰写",
+    "pencil": "n. 铅笔 / v. 用铅笔写（或画）",
+    "people": "n. 人们；人民 / v. 居住于",
+    "pepper": "n. 胡椒；甜椒 / v. 撒胡椒粉",
+    "perceive": "v. 察觉，意识到；理解",
+    "percent": "n. 百分比，百分数",
+    "percentage": "n. 百分比，百分率",
+    "perfect": "adj. 完美的 / v. 使完善",
+    "performance": "n. 表演；表现",
+    "perhaps": "adv. 也许，可能",
+    "period": "n. 时期；一段时间；课时",
+    "permanent": "adj. 永久的，持久的",
+    "permit": "n. 许可证 / v. 允许",
+    "person": "n. 人，个人",
+    "personal": "adj. 个人的，私人的",
+    "personality": "n. 个性，性格",
+    "persuade": "v. 说服，劝说",
+    "pessimistic": "adj. 悲观的",
+    "pet": "n. 宠物 / v. 抚摸 / adj. 宠物的；特别喜爱的",
+    "petrol": "n. 汽油",
+    "phase": "n. 阶段，时期 / v. 分阶段进行",
+    "phenomenon": "n. 现象",
+    "philosophy": "n. 哲学；人生哲学",
+    "phone": "n. 电话 / v. 打电话",
+    "photo": "n. 照片 / v. 拍照",
+    "photographer": "n. 摄影师",
+    "phrase": "n. 短语，习语 / v. 措辞",
+    "physician": "n. 医生，内科医生",
+    "physics": "n. 物理，物理学",
+    "piano": "n. 钢琴",
+    "pick": "n. 选择；精华 / v. 挑选；采摘",
+    "picnic": "n. 野餐 / v. 去野餐",
+    "picture": "n. 图画，照片 / v. 想象；描绘",
+    "pie": "n. 馅饼，派",
+    "piece": "n. 块，片；一件 / v. 拼凑，拼合",
+    "pig": "n. 猪",
+    "pill": "n. 药丸，药片",
+    "pilot": "n. 飞行员 / v. 驾驶 / adj. 试验性的",
+    "pink": "n. 粉红色 / adj. 粉红色的",
+    "pioneer": "n. 先驱，开拓者 / v. 开创，首创",
+    "pipe": "n. 管子，管道 / v. 用管道输送",
+    "pity": "n. 遗憾；同情 / v. 同情，怜悯",
+    "place": "n. 地方 / v. 放置",
+    "plain": "n. 平原 / adj. 朴素的；简单的；清楚的 / adv. 清楚地，直截了当地",
+    "plan": "n. 计划 / v. 计划，打算",
+    "plane": "n. 飞机",
+    "planet": "n. 行星",
+    "plant": "n. 植物 / v. 种植",
+    "plastic": "n. 塑料 / adj. 塑料的",
+    "plate": "n. 盘子；碟子 / v. 摆盘；镀",
+    "platform": "n. 站台，月台；平台",
+    "play": "n. 戏剧 / v. 玩；打（球）；演奏",
+    "player": "n. 运动员；演奏者；播放器",
+    "playground": "n. 操场，游乐场",
+    "pleasant": "adj. 令人愉快的",
+    "please": "v. 使高兴，取悦",
+    "pleasure": "n. 愉快，乐事",
+    "plenty": "n. 充足，大量 / adv. 非常，十分",
+    "plot": "n. 情节；阴谋 / v. 密谋，策划",
+    "plug": "n. 插头；塞子 / v. 插上插头；堵住",
+    "pocket": "n. 口袋 / v. 把…装入口袋 / adj. 袖珍的",
+    "poem": "n. 诗，诗歌",
+    "poet": "n. 诗人",
+    "poetry": "n. 诗歌（总称）",
+    "point": "n. 要点；分数；点 / v. 指，指向",
+    "poison": "n. 毒药 / v. 毒害，下毒",
+    "polar": "adj. 极地的",
+    "pole": "n. 杆，柱；极点 / v. 用篙撑（船）",
+    "police": "n. 警察（总称） / v. 巡查，维持治安",
+    "policeman": "n. （男）警察",
+    "policewoman": "n. 女警察",
+    "policy": "n. 政策，方针",
+    "polish": "n. 上光剂，擦亮剂 / v. 擦亮，磨光",
+    "polite": "adj. 有礼貌的",
+    "political": "adj. 政治的",
+    "politician": "n. 政治家，政客",
+    "politics": "n. 政治；政治活动",
+    "pollute": "v. 污染",
+    "pollution": "n. 污染",
+    "pond": "n. 池塘",
+    "pool": "n. 水池；游泳池 / v. 集中（资源），合伙使用",
+    "poor": "adj. 贫穷的；可怜的；差的",
+    "popular": "adj. 受欢迎的；流行的",
+    "population": "n. 人口",
+    "pork": "n. 猪肉",
+    "port": "n. 港口",
+    "pose": "n. 姿势 / v. 造成；摆姿势",
+    "position": "n. 位置；职位 / v. 安置，使处于",
+    "positive": "adj. 积极的；阳性的 / n. 阳性结果",
+    "possession": "n. 拥有；财产，所有物",
+    "possible": "adj. 可能的",
+    "post": "n. 柱子；帖子；邮政 / v. 张贴；发布；邮寄",
+    "postcard": "n. 明信片",
+    "poster": "n. 海报，招贴画",
+    "postman": "n. 邮递员",
+    "postpone": "v. 推迟，延期",
+    "pot": "n. 锅，罐 / v. 把…栽入盆中",
+    "potato": "n. 土豆，马铃薯",
+    "potential": "n. 潜力 / adj. 潜在的",
+    "pound": "n. 磅；英镑 / v. 猛击，砰砰地敲",
+    "pour": "v. 倒，倾倒",
+    "power": "n. 力量；权力；电力 / v. 为…提供动力",
+    "practical": "adj. 实用的，实际的",
+    "practice": "n. 练习；实践 / v. 练习",
+    "praise": "n. 赞扬，表扬 / v. 赞扬，称赞",
+    "pray": "v. 祈祷，祈求",
+    "precious": "adj. 珍贵的，宝贵的",
+    "precisely": "adv. 精确地；正好",
+    "predict": "v. 预测，预言",
+    "prefer": "v. 更喜欢，宁愿",
+    "preference": "n. 偏爱，偏好",
+    "prejudice": "n. 偏见 / v. 使产生偏见",
+    "premier": "n. 总理，首相 / adj. 首要的，顶级的",
+    "prepare": "v. 准备，预备",
+    "present": "n. 礼物；现在 / adj. 在场的；现在的 / v. 呈现；赠送；展示",
+    "presentation": "n. 展示，报告；演讲",
+    "preserve": "v. 保护，保存",
+    "president": "n. 总统；总裁；校长",
+    "press": "n. 新闻界，出版社 / v. 按，压",
+    "pressure": "n. 压力 / v. 对…施压",
+    "pretend": "v. 假装，装作",
+    "pretty": "adj. 漂亮的 / adv. 相当，很",
+    "prevent": "v. 阻止，预防",
+    "previous": "adj. 先前的，以前的",
+    "price": "n. 价格 / v. 给…定价",
+    "pride": "n. 自豪，骄傲 / v. 以…自豪",
+    "primary": "adj. 首要的；初级的 / n. 初选",
+    "primitive": "adj. 原始的，简陋的",
+    "principle": "n. 原则，原理",
+    "print": "n. 印刷字体；印迹 / v. 打印，印刷",
+    "prior": "adj. 先前的；优先的",
+    "priority": "n. 优先事项；优先权",
+    "prison": "n. 监狱",
+    "private": "adj. 私人的，私下的 / n. 列兵",
+    "prize": "n. 奖品，奖项 / v. 珍视",
+    "probably": "adv. 很可能，大概",
+    "problem": "n. 问题，难题",
+    "procedure": "n. 程序，步骤",
+    "proceed": "v. 继续进行，着手",
+    "process": "n. 过程 / v. 加工，处理",
+    "produce": "n. 农产品 / v. 生产；制造",
+    "product": "n. 产品，商品",
+    "profession": "n. 职业，行业",
+    "professional": "adj. 职业的，专业的 / n. 专业人士",
+    "professor": "n. 教授",
+    "profile": "n. 简介，档案；侧面像 / v. 为…写传略",
+    "profit": "n. 利润，收益 / v. 获利，获益",
+    "programme": "n. 节目；计划；课程 / v. 编程；设定",
+    "progress": "n. 进步，进展 / v. 进展，前进",
+    "prohibit": "v. 禁止",
+    "project": "n. 项目；课题 / v. 投射；放映",
+    "promise": "n. 承诺，诺言 / v. 承诺，答应",
+    "promote": "v. 提升；促进；推广",
+    "pronounce": "v. 发音；宣布",
+    "pronunciation": "n. 发音",
+    "proof": "n. 证据 / v. 校对；检验",
+    "proper": "adj. 合适的，恰当的",
+    "property": "n. 财产；房产",
+    "proposal": "n. 提议，建议；求婚",
+    "prospect": "n. 前景，可能性 / v. 勘探，寻找",
+    "protect": "v. 保护",
+    "protein": "n. 蛋白质",
+    "protest": "n. 抗议 / v. 抗议，反对",
+    "proud": "adj. 自豪的，骄傲的",
+    "prove": "v. 证明，证实",
+    "provide": "v. 提供，供应",
+    "province": "n. 省",
+    "psychology": "n. 心理学",
+    "pub": "n. 酒吧，酒馆",
+    "public": "adj. 公共的，公开的 / n. 公众，大众",
+    "publish": "v. 出版，发表",
+    "pudding": "n. 布丁",
+    "pull": "n. 拉，拉力 / v. 拉，拖",
+    "punish": "v. 惩罚，处罚",
+    "pupil": "n. 学生；瞳孔",
+    "purchase": "n. 购买；购买物 / v. 购买",
+    "pure": "adj. 纯的，纯净的",
+    "purple": "n. 紫色 / adj. 紫色的",
+    "purpose": "n. 目的，用途",
+    "purse": "n. 钱包，手提包",
+    "pursue": "v. 追求；从事",
+    "push": "n. 推 / v. 推，推动",
+    "put": "v. 放，放置"
+  },
+  "POS": {
+    "pace": [
+      "n",
+      "v"
+    ],
+    "pack": [
+      "n",
+      "v"
+    ],
+    "package": [
+      "n",
+      "v"
+    ],
+    "page": [
+      "n",
+      "v"
+    ],
+    "pain": [
+      "n"
+    ],
+    "paint": [
+      "n",
+      "v"
+    ],
+    "pair": [
+      "n",
+      "v"
+    ],
+    "palace": [
+      "n"
+    ],
+    "pale": [
+      "adj"
+    ],
+    "pan": [
+      "n"
+    ],
+    "pancake": [
+      "n"
+    ],
+    "panda": [
+      "n"
+    ],
+    "panel": [
+      "n"
+    ],
+    "panic": [
+      "n",
+      "v"
+    ],
+    "paper": [
+      "n",
+      "v"
+    ],
+    "paragraph": [
+      "n"
+    ],
+    "parcel": [
+      "n"
+    ],
+    "pardon": [
+      "n",
+      "v"
+    ],
+    "parent": [
+      "n"
+    ],
+    "park": [
+      "n",
+      "v"
+    ],
+    "parking": [
+      "n"
+    ],
+    "part": [
+      "n",
+      "v"
+    ],
+    "participate": [
+      "v"
+    ],
+    "particular": [
+      "adj"
+    ],
+    "partner": [
+      "n",
+      "v"
+    ],
+    "party": [
+      "n",
+      "v"
+    ],
+    "pass": [
+      "n",
+      "v"
+    ],
+    "passage": [
+      "n"
+    ],
+    "passenger": [
+      "n"
+    ],
+    "passion": [
+      "n"
+    ],
+    "passive": [
+      "adj"
+    ],
+    "passport": [
+      "n"
+    ],
+    "past": [
+      "n",
+      "adj"
+    ],
+    "patent": [
+      "n",
+      "v"
+    ],
+    "path": [
+      "n"
+    ],
+    "patience": [
+      "n"
+    ],
+    "patient": [
+      "n",
+      "adj"
+    ],
+    "pattern": [
+      "n",
+      "v"
+    ],
+    "pay": [
+      "n",
+      "v"
+    ],
+    "peace": [
+      "n"
+    ],
+    "peak": [
+      "n",
+      "v",
+      "adj"
+    ],
+    "pear": [
+      "n"
+    ],
+    "pen": [
+      "n",
+      "v"
+    ],
+    "pencil": [
+      "n",
+      "v"
+    ],
+    "people": [
+      "n",
+      "v"
+    ],
+    "pepper": [
+      "n",
+      "v"
+    ],
+    "perceive": [
+      "v"
+    ],
+    "percent": [
+      "n"
+    ],
+    "percentage": [
+      "n"
+    ],
+    "perfect": [
+      "adj",
+      "v"
+    ],
+    "performance": [
+      "n"
+    ],
+    "perhaps": [
+      "adv"
+    ],
+    "period": [
+      "n"
+    ],
+    "permanent": [
+      "adj"
+    ],
+    "permit": [
+      "n",
+      "v"
+    ],
+    "person": [
+      "n"
+    ],
+    "personal": [
+      "adj"
+    ],
+    "personality": [
+      "n"
+    ],
+    "persuade": [
+      "v"
+    ],
+    "pessimistic": [
+      "adj"
+    ],
+    "pet": [
+      "n",
+      "v",
+      "adj"
+    ],
+    "petrol": [
+      "n"
+    ],
+    "phase": [
+      "n",
+      "v"
+    ],
+    "phenomenon": [
+      "n"
+    ],
+    "philosophy": [
+      "n"
+    ],
+    "phone": [
+      "n",
+      "v"
+    ],
+    "photo": [
+      "n",
+      "v"
+    ],
+    "photographer": [
+      "n"
+    ],
+    "phrase": [
+      "n",
+      "v"
+    ],
+    "physician": [
+      "n"
+    ],
+    "physics": [
+      "n"
+    ],
+    "piano": [
+      "n"
+    ],
+    "pick": [
+      "n",
+      "v"
+    ],
+    "picnic": [
+      "n",
+      "v"
+    ],
+    "picture": [
+      "n",
+      "v"
+    ],
+    "pie": [
+      "n"
+    ],
+    "piece": [
+      "n",
+      "v"
+    ],
+    "pig": [
+      "n"
+    ],
+    "pill": [
+      "n"
+    ],
+    "pilot": [
+      "n",
+      "v",
+      "adj"
+    ],
+    "pink": [
+      "n",
+      "adj"
+    ],
+    "pioneer": [
+      "n",
+      "v"
+    ],
+    "pipe": [
+      "n",
+      "v"
+    ],
+    "pity": [
+      "n",
+      "v"
+    ],
+    "place": [
+      "n",
+      "v"
+    ],
+    "plain": [
+      "n",
+      "adj",
+      "adv"
+    ],
+    "plan": [
+      "n",
+      "v"
+    ],
+    "plane": [
+      "n"
+    ],
+    "planet": [
+      "n"
+    ],
+    "plant": [
+      "n",
+      "v"
+    ],
+    "plastic": [
+      "n",
+      "adj"
+    ],
+    "plate": [
+      "n",
+      "v"
+    ],
+    "platform": [
+      "n"
+    ],
+    "play": [
+      "n",
+      "v"
+    ],
+    "player": [
+      "n"
+    ],
+    "playground": [
+      "n"
+    ],
+    "pleasant": [
+      "adj"
+    ],
+    "please": [
+      "v"
+    ],
+    "pleasure": [
+      "n"
+    ],
+    "plenty": [
+      "n",
+      "adv"
+    ],
+    "plot": [
+      "n",
+      "v"
+    ],
+    "plug": [
+      "n",
+      "v"
+    ],
+    "pocket": [
+      "n",
+      "v",
+      "adj"
+    ],
+    "poem": [
+      "n"
+    ],
+    "poet": [
+      "n"
+    ],
+    "poetry": [
+      "n"
+    ],
+    "point": [
+      "n",
+      "v"
+    ],
+    "poison": [
+      "n",
+      "v"
+    ],
+    "polar": [
+      "adj"
+    ],
+    "pole": [
+      "n",
+      "v"
+    ],
+    "police": [
+      "n",
+      "v"
+    ],
+    "policeman": [
+      "n"
+    ],
+    "policewoman": [
+      "n"
+    ],
+    "policy": [
+      "n"
+    ],
+    "polish": [
+      "n",
+      "v"
+    ],
+    "polite": [
+      "adj"
+    ],
+    "political": [
+      "adj"
+    ],
+    "politician": [
+      "n"
+    ],
+    "politics": [
+      "n"
+    ],
+    "pollute": [
+      "v"
+    ],
+    "pollution": [
+      "n"
+    ],
+    "pond": [
+      "n"
+    ],
+    "pool": [
+      "n",
+      "v"
+    ],
+    "poor": [
+      "adj"
+    ],
+    "popular": [
+      "adj"
+    ],
+    "population": [
+      "n"
+    ],
+    "pork": [
+      "n"
+    ],
+    "port": [
+      "n"
+    ],
+    "pose": [
+      "n",
+      "v"
+    ],
+    "position": [
+      "n",
+      "v"
+    ],
+    "positive": [
+      "adj",
+      "n"
+    ],
+    "possession": [
+      "n"
+    ],
+    "possible": [
+      "adj"
+    ],
+    "post": [
+      "n",
+      "v"
+    ],
+    "postcard": [
+      "n"
+    ],
+    "poster": [
+      "n"
+    ],
+    "postman": [
+      "n"
+    ],
+    "postpone": [
+      "v"
+    ],
+    "pot": [
+      "n",
+      "v"
+    ],
+    "potato": [
+      "n"
+    ],
+    "potential": [
+      "n",
+      "adj"
+    ],
+    "pound": [
+      "n",
+      "v"
+    ],
+    "pour": [
+      "v"
+    ],
+    "power": [
+      "n",
+      "v"
+    ],
+    "practical": [
+      "adj"
+    ],
+    "practice": [
+      "n",
+      "v"
+    ],
+    "praise": [
+      "n",
+      "v"
+    ],
+    "pray": [
+      "v"
+    ],
+    "precious": [
+      "adj"
+    ],
+    "precisely": [
+      "adv"
+    ],
+    "predict": [
+      "v"
+    ],
+    "prefer": [
+      "v"
+    ],
+    "preference": [
+      "n"
+    ],
+    "prejudice": [
+      "n",
+      "v"
+    ],
+    "premier": [
+      "n",
+      "adj"
+    ],
+    "prepare": [
+      "v"
+    ],
+    "present": [
+      "n",
+      "adj",
+      "v"
+    ],
+    "presentation": [
+      "n"
+    ],
+    "preserve": [
+      "v"
+    ],
+    "president": [
+      "n"
+    ],
+    "press": [
+      "n",
+      "v"
+    ],
+    "pressure": [
+      "n",
+      "v"
+    ],
+    "pretend": [
+      "v"
+    ],
+    "pretty": [
+      "adj",
+      "adv"
+    ],
+    "prevent": [
+      "v"
+    ],
+    "previous": [
+      "adj"
+    ],
+    "price": [
+      "n",
+      "v"
+    ],
+    "pride": [
+      "n",
+      "v"
+    ],
+    "primary": [
+      "adj",
+      "n"
+    ],
+    "primitive": [
+      "adj"
+    ],
+    "principle": [
+      "n"
+    ],
+    "print": [
+      "n",
+      "v"
+    ],
+    "prior": [
+      "adj"
+    ],
+    "priority": [
+      "n"
+    ],
+    "prison": [
+      "n"
+    ],
+    "private": [
+      "adj",
+      "n"
+    ],
+    "prize": [
+      "n",
+      "v"
+    ],
+    "probably": [
+      "adv"
+    ],
+    "problem": [
+      "n"
+    ],
+    "procedure": [
+      "n"
+    ],
+    "proceed": [
+      "v"
+    ],
+    "process": [
+      "n",
+      "v"
+    ],
+    "produce": [
+      "n",
+      "v"
+    ],
+    "product": [
+      "n"
+    ],
+    "profession": [
+      "n"
+    ],
+    "professional": [
+      "adj",
+      "n"
+    ],
+    "professor": [
+      "n"
+    ],
+    "profile": [
+      "n",
+      "v"
+    ],
+    "profit": [
+      "n",
+      "v"
+    ],
+    "programme": [
+      "n",
+      "v"
+    ],
+    "progress": [
+      "n",
+      "v"
+    ],
+    "prohibit": [
+      "v"
+    ],
+    "project": [
+      "n",
+      "v"
+    ],
+    "promise": [
+      "n",
+      "v"
+    ],
+    "promote": [
+      "v"
+    ],
+    "pronounce": [
+      "v"
+    ],
+    "pronunciation": [
+      "n"
+    ],
+    "proof": [
+      "n",
+      "v"
+    ],
+    "proper": [
+      "adj"
+    ],
+    "property": [
+      "n"
+    ],
+    "proposal": [
+      "n"
+    ],
+    "prospect": [
+      "n",
+      "v"
+    ],
+    "protect": [
+      "v"
+    ],
+    "protein": [
+      "n"
+    ],
+    "protest": [
+      "n",
+      "v"
+    ],
+    "proud": [
+      "adj"
+    ],
+    "prove": [
+      "v"
+    ],
+    "provide": [
+      "v"
+    ],
+    "province": [
+      "n"
+    ],
+    "psychology": [
+      "n"
+    ],
+    "pub": [
+      "n"
+    ],
+    "public": [
+      "adj",
+      "n"
+    ],
+    "publish": [
+      "v"
+    ],
+    "pudding": [
+      "n"
+    ],
+    "pull": [
+      "n",
+      "v"
+    ],
+    "punish": [
+      "v"
+    ],
+    "pupil": [
+      "n"
+    ],
+    "purchase": [
+      "n",
+      "v"
+    ],
+    "pure": [
+      "adj"
+    ],
+    "purple": [
+      "n",
+      "adj"
+    ],
+    "purpose": [
+      "n"
+    ],
+    "purse": [
+      "n"
+    ],
+    "pursue": [
+      "v"
+    ],
+    "push": [
+      "n",
+      "v"
+    ],
+    "put": [
+      "v"
+    ]
+  }
+}

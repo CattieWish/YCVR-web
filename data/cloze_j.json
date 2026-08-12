@@ -1,0 +1,149 @@
+[
+  {
+    "q": "My sister bought a warm winter <span class='blank'>_____</span> for the ski trip.",
+    "answer": "jacket",
+    "explain": "jacket n. 夹克。",
+    "translation": "我姐姐为滑雪旅行买了一件温暖的冬季<strong>夹克</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "I like to spread strawberry <span class='blank'>_____</span> on my toast in the morning.",
+    "answer": "jam",
+    "explain": "jam n. 果酱。",
+    "translation": "我喜欢在早上把草莓<strong>果酱</strong>涂在吐司上。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The boxer broke his <span class='blank'>_____</span> during the fight last night.",
+    "answer": "jaw",
+    "explain": "jaw n. 下巴。",
+    "translation": "那位拳击手在昨晚的比赛中打断了<strong>下巴</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "My grandfather loves to listen to old <span class='blank'>_____</span> music from the 1950s.",
+    "answer": "jazz",
+    "explain": "jazz n. 爵士乐。",
+    "translation": "我祖父喜欢听二十世纪五十年代的<strong>爵士乐</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "I usually wear comfortable <span class='blank'>_____</span> when I go to school.",
+    "answer": "jeans",
+    "explain": "jeans n. 牛仔裤。",
+    "translation": "我上学时通常穿舒适的<strong>牛仔裤</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "She got a new <span class='blank'>_____</span> at the supermarket near her home.",
+    "answer": "job",
+    "explain": "job n. 工作。",
+    "translation": "她在家附近的超市找到了一份新<strong>工作</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The doctor said my knee <span class='blank'>_____</span> was not seriously injured.",
+    "answer": "joint",
+    "explain": "joint n. 关节。",
+    "translation": "医生说我的膝<strong>关节</strong>伤得不严重。",
+    "pool": "BASE"
+  },
+  {
+    "q": "My little brother told a funny <span class='blank'>_____</span> that made everyone laugh.",
+    "answer": "joke",
+    "explain": "joke n. 笑话。",
+    "translation": "我的小弟弟讲了一个好笑的<strong>笑话</strong>，让所有人都笑了。",
+    "pool": "BASE"
+  },
+  {
+    "q": "I write in my <span class='blank'>_____</span> every night before I go to sleep.",
+    "answer": "journal",
+    "explain": "journal n. 日记。",
+    "translation": "我每晚睡觉前在我的<strong>日记</strong>里写东西。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The <span class='blank'>_____</span> wrote a long story about the local election.",
+    "answer": "journalist",
+    "explain": "journalist n. 记者。",
+    "translation": "那位<strong>记者</strong>写了一篇关于当地选举的长篇报道。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The train <span class='blank'>_____</span> from New York to Boston takes about four hours.",
+    "answer": "journey",
+    "explain": "journey n. 旅行。",
+    "translation": "从纽约到波士顿的火车<strong>旅程</strong>大约需要四小时。",
+    "pool": "BASE"
+  },
+  {
+    "q": "It was a great <span class='blank'>_____</span> to see my family after so many months.",
+    "answer": "joy",
+    "explain": "joy n. 快乐。",
+    "translation": "在这么多月之后见到我的家人，真是一大<strong>快乐</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "I drink a glass of orange <span class='blank'>_____</span> every morning with breakfast.",
+    "answer": "juice",
+    "explain": "juice n. 果汁。",
+    "translation": "我每天早上吃早餐时喝一杯橙<strong>果汁</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "We saw many colorful birds in the <span class='blank'>_____</span> during our trip.",
+    "answer": "jungle",
+    "explain": "jungle n. 丛林。",
+    "translation": "我们在旅行中看到了<strong>丛林</strong>里许多色彩斑斓的鸟。",
+    "pool": "BASE"
+  },
+  {
+    "q": "My younger sister is a <span class='blank'>_____</span> student at the local high school.",
+    "answer": "junior",
+    "explain": "junior adj. 年少的。",
+    "translation": "我妹妹是当地高中的低<strong>年级</strong>学生。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The lawyer worked hard to bring <span class='blank'>_____</span> to the victims.",
+    "answer": "justice",
+    "explain": "justice n. 正义。",
+    "translation": "律师努力为受害者伸张<strong>正义</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Would you like to <span class='blank'>_____</span> our club and meet new people?",
+    "answer": "join",
+    "explain": "join v. 加入。",
+    "translation": "你想<strong>加入</strong>我们的俱乐部并认识新朋友吗？",
+    "pool": "BASE"
+  },
+  {
+    "q": "He <span class='blank'>_____</span> around the park for thirty minutes yesterday.",
+    "answer": "jogged",
+    "explain": "jog v. 慢跑。",
+    "translation": "他昨天在公园<strong>慢跑</strong>了三十分钟。",
+    "pool": "PAST"
+  },
+  {
+    "q": "The teacher <span class='blank'>_____</span> each student's project very carefully.",
+    "answer": "judged",
+    "explain": "judge v. 判断。",
+    "translation": "老师非常仔细地<strong>评判</strong>了每个学生的项目。",
+    "pool": "PAST"
+  },
+  {
+    "q": "The dog <span class='blank'>_____</span> over the small fence and ran into the yard.",
+    "answer": "jumped",
+    "explain": "jump v. 跳跃。",
+    "translation": "狗<strong>跳</strong>过了小栅栏，跑进了院子。",
+    "pool": "PAST"
+  },
+  {
+    "q": "He <span class='blank'>_____</span> his late arrival by saying there was heavy traffic.",
+    "answer": "justified",
+    "explain": "justify v. 证明…正当。",
+    "translation": "他通过说有交通拥堵，为自己迟到<strong>辩解</strong>。",
+    "pool": "PAST"
+  }
+]

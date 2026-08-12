@@ -1,0 +1,710 @@
+{
+  "BASE": [
+    "wage",
+    "waist",
+    "wait",
+    "wake",
+    "walk",
+    "wall",
+    "wallet",
+    "wander",
+    "want",
+    "war",
+    "ward",
+    "warm",
+    "warn",
+    "warning",
+    "wash",
+    "washroom",
+    "waste",
+    "watch",
+    "water",
+    "watermelon",
+    "wave",
+    "way",
+    "weak",
+    "wealth",
+    "weapon",
+    "wear",
+    "weather",
+    "website",
+    "wedding",
+    "weed",
+    "week",
+    "weekday",
+    "weekend",
+    "weekly",
+    "weep",
+    "weigh",
+    "weight",
+    "welcome",
+    "welfare",
+    "well",
+    "west",
+    "western",
+    "wet",
+    "whale",
+    "whatever",
+    "wheat",
+    "wheel",
+    "whenever",
+    "whisper",
+    "white",
+    "whole",
+    "wide",
+    "widespread",
+    "wife",
+    "wild",
+    "win",
+    "wind",
+    "window",
+    "windy",
+    "wine",
+    "wing",
+    "winner",
+    "winter",
+    "wire",
+    "wisdom",
+    "wise",
+    "wish",
+    "withdraw",
+    "within",
+    "witness",
+    "woman",
+    "wonder",
+    "wonderful",
+    "wood",
+    "wool",
+    "word",
+    "work",
+    "worker",
+    "world",
+    "worry",
+    "worse",
+    "worst",
+    "worth",
+    "worthwhile",
+    "worthy",
+    "wound",
+    "wrap",
+    "wrestle",
+    "wrinkle",
+    "wrist",
+    "write",
+    "writer",
+    "wrong"
+  ],
+  "PLURAL": [
+    "wages",
+    "waists",
+    "walks",
+    "walls",
+    "wallets",
+    "wars",
+    "wards",
+    "warnings",
+    "washes",
+    "washrooms",
+    "wastes",
+    "watches",
+    "waters",
+    "watermelons",
+    "waves",
+    "ways",
+    "wealths",
+    "weapons",
+    "weathers",
+    "websites",
+    "weddings",
+    "weeds",
+    "weeks",
+    "weekdays",
+    "weekends",
+    "weeklies",
+    "weights",
+    "welcomes",
+    "welfares",
+    "wells",
+    "wests",
+    "whales",
+    "wheats",
+    "wheels",
+    "whispers",
+    "whites",
+    "wholes",
+    "wives",
+    "winds",
+    "windows",
+    "wines",
+    "wings",
+    "winners",
+    "winters",
+    "wires",
+    "wisdoms",
+    "wishes",
+    "witnesses",
+    "women",
+    "wonders",
+    "woods",
+    "wools",
+    "words",
+    "works",
+    "workers",
+    "worlds",
+    "worries",
+    "worths",
+    "wounds",
+    "wrinkles",
+    "wrists",
+    "writers",
+    "wrongs"
+  ],
+  "THIRD": [
+    "wages",
+    "waits",
+    "wakes",
+    "walks",
+    "wanders",
+    "wants",
+    "warms",
+    "warns",
+    "washes",
+    "wastes",
+    "watches",
+    "waters",
+    "waves",
+    "wears",
+    "weeds",
+    "weeps",
+    "weighs",
+    "welcomes",
+    "wets",
+    "whispers",
+    "wins",
+    "winds",
+    "wishes",
+    "withdraws",
+    "witnesses",
+    "wonders",
+    "works",
+    "worries",
+    "wounds",
+    "wraps",
+    "wrestles",
+    "writes"
+  ],
+  "ING": [
+    "waging",
+    "waiting",
+    "waking",
+    "walking",
+    "wandering",
+    "wanting",
+    "warming",
+    "warning",
+    "washing",
+    "wasting",
+    "watching",
+    "watering",
+    "waving",
+    "wearing",
+    "weeding",
+    "weeping",
+    "weighing",
+    "welcoming",
+    "wetting",
+    "whispering",
+    "winning",
+    "winding",
+    "wishing",
+    "withdrawing",
+    "witnessing",
+    "wondering",
+    "working",
+    "worrying",
+    "wounding",
+    "wrapping",
+    "wrestling",
+    "writing"
+  ],
+  "PAST": [
+    "waged",
+    "waited",
+    "woke",
+    "walked",
+    "wandered",
+    "wanted",
+    "warmed",
+    "warned",
+    "washed",
+    "wasted",
+    "watched",
+    "watered",
+    "waved",
+    "wore",
+    "worn",
+    "weeded",
+    "wept",
+    "weighed",
+    "welcomed",
+    "wetted",
+    "whispered",
+    "won",
+    "wound",
+    "wished",
+    "withdrew",
+    "withdrawn",
+    "witnessed",
+    "wondered",
+    "worked",
+    "worried",
+    "wounded",
+    "wrapped",
+    "wrestled",
+    "wrote",
+    "written"
+  ],
+  "COMP": [
+    "warmer",
+    "weaker",
+    "welcomer",
+    "westerner",
+    "whiter",
+    "wholer",
+    "wider",
+    "wilder",
+    "windier",
+    "wiser",
+    "worther",
+    "worthier",
+    "wronger",
+    "wetter"
+  ],
+  "SUPER": [
+    "warmest",
+    "weakest",
+    "welcomest",
+    "whitest",
+    "wholest",
+    "widest",
+    "wildest",
+    "windiest",
+    "wisest",
+    "worthiest",
+    "wrongest",
+    "wettest"
+  ],
+  "DICT": {
+    "wage": "n. 工资 / v. 开展，进行",
+    "waist": "n. 腰，腰部",
+    "wait": "v. 等待，等候",
+    "wake": "v. 醒来，唤醒",
+    "walk": "v. 步行 / n. 散步，步行",
+    "wall": "n. 墙，墙壁",
+    "wallet": "n. 钱包",
+    "wander": "v. 漫步，闲逛",
+    "want": "v. 想要，需要",
+    "war": "n. 战争",
+    "ward": "n. 病房，选区",
+    "warm": "adj. 温暖的 / v. 使温暖",
+    "warn": "v. 警告，提醒",
+    "warning": "n. 警告，警示",
+    "wash": "v. 洗，洗涤 / n. 洗，洗涤物",
+    "washroom": "n. 洗手间，厕所",
+    "waste": "n. 浪费 / v. 浪费 / adj. 废弃的",
+    "watch": "v. 观看，注视 / n. 手表",
+    "water": "n. 水 / v. 浇水",
+    "watermelon": "n. 西瓜",
+    "wave": "n. 波浪 / v. 挥手，挥动",
+    "way": "n. 道路，方法，方式",
+    "weak": "adj. 弱的，虚弱的",
+    "wealth": "n. 财富，财产",
+    "weapon": "n. 武器",
+    "wear": "v. 穿，戴",
+    "weather": "n. 天气",
+    "website": "n. 网站",
+    "wedding": "n. 婚礼",
+    "weed": "n. 杂草 / v. 除草",
+    "week": "n. 星期，周",
+    "weekday": "n. 工作日",
+    "weekend": "n. 周末",
+    "weekly": "adj. 每周的 / adv. 每周一次 / n. 周刊",
+    "weep": "v. 哭泣，流泪",
+    "weigh": "v. 称……重量，重",
+    "weight": "n. 重量，体重",
+    "welcome": "v. 欢迎 / adj. 受欢迎的 / n. 欢迎",
+    "welfare": "n. 福利，幸福",
+    "well": "adv. 好 / adj. 健康的 / n. 井",
+    "west": "n. 西，西方 / adj. 西方的 / adv. 向西",
+    "western": "adj. 西方的，西部的",
+    "wet": "adj. 湿的 / v. 弄湿",
+    "whale": "n. 鲸",
+    "whatever": "pron. 无论什么 / adj. 任何的",
+    "wheat": "n. 小麦",
+    "wheel": "n. 轮子，车轮",
+    "whenever": "conj. 无论何时，每当",
+    "whisper": "v. 低语，耳语 / n. 低语",
+    "white": "adj. 白色的 / n. 白色",
+    "whole": "adj. 整个的 / n. 整体",
+    "wide": "adj. 宽的，广泛的 / adv. 充分地",
+    "widespread": "adj. 广泛的，普遍的",
+    "wife": "n. 妻子",
+    "wild": "adj. 野生的，疯狂的",
+    "win": "v. 赢得，获胜",
+    "wind": "n. 风 / v. 缠绕，蜿蜒",
+    "window": "n. 窗户",
+    "windy": "adj. 有风的，多风的",
+    "wine": "n. 葡萄酒",
+    "wing": "n. 翅膀",
+    "winner": "n. 获胜者",
+    "winter": "n. 冬天",
+    "wire": "n. 电线，金属丝",
+    "wisdom": "n. 智慧",
+    "wise": "adj. 聪明的，明智的",
+    "wish": "v. 希望，祝愿 / n. 愿望",
+    "withdraw": "v. 撤回，取回",
+    "within": "prep. 在……之内 / adv. 在内部",
+    "witness": "n. 目击者，证人 / v. 目击，见证",
+    "woman": "n. 女人，妇女",
+    "wonder": "v. 想知道 / n. 奇迹，惊奇",
+    "wonderful": "adj. 精彩的，极好的",
+    "wood": "n. 木头，木材",
+    "wool": "n. 羊毛",
+    "word": "n. 单词，话",
+    "work": "v. 工作 / n. 工作，作品",
+    "worker": "n. 工人",
+    "world": "n. 世界",
+    "worry": "v. 担心 / n. 担忧",
+    "worse": "adj. 更糟的 / adv. 更糟地",
+    "worst": "adj. 最糟的 / adv. 最糟地",
+    "worth": "adj. 值得的 / n. 价值",
+    "worthwhile": "adj. 值得的",
+    "worthy": "adj. 值得的，有价值的",
+    "wound": "n. 伤口 / v. 使受伤",
+    "wrap": "v. 包，裹",
+    "wrestle": "v. 摔跤，搏斗",
+    "wrinkle": "n. 皱纹",
+    "wrist": "n. 手腕",
+    "write": "v. 写，写作",
+    "writer": "n. 作家",
+    "wrong": "adj. 错误的 / adv. 错误地 / n. 错误"
+  },
+  "POS": {
+    "wage": [
+      "n",
+      "v"
+    ],
+    "waist": [
+      "n"
+    ],
+    "wait": [
+      "v"
+    ],
+    "wake": [
+      "v"
+    ],
+    "walk": [
+      "v",
+      "n"
+    ],
+    "wall": [
+      "n"
+    ],
+    "wallet": [
+      "n"
+    ],
+    "wander": [
+      "v"
+    ],
+    "want": [
+      "v"
+    ],
+    "war": [
+      "n"
+    ],
+    "ward": [
+      "n"
+    ],
+    "warm": [
+      "adj",
+      "v"
+    ],
+    "warn": [
+      "v"
+    ],
+    "warning": [
+      "n"
+    ],
+    "wash": [
+      "v",
+      "n"
+    ],
+    "washroom": [
+      "n"
+    ],
+    "waste": [
+      "n",
+      "v",
+      "adj"
+    ],
+    "watch": [
+      "v",
+      "n"
+    ],
+    "water": [
+      "n",
+      "v"
+    ],
+    "watermelon": [
+      "n"
+    ],
+    "wave": [
+      "n",
+      "v"
+    ],
+    "way": [
+      "n"
+    ],
+    "weak": [
+      "adj"
+    ],
+    "wealth": [
+      "n"
+    ],
+    "weapon": [
+      "n"
+    ],
+    "wear": [
+      "v"
+    ],
+    "weather": [
+      "n"
+    ],
+    "website": [
+      "n"
+    ],
+    "wedding": [
+      "n"
+    ],
+    "weed": [
+      "n",
+      "v"
+    ],
+    "week": [
+      "n"
+    ],
+    "weekday": [
+      "n"
+    ],
+    "weekend": [
+      "n"
+    ],
+    "weekly": [
+      "adj",
+      "adv",
+      "n"
+    ],
+    "weep": [
+      "v"
+    ],
+    "weigh": [
+      "v"
+    ],
+    "weight": [
+      "n"
+    ],
+    "welcome": [
+      "v",
+      "adj",
+      "n"
+    ],
+    "welfare": [
+      "n"
+    ],
+    "well": [
+      "adv",
+      "adj",
+      "n"
+    ],
+    "west": [
+      "n",
+      "adj",
+      "adv"
+    ],
+    "western": [
+      "adj"
+    ],
+    "wet": [
+      "adj",
+      "v"
+    ],
+    "whale": [
+      "n"
+    ],
+    "whatever": [
+      "pron",
+      "adj"
+    ],
+    "wheat": [
+      "n"
+    ],
+    "wheel": [
+      "n"
+    ],
+    "whenever": [
+      "conj"
+    ],
+    "whisper": [
+      "v",
+      "n"
+    ],
+    "white": [
+      "adj",
+      "n"
+    ],
+    "whole": [
+      "adj",
+      "n"
+    ],
+    "wide": [
+      "adj",
+      "adv"
+    ],
+    "widespread": [
+      "adj"
+    ],
+    "wife": [
+      "n"
+    ],
+    "wild": [
+      "adj"
+    ],
+    "win": [
+      "v"
+    ],
+    "wind": [
+      "n",
+      "v"
+    ],
+    "window": [
+      "n"
+    ],
+    "windy": [
+      "adj"
+    ],
+    "wine": [
+      "n"
+    ],
+    "wing": [
+      "n"
+    ],
+    "winner": [
+      "n"
+    ],
+    "winter": [
+      "n"
+    ],
+    "wire": [
+      "n"
+    ],
+    "wisdom": [
+      "n"
+    ],
+    "wise": [
+      "adj"
+    ],
+    "wish": [
+      "v",
+      "n"
+    ],
+    "withdraw": [
+      "v"
+    ],
+    "within": [
+      "prep",
+      "adv"
+    ],
+    "witness": [
+      "n",
+      "v"
+    ],
+    "woman": [
+      "n"
+    ],
+    "wonder": [
+      "v",
+      "n"
+    ],
+    "wonderful": [
+      "adj"
+    ],
+    "wood": [
+      "n"
+    ],
+    "wool": [
+      "n"
+    ],
+    "word": [
+      "n"
+    ],
+    "work": [
+      "v",
+      "n"
+    ],
+    "worker": [
+      "n"
+    ],
+    "world": [
+      "n"
+    ],
+    "worry": [
+      "v",
+      "n"
+    ],
+    "worse": [
+      "adj",
+      "adv"
+    ],
+    "worst": [
+      "adj",
+      "adv"
+    ],
+    "worth": [
+      "adj",
+      "n"
+    ],
+    "worthwhile": [
+      "adj"
+    ],
+    "worthy": [
+      "adj"
+    ],
+    "wound": [
+      "n",
+      "v"
+    ],
+    "wrap": [
+      "v"
+    ],
+    "wrestle": [
+      "v"
+    ],
+    "wrinkle": [
+      "n"
+    ],
+    "wrist": [
+      "n"
+    ],
+    "write": [
+      "v"
+    ],
+    "writer": [
+      "n"
+    ],
+    "wrong": [
+      "adj",
+      "adv",
+      "n"
+    ]
+  }
+}

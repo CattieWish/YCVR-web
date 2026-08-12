@@ -1,0 +1,2054 @@
+{
+  "BASE": [
+    "fabric",
+    "face",
+    "facilitate",
+    "facility",
+    "fact",
+    "factor",
+    "factory",
+    "fail",
+    "failure",
+    "fair",
+    "faith",
+    "fall",
+    "false",
+    "familiar",
+    "family",
+    "famous",
+    "fan",
+    "fancy",
+    "fantastic",
+    "fantasy",
+    "far",
+    "farm",
+    "farmer",
+    "fashion",
+    "fast",
+    "fat",
+    "father",
+    "fault",
+    "favor",
+    "favorite",
+    "fear",
+    "feature",
+    "fee",
+    "feed",
+    "feel",
+    "feeling",
+    "fellow",
+    "female",
+    "fence",
+    "festival",
+    "fetch",
+    "fever",
+    "few",
+    "fiber",
+    "fiction",
+    "field",
+    "fight",
+    "figure",
+    "file",
+    "fill",
+    "film",
+    "finally",
+    "finance",
+    "financial",
+    "find",
+    "finding",
+    "fine",
+    "finger",
+    "finish",
+    "fire",
+    "firm",
+    "first",
+    "fish",
+    "fisherman",
+    "fist",
+    "fit",
+    "fix",
+    "flag",
+    "flash",
+    "flat",
+    "flavor",
+    "flexible",
+    "flight",
+    "flood",
+    "floor",
+    "flour",
+    "flow",
+    "flower",
+    "flu",
+    "fluent",
+    "fly",
+    "focus",
+    "foggy",
+    "fold",
+    "folk",
+    "follow",
+    "fond",
+    "food",
+    "foot",
+    "football",
+    "force",
+    "forecast",
+    "forehead",
+    "foreign",
+    "forest",
+    "forever",
+    "forget",
+    "forgive",
+    "fork",
+    "form",
+    "formal",
+    "format",
+    "former",
+    "fortunately",
+    "forward",
+    "found",
+    "foundation",
+    "fountain",
+    "fox",
+    "frank",
+    "free",
+    "freedom",
+    "freeze",
+    "frequency",
+    "frequently",
+    "fresh",
+    "friction",
+    "fridge",
+    "friend",
+    "friendly",
+    "friendship",
+    "frightened",
+    "frog",
+    "front",
+    "frontier",
+    "frost",
+    "fruit",
+    "fry",
+    "fuel",
+    "full",
+    "fun",
+    "function",
+    "fund",
+    "fundamental",
+    "funny",
+    "furniture",
+    "further",
+    "future"
+  ],
+  "PLURAL": [
+    "fabrics",
+    "faces",
+    "facilities",
+    "facts",
+    "factors",
+    "factories",
+    "fails",
+    "failures",
+    "fairs",
+    "faiths",
+    "falls",
+    "families",
+    "fans",
+    "fancies",
+    "fantasies",
+    "farms",
+    "farmers",
+    "fashions",
+    "fats",
+    "fathers",
+    "faults",
+    "favors",
+    "favorites",
+    "fears",
+    "features",
+    "fees",
+    "feeds",
+    "feels",
+    "feelings",
+    "fellows",
+    "females",
+    "fences",
+    "festivals",
+    "fevers",
+    "fews",
+    "fibers",
+    "fictions",
+    "fields",
+    "fights",
+    "figures",
+    "files",
+    "films",
+    "finances",
+    "findings",
+    "fines",
+    "fingers",
+    "finishes",
+    "fires",
+    "firms",
+    "fishes",
+    "fishermen",
+    "fists",
+    "fits",
+    "fixes",
+    "flags",
+    "flashes",
+    "flats",
+    "flavors",
+    "flights",
+    "floods",
+    "floors",
+    "flows",
+    "flowers",
+    "flies",
+    "focuses",
+    "folds",
+    "folks",
+    "feet",
+    "footballs",
+    "forces",
+    "forecasts",
+    "foreheads",
+    "forests",
+    "forks",
+    "forms",
+    "formats",
+    "formers",
+    "foundations",
+    "fountains",
+    "foxes",
+    "freedoms",
+    "freezes",
+    "frequencies",
+    "frictions",
+    "fridges",
+    "friends",
+    "friendships",
+    "frogs",
+    "fronts",
+    "frontiers",
+    "frosts",
+    "fries",
+    "fuels",
+    "functions",
+    "funds",
+    "fundamentals",
+    "futures"
+  ],
+  "THIRD": [
+    "faces",
+    "facilitates",
+    "factors",
+    "fails",
+    "falls",
+    "fans",
+    "fancies",
+    "farms",
+    "fashions",
+    "favors",
+    "fears",
+    "features",
+    "feeds",
+    "feels",
+    "fences",
+    "fetches",
+    "fields",
+    "fights",
+    "figures",
+    "files",
+    "fills",
+    "films",
+    "finances",
+    "finds",
+    "fines",
+    "fingers",
+    "finishes",
+    "fires",
+    "fishes",
+    "fits",
+    "fixes",
+    "flags",
+    "flashes",
+    "floods",
+    "flows",
+    "flowers",
+    "flies",
+    "focuses",
+    "folds",
+    "follows",
+    "forces",
+    "forecasts",
+    "forgets",
+    "forgives",
+    "forks",
+    "forms",
+    "formats",
+    "forwards",
+    "founds",
+    "frees",
+    "freezes",
+    "fronts",
+    "frosts",
+    "fries",
+    "functions",
+    "funds"
+  ],
+  "ING": [
+    "facing",
+    "facilitating",
+    "factoring",
+    "failing",
+    "falling",
+    "faning",
+    "fancying",
+    "farming",
+    "fashioning",
+    "favoring",
+    "fearing",
+    "featuring",
+    "feeding",
+    "feeling",
+    "fencing",
+    "fetching",
+    "fielding",
+    "fighting",
+    "figuring",
+    "filing",
+    "filling",
+    "filming",
+    "financing",
+    "finding",
+    "fining",
+    "fingering",
+    "finishing",
+    "firing",
+    "fishing",
+    "fiting",
+    "fixing",
+    "flaging",
+    "flashing",
+    "flooding",
+    "flowing",
+    "flowering",
+    "flying",
+    "focusing",
+    "folding",
+    "following",
+    "forcing",
+    "forecasting",
+    "forgetting",
+    "forgiving",
+    "forking",
+    "forming",
+    "formating",
+    "forwarding",
+    "founding",
+    "freing",
+    "freezing",
+    "fronting",
+    "frosting",
+    "frying",
+    "functioning",
+    "funding"
+  ],
+  "PAST": [
+    "faced",
+    "facilitated",
+    "factored",
+    "failed",
+    "fell",
+    "fallen",
+    "faned",
+    "fancied",
+    "farmed",
+    "fashioned",
+    "favored",
+    "feared",
+    "featured",
+    "fed",
+    "felt",
+    "fenced",
+    "fetched",
+    "fielded",
+    "fought",
+    "figured",
+    "filed",
+    "filled",
+    "filmed",
+    "financed",
+    "found",
+    "fined",
+    "fingered",
+    "finished",
+    "fired",
+    "fished",
+    "fited",
+    "fixed",
+    "flaged",
+    "flashed",
+    "flooded",
+    "flowed",
+    "flowered",
+    "flew",
+    "flown",
+    "focused",
+    "folded",
+    "followed",
+    "forced",
+    "forecast",
+    "forecasted",
+    "forgot",
+    "forgotten",
+    "forgave",
+    "forgiven",
+    "forked",
+    "formed",
+    "formated",
+    "forwarded",
+    "founded",
+    "freed",
+    "froze",
+    "frozen",
+    "fronted",
+    "frosted",
+    "fried",
+    "functioned",
+    "funded"
+  ],
+  "COMP": [
+    "fairer",
+    "fancier",
+    "faster",
+    "fewer",
+    "firmer",
+    "fitter",
+    "flatter",
+    "foggier",
+    "fonder",
+    "freer",
+    "fresher",
+    "friendlier",
+    "fuller",
+    "funnier",
+    "farther",
+    "further"
+  ],
+  "SUPER": [
+    "fairest",
+    "fanciest",
+    "fastest",
+    "fewest",
+    "firmest",
+    "fittest",
+    "flattest",
+    "foggiest",
+    "fondest",
+    "freest",
+    "freshest",
+    "friendliest",
+    "fullest",
+    "funniest",
+    "farthest",
+    "furthest"
+  ],
+  "DICT": {
+    "fabric": "n. 织物，布料",
+    "face": "n. 脸；v. 面对",
+    "facilitate": "v. 促进，使便利",
+    "facility": "n. 设施，场所",
+    "fact": "n. 事实",
+    "factor": "n. 因素；v. 分解因素",
+    "factory": "n. 工厂",
+    "fail": "v. 失败；n. 不及格",
+    "failure": "n. 失败",
+    "fair": "adj. 公平的；n. 集市",
+    "faith": "n. 信仰，信任",
+    "fall": "v. 落下；n. 秋天，跌落",
+    "false": "adj. 错误的，假的",
+    "familiar": "adj. 熟悉的",
+    "family": "n. 家庭",
+    "famous": "adj. 著名的",
+    "fan": "n. 风扇，粉丝；v. 扇风",
+    "fancy": "n. 爱好；v. 想要；adj. 花哨的",
+    "fantastic": "adj. 极好的，奇异的",
+    "fantasy": "n. 幻想",
+    "far": "adj./adv. 远的",
+    "farm": "n. 农场；v. 耕种",
+    "farmer": "n. 农民",
+    "fashion": "n. 时尚；v. 制作",
+    "fast": "adj./adv. 快的/快地",
+    "fat": "adj. 胖的；n. 脂肪",
+    "father": "n. 父亲",
+    "fault": "n. 过错，故障",
+    "favor": "n. 帮助，恩惠；v. 偏爱",
+    "favorite": "adj. 最喜欢的；n. 最喜欢的人或物",
+    "fear": "n. 恐惧；v. 害怕",
+    "feature": "n. 特征；v. 以…为特色",
+    "fee": "n. 费用",
+    "feed": "v. 喂养；n. 饲料",
+    "feel": "v. 感觉；n. 感觉",
+    "feeling": "n. 感觉，感情",
+    "fellow": "n. 同伴；adj. 同伴的",
+    "female": "adj. 女性的；n. 女性",
+    "fence": "n. 栅栏；v. 围起来",
+    "festival": "n. 节日",
+    "fetch": "v. 取来，拿来",
+    "fever": "n. 发烧",
+    "few": "adj. 很少的；n. 少数人",
+    "fiber": "n. 纤维",
+    "fiction": "n. 小说，虚构",
+    "field": "n. 田地，领域；v. 上场",
+    "fight": "v. 战斗；n. 斗争",
+    "figure": "n. 数字，人物；v. 计算",
+    "file": "n. 文件；v. 归档",
+    "fill": "v. 填充",
+    "film": "n. 电影，胶片；v. 拍摄",
+    "finally": "adv. 最后",
+    "finance": "n. 金融；v. 资助",
+    "financial": "adj. 金融的",
+    "find": "v. 找到",
+    "finding": "n. 发现，调查结果",
+    "fine": "adj. 好的；n. 罚款；v. 罚款",
+    "finger": "n. 手指；v. 用手指触碰",
+    "finish": "v. 完成；n. 终点",
+    "fire": "n. 火；v. 开火，解雇",
+    "firm": "adj. 坚固的；n. 公司",
+    "first": "adj./adv. 第一的/首先",
+    "fish": "n. 鱼；v. 钓鱼",
+    "fisherman": "n. 渔民",
+    "fist": "n. 拳头",
+    "fit": "v. 适合；adj. 健康的；n. 发作",
+    "fix": "v. 修理；n. 困境",
+    "flag": "n. 旗帜；v. 标记",
+    "flash": "n. 闪光；v. 闪烁",
+    "flat": "adj. 平坦的；n. 公寓；adv. 平直地",
+    "flavor": "n. 味道；v. 调味",
+    "flexible": "adj. 灵活的",
+    "flight": "n. 航班，飞行",
+    "flood": "n. 洪水；v. 淹没",
+    "floor": "n. 地板；v. 使困惑",
+    "flour": "n. 面粉",
+    "flow": "n. 流动；v. 流动",
+    "flower": "n. 花；v. 开花",
+    "flu": "n. 流感",
+    "fluent": "adj. 流利的",
+    "fly": "v. 飞；n. 苍蝇",
+    "focus": "n. 焦点；v. 集中",
+    "foggy": "adj. 有雾的",
+    "fold": "v. 折叠；n. 褶皱",
+    "folk": "n. 人们；adj. 民间的",
+    "follow": "v. 跟随",
+    "fond": "adj. 喜欢的",
+    "food": "n. 食物",
+    "foot": "n. 脚",
+    "football": "n. 足球",
+    "force": "n. 力量；v. 强迫",
+    "forecast": "v. 预测；n. 预报",
+    "forehead": "n. 额头",
+    "foreign": "adj. 外国的",
+    "forest": "n. 森林",
+    "forever": "adv. 永远",
+    "forget": "v. 忘记",
+    "forgive": "v. 原谅",
+    "fork": "n. 叉子；v. 分叉",
+    "form": "n. 形式；v. 形成",
+    "formal": "adj. 正式的",
+    "format": "n. 格式；v. 格式化",
+    "former": "adj. 以前的；n. 前者",
+    "fortunately": "adv. 幸运地",
+    "forward": "adv. 向前；adj. 向前的；v. 转发",
+    "found": "v. 建立",
+    "foundation": "n. 基础，基金会",
+    "fountain": "n. 喷泉",
+    "fox": "n. 狐狸",
+    "frank": "adj. 坦率的",
+    "free": "adj. 自由的；v. 释放；adv. 免费地",
+    "freedom": "n. 自由",
+    "freeze": "v. 冻结；n. 冰冻",
+    "frequency": "n. 频率",
+    "frequently": "adv. 频繁地",
+    "fresh": "adj. 新鲜的",
+    "friction": "n. 摩擦",
+    "fridge": "n. 冰箱",
+    "friend": "n. 朋友",
+    "friendly": "adj. 友好的",
+    "friendship": "n. 友谊",
+    "frightened": "adj. 害怕的",
+    "frog": "n. 青蛙",
+    "front": "n. 前面；adj. 前面的；v. 面向",
+    "frontier": "n. 边境，前沿",
+    "frost": "n. 霜；v. 结霜",
+    "fruit": "n. 水果",
+    "fry": "v. 油炸；n. 油炸食品",
+    "fuel": "n. 燃料；v. 加油",
+    "full": "adj. 满的；adv. 完全地",
+    "fun": "n. 乐趣；adj. 有趣的",
+    "function": "n. 功能；v. 运行",
+    "fund": "n. 资金；v. 资助",
+    "fundamental": "adj. 基本的；n. 基本原理",
+    "funny": "adj. 有趣的，滑稽的",
+    "furniture": "n. 家具",
+    "further": "adj./adv. 更远的；v. 促进",
+    "future": "n. 未来；adj. 未来的"
+  },
+  "POS": {
+    "fabric": [
+      "n"
+    ],
+    "fabrics": [
+      "n"
+    ],
+    "face": [
+      "n",
+      "v"
+    ],
+    "faces": [
+      "n",
+      "v"
+    ],
+    "facing": [
+      "n",
+      "v"
+    ],
+    "faced": [
+      "n",
+      "v"
+    ],
+    "facilitate": [
+      "v"
+    ],
+    "facilitates": [
+      "v"
+    ],
+    "facilitating": [
+      "v"
+    ],
+    "facilitated": [
+      "v"
+    ],
+    "facility": [
+      "n"
+    ],
+    "facilities": [
+      "n"
+    ],
+    "fact": [
+      "n"
+    ],
+    "facts": [
+      "n"
+    ],
+    "factor": [
+      "n",
+      "v"
+    ],
+    "factors": [
+      "n",
+      "v"
+    ],
+    "factoring": [
+      "n",
+      "v"
+    ],
+    "factored": [
+      "n",
+      "v"
+    ],
+    "factory": [
+      "n"
+    ],
+    "factories": [
+      "n"
+    ],
+    "fail": [
+      "v",
+      "n"
+    ],
+    "fails": [
+      "v",
+      "n"
+    ],
+    "failing": [
+      "v",
+      "n"
+    ],
+    "failed": [
+      "v",
+      "n"
+    ],
+    "failure": [
+      "n"
+    ],
+    "failures": [
+      "n"
+    ],
+    "fair": [
+      "adj",
+      "n"
+    ],
+    "fairs": [
+      "adj",
+      "n"
+    ],
+    "fairer": [
+      "adj",
+      "n"
+    ],
+    "fairest": [
+      "adj",
+      "n"
+    ],
+    "faith": [
+      "n"
+    ],
+    "faiths": [
+      "n"
+    ],
+    "fall": [
+      "v",
+      "n"
+    ],
+    "falls": [
+      "v",
+      "n"
+    ],
+    "falling": [
+      "v",
+      "n"
+    ],
+    "fell": [
+      "v",
+      "n"
+    ],
+    "fallen": [
+      "v",
+      "n"
+    ],
+    "false": [
+      "adj"
+    ],
+    "familiar": [
+      "adj"
+    ],
+    "family": [
+      "n"
+    ],
+    "families": [
+      "n"
+    ],
+    "famous": [
+      "adj"
+    ],
+    "fan": [
+      "n",
+      "v"
+    ],
+    "fans": [
+      "n",
+      "v"
+    ],
+    "faning": [
+      "n",
+      "v"
+    ],
+    "faned": [
+      "n",
+      "v"
+    ],
+    "fancy": [
+      "n",
+      "v",
+      "adj"
+    ],
+    "fancies": [
+      "n",
+      "v",
+      "adj"
+    ],
+    "fancying": [
+      "n",
+      "v",
+      "adj"
+    ],
+    "fancied": [
+      "n",
+      "v",
+      "adj"
+    ],
+    "fancier": [
+      "n",
+      "v",
+      "adj"
+    ],
+    "fanciest": [
+      "n",
+      "v",
+      "adj"
+    ],
+    "fantastic": [
+      "adj"
+    ],
+    "fantasy": [
+      "n"
+    ],
+    "fantasies": [
+      "n"
+    ],
+    "far": [
+      "adj",
+      "adv"
+    ],
+    "farm": [
+      "n",
+      "v"
+    ],
+    "farms": [
+      "n",
+      "v"
+    ],
+    "farming": [
+      "n",
+      "v"
+    ],
+    "farmed": [
+      "n",
+      "v"
+    ],
+    "farmer": [
+      "n"
+    ],
+    "farmers": [
+      "n"
+    ],
+    "fashion": [
+      "n",
+      "v"
+    ],
+    "fashions": [
+      "n",
+      "v"
+    ],
+    "fashioning": [
+      "n",
+      "v"
+    ],
+    "fashioned": [
+      "n",
+      "v"
+    ],
+    "fast": [
+      "adj",
+      "adv"
+    ],
+    "faster": [
+      "adj",
+      "adv"
+    ],
+    "fastest": [
+      "adj",
+      "adv"
+    ],
+    "fat": [
+      "adj",
+      "n"
+    ],
+    "fats": [
+      "adj",
+      "n"
+    ],
+    "father": [
+      "n"
+    ],
+    "fathers": [
+      "n"
+    ],
+    "fault": [
+      "n"
+    ],
+    "faults": [
+      "n"
+    ],
+    "favor": [
+      "n",
+      "v"
+    ],
+    "favors": [
+      "n",
+      "v"
+    ],
+    "favoring": [
+      "n",
+      "v"
+    ],
+    "favored": [
+      "n",
+      "v"
+    ],
+    "favorite": [
+      "adj",
+      "n"
+    ],
+    "favorites": [
+      "adj",
+      "n"
+    ],
+    "fear": [
+      "n",
+      "v"
+    ],
+    "fears": [
+      "n",
+      "v"
+    ],
+    "fearing": [
+      "n",
+      "v"
+    ],
+    "feared": [
+      "n",
+      "v"
+    ],
+    "feature": [
+      "n",
+      "v"
+    ],
+    "features": [
+      "n",
+      "v"
+    ],
+    "featuring": [
+      "n",
+      "v"
+    ],
+    "featured": [
+      "n",
+      "v"
+    ],
+    "fee": [
+      "n"
+    ],
+    "fees": [
+      "n"
+    ],
+    "feed": [
+      "v",
+      "n"
+    ],
+    "feeds": [
+      "v",
+      "n"
+    ],
+    "feeding": [
+      "v",
+      "n"
+    ],
+    "fed": [
+      "v",
+      "n"
+    ],
+    "feel": [
+      "v",
+      "n"
+    ],
+    "feels": [
+      "v",
+      "n"
+    ],
+    "feeling": [
+      "n"
+    ],
+    "felt": [
+      "v",
+      "n"
+    ],
+    "feelings": [
+      "n"
+    ],
+    "fellow": [
+      "n",
+      "adj"
+    ],
+    "fellows": [
+      "n",
+      "adj"
+    ],
+    "female": [
+      "adj",
+      "n"
+    ],
+    "females": [
+      "adj",
+      "n"
+    ],
+    "fence": [
+      "n",
+      "v"
+    ],
+    "fences": [
+      "n",
+      "v"
+    ],
+    "fencing": [
+      "n",
+      "v"
+    ],
+    "fenced": [
+      "n",
+      "v"
+    ],
+    "festival": [
+      "n"
+    ],
+    "festivals": [
+      "n"
+    ],
+    "fetch": [
+      "v"
+    ],
+    "fetches": [
+      "v"
+    ],
+    "fetching": [
+      "v"
+    ],
+    "fetched": [
+      "v"
+    ],
+    "fever": [
+      "n"
+    ],
+    "fevers": [
+      "n"
+    ],
+    "few": [
+      "adj",
+      "n"
+    ],
+    "fews": [
+      "adj",
+      "n"
+    ],
+    "fewer": [
+      "adj",
+      "n"
+    ],
+    "fewest": [
+      "adj",
+      "n"
+    ],
+    "fiber": [
+      "n"
+    ],
+    "fibers": [
+      "n"
+    ],
+    "fiction": [
+      "n"
+    ],
+    "fictions": [
+      "n"
+    ],
+    "field": [
+      "n",
+      "v"
+    ],
+    "fields": [
+      "n",
+      "v"
+    ],
+    "fielding": [
+      "n",
+      "v"
+    ],
+    "fielded": [
+      "n",
+      "v"
+    ],
+    "fight": [
+      "v",
+      "n"
+    ],
+    "fights": [
+      "v",
+      "n"
+    ],
+    "fighting": [
+      "v",
+      "n"
+    ],
+    "fought": [
+      "v",
+      "n"
+    ],
+    "figure": [
+      "n",
+      "v"
+    ],
+    "figures": [
+      "n",
+      "v"
+    ],
+    "figuring": [
+      "n",
+      "v"
+    ],
+    "figured": [
+      "n",
+      "v"
+    ],
+    "file": [
+      "n",
+      "v"
+    ],
+    "files": [
+      "n",
+      "v"
+    ],
+    "filing": [
+      "n",
+      "v"
+    ],
+    "filed": [
+      "n",
+      "v"
+    ],
+    "fill": [
+      "v"
+    ],
+    "fills": [
+      "v"
+    ],
+    "filling": [
+      "v"
+    ],
+    "filled": [
+      "v"
+    ],
+    "film": [
+      "n",
+      "v"
+    ],
+    "films": [
+      "n",
+      "v"
+    ],
+    "filming": [
+      "n",
+      "v"
+    ],
+    "filmed": [
+      "n",
+      "v"
+    ],
+    "finally": [
+      "adv"
+    ],
+    "finance": [
+      "n",
+      "v"
+    ],
+    "finances": [
+      "n",
+      "v"
+    ],
+    "financing": [
+      "n",
+      "v"
+    ],
+    "financed": [
+      "n",
+      "v"
+    ],
+    "financial": [
+      "adj"
+    ],
+    "find": [
+      "v"
+    ],
+    "finds": [
+      "v"
+    ],
+    "finding": [
+      "n"
+    ],
+    "found": [
+      "v"
+    ],
+    "findings": [
+      "n"
+    ],
+    "fine": [
+      "adj",
+      "n",
+      "v"
+    ],
+    "fines": [
+      "adj",
+      "n",
+      "v"
+    ],
+    "fining": [
+      "adj",
+      "n",
+      "v"
+    ],
+    "fined": [
+      "adj",
+      "n",
+      "v"
+    ],
+    "finger": [
+      "n",
+      "v"
+    ],
+    "fingers": [
+      "n",
+      "v"
+    ],
+    "fingering": [
+      "n",
+      "v"
+    ],
+    "fingered": [
+      "n",
+      "v"
+    ],
+    "finish": [
+      "v",
+      "n"
+    ],
+    "finishes": [
+      "v",
+      "n"
+    ],
+    "finishing": [
+      "v",
+      "n"
+    ],
+    "finished": [
+      "v",
+      "n"
+    ],
+    "fire": [
+      "n",
+      "v"
+    ],
+    "fires": [
+      "n",
+      "v"
+    ],
+    "firing": [
+      "n",
+      "v"
+    ],
+    "fired": [
+      "n",
+      "v"
+    ],
+    "firm": [
+      "adj",
+      "n"
+    ],
+    "firms": [
+      "adj",
+      "n"
+    ],
+    "firmer": [
+      "adj",
+      "n"
+    ],
+    "firmest": [
+      "adj",
+      "n"
+    ],
+    "first": [
+      "adj",
+      "adv"
+    ],
+    "fish": [
+      "n",
+      "v"
+    ],
+    "fishes": [
+      "n",
+      "v"
+    ],
+    "fishing": [
+      "n",
+      "v"
+    ],
+    "fished": [
+      "n",
+      "v"
+    ],
+    "fisherman": [
+      "n"
+    ],
+    "fishermen": [
+      "n"
+    ],
+    "fist": [
+      "n"
+    ],
+    "fists": [
+      "n"
+    ],
+    "fit": [
+      "v",
+      "adj",
+      "n"
+    ],
+    "fits": [
+      "v",
+      "adj",
+      "n"
+    ],
+    "fiting": [
+      "v",
+      "adj",
+      "n"
+    ],
+    "fited": [
+      "v",
+      "adj",
+      "n"
+    ],
+    "fitter": [
+      "v",
+      "adj",
+      "n"
+    ],
+    "fittest": [
+      "v",
+      "adj",
+      "n"
+    ],
+    "fix": [
+      "v",
+      "n"
+    ],
+    "fixes": [
+      "v",
+      "n"
+    ],
+    "fixing": [
+      "v",
+      "n"
+    ],
+    "fixed": [
+      "v",
+      "n"
+    ],
+    "flag": [
+      "n",
+      "v"
+    ],
+    "flags": [
+      "n",
+      "v"
+    ],
+    "flaging": [
+      "n",
+      "v"
+    ],
+    "flaged": [
+      "n",
+      "v"
+    ],
+    "flash": [
+      "n",
+      "v"
+    ],
+    "flashes": [
+      "n",
+      "v"
+    ],
+    "flashing": [
+      "n",
+      "v"
+    ],
+    "flashed": [
+      "n",
+      "v"
+    ],
+    "flat": [
+      "adj",
+      "n",
+      "adv"
+    ],
+    "flats": [
+      "adj",
+      "n",
+      "adv"
+    ],
+    "flatter": [
+      "adj",
+      "n",
+      "adv"
+    ],
+    "flattest": [
+      "adj",
+      "n",
+      "adv"
+    ],
+    "flavor": [
+      "n",
+      "v"
+    ],
+    "flavors": [
+      "n",
+      "v"
+    ],
+    "flexible": [
+      "adj"
+    ],
+    "flight": [
+      "n"
+    ],
+    "flights": [
+      "n"
+    ],
+    "flood": [
+      "n",
+      "v"
+    ],
+    "floods": [
+      "n",
+      "v"
+    ],
+    "flooding": [
+      "n",
+      "v"
+    ],
+    "flooded": [
+      "n",
+      "v"
+    ],
+    "floor": [
+      "n",
+      "v"
+    ],
+    "floors": [
+      "n",
+      "v"
+    ],
+    "flour": [
+      "n"
+    ],
+    "flow": [
+      "n",
+      "v"
+    ],
+    "flows": [
+      "n",
+      "v"
+    ],
+    "flowing": [
+      "n",
+      "v"
+    ],
+    "flowed": [
+      "n",
+      "v"
+    ],
+    "flower": [
+      "n",
+      "v"
+    ],
+    "flowers": [
+      "n",
+      "v"
+    ],
+    "flowering": [
+      "n",
+      "v"
+    ],
+    "flowered": [
+      "n",
+      "v"
+    ],
+    "flu": [
+      "n"
+    ],
+    "fluent": [
+      "adj"
+    ],
+    "fly": [
+      "v",
+      "n"
+    ],
+    "flies": [
+      "v",
+      "n"
+    ],
+    "flying": [
+      "v",
+      "n"
+    ],
+    "flew": [
+      "v",
+      "n"
+    ],
+    "flown": [
+      "v",
+      "n"
+    ],
+    "focus": [
+      "n",
+      "v"
+    ],
+    "focuses": [
+      "n",
+      "v"
+    ],
+    "focusing": [
+      "n",
+      "v"
+    ],
+    "focused": [
+      "n",
+      "v"
+    ],
+    "foggy": [
+      "adj"
+    ],
+    "foggier": [
+      "adj"
+    ],
+    "foggiest": [
+      "adj"
+    ],
+    "fold": [
+      "v",
+      "n"
+    ],
+    "folds": [
+      "v",
+      "n"
+    ],
+    "folding": [
+      "v",
+      "n"
+    ],
+    "folded": [
+      "v",
+      "n"
+    ],
+    "folk": [
+      "n",
+      "adj"
+    ],
+    "folks": [
+      "n",
+      "adj"
+    ],
+    "follow": [
+      "v"
+    ],
+    "follows": [
+      "v"
+    ],
+    "following": [
+      "v"
+    ],
+    "followed": [
+      "v"
+    ],
+    "fond": [
+      "adj"
+    ],
+    "fonder": [
+      "adj"
+    ],
+    "fondest": [
+      "adj"
+    ],
+    "food": [
+      "n"
+    ],
+    "foot": [
+      "n"
+    ],
+    "feet": [
+      "n"
+    ],
+    "football": [
+      "n"
+    ],
+    "footballs": [
+      "n"
+    ],
+    "force": [
+      "n",
+      "v"
+    ],
+    "forces": [
+      "n",
+      "v"
+    ],
+    "forcing": [
+      "n",
+      "v"
+    ],
+    "forced": [
+      "n",
+      "v"
+    ],
+    "forecast": [
+      "v",
+      "n"
+    ],
+    "forecasts": [
+      "v",
+      "n"
+    ],
+    "forecasting": [
+      "v",
+      "n"
+    ],
+    "forecasted": [
+      "v",
+      "n"
+    ],
+    "forehead": [
+      "n"
+    ],
+    "foreheads": [
+      "n"
+    ],
+    "foreign": [
+      "adj"
+    ],
+    "forest": [
+      "n"
+    ],
+    "forests": [
+      "n"
+    ],
+    "forever": [
+      "adv"
+    ],
+    "forget": [
+      "v"
+    ],
+    "forgets": [
+      "v"
+    ],
+    "forgetting": [
+      "v"
+    ],
+    "forgot": [
+      "v"
+    ],
+    "forgotten": [
+      "v"
+    ],
+    "forgive": [
+      "v"
+    ],
+    "forgives": [
+      "v"
+    ],
+    "forgiving": [
+      "v"
+    ],
+    "forgave": [
+      "v"
+    ],
+    "forgiven": [
+      "v"
+    ],
+    "fork": [
+      "n",
+      "v"
+    ],
+    "forks": [
+      "n",
+      "v"
+    ],
+    "forking": [
+      "n",
+      "v"
+    ],
+    "forked": [
+      "n",
+      "v"
+    ],
+    "form": [
+      "n",
+      "v"
+    ],
+    "forms": [
+      "n",
+      "v"
+    ],
+    "forming": [
+      "n",
+      "v"
+    ],
+    "formed": [
+      "n",
+      "v"
+    ],
+    "formal": [
+      "adj"
+    ],
+    "format": [
+      "n",
+      "v"
+    ],
+    "formats": [
+      "n",
+      "v"
+    ],
+    "formating": [
+      "n",
+      "v"
+    ],
+    "formated": [
+      "n",
+      "v"
+    ],
+    "former": [
+      "adj",
+      "n"
+    ],
+    "formers": [
+      "adj",
+      "n"
+    ],
+    "fortunately": [
+      "adv"
+    ],
+    "forward": [
+      "adv",
+      "adj",
+      "v"
+    ],
+    "forwards": [
+      "adv",
+      "adj",
+      "v"
+    ],
+    "forwarding": [
+      "adv",
+      "adj",
+      "v"
+    ],
+    "forwarded": [
+      "adv",
+      "adj",
+      "v"
+    ],
+    "founds": [
+      "v"
+    ],
+    "founding": [
+      "v"
+    ],
+    "founded": [
+      "v"
+    ],
+    "foundation": [
+      "n"
+    ],
+    "foundations": [
+      "n"
+    ],
+    "fountain": [
+      "n"
+    ],
+    "fountains": [
+      "n"
+    ],
+    "fox": [
+      "n"
+    ],
+    "foxes": [
+      "n"
+    ],
+    "frank": [
+      "adj"
+    ],
+    "free": [
+      "adj",
+      "v",
+      "adv"
+    ],
+    "frees": [
+      "adj",
+      "v",
+      "adv"
+    ],
+    "freing": [
+      "adj",
+      "v",
+      "adv"
+    ],
+    "freed": [
+      "adj",
+      "v",
+      "adv"
+    ],
+    "freer": [
+      "adj",
+      "v",
+      "adv"
+    ],
+    "freest": [
+      "adj",
+      "v",
+      "adv"
+    ],
+    "freedom": [
+      "n"
+    ],
+    "freedoms": [
+      "n"
+    ],
+    "freeze": [
+      "v",
+      "n"
+    ],
+    "freezes": [
+      "v",
+      "n"
+    ],
+    "freezing": [
+      "v",
+      "n"
+    ],
+    "froze": [
+      "v",
+      "n"
+    ],
+    "frozen": [
+      "v",
+      "n"
+    ],
+    "frequency": [
+      "n"
+    ],
+    "frequencies": [
+      "n"
+    ],
+    "frequently": [
+      "adv"
+    ],
+    "fresh": [
+      "adj"
+    ],
+    "fresher": [
+      "adj"
+    ],
+    "freshest": [
+      "adj"
+    ],
+    "friction": [
+      "n"
+    ],
+    "frictions": [
+      "n"
+    ],
+    "fridge": [
+      "n"
+    ],
+    "fridges": [
+      "n"
+    ],
+    "friend": [
+      "n"
+    ],
+    "friends": [
+      "n"
+    ],
+    "friendly": [
+      "adj"
+    ],
+    "friendlier": [
+      "adj"
+    ],
+    "friendliest": [
+      "adj"
+    ],
+    "friendship": [
+      "n"
+    ],
+    "friendships": [
+      "n"
+    ],
+    "frightened": [
+      "adj"
+    ],
+    "frog": [
+      "n"
+    ],
+    "frogs": [
+      "n"
+    ],
+    "front": [
+      "n",
+      "adj",
+      "v"
+    ],
+    "fronts": [
+      "n",
+      "adj",
+      "v"
+    ],
+    "fronting": [
+      "n",
+      "adj",
+      "v"
+    ],
+    "fronted": [
+      "n",
+      "adj",
+      "v"
+    ],
+    "frontier": [
+      "n"
+    ],
+    "frontiers": [
+      "n"
+    ],
+    "frost": [
+      "n",
+      "v"
+    ],
+    "frosts": [
+      "n",
+      "v"
+    ],
+    "frosting": [
+      "n",
+      "v"
+    ],
+    "frosted": [
+      "n",
+      "v"
+    ],
+    "fruit": [
+      "n"
+    ],
+    "fry": [
+      "v",
+      "n"
+    ],
+    "fries": [
+      "v",
+      "n"
+    ],
+    "frying": [
+      "v",
+      "n"
+    ],
+    "fried": [
+      "v",
+      "n"
+    ],
+    "fuel": [
+      "n",
+      "v"
+    ],
+    "fuels": [
+      "n",
+      "v"
+    ],
+    "full": [
+      "adj",
+      "adv"
+    ],
+    "fuller": [
+      "adj",
+      "adv"
+    ],
+    "fullest": [
+      "adj",
+      "adv"
+    ],
+    "fun": [
+      "n",
+      "adj"
+    ],
+    "function": [
+      "n",
+      "v"
+    ],
+    "functions": [
+      "n",
+      "v"
+    ],
+    "functioning": [
+      "n",
+      "v"
+    ],
+    "functioned": [
+      "n",
+      "v"
+    ],
+    "fund": [
+      "n",
+      "v"
+    ],
+    "funds": [
+      "n",
+      "v"
+    ],
+    "funding": [
+      "n",
+      "v"
+    ],
+    "funded": [
+      "n",
+      "v"
+    ],
+    "fundamental": [
+      "adj",
+      "n"
+    ],
+    "fundamentals": [
+      "adj",
+      "n"
+    ],
+    "funny": [
+      "adj"
+    ],
+    "funnier": [
+      "adj"
+    ],
+    "funniest": [
+      "adj"
+    ],
+    "furniture": [
+      "n"
+    ],
+    "further": [
+      "adj",
+      "adv"
+    ],
+    "future": [
+      "n",
+      "adj"
+    ],
+    "futures": [
+      "n",
+      "adj"
+    ],
+    "farther": [
+      "adj",
+      "adv"
+    ],
+    "farthest": [
+      "adj",
+      "adv"
+    ],
+    "furthest": [
+      "adj",
+      "adv"
+    ]
+  }
+}

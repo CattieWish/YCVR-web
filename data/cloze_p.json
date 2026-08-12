@@ -1,0 +1,2291 @@
+[
+  {
+    "q": "The runner set a steady <span class='blank'>_____</span> at the beginning of the marathon.",
+    "answer": "pace",
+    "explain": "pace n. 步速，节奏 / v. 踱步。",
+    "translation": "这位赛跑选手在马拉松开始时定下了稳定的<strong>步速</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "She <span class='blank'>_____</span> back and forth while waiting for the test results.",
+    "answer": "paced",
+    "explain": "pace n. 步速，节奏 / v. 踱步。",
+    "translation": "她在等待考试结果时来回<strong>踱步</strong>。",
+    "pool": "PAST"
+  },
+  {
+    "q": "Please put your clothes in a small <span class='blank'>_____</span> before the trip.",
+    "answer": "pack",
+    "explain": "pack n. 包，包裹 / v. 打包，收拾。",
+    "translation": "旅行前请把你的衣服放进一个小<strong>包</strong>里。",
+    "pool": "BASE"
+  },
+  {
+    "q": "She always <span class='blank'>_____</span> a small lunch for her afternoon classes.",
+    "answer": "packs",
+    "explain": "pack n. 包，包裹 / v. 打包，收拾。",
+    "translation": "她总是为下午的课程<strong>打包</strong>一份简单的午餐。",
+    "pool": "THIRD"
+  },
+  {
+    "q": "A large <span class='blank'>_____</span> arrived at my door this morning.",
+    "answer": "package",
+    "explain": "package n. 包裹；包装 / v. 包装。",
+    "translation": "今天早上一只大<strong>包裹</strong>送到了我家门口。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The gift was carefully <span class='blank'>_____</span> in colorful paper and ribbon.",
+    "answer": "packaged",
+    "explain": "package n. 包裹；包装 / v. 包装。",
+    "translation": "这份礼物被用彩纸和丝带精心<strong>包装</strong>起来。",
+    "pool": "PAST"
+  },
+  {
+    "q": "Please turn to the next <span class='blank'>_____</span> of your textbook.",
+    "answer": "page",
+    "explain": "page n. 页 / v. 呼叫，传呼。",
+    "translation": "请翻到课本的下一<strong>页</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The nurse <span class='blank'>_____</span> the doctor when the patient arrived at the clinic.",
+    "answer": "paged",
+    "explain": "page n. 页 / v. 呼叫，传呼。",
+    "translation": "病人到达诊所时，护士<strong>呼叫</strong>了医生。",
+    "pool": "PAST"
+  },
+  {
+    "q": "The sharp <span class='blank'>_____</span> in his knee made him stop running.",
+    "answer": "pain",
+    "explain": "pain n. 疼痛，痛苦。",
+    "translation": "膝盖剧烈的<strong>疼痛</strong>使他停下了跑步。",
+    "pool": "BASE"
+  },
+  {
+    "q": "We need to buy more white <span class='blank'>_____</span> for the kitchen walls.",
+    "answer": "paint",
+    "explain": "paint n. 油漆，涂料 / v. 粉刷；绘画。",
+    "translation": "我们需要为厨房墙面再买些白色<strong>油漆</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "They <span class='blank'>_____</span> the living room blue last weekend.",
+    "answer": "painted",
+    "explain": "paint n. 油漆，涂料 / v. 粉刷；绘画。",
+    "translation": "上周末他们把客厅<strong>粉刷</strong>成了蓝色。",
+    "pool": "PAST"
+  },
+  {
+    "q": "I bought a new <span class='blank'>_____</span> of shoes for the school trip.",
+    "answer": "pair",
+    "explain": "pair n. 一双，一对 / v. 使成对，配对。",
+    "translation": "我为学校旅行买了一<strong>双</strong>新鞋。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The teacher <span class='blank'>_____</span> the students together for the group activity.",
+    "answer": "paired",
+    "explain": "pair n. 一双，一对 / v. 使成对，配对。",
+    "translation": "老师把学生<strong>结成对</strong>进行小组活动。",
+    "pool": "PAST"
+  },
+  {
+    "q": "The king lived in a beautiful <span class='blank'>_____</span> near the center of the city.",
+    "answer": "palace",
+    "explain": "palace n. 宫殿。",
+    "translation": "国王住在市中心附近一座美丽的<strong>宫殿</strong>里。",
+    "pool": "BASE"
+  },
+  {
+    "q": "She looked <span class='blank'>_____</span> after working late into the night.",
+    "answer": "pale",
+    "explain": "pale adj. 苍白的；浅色的。",
+    "translation": "工作到深夜后，她看起来脸色<strong>苍白</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Heat the oil in a large <span class='blank'>_____</span> before adding the vegetables.",
+    "answer": "pan",
+    "explain": "pan n. 平底锅。",
+    "translation": "先在一只大<strong>平底锅</strong>里把油烧热，再放入蔬菜。",
+    "pool": "BASE"
+  },
+  {
+    "q": "I had a delicious <span class='blank'>_____</span> with maple syrup for breakfast.",
+    "answer": "pancake",
+    "explain": "pancake n. 薄煎饼。",
+    "translation": "早餐我吃了一张配枫糖浆的美味<strong>薄煎饼</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The <span class='blank'>_____</span> at the zoo spends most of its day eating bamboo.",
+    "answer": "panda",
+    "explain": "panda n. 熊猫。",
+    "translation": "动物园里的那只<strong>熊猫</strong>一天中大部分时间都在吃竹子。",
+    "pool": "BASE"
+  },
+  {
+    "q": "A group of experts sat on the discussion <span class='blank'>_____</span> at the conference.",
+    "answer": "panel",
+    "explain": "panel n. 面板；专门小组。",
+    "translation": "一组专家在会议上担任讨论<strong>小组</strong>成员。",
+    "pool": "BASE"
+  },
+  {
+    "q": "There was widespread <span class='blank'>_____</span> when the fire alarm suddenly rang.",
+    "answer": "panic",
+    "explain": "panic n. 恐慌 / v. 惊慌。",
+    "translation": "火警突然响起时，到处一片<strong>恐慌</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The crowd <span class='blank'>_____</span> when they heard the loud explosion.",
+    "answer": "panicked",
+    "explain": "panic n. 恐慌 / v. 惊慌。",
+    "translation": "人群听到巨大的爆炸声后<strong>惊慌</strong>起来。",
+    "pool": "PAST"
+  },
+  {
+    "q": "Please write your answer on a separate sheet of <span class='blank'>_____</span>.",
+    "answer": "paper",
+    "explain": "paper n. 纸；报纸；论文 / v. 裱糊，贴纸。",
+    "translation": "请把答案写在另一张<strong>纸</strong>上。",
+    "pool": "BASE"
+  },
+  {
+    "q": "They <span class='blank'>_____</span> the walls with light blue wallpaper last weekend.",
+    "answer": "papered",
+    "explain": "paper n. 纸；报纸；论文 / v. 裱糊，贴纸。",
+    "translation": "上周末他们用浅蓝色墙纸<strong>裱糊</strong>了墙壁。",
+    "pool": "PAST"
+  },
+  {
+    "q": "The first <span class='blank'>_____</span> of the essay introduces the main topic.",
+    "answer": "paragraph",
+    "explain": "paragraph n. 段落。",
+    "translation": "文章的第一<strong>段</strong>引出主题。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The mailman delivered a heavy <span class='blank'>_____</span> to our house yesterday.",
+    "answer": "parcel",
+    "explain": "parcel n. 包裹。",
+    "translation": "昨天邮递员给我们家送来一个沉重的<strong>包裹</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The king granted a full <span class='blank'>_____</span> to the prisoner after twenty years.",
+    "answer": "pardon",
+    "explain": "pardon n. 赦免；原谅 / v. 赦免；原谅。",
+    "translation": "二十年后，国王给予那名囚犯完全的<strong>赦免</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The governor <span class='blank'>_____</span> the prisoner after ten years in jail.",
+    "answer": "pardoned",
+    "explain": "pardon n. 赦免；原谅 / v. 赦免；原谅。",
+    "translation": "那名囚犯入狱十年后，州长<strong>赦免</strong>了他。",
+    "pool": "PAST"
+  },
+  {
+    "q": "Every <span class='blank'>_____</span> wants the best education for their children.",
+    "answer": "parent",
+    "explain": "parent n. 父亲或母亲，家长。",
+    "translation": "每位<strong>家长</strong>都希望孩子接受最好的教育。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Children love to play in the local <span class='blank'>_____</span> after school.",
+    "answer": "park",
+    "explain": "park n. 公园 / v. 停车。",
+    "translation": "孩子们放学后喜欢在附近的<strong>公园</strong>里玩。",
+    "pool": "BASE"
+  },
+  {
+    "q": "We <span class='blank'>_____</span> the car near the entrance of the shopping mall.",
+    "answer": "parked",
+    "explain": "park n. 公园 / v. 停车。",
+    "translation": "我们把车<strong>停</strong>在购物中心入口附近。",
+    "pool": "PAST"
+  },
+  {
+    "q": "Finding <span class='blank'>_____</span> near the city center is always difficult on weekends.",
+    "answer": "parking",
+    "explain": "parking n. 停车；停车位。",
+    "translation": "周末在市中心附近找<strong>停车位</strong>总是很困难。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The hardest <span class='blank'>_____</span> of the job is dealing with angry customers.",
+    "answer": "part",
+    "explain": "part n. 部分；角色 / v. 分开，分离。",
+    "translation": "这份工作最难的<strong>部分</strong>是应付生气的顾客。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The crowd <span class='blank'>_____</span> to let the ambulance pass through.",
+    "answer": "parted",
+    "explain": "part n. 部分；角色 / v. 分开，分离。",
+    "translation": "人群<strong>分开</strong>让救护车通过。",
+    "pool": "PAST"
+  },
+  {
+    "q": "All students must <span class='blank'>_____</span> in the annual science fair.",
+    "answer": "participate",
+    "explain": "participate v. 参加，参与。",
+    "translation": "所有学生都必须<strong>参加</strong>一年一度的科学展。",
+    "pool": "BASE"
+  },
+  {
+    "q": "She is very <span class='blank'>_____</span> about the food she eats for dinner.",
+    "answer": "particular",
+    "explain": "particular adj. 特定的；挑剔的。",
+    "translation": "她对晚餐吃的食物非常<strong>挑剔</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "My business <span class='blank'>_____</span> and I have worked together for ten years.",
+    "answer": "partner",
+    "explain": "partner n. 伙伴，搭档 / v. 与…合作。",
+    "translation": "我和我的生意<strong>伙伴</strong>已经共事了十年。",
+    "pool": "BASE"
+  },
+  {
+    "q": "She <span class='blank'>_____</span> with a local firm to expand her business abroad.",
+    "answer": "partnered",
+    "explain": "partner n. 伙伴，搭档 / v. 与…合作。",
+    "translation": "她与一家当地公司<strong>合作</strong>，把业务扩展到了国外。",
+    "pool": "PAST"
+  },
+  {
+    "q": "We are planning a small <span class='blank'>_____</span> for my mother's birthday.",
+    "answer": "party",
+    "explain": "party n. 聚会；政党 / v. 参加聚会，狂欢。",
+    "translation": "我们正计划为母亲的生日办一个小型<strong>聚会</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The students <span class='blank'>_____</span> late into the night after the final exams.",
+    "answer": "partied",
+    "explain": "party n. 聚会；政党 / v. 参加聚会，狂欢。",
+    "translation": "期末考试后，学生们<strong>狂欢</strong>到深夜。",
+    "pool": "PAST"
+  },
+  {
+    "q": "You need a valid <span class='blank'>_____</span> to enter the restricted area.",
+    "answer": "pass",
+    "explain": "pass n. 通行证 / v. 通过；传递。",
+    "translation": "你需要有效的<strong>通行证</strong>才能进入限制区域。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The time <span class='blank'>_____</span> quickly while we were watching the movie.",
+    "answer": "passed",
+    "explain": "pass n. 通行证 / v. 通过；传递。",
+    "translation": "看电影的时候时间<strong>过得</strong>飞快。",
+    "pool": "PAST"
+  },
+  {
+    "q": "The narrow <span class='blank'>_____</span> between the two buildings was very dark.",
+    "answer": "passage",
+    "explain": "passage n. 通道；段落。",
+    "translation": "两栋楼之间狭窄的<strong>通道</strong>非常黑暗。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Each <span class='blank'>_____</span> must fasten their seat belt before takeoff.",
+    "answer": "passenger",
+    "explain": "passenger n. 乘客。",
+    "translation": "每位<strong>乘客</strong>在起飞前都必须系好安全带。",
+    "pool": "BASE"
+  },
+  {
+    "q": "His <span class='blank'>_____</span> for music began when he was only five years old.",
+    "answer": "passion",
+    "explain": "passion n. 热情，酷爱。",
+    "translation": "他对音乐的<strong>热爱</strong>始于年仅五岁的时候。",
+    "pool": "BASE"
+  },
+  {
+    "q": "A <span class='blank'>_____</span> student rarely asks questions during class time.",
+    "answer": "passive",
+    "explain": "passive adj. 被动的，消极的。",
+    "translation": "<strong>被动的</strong>学生在课堂上很少提问。",
+    "pool": "BASE"
+  },
+  {
+    "q": "You cannot travel abroad without a valid <span class='blank'>_____</span>.",
+    "answer": "passport",
+    "explain": "passport n. 护照。",
+    "translation": "没有有效的<strong>护照</strong>就不能出国旅行。",
+    "pool": "BASE"
+  },
+  {
+    "q": "We should learn from the mistakes of the <span class='blank'>_____</span>.",
+    "answer": "past",
+    "explain": "past n. 过去，往事 / adj. 过去的。",
+    "translation": "我们应该从<strong>过去</strong>的错误中吸取教训。",
+    "pool": "BASE"
+  },
+  {
+    "q": "In the <span class='blank'>_____</span> few years, the city has changed a great deal.",
+    "answer": "past",
+    "explain": "past n. 过去，往事 / adj. 过去的。",
+    "translation": "<strong>过去</strong>几年里，这座城市变化很大。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The inventor filed a <span class='blank'>_____</span> to protect his new design.",
+    "answer": "patent",
+    "explain": "patent n. 专利 / v. 获得专利。",
+    "translation": "这位发明家申请了<strong>专利</strong>来保护他的新设计。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The inventor <span class='blank'>_____</span> his new machine to protect his ideas.",
+    "answer": "patented",
+    "explain": "patent n. 专利 / v. 获得专利。",
+    "translation": "这位发明家为他的新机器<strong>申请了专利</strong>，以保护他的创意。",
+    "pool": "PAST"
+  },
+  {
+    "q": "A narrow dirt <span class='blank'>_____</span> led through the forest to the lake.",
+    "answer": "path",
+    "explain": "path n. 小路，路径。",
+    "translation": "一条狭窄的泥土<strong>小路</strong>穿过森林通向湖边。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Teaching young children requires a lot of <span class='blank'>_____</span> and care.",
+    "answer": "patience",
+    "explain": "patience n. 耐心。",
+    "translation": "教小孩子需要很多<strong>耐心</strong>和细心。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The doctor will see the next <span class='blank'>_____</span> in about ten minutes.",
+    "answer": "patient",
+    "explain": "patient n. 病人 / adj. 有耐心的。",
+    "translation": "医生大约十分钟后看下一位<strong>病人</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Good teachers are usually very <span class='blank'>_____</span> with slow learners.",
+    "answer": "patient",
+    "explain": "patient n. 病人 / adj. 有耐心的。",
+    "translation": "好老师通常对学得慢的学生很有<strong>耐心</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The wallpaper has a repeating <span class='blank'>_____</span> of blue flowers.",
+    "answer": "pattern",
+    "explain": "pattern n. 图案；模式 / v. 使形成图案。",
+    "translation": "墙纸上有重复的蓝色花朵<strong>图案</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The dress was <span class='blank'>_____</span> with small white flowers on blue silk.",
+    "answer": "patterned",
+    "explain": "pattern n. 图案；模式 / v. 使形成图案。",
+    "translation": "这条连衣裙的蓝色丝绸上<strong>印满</strong>了白色小花。",
+    "pool": "PAST"
+  },
+  {
+    "q": "The job offers good <span class='blank'>_____</span> but very long working hours.",
+    "answer": "pay",
+    "explain": "pay n. 工资，报酬 / v. 支付。",
+    "translation": "这份工作<strong>薪水</strong>不错，但工作时间很长。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The company <span class='blank'>_____</span> its employees on the last Friday of each month.",
+    "answer": "pays",
+    "explain": "pay n. 工资，报酬 / v. 支付。",
+    "translation": "公司在每月最后一个星期五给员工<strong>发工资</strong>。",
+    "pool": "THIRD"
+  },
+  {
+    "q": "The two countries finally signed a treaty of <span class='blank'>_____</span> after years of war.",
+    "answer": "peace",
+    "explain": "peace n. 和平；平静。",
+    "translation": "经过多年战争，两国终于签署了<strong>和平</strong>条约。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The mountain <span class='blank'>_____</span> was covered with snow even in summer.",
+    "answer": "peak",
+    "explain": "peak n. 山峰；顶峰 / v. 达到顶峰 / adj. 高峰的。",
+    "translation": "即使在夏天，<strong>山顶</strong>也覆盖着积雪。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Sales <span class='blank'>_____</span> during the holiday season and then dropped sharply.",
+    "answer": "peaked",
+    "explain": "peak n. 山峰；顶峰 / v. 达到顶峰 / adj. 高峰的。",
+    "translation": "销售额在节日期间<strong>达到顶峰</strong>，随后急剧下降。",
+    "pool": "PAST"
+  },
+  {
+    "q": "Traffic is always worst during <span class='blank'>_____</span> hours in the morning.",
+    "answer": "peak",
+    "explain": "peak n. 山峰；顶峰 / v. 达到顶峰 / adj. 高峰的。",
+    "translation": "早晨<strong>高峰</strong>时段的交通总是最糟糕的。",
+    "pool": "BASE"
+  },
+  {
+    "q": "I prefer to eat a fresh <span class='blank'>_____</span> instead of an apple for lunch.",
+    "answer": "pear",
+    "explain": "pear n. 梨。",
+    "translation": "午餐我更喜欢吃一个新鲜的<strong>梨</strong>，而不是苹果。",
+    "pool": "BASE"
+  },
+  {
+    "q": "May I borrow a blue <span class='blank'>_____</span> to sign this document?",
+    "answer": "pen",
+    "explain": "pen n. 钢笔 / v. 写，撰写。",
+    "translation": "我可以借一支蓝色<strong>钢笔</strong>来签这份文件吗？",
+    "pool": "BASE"
+  },
+  {
+    "q": "The author <span class='blank'>_____</span> a beautiful letter to her readers last year.",
+    "answer": "penned",
+    "explain": "pen n. 钢笔 / v. 写，撰写。",
+    "translation": "去年这位作家给她的读者们<strong>写了</strong>一封动人的信。",
+    "pool": "PAST"
+  },
+  {
+    "q": "Please use a sharp <span class='blank'>_____</span> to draw the map in your notebook.",
+    "answer": "pencil",
+    "explain": "pencil n. 铅笔 / v. 用铅笔写（或画）。",
+    "translation": "请用一支削尖的<strong>铅笔</strong>在笔记本上画地图。",
+    "pool": "BASE"
+  },
+  {
+    "q": "She <span class='blank'>_____</span> in the missing dates on the calendar quickly.",
+    "answer": "penciled",
+    "explain": "pencil n. 铅笔 / v. 用铅笔写（或画）。",
+    "translation": "她迅速用铅笔在日历上<strong>填上</strong>了缺失的日期。",
+    "pool": "PAST"
+  },
+  {
+    "q": "Many <span class='blank'>_____</span> came to watch the parade in the town center.",
+    "answer": "people",
+    "explain": "people n. 人们；人民 / v. 居住于。",
+    "translation": "许多<strong>人</strong>来到镇中心观看游行。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The island was <span class='blank'>_____</span> by fishermen over two hundred years ago.",
+    "answer": "peopled",
+    "explain": "people n. 人们；人民 / v. 居住于。",
+    "translation": "两百多年前，渔民们开始在这座岛上<strong>定居</strong>。",
+    "pool": "PAST"
+  },
+  {
+    "q": "Add a little black <span class='blank'>_____</span> to the soup for more flavor.",
+    "answer": "pepper",
+    "explain": "pepper n. 胡椒；甜椒 / v. 撒胡椒粉。",
+    "translation": "往汤里加一点黑<strong>胡椒</strong>会更美味。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The chef <span class='blank'>_____</span> the steak with salt and black pepper.",
+    "answer": "peppered",
+    "explain": "pepper n. 胡椒；甜椒 / v. 撒胡椒粉。",
+    "translation": "厨师在牛排上<strong>撒了</strong>盐和黑胡椒。",
+    "pool": "PAST"
+  },
+  {
+    "q": "Only twenty <span class='blank'>_____</span> of the students passed the difficult exam.",
+    "answer": "percent",
+    "explain": "percent n. 百分比，百分数。",
+    "translation": "只有<strong>百分之</strong>二十的学生通过了这场困难的考试。",
+    "pool": "BASE"
+  },
+  {
+    "q": "A high <span class='blank'>_____</span> of the population lives in big cities.",
+    "answer": "percentage",
+    "explain": "percentage n. 百分比，百分率。",
+    "translation": "很高<strong>比例</strong>的人口住在大城市。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The weather was <span class='blank'>_____</span> for a picnic in the countryside.",
+    "answer": "perfect",
+    "explain": "perfect adj. 完美的 / v. 使完善。",
+    "translation": "这样的天气去乡下野餐再<strong>完美</strong>不过了。",
+    "pool": "BASE"
+  },
+  {
+    "q": "She <span class='blank'>_____</span> her cooking skills by practicing every single day.",
+    "answer": "perfected",
+    "explain": "perfect adj. 完美的 / v. 使完善。",
+    "translation": "她通过每天练习<strong>完善</strong>了自己的厨艺。",
+    "pool": "PAST"
+  },
+  {
+    "q": "The band gave an excellent <span class='blank'>_____</span> at the concert last night.",
+    "answer": "performance",
+    "explain": "performance n. 表演；表现。",
+    "translation": "昨晚乐队在音乐会上奉献了一场精彩的<strong>演出</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "<span class='blank'>_____</span> we should leave early to avoid the heavy traffic.",
+    "answer": "perhaps",
+    "explain": "perhaps adv. 也许，可能。",
+    "translation": "<strong>也许</strong>我们应该早点出发，避开拥堵的交通。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The Renaissance was a very important <span class='blank'>_____</span> in European history.",
+    "answer": "period",
+    "explain": "period n. 时期；一段时间；课时。",
+    "translation": "文艺复兴是欧洲历史上一个非常重要的<strong>时期</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The accident caused <span class='blank'>_____</span> damage to his left leg.",
+    "answer": "permanent",
+    "explain": "permanent adj. 永久的，持久的。",
+    "translation": "那次事故给他的左腿造成了<strong>永久性的</strong>损伤。",
+    "pool": "BASE"
+  },
+  {
+    "q": "You need a building <span class='blank'>_____</span> to add a room to your house.",
+    "answer": "permit",
+    "explain": "permit n. 许可证 / v. 允许。",
+    "translation": "给房子加盖房间需要建筑<strong>许可证</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The school rules <span class='blank'>_____</span> students to use phones only after class.",
+    "answer": "permits",
+    "explain": "permit n. 许可证 / v. 允许。",
+    "translation": "校规只<strong>允许</strong>学生在课后使用手机。",
+    "pool": "THIRD"
+  },
+  {
+    "q": "There is only one <span class='blank'>_____</span> in the room besides the teacher.",
+    "answer": "person",
+    "explain": "person n. 人，个人。",
+    "translation": "除了老师，房间里只有一个<strong>人</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Please do not share your <span class='blank'>_____</span> information with strangers online.",
+    "answer": "personal",
+    "explain": "personal adj. 个人的，私人的。",
+    "translation": "请不要在网上与陌生人分享你的<strong>个人</strong>信息。",
+    "pool": "BASE"
+  },
+  {
+    "q": "She has a warm <span class='blank'>_____</span> that makes everyone feel welcome.",
+    "answer": "personality",
+    "explain": "personality n. 个性，性格。",
+    "translation": "她热情的<strong>性格</strong>让每个人都感到受欢迎。",
+    "pool": "BASE"
+  },
+  {
+    "q": "It took me an hour to <span class='blank'>_____</span> my parents to let me go.",
+    "answer": "persuade",
+    "explain": "persuade v. 说服，劝说。",
+    "translation": "我花了一个小时才<strong>说服</strong>父母让我去。",
+    "pool": "BASE"
+  },
+  {
+    "q": "A <span class='blank'>_____</span> person always expects the worst to happen in life.",
+    "answer": "pessimistic",
+    "explain": "pessimistic adj. 悲观的。",
+    "translation": "<strong>悲观的</strong>人总是预料生活中会发生最坏的事。",
+    "pool": "BASE"
+  },
+  {
+    "q": "My family adopted a small dog as a <span class='blank'>_____</span> three years ago.",
+    "answer": "pet",
+    "explain": "pet n. 宠物 / v. 抚摸 / adj. 宠物的；特别喜爱的。",
+    "translation": "三年前我家收养了一只小狗当<strong>宠物</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The little girl gently <span class='blank'>_____</span> the soft fur of the rabbit.",
+    "answer": "petted",
+    "explain": "pet n. 宠物 / v. 抚摸 / adj. 宠物的；特别喜爱的。",
+    "translation": "小女孩轻轻地<strong>抚摸</strong>着兔子柔软的毛。",
+    "pool": "PAST"
+  },
+  {
+    "q": "The dog is her <span class='blank'>_____</span> project, and she spends hours training it.",
+    "answer": "pet",
+    "explain": "pet n. 宠物 / v. 抚摸 / adj. 宠物的；特别喜爱的。",
+    "translation": "这只狗是她<strong>特别喜爱的</strong>项目，她每天花好几个小时训练它。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The car needs more <span class='blank'>_____</span> before we can drive to the beach.",
+    "answer": "petrol",
+    "explain": "petrol n. 汽油。",
+    "translation": "我们开车去海滩之前，车需要加更多<strong>汽油</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The project is now entering its most difficult <span class='blank'>_____</span>.",
+    "answer": "phase",
+    "explain": "phase n. 阶段，时期 / v. 分阶段进行。",
+    "translation": "这个项目现在正进入最困难的<strong>阶段</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The old system will be <span class='blank'>_____</span> out over the next three months.",
+    "answer": "phased",
+    "explain": "phase n. 阶段，时期 / v. 分阶段进行。",
+    "translation": "旧系统将在未来三个月内逐步<strong>淘汰</strong>。",
+    "pool": "PAST"
+  },
+  {
+    "q": "Global warming is a natural <span class='blank'>_____</span> that scientists study closely.",
+    "answer": "phenomenon",
+    "explain": "phenomenon n. 现象。",
+    "translation": "全球变暖是科学家们密切研究的一种自然<strong>现象</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "His <span class='blank'>_____</span> of life is to always stay positive and work hard.",
+    "answer": "philosophy",
+    "explain": "philosophy n. 哲学；人生哲学。",
+    "translation": "他的人生<strong>哲学</strong>是始终保持积极、努力工作。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Please turn off your <span class='blank'>_____</span> before the movie starts.",
+    "answer": "phone",
+    "explain": "phone n. 电话 / v. 打电话。",
+    "translation": "电影开始前请关掉<strong>手机</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "I <span class='blank'>_____</span> my mother last night to tell her the good news.",
+    "answer": "phoned",
+    "explain": "phone n. 电话 / v. 打电话。",
+    "translation": "昨晚我给妈妈<strong>打了电话</strong>，告诉她这个好消息。",
+    "pool": "PAST"
+  },
+  {
+    "q": "I took a beautiful <span class='blank'>_____</span> of the sunset at the beach.",
+    "answer": "photo",
+    "explain": "photo n. 照片 / v. 拍照。",
+    "translation": "我在海滩拍了一张美丽的日落<strong>照片</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "They <span class='blank'>_____</span> every important moment of the wedding ceremony.",
+    "answer": "photoed",
+    "explain": "photo n. 照片 / v. 拍照。",
+    "translation": "他们<strong>拍下</strong>了婚礼仪式的每一个重要时刻。",
+    "pool": "PAST"
+  },
+  {
+    "q": "The <span class='blank'>_____</span> took amazing pictures at the wedding ceremony.",
+    "answer": "photographer",
+    "explain": "photographer n. 摄影师。",
+    "translation": "这位<strong>摄影师</strong>在婚礼上拍出了令人惊叹的照片。",
+    "pool": "BASE"
+  },
+  {
+    "q": "\"Break a leg\" is a common English <span class='blank'>_____</span> meaning good luck.",
+    "answer": "phrase",
+    "explain": "phrase n. 短语，习语 / v. 措辞。",
+    "translation": "“Break a leg”是一个常见的英语<strong>习语</strong>，意思是祝你好运。",
+    "pool": "BASE"
+  },
+  {
+    "q": "He carefully <span class='blank'>_____</span> his answer to avoid hurting her feelings.",
+    "answer": "phrased",
+    "explain": "phrase n. 短语，习语 / v. 措辞。",
+    "translation": "他小心地<strong>措辞</strong>回答，以免伤害她的感情。",
+    "pool": "PAST"
+  },
+  {
+    "q": "You should see a <span class='blank'>_____</span> if the pain continues for more than a week.",
+    "answer": "physician",
+    "explain": "physician n. 医生，内科医生。",
+    "translation": "如果疼痛持续一周以上，你应该去看<strong>医生</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "<span class='blank'>_____</span> is the science that studies matter, energy, and motion.",
+    "answer": "physics",
+    "explain": "physics n. 物理，物理学。",
+    "translation": "<strong>物理</strong>是研究物质、能量和运动的科学。",
+    "pool": "BASE"
+  },
+  {
+    "q": "She practices the <span class='blank'>_____</span> for two hours every single day.",
+    "answer": "piano",
+    "explain": "piano n. 钢琴。",
+    "translation": "她每天练习<strong>钢琴</strong>两个小时。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The <span class='blank'>_____</span> of the team chose to bat first in the game.",
+    "answer": "pick",
+    "explain": "pick n. 选择；精华 / v. 挑选；采摘。",
+    "translation": "球队<strong>最出色的队员</strong>选择在比赛中先击球。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Please <span class='blank'>_____</span> a number between one and one hundred.",
+    "answer": "pick",
+    "explain": "pick n. 选择；精华 / v. 挑选；采摘。",
+    "translation": "请在一到一百之间<strong>挑</strong>一个数字。",
+    "pool": "BASE"
+  },
+  {
+    "q": "We had a lovely <span class='blank'>_____</span> by the river on Sunday afternoon.",
+    "answer": "picnic",
+    "explain": "picnic n. 野餐 / v. 去野餐。",
+    "translation": "周日下午我们在河边进行了一次愉快的<strong>野餐</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The family <span class='blank'>_____</span> by the lake every Sunday in summer.",
+    "answer": "picnicked",
+    "explain": "picnic n. 野餐 / v. 去野餐。",
+    "translation": "夏天这家人每个周日都在湖边<strong>野餐</strong>。",
+    "pool": "PAST"
+  },
+  {
+    "q": "The child drew a colorful <span class='blank'>_____</span> of her family and home.",
+    "answer": "picture",
+    "explain": "picture n. 图画，照片 / v. 想象；描绘。",
+    "translation": "这个孩子画了一幅色彩鲜艳的<strong>画</strong>，画的是她的家人和家。",
+    "pool": "BASE"
+  },
+  {
+    "q": "I never <span class='blank'>_____</span> myself living in such a big city before.",
+    "answer": "pictured",
+    "explain": "picture n. 图画，照片 / v. 想象；描绘。",
+    "translation": "我以前从未<strong>想象</strong>过自己会住在这么大的城市里。",
+    "pool": "PAST"
+  },
+  {
+    "q": "My grandmother makes the best apple <span class='blank'>_____</span> in the whole town.",
+    "answer": "pie",
+    "explain": "pie n. 馅饼，派。",
+    "translation": "我奶奶做的苹果<strong>派</strong>是全城最好吃的。",
+    "pool": "BASE"
+  },
+  {
+    "q": "May I have another <span class='blank'>_____</span> of this delicious chocolate cake?",
+    "answer": "piece",
+    "explain": "piece n. 块，片；一件 / v. 拼凑，拼合。",
+    "translation": "我可以再要一<strong>块</strong>这个美味的巧克力蛋糕吗？",
+    "pool": "BASE"
+  },
+  {
+    "q": "She <span class='blank'>_____</span> together the broken vase with strong glue.",
+    "answer": "pieced",
+    "explain": "piece n. 块，片；一件 / v. 拼凑，拼合。",
+    "translation": "她用强力胶把打碎的花瓶<strong>拼合</strong>起来。",
+    "pool": "PAST"
+  },
+  {
+    "q": "The farmer fed the <span class='blank'>_____</span> early in the morning before sunrise.",
+    "answer": "pig",
+    "explain": "pig n. 猪。",
+    "translation": "农夫清晨日出前喂了<strong>猪</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Take one <span class='blank'>_____</span> with water after each meal to feel better.",
+    "answer": "pill",
+    "explain": "pill n. 药丸，药片。",
+    "translation": "每顿饭后用水送服一粒<strong>药丸</strong>，会感觉好一些。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The <span class='blank'>_____</span> safely landed the plane during the heavy storm.",
+    "answer": "pilot",
+    "explain": "pilot n. 飞行员 / v. 驾驶 / adj. 试验性的。",
+    "translation": "<strong>飞行员</strong>在暴风雨中安全降落了飞机。",
+    "pool": "BASE"
+  },
+  {
+    "q": "She <span class='blank'>_____</span> the small aircraft across the mountains alone.",
+    "answer": "piloted",
+    "explain": "pilot n. 飞行员 / v. 驾驶 / adj. 试验性的。",
+    "translation": "她独自<strong>驾驶</strong>小型飞机飞越了群山。",
+    "pool": "PAST"
+  },
+  {
+    "q": "The school started a <span class='blank'>_____</span> program to test the new teaching method.",
+    "answer": "pilot",
+    "explain": "pilot n. 飞行员 / v. 驾驶 / adj. 试验性的。",
+    "translation": "学校启动了一个<strong>试验性</strong>项目来测试新的教学方法。",
+    "pool": "BASE"
+  },
+  {
+    "q": "She painted her bedroom a soft <span class='blank'>_____</span> that looked like a flower.",
+    "answer": "pink",
+    "explain": "pink n. 粉红色 / adj. 粉红色的。",
+    "translation": "她把卧室刷成了柔和的<strong>粉红色</strong>，看起来像花一样。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The baby wore a soft <span class='blank'>_____</span> sweater knitted by her grandmother.",
+    "answer": "pink",
+    "explain": "pink n. 粉红色 / adj. 粉红色的。",
+    "translation": "宝宝穿着奶奶织的柔软的<strong>粉红色</strong>毛衣。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Marie Curie was a <span class='blank'>_____</span> in the field of radioactivity research.",
+    "answer": "pioneer",
+    "explain": "pioneer n. 先驱，开拓者 / v. 开创，首创。",
+    "translation": "玛丽·居里是放射性研究领域的<strong>先驱</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The company <span class='blank'>_____</span> new methods in online education.",
+    "answer": "pioneered",
+    "explain": "pioneer n. 先驱，开拓者 / v. 开创，首创。",
+    "translation": "这家公司<strong>开创</strong>了在线教育的新方法。",
+    "pool": "PAST"
+  },
+  {
+    "q": "A burst water <span class='blank'>_____</span> caused flooding in the basement last night.",
+    "answer": "pipe",
+    "explain": "pipe n. 管子，管道 / v. 用管道输送。",
+    "translation": "昨晚一根爆裂的水<strong>管</strong>导致地下室进水。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Water is <span class='blank'>_____</span> from the river to the village every morning.",
+    "answer": "piped",
+    "explain": "pipe n. 管子，管道 / v. 用管道输送。",
+    "translation": "每天清晨，水通过管道从河里<strong>输送</strong>到村庄。",
+    "pool": "PAST"
+  },
+  {
+    "q": "It is a great <span class='blank'>_____</span> that she missed the chance to study abroad.",
+    "answer": "pity",
+    "explain": "pity n. 遗憾；同情 / v. 同情，怜悯。",
+    "translation": "她错过了出国留学的机会，真是非常<strong>遗憾</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "I <span class='blank'>_____</span> the stray dog that was shivering in the cold rain.",
+    "answer": "pitied",
+    "explain": "pity n. 遗憾；同情 / v. 同情，怜悯。",
+    "translation": "我<strong>同情</strong>那只在冷雨中发抖的流浪狗。",
+    "pool": "PAST"
+  },
+  {
+    "q": "This is the perfect <span class='blank'>_____</span> to build a small garden in spring.",
+    "answer": "place",
+    "explain": "place n. 地方 / v. 放置。",
+    "translation": "这是春天建小花园的理想<strong>地方</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "She carefully <span class='blank'>_____</span> the vase in the center of the table.",
+    "answer": "placed",
+    "explain": "place n. 地方 / v. 放置。",
+    "translation": "她小心地把花瓶<strong>放</strong>在桌子中央。",
+    "pool": "PAST"
+  },
+  {
+    "q": "The buffalo roam freely across the wide open <span class='blank'>_____</span>.",
+    "answer": "plain",
+    "explain": "plain n. 平原 / adj. 朴素的；简单的；清楚的 / adv. 清楚地，直截了当地。",
+    "translation": "野牛在辽阔的<strong>平原</strong>上自由漫步。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The instructions were written in <span class='blank'>_____</span> and simple English.",
+    "answer": "plain",
+    "explain": "plain n. 平原 / adj. 朴素的；简单的；清楚的 / adv. 清楚地，直截了当地。",
+    "translation": "说明书是用<strong>简单</strong>易懂的英语写的。",
+    "pool": "BASE"
+  },
+  {
+    "q": "You should tell him <span class='blank'>_____</span> and simple that he is wrong.",
+    "answer": "plain",
+    "explain": "plain n. 平原 / adj. 朴素的；简单的；清楚的 / adv. 清楚地，直截了当地。",
+    "translation": "你应该<strong>直截了当地</strong>告诉他，他错了。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Our <span class='blank'>_____</span> is to finish the project before the end of this month.",
+    "answer": "plan",
+    "explain": "plan n. 计划 / v. 计划，打算。",
+    "translation": "我们的<strong>计划</strong>是在本月底前完成这个项目。",
+    "pool": "BASE"
+  },
+  {
+    "q": "They are <span class='blank'>_____</span> a trip to Europe for their summer vacation.",
+    "answer": "planning",
+    "explain": "plan n. 计划 / v. 计划，打算。",
+    "translation": "他们正在<strong>计划</strong>暑假去欧洲旅行。",
+    "pool": "ING"
+  },
+  {
+    "q": "The <span class='blank'>_____</span> took off on time despite the thick morning fog.",
+    "answer": "plane",
+    "explain": "plane n. 飞机。",
+    "translation": "尽管晨雾很浓，<strong>飞机</strong>还是准时起飞了。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Earth is the only <span class='blank'>_____</span> known to support life in the universe.",
+    "answer": "planet",
+    "explain": "planet n. 行星。",
+    "translation": "地球是宇宙中已知唯一有生命存在的<strong>行星</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "This green <span class='blank'>_____</span> needs plenty of sunlight and water to grow.",
+    "answer": "plant",
+    "explain": "plant n. 植物 / v. 种植。",
+    "translation": "这种绿色<strong>植物</strong>需要充足的阳光和水才能生长。",
+    "pool": "BASE"
+  },
+  {
+    "q": "We <span class='blank'>_____</span> several trees in the schoolyard on Arbor Day.",
+    "answer": "planted",
+    "explain": "plant n. 植物 / v. 种植。",
+    "translation": "植树节那天我们在校园里<strong>种</strong>了几棵树。",
+    "pool": "PAST"
+  },
+  {
+    "q": "Please recycle the <span class='blank'>_____</span> bottles instead of throwing them away.",
+    "answer": "plastic",
+    "explain": "plastic n. 塑料 / adj. 塑料的。",
+    "translation": "请回收<strong>塑料</strong>瓶，而不是把它们扔掉。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The <span class='blank'>_____</span> bag broke because it was too thin and weak.",
+    "answer": "plastic",
+    "explain": "plastic n. 塑料 / adj. 塑料的。",
+    "translation": "这个<strong>塑料</strong>袋破了，因为它太薄太不结实。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Please put your dirty <span class='blank'>_____</span> in the sink after you finish eating.",
+    "answer": "plate",
+    "explain": "plate n. 盘子；碟子 / v. 摆盘；镀。",
+    "translation": "吃完饭后请把你的脏<strong>盘子</strong>放进水槽里。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The chef <span class='blank'>_____</span> the fish with fresh vegetables and lemon slices.",
+    "answer": "plated",
+    "explain": "plate n. 盘子；碟子 / v. 摆盘；镀。",
+    "translation": "厨师把鱼<strong>装盘</strong>，配上新鲜蔬菜和柠檬片。",
+    "pool": "PAST"
+  },
+  {
+    "q": "The train will arrive at <span class='blank'>_____</span> three in about five minutes.",
+    "answer": "platform",
+    "explain": "platform n. 站台，月台；平台。",
+    "translation": "火车约五分钟后抵达三号<strong>站台</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Shakespeare wrote a famous <span class='blank'>_____</span> about two young lovers.",
+    "answer": "play",
+    "explain": "play n. 戏剧 / v. 玩；打（球）；演奏。",
+    "translation": "莎士比亚写了一部关于两位年轻恋人的著名<strong>戏剧</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The children love <span class='blank'>_____</span> hide-and-seek in the backyard.",
+    "answer": "playing",
+    "explain": "play n. 戏剧 / v. 玩；打（球）；演奏。",
+    "translation": "孩子们喜欢在后院<strong>玩</strong>捉迷藏。",
+    "pool": "ING"
+  },
+  {
+    "q": "He is the best basketball <span class='blank'>_____</span> on the school team this year.",
+    "answer": "player",
+    "explain": "player n. 运动员；演奏者；播放器。",
+    "translation": "他是今年校队里最好的篮球<strong>运动员</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The new <span class='blank'>_____</span> has swings, slides, and a large climbing frame.",
+    "answer": "playground",
+    "explain": "playground n. 操场，游乐场。",
+    "translation": "新<strong>游乐场</strong>有秋千、滑梯和一个大攀爬架。",
+    "pool": "BASE"
+  },
+  {
+    "q": "We had a very <span class='blank'>_____</span> conversation over coffee this morning.",
+    "answer": "pleasant",
+    "explain": "pleasant adj. 令人愉快的。",
+    "translation": "今天早上我们边喝咖啡边进行了一次非常<strong>愉快的</strong>交谈。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Your hard work will <span class='blank'>_____</span> your parents and teachers greatly.",
+    "answer": "please",
+    "explain": "please v. 使高兴，取悦。",
+    "translation": "你的努力会让父母和老师非常<strong>高兴</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "It is my <span class='blank'>_____</span> to introduce our guest speaker to you all.",
+    "answer": "pleasure",
+    "explain": "pleasure n. 愉快，乐事。",
+    "translation": "很<strong>荣幸</strong>向大家介绍我们的客座演讲者。",
+    "pool": "BASE"
+  },
+  {
+    "q": "There is <span class='blank'>_____</span> of time to finish the homework before dinner.",
+    "answer": "plenty",
+    "explain": "plenty n. 充足，大量 / adv. 非常，十分。",
+    "translation": "晚饭前有<strong>充足的</strong>时间完成作业。",
+    "pool": "BASE"
+  },
+  {
+    "q": "There is <span class='blank'>_____</span> more food in the kitchen if you are still hungry.",
+    "answer": "plenty",
+    "explain": "plenty n. 充足，大量 / adv. 非常，十分。",
+    "translation": "如果你还饿的话，厨房里的食物还<strong>多得多</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The <span class='blank'>_____</span> of the novel was full of unexpected twists and turns.",
+    "answer": "plot",
+    "explain": "plot n. 情节；阴谋 / v. 密谋，策划。",
+    "translation": "这部小说的<strong>情节</strong>充满了意想不到的曲折。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The criminals <span class='blank'>_____</span> to steal the diamonds from the museum.",
+    "answer": "plotted",
+    "explain": "plot n. 情节；阴谋 / v. 密谋，策划。",
+    "translation": "罪犯们<strong>密谋</strong>从博物馆偷走钻石。",
+    "pool": "PAST"
+  },
+  {
+    "q": "Make sure the <span class='blank'>_____</span> is firmly in the socket before turning it on.",
+    "answer": "plug",
+    "explain": "plug n. 插头；塞子 / v. 插上插头；堵住。",
+    "translation": "打开电源前，确保<strong>插头</strong>牢牢插在插座里。",
+    "pool": "BASE"
+  },
+  {
+    "q": "She <span class='blank'>_____</span> her phone into the charger before going to bed.",
+    "answer": "plugged",
+    "explain": "plug n. 插头；塞子 / v. 插上插头；堵住。",
+    "translation": "她睡前把手机<strong>插上</strong>了充电器。",
+    "pool": "PAST"
+  },
+  {
+    "q": "He put his hands in his <span class='blank'>_____</span> to keep them warm in winter.",
+    "answer": "pocket",
+    "explain": "pocket n. 口袋 / v. 把…装入口袋 / adj. 袖珍的。",
+    "translation": "冬天他把手放在<strong>口袋</strong>里取暖。",
+    "pool": "BASE"
+  },
+  {
+    "q": "He quietly <span class='blank'>_____</span> the money and left the room without a word.",
+    "answer": "pocketed",
+    "explain": "pocket n. 口袋 / v. 把…装入口袋 / adj. 袖珍的。",
+    "translation": "他悄悄地把钱<strong>揣进口袋</strong>，一声不吭地离开了房间。",
+    "pool": "PAST"
+  },
+  {
+    "q": "I carry a small <span class='blank'>_____</span> dictionary when I travel abroad.",
+    "answer": "pocket",
+    "explain": "pocket n. 口袋 / v. 把…装入口袋 / adj. 袖珍的。",
+    "translation": "出国旅行时我会带一本小<strong>袖珍</strong>词典。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The teacher asked us to memorize a short <span class='blank'>_____</span> by Li Bai.",
+    "answer": "poem",
+    "explain": "poem n. 诗，诗歌。",
+    "translation": "老师让我们背诵李白的一首短<strong>诗</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The young <span class='blank'>_____</span> won a national prize for her beautiful verses.",
+    "answer": "poet",
+    "explain": "poet n. 诗人。",
+    "translation": "这位年轻<strong>诗人</strong>因优美的诗句获得了全国大奖。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Reading <span class='blank'>_____</span> aloud helps you understand its rhythm and sound.",
+    "answer": "poetry",
+    "explain": "poetry n. 诗歌（总称）。",
+    "translation": "大声朗读<strong>诗歌</strong>有助于你理解它的节奏和音韵。",
+    "pool": "BASE"
+  },
+  {
+    "q": "I do not see the <span class='blank'>_____</span> of arguing about such a small matter.",
+    "answer": "point",
+    "explain": "point n. 要点；分数；点 / v. 指，指向。",
+    "translation": "我不明白为这样的小事争论有什么<strong>意义</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "She <span class='blank'>_____</span> to the map and showed us where the village was.",
+    "answer": "pointed",
+    "explain": "point n. 要点；分数；点 / v. 指，指向。",
+    "translation": "她<strong>指着</strong>地图，告诉我们村庄在哪里。",
+    "pool": "PAST"
+  },
+  {
+    "q": "Some mushrooms contain a deadly <span class='blank'>_____</span> that can kill a person.",
+    "answer": "poison",
+    "explain": "poison n. 毒药 / v. 毒害，下毒。",
+    "translation": "有些蘑菇含有能致死的<strong>毒素</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The king was <span class='blank'>_____</span> by his enemies at the dinner party.",
+    "answer": "poisoned",
+    "explain": "poison n. 毒药 / v. 毒害，下毒。",
+    "translation": "国王在宴会上被敌人<strong>毒死</strong>了。",
+    "pool": "PAST"
+  },
+  {
+    "q": "<span class='blank'>_____</span> bears live in the cold Arctic region near the North Pole.",
+    "answer": "polar",
+    "explain": "polar adj. 极地的。",
+    "translation": "<strong>北极</strong>熊生活在靠近北极点的寒冷地区。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The flag was raised to the top of the tall wooden <span class='blank'>_____</span>.",
+    "answer": "pole",
+    "explain": "pole n. 杆，柱；极点 / v. 用篙撑（船）。",
+    "translation": "旗帜升到了那根高高的木<strong>杆</strong>顶端。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The boatman <span class='blank'>_____</span> the raft across the shallow river slowly.",
+    "answer": "poled",
+    "explain": "pole n. 杆，柱；极点 / v. 用篙撑（船）。",
+    "translation": "船夫用篙慢慢地把木筏<strong>撑</strong>过浅浅的河面。",
+    "pool": "PAST"
+  },
+  {
+    "q": "The <span class='blank'>_____</span> arrived at the scene of the accident within minutes.",
+    "answer": "police",
+    "explain": "police n. 警察（总称） / v. 巡查，维持治安。",
+    "translation": "<strong>警察</strong>几分钟内就赶到了事故现场。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The area is heavily <span class='blank'>_____</span> to keep tourists safe at night.",
+    "answer": "policed",
+    "explain": "police n. 警察（总称） / v. 巡查，维持治安。",
+    "translation": "该区域夜间有大量警力<strong>巡查</strong>，以保障游客安全。",
+    "pool": "PAST"
+  },
+  {
+    "q": "The friendly <span class='blank'>_____</span> helped the lost child find her way home.",
+    "answer": "policeman",
+    "explain": "policeman n. （男）警察。",
+    "translation": "这位友善的<strong>警察</strong>帮助迷路的孩子找到了回家的路。",
+    "pool": "BASE"
+  },
+  {
+    "q": "A brave <span class='blank'>_____</span> rescued the cat from the top of the tall tree.",
+    "answer": "policewoman",
+    "explain": "policewoman n. 女警察。",
+    "translation": "一位勇敢的<strong>女警察</strong>从高树顶上救下了那只猫。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The new school <span class='blank'>_____</span> bans the use of mobile phones in class.",
+    "answer": "policy",
+    "explain": "policy n. 政策，方针。",
+    "translation": "学校的新<strong>政策</strong>禁止在课堂上使用手机。",
+    "pool": "BASE"
+  },
+  {
+    "q": "I need to buy some shoe <span class='blank'>_____</span> to make my boots look new.",
+    "answer": "polish",
+    "explain": "polish n. 上光剂，擦亮剂 / v. 擦亮，磨光。",
+    "translation": "我需要买些<strong>鞋油</strong>，好让靴子看起来像新的一样。",
+    "pool": "BASE"
+  },
+  {
+    "q": "She <span class='blank'>_____</span> the silverware until it shone like a mirror.",
+    "answer": "polished",
+    "explain": "polish n. 上光剂，擦亮剂 / v. 擦亮，磨光。",
+    "translation": "她把银器<strong>擦</strong>得像镜子一样亮。",
+    "pool": "PAST"
+  },
+  {
+    "q": "It is <span class='blank'>_____</span> to say \"thank you\" when someone helps you.",
+    "answer": "polite",
+    "explain": "polite adj. 有礼貌的。",
+    "translation": "当有人帮助你时，说“谢谢”是<strong>有礼貌的</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The election was a major <span class='blank'>_____</span> event for the whole country.",
+    "answer": "political",
+    "explain": "political adj. 政治的。",
+    "translation": "这次选举对全国来说都是一件重大的<strong>政治</strong>事件。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The <span class='blank'>_____</span> gave a long speech about improving public schools.",
+    "answer": "politician",
+    "explain": "politician n. 政治家，政客。",
+    "translation": "这位<strong>政治家</strong>就改善公立学校发表了长篇演讲。",
+    "pool": "BASE"
+  },
+  {
+    "q": "My grandfather loves to talk about <span class='blank'>_____</span> at the dinner table.",
+    "answer": "politics",
+    "explain": "politics n. 政治；政治活动。",
+    "translation": "我爷爷喜欢在餐桌上谈论<strong>政治</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Factories should not <span class='blank'>_____</span> the rivers with harmful chemicals.",
+    "answer": "pollute",
+    "explain": "pollute v. 污染。",
+    "translation": "工厂不应该用有害化学物质<strong>污染</strong>河流。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Air <span class='blank'>_____</span> is a serious problem in many large industrial cities.",
+    "answer": "pollution",
+    "explain": "pollution n. 污染。",
+    "translation": "空气<strong>污染</strong>是许多大型工业城市的严重问题。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The ducks swam peacefully across the small village <span class='blank'>_____</span>.",
+    "answer": "pond",
+    "explain": "pond n. 池塘。",
+    "translation": "鸭子在村里的小<strong>池塘</strong>里平静地游来游去。",
+    "pool": "BASE"
+  },
+  {
+    "q": "We went swimming in the indoor <span class='blank'>_____</span> during the winter break.",
+    "answer": "pool",
+    "explain": "pool n. 水池；游泳池 / v. 集中（资源），合伙使用。",
+    "translation": "寒假期间我们去室内<strong>游泳池</strong>游泳了。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The neighbors <span class='blank'>_____</span> their money to buy flowers for the park.",
+    "answer": "pooled",
+    "explain": "pool n. 水池；游泳池 / v. 集中（资源），合伙使用。",
+    "translation": "邻居们<strong>凑钱</strong>为公园买花。",
+    "pool": "PAST"
+  },
+  {
+    "q": "The <span class='blank'>_____</span> family could not afford to buy new winter clothes.",
+    "answer": "poor",
+    "explain": "poor adj. 贫穷的；可怜的；差的。",
+    "translation": "这个<strong>贫困的</strong>家庭买不起新的冬衣。",
+    "pool": "BASE"
+  },
+  {
+    "q": "This song is very <span class='blank'>_____</span> with teenagers all over the world.",
+    "answer": "popular",
+    "explain": "popular adj. 受欢迎的；流行的。",
+    "translation": "这首歌在全世界的青少年中非常<strong>受欢迎</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The <span class='blank'>_____</span> of the city has grown by twenty percent in ten years.",
+    "answer": "population",
+    "explain": "population n. 人口。",
+    "translation": "这座城市的<strong>人口</strong>十年间增长了百分之二十。",
+    "pool": "BASE"
+  },
+  {
+    "q": "We had roast <span class='blank'>_____</span> with vegetables for dinner on Sunday.",
+    "answer": "pork",
+    "explain": "pork n. 猪肉。",
+    "translation": "周日晚餐我们吃了烤<strong>猪肉</strong>配蔬菜。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The ship entered the <span class='blank'>_____</span> early in the morning to unload cargo.",
+    "answer": "port",
+    "explain": "port n. 港口。",
+    "translation": "这艘船清晨进入<strong>港口</strong>卸货。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The model held a difficult <span class='blank'>_____</span> for the artist to paint.",
+    "answer": "pose",
+    "explain": "pose n. 姿势 / v. 造成；摆姿势。",
+    "translation": "模特保持着一个难做的<strong>姿势</strong>供画家作画。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The old building <span class='blank'>_____</span> a serious safety risk to local residents.",
+    "answer": "poses",
+    "explain": "pose n. 姿势 / v. 造成；摆姿势。",
+    "translation": "这栋旧楼对当地居民<strong>构成</strong>严重的安全隐患。",
+    "pool": "THIRD"
+  },
+  {
+    "q": "She applied for the <span class='blank'>_____</span> of manager at the new company.",
+    "answer": "position",
+    "explain": "position n. 位置；职位 / v. 安置，使处于。",
+    "translation": "她申请了新公司经理的<strong>职位</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The soldiers were <span class='blank'>_____</span> along the border to guard the area.",
+    "answer": "positioned",
+    "explain": "position n. 位置；职位 / v. 安置，使处于。",
+    "translation": "士兵们被<strong>部署</strong>在边境沿线守卫该地区。",
+    "pool": "PAST"
+  },
+  {
+    "q": "A <span class='blank'>_____</span> attitude helps you overcome many challenges in life.",
+    "answer": "positive",
+    "explain": "positive adj. 积极的；阳性的 / n. 阳性结果。",
+    "translation": "<strong>积极的</strong>态度能帮助你克服生活中的许多挑战。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The test came back with a <span class='blank'>_____</span> for the rare disease.",
+    "answer": "positive",
+    "explain": "positive adj. 积极的；阳性的 / n. 阳性结果。",
+    "translation": "检测结果显示这种罕见疾病呈<strong>阳性</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The old ring is my most treasured family <span class='blank'>_____</span>.",
+    "answer": "possession",
+    "explain": "possession n. 拥有；财产，所有物。",
+    "translation": "这枚旧戒指是我最珍视的家庭<strong>财物</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Is it <span class='blank'>_____</span> to finish this task before the deadline tomorrow?",
+    "answer": "possible",
+    "explain": "possible adj. 可能的。",
+    "translation": "有<strong>可能</strong>在明天截止前完成这项任务吗？",
+    "pool": "BASE"
+  },
+  {
+    "q": "The fence was made of strong wooden <span class='blank'>_____</span> driven into the ground.",
+    "answer": "posts",
+    "explain": "post n. 柱子；帖子；邮政 / v. 张贴；发布；邮寄。",
+    "translation": "这道篱笆是用打入地下的结实木<strong>柱</strong>做成的。",
+    "pool": "PLURAL"
+  },
+  {
+    "q": "She <span class='blank'>_____</span> a photo of her cat on social media last night.",
+    "answer": "posted",
+    "explain": "post n. 柱子；帖子；邮政 / v. 张贴；发布；邮寄。",
+    "translation": "她昨晚在社交媒体上<strong>发布</strong>了一张她猫咪的照片。",
+    "pool": "PAST"
+  },
+  {
+    "q": "I sent a colorful <span class='blank'>_____</span> to my friend from my vacation in Paris.",
+    "answer": "postcard",
+    "explain": "postcard n. 明信片。",
+    "translation": "我在巴黎度假时给朋友寄了一张彩色的<strong>明信片</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "A large <span class='blank'>_____</span> of the movie was displayed outside the theater.",
+    "answer": "poster",
+    "explain": "poster n. 海报，招贴画。",
+    "translation": "影院外张贴着这部电影的一张大<strong>海报</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The <span class='blank'>_____</span> delivers letters to our house every morning at nine.",
+    "answer": "postman",
+    "explain": "postman n. 邮递员。",
+    "translation": "<strong>邮递员</strong>每天早上九点把信送到我们家。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The meeting was <span class='blank'>_____</span> until next week due to the bad weather.",
+    "answer": "postponed",
+    "explain": "postpone v. 推迟，延期。",
+    "translation": "由于天气恶劣，会议被<strong>推迟</strong>到下周。",
+    "pool": "PAST"
+  },
+  {
+    "q": "Please put the cooking <span class='blank'>_____</span> on the stove and turn on the heat.",
+    "answer": "pot",
+    "explain": "pot n. 锅，罐 / v. 把…栽入盆中。",
+    "translation": "请把烹饪用的<strong>锅</strong>放在炉子上，然后开火。",
+    "pool": "BASE"
+  },
+  {
+    "q": "She <span class='blank'>_____</span> the small plant in a ceramic container by the window.",
+    "answer": "potted",
+    "explain": "pot n. 锅，罐 / v. 把…栽入盆中。",
+    "translation": "她把这株小植物<strong>栽</strong>在窗边的陶瓷盆里。",
+    "pool": "PAST"
+  },
+  {
+    "q": "A baked <span class='blank'>_____</span> is a healthy and simple dish for dinner.",
+    "answer": "potato",
+    "explain": "potato n. 土豆，马铃薯。",
+    "translation": "烤<strong>土豆</strong>是一道健康又简单的晚餐。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The young athlete has the <span class='blank'>_____</span> to become a world champion.",
+    "answer": "potential",
+    "explain": "potential n. 潜力 / adj. 潜在的。",
+    "translation": "这位年轻运动员有成为世界冠军的<strong>潜力</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "We need to consider all the <span class='blank'>_____</span> risks before making a decision.",
+    "answer": "potential",
+    "explain": "potential n. 潜力 / adj. 潜在的。",
+    "translation": "做决定前，我们需要考虑所有<strong>潜在的</strong>风险。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The recipe calls for one <span class='blank'>_____</span> of butter and two cups of flour.",
+    "answer": "pound",
+    "explain": "pound n. 磅；英镑 / v. 猛击，砰砰地敲。",
+    "translation": "这个食谱需要一<strong>磅</strong>黄油和两杯面粉。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The heavy rain <span class='blank'>_____</span> against the windows all night long.",
+    "answer": "pounded",
+    "explain": "pound n. 磅；英镑 / v. 猛击，砰砰地敲。",
+    "translation": "大雨整夜<strong>敲打</strong>着窗户。",
+    "pool": "PAST"
+  },
+  {
+    "q": "Please <span class='blank'>_____</span> the milk into the bowl before adding the cereal.",
+    "answer": "pour",
+    "explain": "pour v. 倒，倾倒。",
+    "translation": "加麦片前，请先把牛奶<strong>倒</strong>进碗里。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The storm cut off the <span class='blank'>_____</span> for the entire neighborhood.",
+    "answer": "power",
+    "explain": "power n. 力量；权力；电力 / v. 为…提供动力。",
+    "translation": "暴风雨切断了整个街区的<strong>电力</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The boat was <span class='blank'>_____</span> by wind rather than by gasoline or oil.",
+    "answer": "powered",
+    "explain": "power n. 力量；权力；电力 / v. 为…提供动力。",
+    "translation": "这艘船是靠风力<strong>驱动</strong>的，而不是汽油或柴油。",
+    "pool": "PAST"
+  },
+  {
+    "q": "Wearing boots in the snow is much more <span class='blank'>_____</span> than wearing shoes.",
+    "answer": "practical",
+    "explain": "practical adj. 实用的，实际的。",
+    "translation": "在雪地里穿靴子比穿普通鞋子<strong>实用</strong>得多。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Daily <span class='blank'>_____</span> is the key to improving your piano skills quickly.",
+    "answer": "practice",
+    "explain": "practice n. 练习；实践 / v. 练习。",
+    "translation": "每天<strong>练习</strong>是快速提高钢琴技巧的关键。",
+    "pool": "BASE"
+  },
+  {
+    "q": "I need to <span class='blank'>_____</span> my speech before presenting it to the class.",
+    "answer": "practice",
+    "explain": "practice n. 练习；实践 / v. 练习。",
+    "translation": "向全班展示之前，我需要先<strong>练习</strong>我的演讲。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The teacher gave a lot of <span class='blank'>_____</span> to the students for their hard work.",
+    "answer": "praise",
+    "explain": "praise n. 赞扬，表扬 / v. 赞扬，称赞。",
+    "translation": "老师对学生们的努力给予了大量<strong>表扬</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The parents <span class='blank'>_____</span> their son for getting good grades in school.",
+    "answer": "praised",
+    "explain": "praise n. 赞扬，表扬 / v. 赞扬，称赞。",
+    "translation": "父母<strong>表扬</strong>了儿子在学校取得好成绩。",
+    "pool": "PAST"
+  },
+  {
+    "q": "Many people <span class='blank'>_____</span> to God when they face difficult times in life.",
+    "answer": "pray",
+    "explain": "pray v. 祈祷，祈求。",
+    "translation": "许多人在生活中遇到困难时向上帝<strong>祈祷</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Time is the most <span class='blank'>_____</span> gift that we can give to other people.",
+    "answer": "precious",
+    "explain": "precious adj. 珍贵的，宝贵的。",
+    "translation": "时间是我们能给予他人的最<strong>珍贵的</strong>礼物。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The meeting will start at three o'clock <span class='blank'>_____</span> this afternoon.",
+    "answer": "precisely",
+    "explain": "precisely adv. 精确地；正好。",
+    "translation": "会议将于今天下午三点<strong>整</strong>开始。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Scientists can <span class='blank'>_____</span> the weather by studying cloud patterns.",
+    "answer": "predict",
+    "explain": "predict v. 预测，预言。",
+    "translation": "科学家可以通过研究云的模式来<strong>预测</strong>天气。",
+    "pool": "BASE"
+  },
+  {
+    "q": "She always <span class='blank'>_____</span> tea to coffee in the early morning hours.",
+    "answer": "prefers",
+    "explain": "prefer v. 更喜欢，宁愿。",
+    "translation": "清晨她总是<strong>更喜欢</strong>茶而不是咖啡。",
+    "pool": "THIRD"
+  },
+  {
+    "q": "My <span class='blank'>_____</span> is to study in the library rather than at home.",
+    "answer": "preference",
+    "explain": "preference n. 偏爱，偏好。",
+    "translation": "我更<strong>偏爱</strong>在图书馆学习，而不是在家。",
+    "pool": "BASE"
+  },
+  {
+    "q": "We should fight against <span class='blank'>_____</span> based on race, age, or gender.",
+    "answer": "prejudice",
+    "explain": "prejudice n. 偏见 / v. 使产生偏见。",
+    "translation": "我们应该反对基于种族、年龄或性别的<strong>偏见</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The unfair article <span class='blank'>_____</span> public opinion against the young man.",
+    "answer": "prejudiced",
+    "explain": "prejudice n. 偏见 / v. 使产生偏见。",
+    "translation": "那篇不公正的文章使舆论对这位年轻人产生了<strong>偏见</strong>。",
+    "pool": "PAST"
+  },
+  {
+    "q": "The <span class='blank'>_____</span> of the country gave an important speech on television.",
+    "answer": "premier",
+    "explain": "premier n. 总理，首相 / adj. 首要的，顶级的。",
+    "translation": "该国<strong>总理</strong>在电视上发表了重要讲话。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The hotel is known as one of the <span class='blank'>_____</span> resorts in the region.",
+    "answer": "premier",
+    "explain": "premier n. 总理，首相 / adj. 首要的，顶级的。",
+    "translation": "这家酒店被认为是该地区<strong>顶级的</strong>度假胜地之一。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Please <span class='blank'>_____</span> your bags tonight so we can leave early tomorrow.",
+    "answer": "prepare",
+    "explain": "prepare v. 准备，预备。",
+    "translation": "请今晚<strong>准备</strong>好行李，这样我们明天可以早点出发。",
+    "pool": "BASE"
+  },
+  {
+    "q": "I bought a birthday <span class='blank'>_____</span> for my best friend at the mall.",
+    "answer": "present",
+    "explain": "present n. 礼物；现在 / adj. 在场的；现在的 / v. 呈现；赠送；展示。",
+    "translation": "我在商场给我最好的朋友买了一份生日<strong>礼物</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "All students must be <span class='blank'>_____</span> at the morning assembly by eight o'clock.",
+    "answer": "present",
+    "explain": "present n. 礼物；现在 / adj. 在场的；现在的 / v. 呈现；赠送；展示。",
+    "translation": "所有学生必须在八点前<strong>出席</strong>晨会。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The students <span class='blank'>_____</span> their projects to the class on Friday morning.",
+    "answer": "presented",
+    "explain": "present n. 礼物；现在 / adj. 在场的；现在的 / v. 呈现；赠送；展示。",
+    "translation": "周五上午，学生们向全班<strong>展示</strong>了他们的课题。",
+    "pool": "PAST"
+  },
+  {
+    "q": "Your <span class='blank'>_____</span> should be clear, short, and easy for everyone to follow.",
+    "answer": "presentation",
+    "explain": "presentation n. 展示，报告；演讲。",
+    "translation": "你的<strong>报告</strong>应该清晰、简短，让大家都能听懂。",
+    "pool": "BASE"
+  },
+  {
+    "q": "We must <span class='blank'>_____</span> the old buildings for future generations to enjoy.",
+    "answer": "preserve",
+    "explain": "preserve v. 保护，保存。",
+    "translation": "我们必须<strong>保护</strong>好这些老建筑，留给子孙后代欣赏。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The <span class='blank'>_____</span> of the company will speak at the annual meeting today.",
+    "answer": "president",
+    "explain": "president n. 总统；总裁；校长。",
+    "translation": "公司<strong>总裁</strong>将在今天的年会上发言。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The freedom of the <span class='blank'>_____</span> is important for a healthy democracy.",
+    "answer": "press",
+    "explain": "press n. 新闻界，出版社 / v. 按，压。",
+    "translation": "<strong>新闻</strong>自由对健康的民主制度很重要。",
+    "pool": "BASE"
+  },
+  {
+    "q": "She <span class='blank'>_____</span> the button firmly to call the elevator to her floor.",
+    "answer": "pressed",
+    "explain": "press n. 新闻界，出版社 / v. 按，压。",
+    "translation": "她用力<strong>按</strong>下按钮，把电梯叫到她所在的楼层。",
+    "pool": "PAST"
+  },
+  {
+    "q": "There is a lot of <span class='blank'>_____</span> on students to get high exam scores.",
+    "answer": "pressure",
+    "explain": "pressure n. 压力 / v. 对…施压。",
+    "translation": "学生们面临着要考高分的巨大<strong>压力</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The coach <span class='blank'>_____</span> the team to practice harder before the big game.",
+    "answer": "pressured",
+    "explain": "pressure n. 压力 / v. 对…施压。",
+    "translation": "教练<strong>敦促</strong>球队在大赛前加紧训练。",
+    "pool": "PAST"
+  },
+  {
+    "q": "The children <span class='blank'>_____</span> to be pirates during their game in the garden.",
+    "answer": "pretend",
+    "explain": "pretend v. 假装，装作。",
+    "translation": "孩子们在花园里玩游戏时<strong>假装</strong>自己是海盗。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The garden looks very <span class='blank'>_____</span> with all the flowers in full bloom.",
+    "answer": "pretty",
+    "explain": "pretty adj. 漂亮的 / adv. 相当，很。",
+    "translation": "花园里百花盛开，看起来非常<strong>漂亮</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The test was <span class='blank'>_____</span> difficult, but most students managed to pass.",
+    "answer": "pretty",
+    "explain": "pretty adj. 漂亮的 / adv. 相当，很。",
+    "translation": "这次考试<strong>相当</strong>难，但大多数学生还是通过了。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Wearing a seat belt can <span class='blank'>_____</span> serious injuries in a car accident.",
+    "answer": "prevent",
+    "explain": "prevent v. 阻止，预防。",
+    "translation": "系安全带可以在车祸中<strong>防止</strong>严重受伤。",
+    "pool": "BASE"
+  },
+  {
+    "q": "I met her at the party <span class='blank'>_____</span> to this one, not at yesterday's event.",
+    "answer": "previous",
+    "explain": "previous adj. 先前的，以前的。",
+    "translation": "我是在这次<strong>之前的</strong>那次聚会上见到她的，不是昨天的活动。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The <span class='blank'>_____</span> of gasoline has risen sharply in the past two months.",
+    "answer": "price",
+    "explain": "price n. 价格 / v. 给…定价。",
+    "translation": "过去两个月汽油<strong>价格</strong>大幅上涨。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The house was <span class='blank'>_____</span> much higher than we could afford to pay.",
+    "answer": "priced",
+    "explain": "price n. 价格 / v. 给…定价。",
+    "translation": "这栋房子的<strong>定价</strong>远远超出了我们的承受能力。",
+    "pool": "PAST"
+  },
+  {
+    "q": "She took great <span class='blank'>_____</span> in her daughter's success at the competition.",
+    "answer": "pride",
+    "explain": "pride n. 自豪，骄傲 / v. 以…自豪。",
+    "translation": "她为女儿在比赛中的成功感到非常<strong>自豪</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "He <span class='blank'>_____</span> himself on being able to speak three languages well.",
+    "answer": "prided",
+    "explain": "pride n. 自豪，骄傲 / v. 以…自豪。",
+    "translation": "他为自己能说好三门语言而<strong>自豪</strong>。",
+    "pool": "PAST"
+  },
+  {
+    "q": "The <span class='blank'>_____</span> goal of the project is to help children learn to read.",
+    "answer": "primary",
+    "explain": "primary adj. 首要的；初级的 / n. 初选。",
+    "translation": "这个项目的<strong>首要</strong>目标是帮助孩子们学会阅读。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The candidate won the <span class='blank'>_____</span> and moved on to the general election.",
+    "answer": "primary",
+    "explain": "primary adj. 首要的；初级的 / n. 初选。",
+    "translation": "这位候选人赢得了<strong>初选</strong>，进入了大选。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Early humans lived in <span class='blank'>_____</span> caves and hunted animals for food.",
+    "answer": "primitive",
+    "explain": "primitive adj. 原始的，简陋的。",
+    "translation": "早期人类住在<strong>原始的</strong>洞穴里，靠猎取动物为生。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Honesty is a basic <span class='blank'>_____</span> that guides how we should live our lives.",
+    "answer": "principle",
+    "explain": "principle n. 原则，原理。",
+    "translation": "诚实是指导我们如何处世的基本<strong>原则</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The <span class='blank'>_____</span> of the old book was so small that I needed glasses.",
+    "answer": "print",
+    "explain": "print n. 印刷字体；印迹 / v. 打印，印刷。",
+    "translation": "这本旧书的印刷<strong>字体</strong>太小，我得戴上眼镜。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The machine <span class='blank'>_____</span> fifty copies of the report in just two minutes.",
+    "answer": "printed",
+    "explain": "print n. 印刷字体；印迹 / v. 打印，印刷。",
+    "translation": "这台机器只用两分钟就<strong>打印</strong>了五十份报告。",
+    "pool": "PAST"
+  },
+  {
+    "q": "You need to get <span class='blank'>_____</span> approval before you can make any changes.",
+    "answer": "prior",
+    "explain": "prior adj. 先前的；优先的。",
+    "translation": "你必须先获得<strong>事先</strong>批准，才能做任何改动。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Safety should always be the top <span class='blank'>_____</span> in any workplace setting.",
+    "answer": "priority",
+    "explain": "priority n. 优先事项；优先权。",
+    "translation": "在任何工作场所，安全都应该是头等的<strong>优先事项</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The thief was sent to <span class='blank'>_____</span> for stealing money from the bank.",
+    "answer": "prison",
+    "explain": "prison n. 监狱。",
+    "translation": "这个小偷因偷银行的钱被送进了<strong>监狱</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "I prefer to keep my <span class='blank'>_____</span> life separate from my work life.",
+    "answer": "private",
+    "explain": "private adj. 私人的，私下的 / n. 列兵。",
+    "translation": "我更愿意把<strong>私人</strong>生活与工作生活分开。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The young <span class='blank'>_____</span> was proud to serve his country in the army.",
+    "answer": "private",
+    "explain": "private adj. 私人的，私下的 / n. 列兵。",
+    "translation": "这位年轻的<strong>列兵</strong>为能在军队中报效祖国而自豪。",
+    "pool": "BASE"
+  },
+  {
+    "q": "She won first <span class='blank'>_____</span> in the national science competition last year.",
+    "answer": "prize",
+    "explain": "prize n. 奖品，奖项 / v. 珍视。",
+    "translation": "她去年在全国科学竞赛中获得了一等<strong>奖</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The old watch was highly <span class='blank'>_____</span> by the family for generations.",
+    "answer": "prized",
+    "explain": "prize n. 奖品，奖项 / v. 珍视。",
+    "translation": "这块旧表被这个家族几代人所<strong>珍视</strong>。",
+    "pool": "PAST"
+  },
+  {
+    "q": "It will <span class='blank'>_____</span> rain this afternoon, so take an umbrella with you.",
+    "answer": "probably",
+    "explain": "probably adv. 很可能，大概。",
+    "translation": "今天下午<strong>很可能</strong>会下雨，所以带把伞吧。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The main <span class='blank'>_____</span> is that we do not have enough time to finish.",
+    "answer": "problem",
+    "explain": "problem n. 问题，难题。",
+    "translation": "主要<strong>问题</strong>是我们没有足够的时间完成。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Please follow the safety <span class='blank'>_____</span> when using the lab equipment.",
+    "answer": "procedure",
+    "explain": "procedure n. 程序，步骤。",
+    "translation": "使用实验设备时请遵守安全<strong>程序</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "We can <span class='blank'>_____</span> with the plan once we get permission from the boss.",
+    "answer": "proceed",
+    "explain": "proceed v. 继续进行，着手。",
+    "translation": "一旦得到老板的许可，我们就可以<strong>继续推进</strong>这个计划。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Learning a language is a slow <span class='blank'>_____</span> that takes years of effort.",
+    "answer": "process",
+    "explain": "process n. 过程 / v. 加工，处理。",
+    "translation": "学习一门语言是一个需要多年努力的缓慢<strong>过程</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The factory <span class='blank'>_____</span> thousands of bottles of juice every single day.",
+    "answer": "processed",
+    "explain": "process n. 过程 / v. 加工，处理。",
+    "translation": "这家工厂每天<strong>加工</strong>数千瓶果汁。",
+    "pool": "PAST"
+  },
+  {
+    "q": "The farmers sold fresh <span class='blank'>_____</span> at the market on Saturday morning.",
+    "answer": "produce",
+    "explain": "produce n. 农产品 / v. 生产；制造。",
+    "translation": "周六早上，农民们在市场上出售新鲜的<strong>农产品</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The factory <span class='blank'>_____</span> over one million cars in the past year alone.",
+    "answer": "produced",
+    "explain": "produce n. 农产品 / v. 生产；制造。",
+    "translation": "仅去年一年，这家工厂就<strong>生产</strong>了超过一百万辆汽车。",
+    "pool": "PAST"
+  },
+  {
+    "q": "This factory makes a popular cleaning <span class='blank'>_____</span> used in many homes.",
+    "answer": "product",
+    "explain": "product n. 产品，商品。",
+    "translation": "这家工厂生产一种许多家庭都在用的受欢迎的清洁<strong>产品</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Teaching is a respected <span class='blank'>_____</span> that shapes the minds of young people.",
+    "answer": "profession",
+    "explain": "profession n. 职业，行业。",
+    "translation": "教师是一门受人尊敬的<strong>职业</strong>，塑造着年轻人的思想。",
+    "pool": "BASE"
+  },
+  {
+    "q": "You need to wear <span class='blank'>_____</span> clothes when you go to the interview.",
+    "answer": "professional",
+    "explain": "professional adj. 职业的，专业的 / n. 专业人士。",
+    "translation": "去面试时你需要穿<strong>职业的</strong>服装。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The golf <span class='blank'>_____</span> has won several major tournaments this season.",
+    "answer": "professional",
+    "explain": "professional adj. 职业的，专业的 / n. 专业人士。",
+    "translation": "这位高尔夫<strong>职业选手</strong>本赛季赢下了好几场重要锦标赛。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The <span class='blank'>_____</span> gave an interesting lecture on ancient Roman history.",
+    "answer": "professor",
+    "explain": "professor n. 教授。",
+    "translation": "这位<strong>教授</strong>做了一场关于古罗马历史的有趣讲座。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Please update your online <span class='blank'>_____</span> with a recent photo and bio.",
+    "answer": "profile",
+    "explain": "profile n. 简介，档案；侧面像 / v. 为…写传略。",
+    "translation": "请用近照和简介更新你的在线<strong>个人资料</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The magazine <span class='blank'>_____</span> the young artist in a ten-page article.",
+    "answer": "profiled",
+    "explain": "profile n. 简介，档案；侧面像 / v. 为…写传略。",
+    "translation": "这家杂志用一篇十页的文章<strong>介绍</strong>了这位年轻艺术家。",
+    "pool": "PAST"
+  },
+  {
+    "q": "The small business made a large <span class='blank'>_____</span> during the holiday season.",
+    "answer": "profit",
+    "explain": "profit n. 利润，收益 / v. 获利，获益。",
+    "translation": "这家小公司在节日期间获得了一大笔<strong>利润</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The company <span class='blank'>_____</span> greatly from the sudden increase in demand.",
+    "answer": "profited",
+    "explain": "profit n. 利润，收益 / v. 获利，获益。",
+    "translation": "这家公司从需求的突然增长中<strong>获利</strong>颇丰。",
+    "pool": "PAST"
+  },
+  {
+    "q": "The school <span class='blank'>_____</span> includes art, music, and physical education.",
+    "answer": "programme",
+    "explain": "programme n. 节目；计划；课程 / v. 编程；设定。",
+    "translation": "学校的<strong>课程</strong>包括美术、音乐和体育。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The computer was <span class='blank'>_____</span> to turn off automatically at midnight.",
+    "answer": "programmed",
+    "explain": "programme n. 节目；计划；课程 / v. 编程；设定。",
+    "translation": "这台电脑被<strong>设定</strong>为午夜自动关机。",
+    "pool": "PAST"
+  },
+  {
+    "q": "You have made excellent <span class='blank'>_____</span> in your English studies this year.",
+    "answer": "progress",
+    "explain": "progress n. 进步，进展 / v. 进展，前进。",
+    "translation": "今年你的英语学习取得了很大的<strong>进步</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The work <span class='blank'>_____</span> slowly because of the bad weather conditions.",
+    "answer": "progressed",
+    "explain": "progress n. 进步，进展 / v. 进展，前进。",
+    "translation": "由于天气恶劣，工作<strong>进展</strong>缓慢。",
+    "pool": "PAST"
+  },
+  {
+    "q": "The law <span class='blank'>_____</span> smoking in all public places including restaurants.",
+    "answer": "prohibits",
+    "explain": "prohibit v. 禁止。",
+    "translation": "法律<strong>禁止</strong>在包括餐馆在内的所有公共场所吸烟。",
+    "pool": "THIRD"
+  },
+  {
+    "q": "Our group is working on a science <span class='blank'>_____</span> about clean energy.",
+    "answer": "project",
+    "explain": "project n. 项目；课题 / v. 投射；放映。",
+    "translation": "我们小组正在做一个关于清洁能源的科学<strong>课题</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The film was <span class='blank'>_____</span> onto a large screen in the school hall.",
+    "answer": "projected",
+    "explain": "project n. 项目；课题 / v. 投射；放映。",
+    "translation": "电影被<strong>放映</strong>在学校礼堂的大屏幕上。",
+    "pool": "PAST"
+  },
+  {
+    "q": "He broke his <span class='blank'>_____</span> to arrive home before ten o'clock at night.",
+    "answer": "promise",
+    "explain": "promise n. 承诺，诺言 / v. 承诺，答应。",
+    "translation": "他没有遵守晚上十点前到家的<strong>承诺</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "She <span class='blank'>_____</span> to help me with my homework after dinner tonight.",
+    "answer": "promised",
+    "explain": "promise n. 承诺，诺言 / v. 承诺，答应。",
+    "translation": "她<strong>答应</strong>今晚晚饭后帮我做作业。",
+    "pool": "PAST"
+  },
+  {
+    "q": "The company will <span class='blank'>_____</span> him to manager next month if he works hard.",
+    "answer": "promote",
+    "explain": "promote v. 提升；促进；推广。",
+    "translation": "如果他努力工作，公司下个月就会<strong>提拔</strong>他当经理。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Can you <span class='blank'>_____</span> this French word correctly for the whole class?",
+    "answer": "pronounce",
+    "explain": "pronounce v. 发音；宣布。",
+    "translation": "你能为全班正确地<strong>读出</strong>这个法语单词吗？",
+    "pool": "BASE"
+  },
+  {
+    "q": "Her <span class='blank'>_____</span> of English words has improved greatly with practice.",
+    "answer": "pronunciation",
+    "explain": "pronunciation n. 发音。",
+    "translation": "通过练习，她的英语单词<strong>发音</strong>进步很大。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The police found clear <span class='blank'>_____</span> that the man had committed the crime.",
+    "answer": "proof",
+    "explain": "proof n. 证据 / v. 校对；检验。",
+    "translation": "警方找到了这名男子犯罪的确凿<strong>证据</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The document was carefully <span class='blank'>_____</span> before it was sent to print.",
+    "answer": "proofed",
+    "explain": "proof n. 证据 / v. 校对；检验。",
+    "translation": "这份文件在付印前经过了仔细<strong>校对</strong>。",
+    "pool": "PAST"
+  },
+  {
+    "q": "You need to wear <span class='blank'>_____</span> shoes for hiking in the mountains.",
+    "answer": "proper",
+    "explain": "proper adj. 合适的，恰当的。",
+    "translation": "在山里徒步需要穿<strong>合适的</strong>鞋子。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The house and the land around it are private <span class='blank'>_____</span>.",
+    "answer": "property",
+    "explain": "property n. 财产；房产。",
+    "translation": "这栋房子及其周围的土地都是私人<strong>财产</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The committee accepted his <span class='blank'>_____</span> to build a new library in town.",
+    "answer": "proposal",
+    "explain": "proposal n. 提议，建议；求婚。",
+    "translation": "委员会接受了他提出的在镇上建一座新图书馆的<strong>提议</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The <span class='blank'>_____</span> of finding a good job seems better this year than last.",
+    "answer": "prospect",
+    "explain": "prospect n. 前景，可能性 / v. 勘探，寻找。",
+    "translation": "今年找到好工作的<strong>前景</strong>似乎比去年好。",
+    "pool": "BASE"
+  },
+  {
+    "q": "They <span class='blank'>_____</span> for gold in the hills during the nineteenth century.",
+    "answer": "prospected",
+    "explain": "prospect n. 前景，可能性 / v. 勘探，寻找。",
+    "translation": "十九世纪时，他们在山里<strong>勘探</strong>金矿。",
+    "pool": "PAST"
+  },
+  {
+    "q": "Sunglasses help <span class='blank'>_____</span> your eyes from the bright summer sunlight.",
+    "answer": "protect",
+    "explain": "protect v. 保护。",
+    "translation": "太阳镜有助于<strong>保护</strong>你的眼睛免受夏日强光的伤害。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Fish and eggs are excellent sources of <span class='blank'>_____</span> for your body.",
+    "answer": "protein",
+    "explain": "protein n. 蛋白质。",
+    "translation": "鱼和蛋是身体所需<strong>蛋白质</strong>的极佳来源。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Hundreds of people joined the <span class='blank'>_____</span> against the new tax law.",
+    "answer": "protest",
+    "explain": "protest n. 抗议 / v. 抗议，反对。",
+    "translation": "数百人参加了反对新税法的<strong>抗议</strong>活动。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The students <span class='blank'>_____</span> loudly when the school banned mobile phones.",
+    "answer": "protested",
+    "explain": "protest n. 抗议 / v. 抗议，反对。",
+    "translation": "学校禁止使用手机时，学生们大声<strong>抗议</strong>。",
+    "pool": "PAST"
+  },
+  {
+    "q": "My parents are very <span class='blank'>_____</span> of me for winning the scholarship.",
+    "answer": "proud",
+    "explain": "proud adj. 自豪的，骄傲的。",
+    "translation": "父母为我获得奖学金感到非常<strong>自豪</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The evidence will <span class='blank'>_____</span> that he was not at the scene of the crime.",
+    "answer": "prove",
+    "explain": "prove v. 证明，证实。",
+    "translation": "证据将<strong>证明</strong>他当时不在犯罪现场。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The school will <span class='blank'>_____</span> free lunch for all students starting next week.",
+    "answer": "provide",
+    "explain": "provide v. 提供，供应。",
+    "translation": "从下周开始，学校将为所有学生<strong>提供</strong>免费午餐。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The northern <span class='blank'>_____</span> is known for its beautiful lakes and forests.",
+    "answer": "province",
+    "explain": "province n. 省。",
+    "translation": "这个北方<strong>省份</strong>以美丽的湖泊和森林而闻名。",
+    "pool": "BASE"
+  },
+  {
+    "q": "She decided to study <span class='blank'>_____</span> to understand how the human mind works.",
+    "answer": "psychology",
+    "explain": "psychology n. 心理学。",
+    "translation": "她决定学习<strong>心理学</strong>，以了解人类思维的运作方式。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The small <span class='blank'>_____</span> at the corner of the street serves excellent food.",
+    "answer": "pub",
+    "explain": "pub n. 酒吧，酒馆。",
+    "translation": "街角的那家小<strong>酒馆</strong>提供美味的食物。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The park is open to the <span class='blank'>_____</span> from sunrise until sunset every day.",
+    "answer": "public",
+    "explain": "public adj. 公共的，公开的 / n. 公众，大众。",
+    "translation": "公园每天从日出到日落向<strong>公众</strong>开放。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The government should listen to the needs of the general <span class='blank'>_____</span>.",
+    "answer": "public",
+    "explain": "public adj. 公共的，公开的 / n. 公众，大众。",
+    "translation": "政府应该倾听普通<strong>大众</strong>的需求。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The book was <span class='blank'>_____</span> in twenty languages around the world.",
+    "answer": "published",
+    "explain": "publish v. 出版，发表。",
+    "translation": "这本书被翻译成二十种语言在全世界<strong>出版</strong>。",
+    "pool": "PAST"
+  },
+  {
+    "q": "For dessert, we had chocolate <span class='blank'>_____</span> with whipped cream on top.",
+    "answer": "pudding",
+    "explain": "pudding n. 布丁。",
+    "translation": "甜点我们吃了上面加奶油的巧克力<strong>布丁</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The <span class='blank'>_____</span> of the heavy door was too much for the small child.",
+    "answer": "pull",
+    "explain": "pull n. 拉，拉力 / v. 拉，拖。",
+    "translation": "拉开沉重的门所需的<strong>拉力</strong>对这个小孩来说太大了。",
+    "pool": "BASE"
+  },
+  {
+    "q": "He <span class='blank'>_____</span> the drawer open to find a pen and some paper.",
+    "answer": "pulled",
+    "explain": "pull n. 拉，拉力 / v. 拉，拖。",
+    "translation": "他<strong>拉开</strong>抽屉找一支笔和一些纸。",
+    "pool": "PAST"
+  },
+  {
+    "q": "The school will <span class='blank'>_____</span> students who cheat on exams very severely.",
+    "answer": "punish",
+    "explain": "punish v. 惩罚，处罚。",
+    "translation": "学校将严厉<strong>惩罚</strong>考试作弊的学生。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The teacher asked each <span class='blank'>_____</span> to write a short story for homework.",
+    "answer": "pupil",
+    "explain": "pupil n. 学生；瞳孔。",
+    "translation": "老师让每个<strong>学生</strong>写一篇短故事作为家庭作业。",
+    "pool": "BASE"
+  },
+  {
+    "q": "This was the most expensive <span class='blank'>_____</span> I have ever made in my life.",
+    "answer": "purchase",
+    "explain": "purchase n. 购买；购买物 / v. 购买。",
+    "translation": "这是我一生中买下的最昂贵的<strong>物品</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "We <span class='blank'>_____</span> a new washing machine during the holiday sale event.",
+    "answer": "purchased",
+    "explain": "purchase n. 购买；购买物 / v. 购买。",
+    "translation": "我们在节日促销期间<strong>购买</strong>了一台新洗衣机。",
+    "pool": "PAST"
+  },
+  {
+    "q": "The mountain stream provided <span class='blank'>_____</span> and clean drinking water.",
+    "answer": "pure",
+    "explain": "pure adj. 纯的，纯净的。",
+    "translation": "这条山溪提供了<strong>纯净的</strong>饮用水。",
+    "pool": "BASE"
+  },
+  {
+    "q": "<span class='blank'>_____</span> is my favorite color because it combines red and blue.",
+    "answer": "purple",
+    "explain": "purple n. 紫色 / adj. 紫色的。",
+    "translation": "<strong>紫色</strong>是我最喜欢的颜色，因为它融合了红色和蓝色。",
+    "pool": "BASE"
+  },
+  {
+    "q": "She wore a beautiful <span class='blank'>_____</span> dress to the formal dinner party.",
+    "answer": "purple",
+    "explain": "purple n. 紫色 / adj. 紫色的。",
+    "translation": "她穿了一条漂亮的<strong>紫色</strong>连衣裙出席正式晚宴。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The <span class='blank'>_____</span> of this meeting is to discuss the budget for next year.",
+    "answer": "purpose",
+    "explain": "purpose n. 目的，用途。",
+    "translation": "这次会议的<strong>目的</strong>是讨论明年的预算。",
+    "pool": "BASE"
+  },
+  {
+    "q": "She left her <span class='blank'>_____</span> on the bus and had to call the lost and found.",
+    "answer": "purse",
+    "explain": "purse n. 钱包，手提包。",
+    "translation": "她把<strong>钱包</strong>落在公交车上了，只好打电话给失物招领处。",
+    "pool": "BASE"
+  },
+  {
+    "q": "He decided to <span class='blank'>_____</span> a career in medicine after high school.",
+    "answer": "pursue",
+    "explain": "pursue v. 追求；从事。",
+    "translation": "他决定高中毕业后<strong>从事</strong>医学事业。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The car needs a small <span class='blank'>_____</span> to get it moving down the hill.",
+    "answer": "push",
+    "explain": "push n. 推 / v. 推，推动。",
+    "translation": "这辆车需要轻轻<strong>推</strong>一下才能下坡启动。",
+    "pool": "BASE"
+  },
+  {
+    "q": "She <span class='blank'>_____</span> the heavy box across the floor with all her strength.",
+    "answer": "pushed",
+    "explain": "push n. 推 / v. 推，推动。",
+    "translation": "她用尽全力把沉重的箱子<strong>推</strong>过地板。",
+    "pool": "PAST"
+  },
+  {
+    "q": "Please <span class='blank'>_____</span> the books back on the shelf after you finish reading.",
+    "answer": "put",
+    "explain": "put v. 放，放置。",
+    "translation": "读完后请把书<strong>放</strong>回书架上。",
+    "pool": "BASE"
+  },
+  {
+    "q": "She spent the whole morning <span class='blank'>_____</span> her room in perfect order.",
+    "answer": "putting",
+    "explain": "put v. 放，放置。",
+    "translation": "她花了整个上午把房间<strong>收拾</strong>得井井有条。",
+    "pool": "ING"
+  }
+]

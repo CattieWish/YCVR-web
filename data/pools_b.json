@@ -1,0 +1,1503 @@
+{
+  "BASE": [
+    "baby",
+    "back",
+    "background",
+    "backward",
+    "bacon",
+    "bad",
+    "badminton",
+    "bag",
+    "bakery",
+    "balance",
+    "ball",
+    "ballet",
+    "balloon",
+    "bamboo",
+    "ban",
+    "banana",
+    "band",
+    "bank",
+    "bar",
+    "barbecue",
+    "barely",
+    "bark",
+    "barrier",
+    "base",
+    "baseball",
+    "basic",
+    "basin",
+    "basis",
+    "basket",
+    "basketball",
+    "bat",
+    "bath",
+    "bathroom",
+    "battery",
+    "battle",
+    "bay",
+    "beach",
+    "bean",
+    "bear",
+    "beard",
+    "beat",
+    "beautiful",
+    "beauty",
+    "become",
+    "bed",
+    "bedroom",
+    "beef",
+    "beer",
+    "begin",
+    "behalf",
+    "behave",
+    "behavior",
+    "belief",
+    "believe",
+    "bell",
+    "belong",
+    "belt",
+    "bend",
+    "benefit",
+    "best",
+    "bet",
+    "better",
+    "big",
+    "bike",
+    "bill",
+    "biology",
+    "bird",
+    "birth",
+    "birthday",
+    "biscuit",
+    "bit",
+    "bite",
+    "bitter",
+    "black",
+    "blackboard",
+    "blame",
+    "blank",
+    "blanket",
+    "bleed",
+    "bless",
+    "blind",
+    "block",
+    "blog",
+    "blood",
+    "blouse",
+    "blow",
+    "blue",
+    "board",
+    "boat",
+    "body",
+    "boil",
+    "bomb",
+    "bond",
+    "bone",
+    "bonus",
+    "book",
+    "boost",
+    "boot",
+    "border",
+    "bored",
+    "boring",
+    "born",
+    "borrow",
+    "boss",
+    "botanical",
+    "bother",
+    "bottle",
+    "bottom",
+    "bounce",
+    "bound",
+    "boundary",
+    "bow",
+    "bowl",
+    "bowling",
+    "box",
+    "boxing",
+    "boy",
+    "brain",
+    "branch",
+    "brave",
+    "bread",
+    "break",
+    "breakfast",
+    "breast",
+    "breath",
+    "breathe",
+    "brick",
+    "bridge",
+    "brief",
+    "bright",
+    "brilliant",
+    "bring",
+    "broad",
+    "broadcast",
+    "brochure",
+    "brother",
+    "brown",
+    "brush",
+    "budget",
+    "buffet",
+    "build",
+    "building",
+    "bunch",
+    "burn",
+    "bury",
+    "bus",
+    "business",
+    "busy",
+    "butcher",
+    "butter",
+    "button",
+    "buy"
+  ],
+  "PLURAL": [
+    "babies",
+    "backgrounds",
+    "backs",
+    "bags",
+    "bakeries",
+    "balances",
+    "ballets",
+    "balloons",
+    "balls",
+    "bamboos",
+    "bananas",
+    "bands",
+    "banks",
+    "bans",
+    "barbecues",
+    "barks",
+    "barriers",
+    "bars",
+    "baseballs",
+    "bases",
+    "basins",
+    "basketballs",
+    "baskets",
+    "bathrooms",
+    "baths",
+    "bats",
+    "batteries",
+    "battles",
+    "bays",
+    "beaches",
+    "beans",
+    "beards",
+    "bears",
+    "beats",
+    "beauties",
+    "bedrooms",
+    "beds",
+    "beers",
+    "behaviors",
+    "bells",
+    "belts",
+    "benefits",
+    "bikes",
+    "bills",
+    "birds",
+    "birthdays",
+    "births",
+    "biscuits",
+    "bites",
+    "bits",
+    "blackboards",
+    "blankets",
+    "blanks",
+    "blocks",
+    "blogs",
+    "blouses",
+    "blows",
+    "boards",
+    "boats",
+    "bodies",
+    "bombs",
+    "bonds",
+    "bones",
+    "bonuses",
+    "books",
+    "boots",
+    "borders",
+    "bosses",
+    "bothers",
+    "bottles",
+    "bottoms",
+    "bounces",
+    "boundaries",
+    "bowls",
+    "bows",
+    "boxes",
+    "boys",
+    "brains",
+    "branches",
+    "breakfasts",
+    "breaks",
+    "breasts",
+    "breaths",
+    "bricks",
+    "bridges",
+    "broadcasts",
+    "brochures",
+    "brothers",
+    "brushes",
+    "budgets",
+    "buffets",
+    "buildings",
+    "bunches",
+    "burns",
+    "buses",
+    "businesses",
+    "butchers",
+    "buttons"
+  ],
+  "THIRD": [
+    "balances",
+    "bans",
+    "barks",
+    "bears",
+    "beats",
+    "becomes",
+    "begins",
+    "behaves",
+    "believes",
+    "belongs",
+    "bends",
+    "benefits",
+    "bets",
+    "blames",
+    "bleeds",
+    "blesses",
+    "blows",
+    "boards",
+    "boils",
+    "books",
+    "borrows",
+    "bothers",
+    "breaks",
+    "breathes",
+    "bridges",
+    "brings",
+    "brushes",
+    "builds",
+    "buries",
+    "burns",
+    "buys"
+  ],
+  "ING": [
+    "balancing",
+    "banning",
+    "barking",
+    "bearing",
+    "beating",
+    "becoming",
+    "beginning",
+    "behaving",
+    "believing",
+    "belonging",
+    "bending",
+    "benefitting",
+    "betting",
+    "blaming",
+    "bleeding",
+    "blessing",
+    "blowing",
+    "boarding",
+    "boiling",
+    "booking",
+    "borrowing",
+    "bothering",
+    "breaking",
+    "breathing",
+    "bridging",
+    "bringing",
+    "brushing",
+    "burning",
+    "burying",
+    "buying"
+  ],
+  "PAST": [
+    "balanced",
+    "banned",
+    "barked",
+    "based",
+    "beat",
+    "beaten",
+    "became",
+    "become",
+    "began",
+    "begun",
+    "behaved",
+    "believed",
+    "belonged",
+    "benefited",
+    "bent",
+    "bet",
+    "bitten",
+    "blamed",
+    "bled",
+    "blessed",
+    "blew",
+    "blocked",
+    "blown",
+    "boarded",
+    "boiled",
+    "booked",
+    "bore",
+    "borne",
+    "borrowed",
+    "bothered",
+    "bought",
+    "bounced",
+    "bowed",
+    "breathed",
+    "broken",
+    "brought",
+    "brushed",
+    "built",
+    "buried",
+    "burnt"
+  ],
+  "COMP": [
+    "bigger",
+    "blacker",
+    "blanker",
+    "blinder",
+    "bluer",
+    "braver",
+    "briefer",
+    "broader",
+    "browner",
+    "busier"
+  ],
+  "SUPER": [
+    "biggest",
+    "blackest",
+    "blankest",
+    "blindest",
+    "bluest",
+    "bravest",
+    "briefest",
+    "broadest",
+    "brownest",
+    "busiest"
+  ],
+  "DICT": {
+    "baby": "n. 婴儿；宝贝",
+    "back": "n. 背部；后面 / adv. 向后；回来",
+    "background": "n. 背景；经历",
+    "backward": "adj. 向后的；倒退的 / adv. 向后",
+    "bacon": "n. 培根；熏猪肉",
+    "bad": "adj. 坏的；不好的；严重的",
+    "badminton": "n. 羽毛球",
+    "bag": "n. 袋子；包；书包",
+    "bakery": "n. 面包店；烘焙坊",
+    "balance": "n. 平衡；余额 / v. 使平衡",
+    "ball": "n. 球；舞会",
+    "ballet": "n. 芭蕾舞",
+    "balloon": "n. 气球",
+    "bamboo": "n. 竹子",
+    "ban": "v. 禁止 / n. 禁令",
+    "banana": "n. 香蕉",
+    "band": "n. 乐队；带；条纹",
+    "bank": "n. 银行；岸；堤",
+    "bar": "n. 酒吧；条；棒；障碍",
+    "barbecue": "n. 烧烤；烤肉",
+    "barely": "adv. 仅仅；几乎不；勉强",
+    "bark": "v. 吠叫 / n. 树皮",
+    "barrier": "n. 障碍；屏障；栏杆",
+    "base": "n. 基础；基地 / v. 以……为基础",
+    "baseball": "n. 棒球",
+    "basic": "adj. 基本的；基础的",
+    "basin": "n. 盆；盆地；流域",
+    "basis": "n. 基础；根据；原则",
+    "basket": "n. 篮子；筐",
+    "basketball": "n. 篮球",
+    "bat": "n. 球棒；蝙蝠",
+    "bath": "n. 洗澡；浴缸；浴室",
+    "bathroom": "n. 浴室；卫生间",
+    "battery": "n. 电池",
+    "battle": "n. 战斗；战役；斗争",
+    "bay": "n. 海湾；湾",
+    "beach": "n. 海滩；沙滩",
+    "bean": "n. 豆子",
+    "bear": "n. 熊 / v. 忍受",
+    "beard": "n. 胡须",
+    "beat": "v. 打败；敲打 / n. 节拍",
+    "beauty": "n. 美；美人",
+    "become": "v. 变成；成为",
+    "bed": "n. 床",
+    "bedroom": "n. 卧室",
+    "beef": "n. 牛肉",
+    "beer": "n. 啤酒",
+    "begin": "v. 开始",
+    "behalf": "n. 代表；利益",
+    "behave": "v. 表现；举止",
+    "behavior": "n. 行为；举止",
+    "belief": "n. 信念；信仰",
+    "believe": "v. 相信",
+    "bell": "n. 铃；钟",
+    "belong": "v. 属于",
+    "belt": "n. 腰带；皮带",
+    "bend": "v. 弯曲；弯腰",
+    "benefit": "n. 益处 / v. 受益",
+    "best": "adj. 最好的",
+    "bet": "v. 打赌",
+    "better": "adj. 更好的",
+    "bike": "n. 自行车",
+    "bill": "n. 账单；法案",
+    "biology": "n. 生物学",
+    "bird": "n. 鸟",
+    "birth": "n. 出生",
+    "birthday": "n. 生日",
+    "biscuit": "n. 饼干",
+    "bit": "n. 一点，少量",
+    "bite": "v. 咬 / n. 一口",
+    "bitter": "adj. 苦的；痛苦的",
+    "black": "adj. 黑色的",
+    "blackboard": "n. 黑板",
+    "blame": "v. 责备；责怪",
+    "blank": "adj. 空白的 / n. 空白处",
+    "blanket": "n. 毯子",
+    "bleed": "v. 流血",
+    "bless": "v. 祝福；保佑",
+    "blind": "adj. 失明的；盲的",
+    "block": "n. 街区；大块 / v. 阻挡",
+    "blog": "n. 博客",
+    "blood": "n. 血液",
+    "blouse": "n. 女式衬衫",
+    "blow": "v. 吹 / n. 打击",
+    "blue": "adj. 蓝色的",
+    "board": "n. 板；木板；委员会 / v. 上（船、飞机等）",
+    "boat": "n. 小船",
+    "body": "n. 身体；躯体",
+    "boil": "v. 沸腾；煮沸",
+    "bomb": "n. 炸弹",
+    "bond": "n. 纽带；联系；债券",
+    "bone": "n. 骨头",
+    "bonus": "n. 奖金；红利",
+    "book": "n. 书 / v. 预订",
+    "boot": "n. 靴子",
+    "border": "n. 边界；边境",
+    "bored": "adj. 感到无聊的；感到厌烦的",
+    "boring": "adj. 令人厌烦的；无聊的",
+    "born": "adj. 出生的；天生的",
+    "borrow": "v. 借入；借用",
+    "boss": "n. 老板；上司 / v. 指挥；发号施令",
+    "botanical": "adj. 植物学的",
+    "bother": "v. 打扰；烦扰；费心 / n. 麻烦；烦恼",
+    "bottle": "n. 瓶子 / v. 装瓶",
+    "bottom": "n. 底部；末端 / adj. 底部的",
+    "bounce": "v. 弹跳；反弹 / n. 弹跳",
+    "bound": "v. 跳跃 / adj. 有义务的；受约束的；必然的；准备前往的",
+    "boundary": "n. 边界；分界线",
+    "bow": "v. 鞠躬；弯腰 / n. 弓；蝴蝶结",
+    "bowl": "n. 碗；碗状物",
+    "bowling": "n. 保龄球；滚木球",
+    "box": "n. 盒子；箱子 / v. 拳击；装箱",
+    "boxing": "n. 拳击",
+    "boy": "n. 男孩；儿子",
+    "brain": "n. 大脑；头脑；智力",
+    "branch": "n. 树枝；分支；分店；部门 / v. 分岔",
+    "brave": "adj. 勇敢的；英勇的 / v. 勇敢面对",
+    "bread": "n. 面包；生计",
+    "break": "v. 打破；弄坏；违反 / n. 休息；中断；破裂",
+    "breast": "n. 乳房；胸部；胸怀",
+    "breath": "n. 呼吸；气息",
+    "breathe": "v. 呼吸",
+    "brick": "n. 砖；砖块",
+    "bridge": "n. 桥；桥梁；纽带 / v. 架桥；弥合",
+    "brief": "adj. 简短的；简洁的 / n. 摘要 / v. 向…简要介绍",
+    "bright": "adj. 明亮的；聪明的；鲜艳的；欢快的",
+    "brilliant": "adj. 杰出的；才华横溢的；明亮的；精彩的",
+    "bring": "v. 带来；拿来；引起",
+    "beautiful": "adj. 美丽的；漂亮的",
+    "big": "adj. 大的",
+    "boost": "v. 促进；提高；增强",
+    "breakfast": "n. 早餐",
+    "broad": "adj. 宽阔的；广泛的",
+    "broadcast": "n. 广播；播送",
+    "brochure": "n. 小册子；手册",
+    "brother": "n. 兄弟",
+    "brown": "adj. 棕色的；褐色",
+    "brush": "n. 刷子；画笔 / v. 刷",
+    "budget": "n. 预算",
+    "buffet": "n. 自助餐 / v. 打击",
+    "build": "v. 建造；建设",
+    "building": "n. 建筑物；楼房",
+    "bunch": "n. 一束；一群；大量",
+    "burn": "v. 燃烧；烧毁 / n. 烧伤",
+    "bury": "v. 埋葬；掩埋",
+    "bus": "n. 公共汽车",
+    "business": "n. 商业；生意；事务",
+    "busy": "adj. 忙碌的；繁忙的",
+    "butcher": "n. 屠夫；肉贩",
+    "butter": "n. 黄油；奶油",
+    "button": "n. 按钮；纽扣",
+    "buy": "v. 购买；买"
+  },
+  "POS": {
+    "baby": [
+      "n"
+    ],
+    "back": [
+      "n",
+      "adv"
+    ],
+    "background": [
+      "n"
+    ],
+    "backward": [
+      "adj",
+      "adv"
+    ],
+    "bacon": [
+      "n"
+    ],
+    "bad": [
+      "adj"
+    ],
+    "badminton": [
+      "n"
+    ],
+    "bag": [
+      "n"
+    ],
+    "bakery": [
+      "n"
+    ],
+    "balance": [
+      "n",
+      "v"
+    ],
+    "ball": [
+      "n"
+    ],
+    "ballet": [
+      "n"
+    ],
+    "balloon": [
+      "n"
+    ],
+    "bamboo": [
+      "n"
+    ],
+    "ban": [
+      "v",
+      "n"
+    ],
+    "banana": [
+      "n"
+    ],
+    "band": [
+      "n"
+    ],
+    "bank": [
+      "n"
+    ],
+    "bar": [
+      "n"
+    ],
+    "barbecue": [
+      "n"
+    ],
+    "barely": [
+      "adv"
+    ],
+    "bark": [
+      "v",
+      "n"
+    ],
+    "barrier": [
+      "n"
+    ],
+    "base": [
+      "n",
+      "v"
+    ],
+    "baseball": [
+      "n"
+    ],
+    "basic": [
+      "adj"
+    ],
+    "basin": [
+      "n"
+    ],
+    "basis": [
+      "n"
+    ],
+    "basket": [
+      "n"
+    ],
+    "basketball": [
+      "n"
+    ],
+    "bat": [
+      "n"
+    ],
+    "bath": [
+      "n"
+    ],
+    "bathroom": [
+      "n"
+    ],
+    "battery": [
+      "n"
+    ],
+    "battle": [
+      "n"
+    ],
+    "bay": [
+      "n"
+    ],
+    "beach": [
+      "n"
+    ],
+    "bean": [
+      "n"
+    ],
+    "bear": [
+      "n",
+      "v"
+    ],
+    "beard": [
+      "n"
+    ],
+    "beat": [
+      "v",
+      "n"
+    ],
+    "beauty": [
+      "n"
+    ],
+    "become": [
+      "v"
+    ],
+    "bed": [
+      "n"
+    ],
+    "bedroom": [
+      "n"
+    ],
+    "beef": [
+      "n"
+    ],
+    "beer": [
+      "n"
+    ],
+    "begin": [
+      "v"
+    ],
+    "behalf": [
+      "n"
+    ],
+    "behave": [
+      "v"
+    ],
+    "belief": [
+      "n"
+    ],
+    "believe": [
+      "v"
+    ],
+    "bell": [
+      "n"
+    ],
+    "belong": [
+      "v"
+    ],
+    "belt": [
+      "n"
+    ],
+    "bend": [
+      "v"
+    ],
+    "benefit": [
+      "n",
+      "v"
+    ],
+    "best": [
+      "adj"
+    ],
+    "bet": [
+      "v"
+    ],
+    "better": [
+      "adj"
+    ],
+    "bike": [
+      "n"
+    ],
+    "bill": [
+      "n"
+    ],
+    "biology": [
+      "n"
+    ],
+    "bird": [
+      "n"
+    ],
+    "birth": [
+      "n"
+    ],
+    "birthday": [
+      "n"
+    ],
+    "biscuit": [
+      "n"
+    ],
+    "bit": [
+      "n"
+    ],
+    "bite": [
+      "v",
+      "n"
+    ],
+    "bitter": [
+      "adj"
+    ],
+    "black": [
+      "adj"
+    ],
+    "blackboard": [
+      "n"
+    ],
+    "blame": [
+      "v"
+    ],
+    "blank": [
+      "adj",
+      "n"
+    ],
+    "blanket": [
+      "n"
+    ],
+    "bleed": [
+      "v"
+    ],
+    "bless": [
+      "v"
+    ],
+    "blind": [
+      "adj"
+    ],
+    "block": [
+      "n",
+      "v"
+    ],
+    "blog": [
+      "n"
+    ],
+    "blood": [
+      "n"
+    ],
+    "blouse": [
+      "n"
+    ],
+    "blow": [
+      "v",
+      "n"
+    ],
+    "blue": [
+      "adj"
+    ],
+    "board": [
+      "n",
+      "v"
+    ],
+    "boat": [
+      "n"
+    ],
+    "body": [
+      "n"
+    ],
+    "boil": [
+      "v"
+    ],
+    "bomb": [
+      "n"
+    ],
+    "bond": [
+      "n"
+    ],
+    "bone": [
+      "n"
+    ],
+    "bonus": [
+      "n"
+    ],
+    "book": [
+      "n",
+      "v"
+    ],
+    "boot": [
+      "n"
+    ],
+    "border": [
+      "n"
+    ],
+    "bored": [
+      "adj"
+    ],
+    "boring": [
+      "adj"
+    ],
+    "born": [
+      "adj"
+    ],
+    "borrow": [
+      "v"
+    ],
+    "boss": [
+      "n",
+      "v"
+    ],
+    "botanical": [
+      "adj"
+    ],
+    "bother": [
+      "v",
+      "n"
+    ],
+    "bottle": [
+      "n",
+      "v"
+    ],
+    "bottom": [
+      "n",
+      "adj"
+    ],
+    "bounce": [
+      "v",
+      "n"
+    ],
+    "bound": [
+      "v",
+      "adj"
+    ],
+    "boundary": [
+      "n"
+    ],
+    "bow": [
+      "v",
+      "n"
+    ],
+    "bowl": [
+      "n"
+    ],
+    "bowling": [
+      "n"
+    ],
+    "box": [
+      "n",
+      "v"
+    ],
+    "boxing": [
+      "n"
+    ],
+    "boy": [
+      "n"
+    ],
+    "brain": [
+      "n"
+    ],
+    "branch": [
+      "n",
+      "v"
+    ],
+    "brave": [
+      "adj",
+      "v"
+    ],
+    "bread": [
+      "n"
+    ],
+    "break": [
+      "v",
+      "n"
+    ],
+    "breast": [
+      "n"
+    ],
+    "breath": [
+      "n"
+    ],
+    "breathe": [
+      "v"
+    ],
+    "brick": [
+      "n"
+    ],
+    "bridge": [
+      "n",
+      "v"
+    ],
+    "brief": [
+      "adj",
+      "n",
+      "v"
+    ],
+    "bright": [
+      "adj"
+    ],
+    "brilliant": [
+      "adj"
+    ],
+    "bring": [
+      "v"
+    ],
+    "beautiful": [
+      "adj"
+    ],
+    "big": [
+      "adj"
+    ],
+    "boost": [
+      "v"
+    ],
+    "breakfast": [
+      "n"
+    ],
+    "broad": [
+      "adj"
+    ],
+    "broadcast": [
+      "n"
+    ],
+    "brochure": [
+      "n"
+    ],
+    "brother": [
+      "n"
+    ],
+    "brown": [
+      "adj"
+    ],
+    "brush": [
+      "n",
+      "v"
+    ],
+    "budget": [
+      "n"
+    ],
+    "buffet": [
+      "n",
+      "v"
+    ],
+    "build": [
+      "v"
+    ],
+    "building": [
+      "n"
+    ],
+    "bunch": [
+      "n"
+    ],
+    "burn": [
+      "v",
+      "n"
+    ],
+    "bury": [
+      "v"
+    ],
+    "bus": [
+      "n"
+    ],
+    "business": [
+      "n"
+    ],
+    "busy": [
+      "adj"
+    ],
+    "butcher": [
+      "n"
+    ],
+    "butter": [
+      "n"
+    ],
+    "button": [
+      "n"
+    ],
+    "buy": [
+      "v"
+    ],
+    "backs": [
+      "n",
+      "adv"
+    ],
+    "backwards": [
+      "adj",
+      "adv"
+    ],
+    "bakeries": [
+      "n"
+    ],
+    "balances": [
+      "n",
+      "v"
+    ],
+    "bamboos": [
+      "n"
+    ],
+    "bans": [
+      "v",
+      "n"
+    ],
+    "barelies": [
+      "adv"
+    ],
+    "barks": [
+      "v",
+      "n"
+    ],
+    "batteries": [
+      "n"
+    ],
+    "bears": [
+      "n",
+      "v"
+    ],
+    "beats": [
+      "v",
+      "n"
+    ],
+    "becomes": [
+      "v"
+    ],
+    "begins": [
+      "v"
+    ],
+    "behaves": [
+      "v"
+    ],
+    "believes": [
+      "v"
+    ],
+    "belongs": [
+      "v"
+    ],
+    "bends": [
+      "v"
+    ],
+    "benefits": [
+      "n",
+      "v"
+    ],
+    "bets": [
+      "v"
+    ],
+    "bits": [
+      "n"
+    ],
+    "blames": [
+      "v"
+    ],
+    "bleeds": [
+      "v"
+    ],
+    "blesses": [
+      "v"
+    ],
+    "blows": [
+      "v",
+      "n"
+    ],
+    "boards": [
+      "n",
+      "v"
+    ],
+    "boils": [
+      "v"
+    ],
+    "books": [
+      "n",
+      "v"
+    ],
+    "borrows": [
+      "v"
+    ],
+    "bothers": [
+      "v",
+      "n"
+    ],
+    "boundaries": [
+      "n"
+    ],
+    "breaks": [
+      "v",
+      "n"
+    ],
+    "breathes": [
+      "v"
+    ],
+    "bridges": [
+      "n",
+      "v"
+    ],
+    "brings": [
+      "v"
+    ],
+    "broadcasts": [
+      "n"
+    ],
+    "brochures": [
+      "n"
+    ],
+    "brushes": [
+      "n",
+      "v"
+    ],
+    "builds": [
+      "v"
+    ],
+    "buries": [
+      "v"
+    ],
+    "burns": [
+      "v",
+      "n"
+    ],
+    "businesses": [
+      "n"
+    ],
+    "buys": [
+      "v"
+    ],
+    "backing": [
+      "n",
+      "adv"
+    ],
+    "balancing": [
+      "n",
+      "v"
+    ],
+    "banning": [
+      "v",
+      "n"
+    ],
+    "barking": [
+      "v",
+      "n"
+    ],
+    "bearing": [
+      "n",
+      "v"
+    ],
+    "beating": [
+      "v",
+      "n"
+    ],
+    "becoming": [
+      "v"
+    ],
+    "beginning": [
+      "v"
+    ],
+    "behaving": [
+      "v"
+    ],
+    "believing": [
+      "v"
+    ],
+    "belonging": [
+      "v"
+    ],
+    "bending": [
+      "v"
+    ],
+    "benefitting": [
+      "n",
+      "v"
+    ],
+    "betting": [
+      "v"
+    ],
+    "blaming": [
+      "v"
+    ],
+    "bleeding": [
+      "v"
+    ],
+    "blessing": [
+      "v"
+    ],
+    "blowing": [
+      "v",
+      "n"
+    ],
+    "boarding": [
+      "n",
+      "v"
+    ],
+    "boiling": [
+      "v"
+    ],
+    "booking": [
+      "n",
+      "v"
+    ],
+    "borrowing": [
+      "v"
+    ],
+    "bothering": [
+      "v",
+      "n"
+    ],
+    "breaking": [
+      "v",
+      "n"
+    ],
+    "breathing": [
+      "v"
+    ],
+    "bridging": [
+      "n",
+      "v"
+    ],
+    "bringing": [
+      "v"
+    ],
+    "broadcasting": [
+      "n"
+    ],
+    "brushing": [
+      "n",
+      "v"
+    ],
+    "burning": [
+      "v",
+      "n"
+    ],
+    "burying": [
+      "v"
+    ],
+    "backed": [
+      "n",
+      "adv"
+    ],
+    "balanced": [
+      "n",
+      "v"
+    ],
+    "banned": [
+      "v",
+      "n"
+    ],
+    "barked": [
+      "v",
+      "n"
+    ],
+    "based": [
+      "n",
+      "v"
+    ],
+    "beaten": [
+      "v",
+      "n"
+    ],
+    "became": [
+      "v"
+    ],
+    "began": [
+      "v"
+    ],
+    "begun": [
+      "v"
+    ],
+    "behaved": [
+      "v"
+    ],
+    "believed": [
+      "v"
+    ],
+    "belonged": [
+      "v"
+    ],
+    "benefited": [
+      "n",
+      "v"
+    ],
+    "bent": [
+      "v"
+    ],
+    "bitten": [
+      "v",
+      "n"
+    ],
+    "blamed": [
+      "v"
+    ],
+    "bled": [
+      "v"
+    ],
+    "blessed": [
+      "v"
+    ],
+    "blew": [
+      "v",
+      "n"
+    ],
+    "blocked": [
+      "n",
+      "v"
+    ],
+    "blown": [
+      "v",
+      "n"
+    ],
+    "boarded": [
+      "n",
+      "v"
+    ],
+    "boiled": [
+      "v"
+    ],
+    "booked": [
+      "n",
+      "v"
+    ],
+    "bore": [
+      "n",
+      "v"
+    ],
+    "borne": [
+      "n",
+      "v"
+    ],
+    "borrowed": [
+      "v"
+    ],
+    "bothered": [
+      "v",
+      "n"
+    ],
+    "bought": [
+      "v"
+    ],
+    "bounced": [
+      "v",
+      "n"
+    ],
+    "bowed": [
+      "v",
+      "n"
+    ],
+    "breathed": [
+      "v"
+    ],
+    "broken": [
+      "v",
+      "n"
+    ],
+    "brought": [
+      "v"
+    ],
+    "brushed": [
+      "n",
+      "v"
+    ],
+    "built": [
+      "v"
+    ],
+    "buried": [
+      "v"
+    ],
+    "burnt": [
+      "v",
+      "n"
+    ],
+    "babier": [
+      "n"
+    ],
+    "bigger": [
+      "adj"
+    ],
+    "blacker": [
+      "adj"
+    ],
+    "blanker": [
+      "adj",
+      "n"
+    ],
+    "blinder": [
+      "adj"
+    ],
+    "bluer": [
+      "adj"
+    ],
+    "braver": [
+      "adj",
+      "v"
+    ],
+    "briefer": [
+      "adj",
+      "n",
+      "v"
+    ],
+    "broader": [
+      "adj"
+    ],
+    "browner": [
+      "adj"
+    ],
+    "busier": [
+      "adj"
+    ],
+    "biggest": [
+      "adj"
+    ],
+    "blackest": [
+      "adj"
+    ],
+    "blankest": [
+      "adj",
+      "n"
+    ],
+    "blindest": [
+      "adj"
+    ],
+    "bluest": [
+      "adj"
+    ],
+    "bravest": [
+      "adj",
+      "v"
+    ],
+    "briefest": [
+      "adj",
+      "n",
+      "v"
+    ],
+    "broadest": [
+      "adj"
+    ],
+    "brownest": [
+      "adj"
+    ],
+    "buildest": [
+      "v"
+    ],
+    "bunchest": [
+      "n"
+    ],
+    "buriest": [
+      "v"
+    ],
+    "burnest": [
+      "v",
+      "n"
+    ],
+    "busiest": [
+      "adj"
+    ],
+    "bussest": [
+      "n"
+    ],
+    "buyyest": [
+      "v"
+    ]
+  }
+}

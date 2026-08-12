@@ -1,0 +1,23 @@
+[
+  {
+    "q": "The temperature dropped to <span class='blank'>_____</span> during the cold winter night.",
+    "answer": "zero",
+    "explain": "zero n. 零。",
+    "translation": "在寒冷的冬夜里，气温降到了<strong>零度</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "This area is a no-parking <span class='blank'>_____</span> from eight in the morning to six at night.",
+    "answer": "zone",
+    "explain": "zone n. 区域。",
+    "translation": "这个区域从早上八点到晚上六点是禁停<strong>区域</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The <span class='blank'>_____</span> has a new baby elephant that visitors love to watch.",
+    "answer": "zoo",
+    "explain": "zoo n. 动物园。",
+    "translation": "<strong>动物园</strong>有一只新出生的小象，游客们都喜欢去看。",
+    "pool": "BASE"
+  }
+]

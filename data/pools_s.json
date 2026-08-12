@@ -1,0 +1,2343 @@
+{
+  "BASE": [
+    "sad",
+    "safe",
+    "safety",
+    "sail",
+    "salad",
+    "salary",
+    "sale",
+    "salesman",
+    "saleswoman",
+    "salt",
+    "salty",
+    "same",
+    "sample",
+    "sand",
+    "sandwich",
+    "satellite",
+    "satisfaction",
+    "satisfy",
+    "saucer",
+    "sausage",
+    "save",
+    "saving",
+    "say",
+    "saying",
+    "scare",
+    "scarf",
+    "scene",
+    "schedule",
+    "scholarship",
+    "school",
+    "schoolbag",
+    "science",
+    "scientific",
+    "scientist",
+    "scissors",
+    "score",
+    "scream",
+    "screen",
+    "sculpture",
+    "sea",
+    "search",
+    "season",
+    "seat",
+    "second",
+    "secondary",
+    "secret",
+    "secretary",
+    "section",
+    "secure",
+    "security",
+    "see",
+    "seed",
+    "seek",
+    "seem",
+    "seize",
+    "seldom",
+    "select",
+    "sell",
+    "send",
+    "senior",
+    "sense",
+    "sensitive",
+    "sentence",
+    "separate",
+    "series",
+    "serious",
+    "servant",
+    "serve",
+    "service",
+    "session",
+    "set",
+    "setting",
+    "settle",
+    "several",
+    "severe",
+    "sew",
+    "sex",
+    "shade",
+    "shadow",
+    "shake",
+    "shallow",
+    "shame",
+    "shape",
+    "share",
+    "shark",
+    "sharp",
+    "shave",
+    "sheep",
+    "sheet",
+    "shelf",
+    "shelter",
+    "shift",
+    "shine",
+    "ship",
+    "shirt",
+    "shock",
+    "shoe",
+    "shoot",
+    "shop",
+    "shore",
+    "short",
+    "shortage",
+    "shorts",
+    "shoulder",
+    "shout",
+    "show",
+    "shower",
+    "shut",
+    "shy",
+    "sick",
+    "side",
+    "sight",
+    "sign",
+    "signal",
+    "significant",
+    "silence",
+    "silent",
+    "silk",
+    "silly",
+    "silver",
+    "similar",
+    "simple",
+    "since",
+    "sincerely",
+    "sing",
+    "single",
+    "sink",
+    "sir",
+    "sister",
+    "sit",
+    "site",
+    "situation",
+    "size",
+    "skate",
+    "skateboard",
+    "ski",
+    "skill",
+    "skin",
+    "skip",
+    "skirt",
+    "sky",
+    "sleep",
+    "sleepy",
+    "slice",
+    "slide",
+    "slightly",
+    "slim",
+    "slip",
+    "slow",
+    "small",
+    "smart",
+    "smell",
+    "smile",
+    "smog",
+    "smoke",
+    "smooth",
+    "snack",
+    "snake",
+    "sneeze",
+    "snow",
+    "snowy",
+    "so",
+    "soccer",
+    "social",
+    "socialist",
+    "society",
+    "sock",
+    "sofa",
+    "soft",
+    "software",
+    "soil",
+    "soldier",
+    "solid",
+    "solution",
+    "solve",
+    "somehow",
+    "sometimes",
+    "somewhat",
+    "somewhere",
+    "son",
+    "song",
+    "soon",
+    "sore",
+    "sorry",
+    "sort",
+    "soul",
+    "sound",
+    "soup",
+    "sour",
+    "source",
+    "south",
+    "southern",
+    "sow",
+    "space",
+    "spare",
+    "spark",
+    "speak",
+    "speaker",
+    "special",
+    "specialist",
+    "specific",
+    "speech",
+    "speed",
+    "spell",
+    "spend",
+    "spin",
+    "spirit",
+    "splendid",
+    "split",
+    "spoken",
+    "sponsor",
+    "spoon",
+    "sport",
+    "spot",
+    "spread",
+    "spring",
+    "spy",
+    "square",
+    "stability",
+    "stable",
+    "stadium",
+    "staff",
+    "stage",
+    "stair",
+    "stamp",
+    "stand",
+    "standard",
+    "star",
+    "stare",
+    "start",
+    "starve",
+    "state",
+    "statement",
+    "station",
+    "statistic",
+    "statue",
+    "status",
+    "stay",
+    "steady",
+    "steak",
+    "steal",
+    "steam",
+    "steel",
+    "step",
+    "stick",
+    "still",
+    "stimulate",
+    "stomach",
+    "stomachache",
+    "stone",
+    "stop",
+    "store",
+    "storm",
+    "story",
+    "straight",
+    "straightforward",
+    "strait",
+    "strange",
+    "stranger",
+    "strategy",
+    "strawberry",
+    "stream",
+    "street",
+    "strength",
+    "strengthen",
+    "stress",
+    "stretch",
+    "strict",
+    "strike",
+    "string",
+    "strong",
+    "structure",
+    "struggle",
+    "student",
+    "studio",
+    "study",
+    "stuff",
+    "stupid",
+    "style",
+    "subject",
+    "subjective",
+    "submit",
+    "subscribe",
+    "subsequent",
+    "substance",
+    "substantial",
+    "suburb",
+    "subway",
+    "succeed",
+    "success",
+    "successful",
+    "sudden",
+    "suffer",
+    "sufficient",
+    "sugar",
+    "suggest",
+    "suggestion",
+    "suit",
+    "suitable",
+    "sum",
+    "summary",
+    "summer",
+    "sun",
+    "sunny",
+    "super",
+    "superb",
+    "superior",
+    "supermarket",
+    "supply",
+    "support",
+    "suppose",
+    "sure",
+    "surf",
+    "surface",
+    "surgeon",
+    "surgery",
+    "surprise",
+    "surround",
+    "surrounding",
+    "survey",
+    "survive",
+    "suspect",
+    "suspend",
+    "sustain",
+    "sweat",
+    "sweater",
+    "sweep",
+    "sweet",
+    "swim",
+    "swimming",
+    "swing",
+    "switch",
+    "symbol",
+    "sympathy",
+    "symphony",
+    "system"
+  ],
+  "PLURAL": [
+    "safes",
+    "safeties",
+    "sails",
+    "salads",
+    "salaries",
+    "sales",
+    "salesmen",
+    "saleswomen",
+    "salts",
+    "samples",
+    "sands",
+    "sandwiches",
+    "satellites",
+    "satisfactions",
+    "saucers",
+    "sausages",
+    "savings",
+    "sayings",
+    "scares",
+    "scarves",
+    "scenes",
+    "schedules",
+    "scholarships",
+    "schoolbags",
+    "schools",
+    "sciences",
+    "scientists",
+    "scores",
+    "screams",
+    "screens",
+    "sculptures",
+    "seas",
+    "searches",
+    "seasons",
+    "seats",
+    "seconds",
+    "secretaries",
+    "secrets",
+    "sections",
+    "securities",
+    "seeds",
+    "seniors",
+    "senses",
+    "sentences",
+    "series",
+    "servants",
+    "services",
+    "sessions",
+    "sets",
+    "settings",
+    "sexes",
+    "shades",
+    "shadows",
+    "shapes",
+    "shares",
+    "sharks",
+    "sheep",
+    "sheets",
+    "shelves",
+    "shelters",
+    "shifts",
+    "ships",
+    "shirts",
+    "shocks",
+    "shoes",
+    "shops",
+    "shores",
+    "shortages",
+    "shoulders",
+    "shows",
+    "showers",
+    "sides",
+    "sights",
+    "signals",
+    "signs",
+    "silks",
+    "silvers",
+    "sisters",
+    "sites",
+    "situations",
+    "sizes",
+    "skateboards",
+    "skates",
+    "skies",
+    "skills",
+    "skins",
+    "skirts",
+    "sleeps",
+    "slices",
+    "smells",
+    "smiles",
+    "smokes",
+    "snacks",
+    "snakes",
+    "snows",
+    "soccers",
+    "socialists",
+    "societies",
+    "socks",
+    "sofas",
+    "softwares",
+    "soils",
+    "soldiers",
+    "solids",
+    "solutions",
+    "sons",
+    "songs",
+    "sorts",
+    "souls",
+    "sounds",
+    "soups",
+    "sources",
+    "souths",
+    "spaces",
+    "sparks",
+    "speakers",
+    "specialists",
+    "speeches",
+    "speeds",
+    "spirits",
+    "sponsors",
+    "spoons",
+    "sports",
+    "spots",
+    "springs",
+    "spies",
+    "squares",
+    "stadiums",
+    "staffs",
+    "stages",
+    "stairs",
+    "stamps",
+    "standards",
+    "stars",
+    "starts",
+    "states",
+    "statements",
+    "stations",
+    "statistics",
+    "statues",
+    "statuses",
+    "steaks",
+    "steps",
+    "sticks",
+    "stomachaches",
+    "stomachs",
+    "stones",
+    "stops",
+    "stores",
+    "storms",
+    "stories",
+    "straits",
+    "strangers",
+    "strategies",
+    "strawberries",
+    "streams",
+    "streets",
+    "strengths",
+    "stresses",
+    "strings",
+    "structures",
+    "struggles",
+    "students",
+    "studios",
+    "studies",
+    "styles",
+    "subjects",
+    "substances",
+    "suburbs",
+    "subways",
+    "successes",
+    "sugars",
+    "suggestions",
+    "suits",
+    "summaries",
+    "summers",
+    "sums",
+    "suns",
+    "supermarkets",
+    "supplies",
+    "supports",
+    "surfaces",
+    "surgeons",
+    "surgeries",
+    "surprises",
+    "surveys",
+    "suspects",
+    "sweaters",
+    "switches",
+    "symbols",
+    "symphonies",
+    "systems"
+  ],
+  "THIRD": [
+    "sails",
+    "samples",
+    "satisfies",
+    "saves",
+    "says",
+    "scares",
+    "schedules",
+    "scores",
+    "screams",
+    "searches",
+    "seats",
+    "secures",
+    "sees",
+    "seeks",
+    "seems",
+    "seizes",
+    "selects",
+    "sells",
+    "sends",
+    "senses",
+    "sentences",
+    "separates",
+    "serves",
+    "sets",
+    "settles",
+    "sews",
+    "shakes",
+    "shapes",
+    "shares",
+    "shaves",
+    "shelters",
+    "shifts",
+    "shines",
+    "shocks",
+    "shoots",
+    "shops",
+    "shouts",
+    "shows",
+    "shuts",
+    "signals",
+    "signs",
+    "sings",
+    "sinks",
+    "sits",
+    "skates",
+    "skips",
+    "sleeps",
+    "slices",
+    "slides",
+    "slips",
+    "smells",
+    "smiles",
+    "smokes",
+    "sneezes",
+    "snows",
+    "solves",
+    "sorts",
+    "sounds",
+    "sows",
+    "spares",
+    "speaks",
+    "speeds",
+    "spells",
+    "spends",
+    "spins",
+    "splits",
+    "sponsors",
+    "spots",
+    "spreads",
+    "stands",
+    "stares",
+    "starts",
+    "starves",
+    "states",
+    "stays",
+    "steals",
+    "steps",
+    "sticks",
+    "stimulates",
+    "stops",
+    "stores",
+    "strengthens",
+    "stresses",
+    "stretches",
+    "strikes",
+    "struggles",
+    "studies",
+    "submits",
+    "subscribes",
+    "succeeds",
+    "suffers",
+    "suggests",
+    "suits",
+    "supplies",
+    "supports",
+    "supposes",
+    "surfs",
+    "surprises",
+    "surrounds",
+    "surveys",
+    "survives",
+    "suspects",
+    "suspends",
+    "sustains",
+    "sweeps",
+    "swims",
+    "swings",
+    "switches"
+  ],
+  "ING": [
+    "sailing",
+    "sampling",
+    "satisfying",
+    "saving",
+    "saying",
+    "scaring",
+    "scheduling",
+    "scoring",
+    "screaming",
+    "searching",
+    "seating",
+    "securing",
+    "seeing",
+    "seeking",
+    "seeming",
+    "seizing",
+    "selecting",
+    "selling",
+    "sending",
+    "sensing",
+    "sentencing",
+    "separating",
+    "serving",
+    "setting",
+    "settling",
+    "sewing",
+    "shaking",
+    "shaping",
+    "sharing",
+    "shaving",
+    "sheltering",
+    "shifting",
+    "shining",
+    "shocking",
+    "shooting",
+    "shopping",
+    "shouting",
+    "showing",
+    "shutting",
+    "signaling",
+    "signing",
+    "singing",
+    "sinking",
+    "sitting",
+    "skating",
+    "skiing",
+    "skipping",
+    "sleeping",
+    "slicing",
+    "sliding",
+    "slipping",
+    "smelling",
+    "smiling",
+    "smoking",
+    "sneezing",
+    "snowing",
+    "solving",
+    "sorting",
+    "sounding",
+    "sowing",
+    "sparing",
+    "speaking",
+    "speeding",
+    "spelling",
+    "spending",
+    "spinning",
+    "splitting",
+    "sponsoring",
+    "spotting",
+    "spreading",
+    "standing",
+    "staring",
+    "starting",
+    "starving",
+    "stating",
+    "staying",
+    "stealing",
+    "stepping",
+    "sticking",
+    "stimulating",
+    "stopping",
+    "storing",
+    "strengthening",
+    "stressing",
+    "stretching",
+    "striking",
+    "struggling",
+    "studying",
+    "submitting",
+    "subscribing",
+    "succeeding",
+    "suffering",
+    "suggesting",
+    "suiting",
+    "supplying",
+    "supporting",
+    "supposing",
+    "surfing",
+    "surprising",
+    "surrounding",
+    "surveying",
+    "surviving",
+    "suspecting",
+    "suspending",
+    "sustaining",
+    "sweeping",
+    "swimming",
+    "swinging",
+    "switching"
+  ],
+  "PAST": [
+    "said",
+    "sailed",
+    "sampled",
+    "sang",
+    "sank",
+    "sat",
+    "satisfied",
+    "saved",
+    "saw",
+    "scared",
+    "scheduled",
+    "scored",
+    "screamed",
+    "searched",
+    "seated",
+    "secured",
+    "seemed",
+    "seen",
+    "seized",
+    "selected",
+    "sensed",
+    "sent",
+    "sentenced",
+    "separated",
+    "served",
+    "set",
+    "settled",
+    "sewed",
+    "sewn",
+    "shaken",
+    "shaped",
+    "shared",
+    "shaved",
+    "sheltered",
+    "shifted",
+    "shocked",
+    "shone",
+    "shook",
+    "shopped",
+    "shot",
+    "shouted",
+    "showed",
+    "shown",
+    "shut",
+    "signaled",
+    "signed",
+    "skated",
+    "skied",
+    "skipped",
+    "slept",
+    "sliced",
+    "slid",
+    "slipped",
+    "smelled",
+    "smiled",
+    "smoked",
+    "sneezed",
+    "snowed",
+    "sold",
+    "solved",
+    "sorted",
+    "sought",
+    "sounded",
+    "sowed",
+    "spared",
+    "sped",
+    "spelled",
+    "spent",
+    "split",
+    "spoke",
+    "spoken",
+    "sponsored",
+    "spotted",
+    "spread",
+    "spun",
+    "stared",
+    "started",
+    "starved",
+    "stated",
+    "stayed",
+    "stepped",
+    "stimulated",
+    "stole",
+    "stolen",
+    "stood",
+    "stopped",
+    "stored",
+    "strengthened",
+    "stressed",
+    "stretched",
+    "struck",
+    "struggled",
+    "stuck",
+    "studied",
+    "submitted",
+    "subscribed",
+    "succeeded",
+    "suffered",
+    "suggested",
+    "suited",
+    "sung",
+    "sunk",
+    "supplied",
+    "supported",
+    "supposed",
+    "surfed",
+    "surprised",
+    "surrounded",
+    "surveyed",
+    "survived",
+    "suspected",
+    "suspended",
+    "sustained",
+    "swam",
+    "swept",
+    "switched",
+    "swum",
+    "swung"
+  ],
+  "COMP": [
+    "sadder",
+    "safer",
+    "saltier",
+    "shallower",
+    "sharper",
+    "shorter",
+    "shyer",
+    "sicker",
+    "sillier",
+    "simpler",
+    "slimmer",
+    "slower",
+    "smaller",
+    "smarter",
+    "smoother",
+    "snowier",
+    "softer",
+    "sorer",
+    "sorrier",
+    "sourer",
+    "straighter",
+    "stranger",
+    "stricter",
+    "stronger",
+    "stupider",
+    "sunnier",
+    "sweeter"
+  ],
+  "SUPER": [
+    "saddest",
+    "safest",
+    "saltiest",
+    "shallowest",
+    "sharpest",
+    "shortest",
+    "shyest",
+    "sickest",
+    "silliest",
+    "simplest",
+    "slimmest",
+    "slowest",
+    "smallest",
+    "smartest",
+    "smoothest",
+    "snowiest",
+    "softest",
+    "sorest",
+    "sorriest",
+    "sourest",
+    "straightest",
+    "strangest",
+    "strictest",
+    "strongest",
+    "stupidest",
+    "sunniest",
+    "sweetest"
+  ],
+  "DICT": {
+    "sad": "adj. 悲伤的",
+    "safe": "adj. 安全的 / n. 保险箱",
+    "safety": "n. 安全",
+    "sail": "v. 航行 / n. 帆",
+    "salad": "n. 沙拉",
+    "salary": "n. 薪水",
+    "sale": "n. 销售，促销",
+    "salesman": "n. 男售货员",
+    "saleswoman": "n. 女售货员",
+    "salt": "n. 盐",
+    "salty": "adj. 咸的",
+    "same": "adj. 相同的",
+    "sample": "n. 样本 / v. 品尝，取样",
+    "sand": "n. 沙",
+    "sandwich": "n. 三明治",
+    "satellite": "n. 卫星",
+    "satisfaction": "n. 满意",
+    "satisfy": "v. 使满意",
+    "saucer": "n. 茶碟",
+    "sausage": "n. 香肠",
+    "save": "v. 拯救，节省",
+    "saving": "n. 储蓄",
+    "say": "v. 说",
+    "saying": "n. 谚语",
+    "scare": "v. 吓唬 / n. 惊恐",
+    "scarf": "n. 围巾",
+    "scene": "n. 场景",
+    "schedule": "n. 日程表 / v. 安排",
+    "scholarship": "n. 奖学金",
+    "school": "n. 学校",
+    "schoolbag": "n. 书包",
+    "science": "n. 科学",
+    "scientific": "adj. 科学的",
+    "scientist": "n. 科学家",
+    "scissors": "n. 剪刀",
+    "score": "n. 得分 / v. 得分",
+    "scream": "v. 尖叫 / n. 尖叫声",
+    "screen": "n. 屏幕",
+    "sculpture": "n. 雕塑",
+    "sea": "n. 海",
+    "search": "v. 搜索 / n. 搜索",
+    "season": "n. 季节",
+    "seat": "n. 座位 / v. 使就座",
+    "second": "adj. 第二的 / n. 秒",
+    "secondary": "adj. 次要的",
+    "secret": "adj. 秘密的 / n. 秘密",
+    "secretary": "n. 秘书",
+    "section": "n. 部分",
+    "secure": "adj. 安全的 / v. 固定，获得",
+    "security": "n. 安全",
+    "see": "v. 看见",
+    "seed": "n. 种子",
+    "seek": "v. 寻找",
+    "seem": "v. 似乎",
+    "seize": "v. 抓住",
+    "seldom": "adv. 很少",
+    "select": "v. 选择",
+    "sell": "v. 卖",
+    "send": "v. 发送",
+    "senior": "adj. 高级的 / n. 高年级学生",
+    "sense": "n. 感觉 / v. 感觉到",
+    "sensitive": "adj. 敏感的",
+    "sentence": "n. 句子 / v. 判决",
+    "separate": "adj. 分开的 / v. 分离",
+    "series": "n. 系列",
+    "serious": "adj. 严重的",
+    "servant": "n. 仆人",
+    "serve": "v. 服务",
+    "service": "n. 服务",
+    "session": "n. 会议，时段",
+    "set": "v. 放置 / n. 一套",
+    "setting": "n. 环境，背景",
+    "settle": "v. 解决，定居",
+    "several": "adj. 几个的",
+    "severe": "adj. 严重的",
+    "sew": "v. 缝",
+    "sex": "n. 性别",
+    "shade": "n. 阴凉处",
+    "shadow": "n. 影子",
+    "shake": "v. 摇晃",
+    "shallow": "adj. 浅的",
+    "shame": "n. 羞愧",
+    "shape": "n. 形状 / v. 塑造",
+    "share": "v. 分享 / n. 份额",
+    "shark": "n. 鲨鱼",
+    "sharp": "adj. 锋利的",
+    "shave": "v. 剃须",
+    "sheep": "n. 羊",
+    "sheet": "n. 床单，纸张",
+    "shelf": "n. 架子",
+    "shelter": "n. 庇护所 / v. 庇护",
+    "shift": "n. 轮班 / v. 转移",
+    "shine": "v. 发光",
+    "ship": "n. 船",
+    "shirt": "n. 衬衫",
+    "shock": "n. 震惊 / v. 使震惊",
+    "shoe": "n. 鞋",
+    "shoot": "v. 射击",
+    "shop": "n. 商店 / v. 购物",
+    "shore": "n. 海岸",
+    "short": "adj. 短的",
+    "shortage": "n. 短缺",
+    "shorts": "n. 短裤",
+    "shoulder": "n. 肩膀",
+    "shout": "v. 呼喊",
+    "show": "v. 展示 / n. 演出",
+    "shower": "n. 淋浴",
+    "shut": "v. 关闭",
+    "shy": "adj. 害羞的",
+    "sick": "adj. 生病的",
+    "side": "n. 边，侧面",
+    "sight": "n. 视力，景象",
+    "sign": "n. 标志 / v. 签名",
+    "signal": "n. 信号 / v. 发信号",
+    "significant": "adj. 重要的",
+    "silence": "n. 沉默",
+    "silent": "adj. 沉默的",
+    "silk": "n. 丝绸",
+    "silly": "adj. 愚蠢的",
+    "silver": "n. 银",
+    "similar": "adj. 相似的",
+    "simple": "adj. 简单的",
+    "since": "adv. 自从",
+    "sincerely": "adv. 真诚地",
+    "sing": "v. 唱歌",
+    "single": "adj. 单一的",
+    "sink": "v. 下沉",
+    "sir": "n. 先生",
+    "sister": "n. 姐妹",
+    "sit": "v. 坐",
+    "site": "n. 地点",
+    "situation": "n. 情况",
+    "size": "n. 尺寸",
+    "skate": "v. 滑冰 / n. 冰鞋",
+    "skateboard": "n. 滑板",
+    "ski": "v. 滑雪 / n. 滑雪板",
+    "skill": "n. 技能",
+    "skin": "n. 皮肤",
+    "skip": "v. 跳过",
+    "skirt": "n. 裙子",
+    "sky": "n. 天空",
+    "sleep": "v. 睡觉 / n. 睡眠",
+    "sleepy": "adj. 困倦的",
+    "slice": "n. 薄片 / v. 切片",
+    "slide": "v. 滑动",
+    "slightly": "adv. 稍微",
+    "slim": "adj. 苗条的",
+    "slip": "v. 滑倒",
+    "slow": "adj. 慢的",
+    "small": "adj. 小的",
+    "smart": "adj. 聪明的",
+    "smell": "v. 闻 / n. 气味",
+    "smile": "v. 微笑 / n. 微笑",
+    "smog": "n. 烟雾",
+    "smoke": "n. 烟 / v. 吸烟",
+    "smooth": "adj. 光滑的",
+    "snack": "n. 零食",
+    "snake": "n. 蛇",
+    "sneeze": "v. 打喷嚏",
+    "snow": "n. 雪 / v. 下雪",
+    "snowy": "adj. 下雪的",
+    "so": "adv. 如此",
+    "soccer": "n. 足球",
+    "social": "adj. 社会的",
+    "socialist": "adj. 社会主义的 / n. 社会主义者",
+    "society": "n. 社会",
+    "sock": "n. 袜子",
+    "sofa": "n. 沙发",
+    "soft": "adj. 柔软的",
+    "software": "n. 软件",
+    "soil": "n. 土壤",
+    "soldier": "n. 士兵",
+    "solid": "adj. 固体的 / n. 固体",
+    "solution": "n. 解决方案",
+    "solve": "v. 解决",
+    "somehow": "adv. 以某种方式",
+    "sometimes": "adv. 有时",
+    "somewhat": "adv. 有点",
+    "somewhere": "adv. 在某处",
+    "son": "n. 儿子",
+    "song": "n. 歌曲",
+    "soon": "adv. 很快",
+    "sore": "adj. 疼痛的",
+    "sorry": "adj. 抱歉的",
+    "sort": "n. 种类 / v. 分类",
+    "soul": "n. 灵魂",
+    "sound": "n. 声音 / v. 听起来",
+    "soup": "n. 汤",
+    "sour": "adj. 酸的",
+    "source": "n. 来源",
+    "south": "n. 南方 / adj. 南方的",
+    "southern": "adj. 南方的",
+    "sow": "v. 播种",
+    "space": "n. 空间",
+    "spare": "v. 抽出 / adj. 多余的",
+    "spark": "n. 火花",
+    "speak": "v. 说话",
+    "speaker": "n. 说话者，扬声器",
+    "special": "adj. 特别的",
+    "specialist": "n. 专家",
+    "specific": "adj. 具体的",
+    "speech": "n. 演讲",
+    "speed": "n. 速度 / v. 加速",
+    "spell": "v. 拼写",
+    "spend": "v. 花费",
+    "spin": "v. 旋转",
+    "spirit": "n. 精神",
+    "splendid": "adj. 极好的",
+    "split": "v. 分裂",
+    "spoken": "adj. 口头的",
+    "sponsor": "n. 赞助商 / v. 赞助",
+    "spoon": "n. 勺子",
+    "sport": "n. 运动",
+    "spot": "n. 地点 / v. 发现",
+    "spread": "v. 传播",
+    "spring": "n. 春天",
+    "spy": "n. 间谍",
+    "square": "n. 广场 / adj. 正方形的",
+    "stability": "n. 稳定性",
+    "stable": "adj. 稳定的",
+    "stadium": "n. 体育场",
+    "staff": "n. 员工",
+    "stage": "n. 舞台",
+    "stair": "n. 楼梯",
+    "stamp": "n. 邮票",
+    "stand": "v. 站立",
+    "standard": "n. 标准 / adj. 标准的",
+    "star": "n. 星星",
+    "stare": "v. 凝视",
+    "start": "v. 开始 / n. 开始",
+    "starve": "v. 挨饿",
+    "state": "n. 州，状态 / v. 陈述",
+    "statement": "n. 陈述",
+    "station": "n. 车站",
+    "statistic": "n. 统计数据",
+    "statue": "n. 雕像",
+    "status": "n. 地位，状态",
+    "stay": "v. 停留",
+    "steady": "adj. 稳定的",
+    "steak": "n. 牛排",
+    "steal": "v. 偷",
+    "steam": "n. 蒸汽",
+    "steel": "n. 钢",
+    "step": "n. 步骤 / v. 踏",
+    "stick": "v. 粘住 / n. 棍子",
+    "still": "adv. 仍然",
+    "stimulate": "v. 刺激",
+    "stomach": "n. 胃",
+    "stomachache": "n. 胃痛",
+    "stone": "n. 石头",
+    "stop": "v. 停止 / n. 车站",
+    "store": "n. 商店 / v. 储存",
+    "storm": "n. 暴风雨",
+    "story": "n. 故事",
+    "straight": "adj. 直的 / adv. 直接地",
+    "straightforward": "adj. 简单明了的",
+    "strait": "n. 海峡",
+    "strange": "adj. 奇怪的",
+    "stranger": "n. 陌生人",
+    "strategy": "n. 策略",
+    "strawberry": "n. 草莓",
+    "stream": "n. 小溪",
+    "street": "n. 街道",
+    "strength": "n. 力量",
+    "strengthen": "v. 加强",
+    "stress": "n. 压力 / v. 强调",
+    "stretch": "v. 伸展",
+    "strict": "adj. 严格的",
+    "strike": "v. 打击",
+    "string": "n. 绳子",
+    "strong": "adj. 强壮的",
+    "structure": "n. 结构",
+    "struggle": "v. 挣扎 / n. 斗争",
+    "student": "n. 学生",
+    "studio": "n. 工作室",
+    "study": "v. 学习 / n. 研究",
+    "stuff": "n. 东西",
+    "stupid": "adj. 愚蠢的",
+    "style": "n. 风格",
+    "subject": "n. 科目，主题",
+    "subjective": "adj. 主观的",
+    "submit": "v. 提交",
+    "subscribe": "v. 订阅",
+    "subsequent": "adj. 随后的",
+    "substance": "n. 物质",
+    "substantial": "adj. 大量的",
+    "suburb": "n. 郊区",
+    "subway": "n. 地铁",
+    "succeed": "v. 成功",
+    "success": "n. 成功",
+    "successful": "adj. 成功的",
+    "sudden": "adj. 突然的",
+    "suffer": "v. 遭受",
+    "sufficient": "adj. 足够的",
+    "sugar": "n. 糖",
+    "suggest": "v. 建议",
+    "suggestion": "n. 建议",
+    "suit": "n. 西装 / v. 适合",
+    "suitable": "adj. 合适的",
+    "sum": "n. 金额",
+    "summary": "n. 摘要",
+    "summer": "n. 夏天",
+    "sun": "n. 太阳",
+    "sunny": "adj. 晴朗的",
+    "super": "adj. 超级的",
+    "superb": "adj. 极好的",
+    "superior": "adj. 优越的",
+    "supermarket": "n. 超市",
+    "supply": "v. 供应 / n. 供应",
+    "support": "v. 支持 / n. 支持",
+    "suppose": "v. 认为，假设",
+    "sure": "adj. 确信的",
+    "surf": "v. 冲浪，上网",
+    "surface": "n. 表面",
+    "surgeon": "n. 外科医生",
+    "surgery": "n. 手术",
+    "surprise": "n. 惊喜 / v. 使惊讶",
+    "surround": "v. 包围",
+    "surrounding": "adj. 周围的",
+    "survey": "n. 调查 / v. 调查",
+    "survive": "v. 幸存",
+    "suspect": "v. 怀疑 / n. 嫌疑人",
+    "suspend": "v. 暂停",
+    "sustain": "v. 维持，遭受",
+    "sweat": "n. 汗水",
+    "sweater": "n. 毛衣",
+    "sweep": "v. 扫",
+    "sweet": "adj. 甜的",
+    "swim": "v. 游泳",
+    "swimming": "n. 游泳",
+    "swing": "v. 摇摆",
+    "switch": "n. 开关 / v. 转换",
+    "symbol": "n. 象征",
+    "sympathy": "n. 同情",
+    "symphony": "n. 交响乐",
+    "system": "n. 系统"
+  },
+  "POS": {
+    "sad": [
+      "adj"
+    ],
+    "safe": [
+      "adj",
+      "n"
+    ],
+    "safety": [
+      "n"
+    ],
+    "sail": [
+      "n",
+      "v"
+    ],
+    "salad": [
+      "n"
+    ],
+    "salary": [
+      "n"
+    ],
+    "sale": [
+      "n"
+    ],
+    "salesman": [
+      "n"
+    ],
+    "saleswoman": [
+      "n"
+    ],
+    "salt": [
+      "n"
+    ],
+    "salty": [
+      "adj"
+    ],
+    "same": [
+      "adj"
+    ],
+    "sample": [
+      "n",
+      "v"
+    ],
+    "sand": [
+      "n"
+    ],
+    "sandwich": [
+      "n"
+    ],
+    "satellite": [
+      "n"
+    ],
+    "satisfaction": [
+      "n"
+    ],
+    "satisfy": [
+      "v"
+    ],
+    "saucer": [
+      "n"
+    ],
+    "sausage": [
+      "n"
+    ],
+    "save": [
+      "v"
+    ],
+    "saving": [
+      "n"
+    ],
+    "say": [
+      "v"
+    ],
+    "saying": [
+      "n"
+    ],
+    "scare": [
+      "n",
+      "v"
+    ],
+    "scarf": [
+      "n"
+    ],
+    "scene": [
+      "n"
+    ],
+    "schedule": [
+      "n",
+      "v"
+    ],
+    "scholarship": [
+      "n"
+    ],
+    "school": [
+      "n"
+    ],
+    "schoolbag": [
+      "n"
+    ],
+    "science": [
+      "n"
+    ],
+    "scientific": [
+      "adj"
+    ],
+    "scientist": [
+      "n"
+    ],
+    "scissors": [
+      "n"
+    ],
+    "score": [
+      "n",
+      "v"
+    ],
+    "scream": [
+      "n",
+      "v"
+    ],
+    "screen": [
+      "n"
+    ],
+    "sculpture": [
+      "n"
+    ],
+    "sea": [
+      "n"
+    ],
+    "search": [
+      "n",
+      "v"
+    ],
+    "season": [
+      "n"
+    ],
+    "seat": [
+      "n",
+      "v"
+    ],
+    "second": [
+      "adj",
+      "n"
+    ],
+    "secondary": [
+      "adj"
+    ],
+    "secret": [
+      "adj",
+      "n"
+    ],
+    "secretary": [
+      "n"
+    ],
+    "section": [
+      "n"
+    ],
+    "secure": [
+      "adj",
+      "v"
+    ],
+    "security": [
+      "n"
+    ],
+    "see": [
+      "v"
+    ],
+    "seed": [
+      "n"
+    ],
+    "seek": [
+      "v"
+    ],
+    "seem": [
+      "v"
+    ],
+    "seize": [
+      "v"
+    ],
+    "seldom": [
+      "adv"
+    ],
+    "select": [
+      "v"
+    ],
+    "sell": [
+      "v"
+    ],
+    "send": [
+      "v"
+    ],
+    "senior": [
+      "adj",
+      "n"
+    ],
+    "sense": [
+      "n",
+      "v"
+    ],
+    "sensitive": [
+      "adj"
+    ],
+    "sentence": [
+      "n",
+      "v"
+    ],
+    "separate": [
+      "adj",
+      "v"
+    ],
+    "series": [
+      "n"
+    ],
+    "serious": [
+      "adj"
+    ],
+    "servant": [
+      "n"
+    ],
+    "serve": [
+      "v"
+    ],
+    "service": [
+      "n"
+    ],
+    "session": [
+      "n"
+    ],
+    "set": [
+      "n",
+      "v"
+    ],
+    "setting": [
+      "n"
+    ],
+    "settle": [
+      "v"
+    ],
+    "several": [
+      "adj"
+    ],
+    "severe": [
+      "adj"
+    ],
+    "sew": [
+      "v"
+    ],
+    "sex": [
+      "n"
+    ],
+    "shade": [
+      "n"
+    ],
+    "shadow": [
+      "n"
+    ],
+    "shake": [
+      "v"
+    ],
+    "shallow": [
+      "adj"
+    ],
+    "shame": [
+      "n"
+    ],
+    "shape": [
+      "n",
+      "v"
+    ],
+    "share": [
+      "n",
+      "v"
+    ],
+    "shark": [
+      "n"
+    ],
+    "sharp": [
+      "adj"
+    ],
+    "shave": [
+      "v"
+    ],
+    "sheep": [
+      "n"
+    ],
+    "sheet": [
+      "n"
+    ],
+    "shelf": [
+      "n"
+    ],
+    "shelter": [
+      "n",
+      "v"
+    ],
+    "shift": [
+      "n",
+      "v"
+    ],
+    "shine": [
+      "v"
+    ],
+    "ship": [
+      "n"
+    ],
+    "shirt": [
+      "n"
+    ],
+    "shock": [
+      "n",
+      "v"
+    ],
+    "shoe": [
+      "n"
+    ],
+    "shoot": [
+      "v"
+    ],
+    "shop": [
+      "n",
+      "v"
+    ],
+    "shore": [
+      "n"
+    ],
+    "short": [
+      "adj"
+    ],
+    "shortage": [
+      "n"
+    ],
+    "shorts": [
+      "n"
+    ],
+    "shoulder": [
+      "n"
+    ],
+    "shout": [
+      "v"
+    ],
+    "show": [
+      "n",
+      "v"
+    ],
+    "shower": [
+      "n"
+    ],
+    "shut": [
+      "v"
+    ],
+    "shy": [
+      "adj"
+    ],
+    "sick": [
+      "adj"
+    ],
+    "side": [
+      "n"
+    ],
+    "sight": [
+      "n"
+    ],
+    "sign": [
+      "n",
+      "v"
+    ],
+    "signal": [
+      "n",
+      "v"
+    ],
+    "significant": [
+      "adj"
+    ],
+    "silence": [
+      "n"
+    ],
+    "silent": [
+      "adj"
+    ],
+    "silk": [
+      "n"
+    ],
+    "silly": [
+      "adj"
+    ],
+    "silver": [
+      "n"
+    ],
+    "similar": [
+      "adj"
+    ],
+    "simple": [
+      "adj"
+    ],
+    "since": [
+      "adv"
+    ],
+    "sincerely": [
+      "adv"
+    ],
+    "sing": [
+      "v"
+    ],
+    "single": [
+      "adj"
+    ],
+    "sink": [
+      "v"
+    ],
+    "sir": [
+      "n"
+    ],
+    "sister": [
+      "n"
+    ],
+    "sit": [
+      "v"
+    ],
+    "site": [
+      "n"
+    ],
+    "situation": [
+      "n"
+    ],
+    "size": [
+      "n"
+    ],
+    "skate": [
+      "n",
+      "v"
+    ],
+    "skateboard": [
+      "n"
+    ],
+    "ski": [
+      "n",
+      "v"
+    ],
+    "skill": [
+      "n"
+    ],
+    "skin": [
+      "n"
+    ],
+    "skip": [
+      "v"
+    ],
+    "skirt": [
+      "n"
+    ],
+    "sky": [
+      "n"
+    ],
+    "sleep": [
+      "n",
+      "v"
+    ],
+    "sleepy": [
+      "adj"
+    ],
+    "slice": [
+      "n",
+      "v"
+    ],
+    "slide": [
+      "v"
+    ],
+    "slightly": [
+      "adv"
+    ],
+    "slim": [
+      "adj"
+    ],
+    "slip": [
+      "v"
+    ],
+    "slow": [
+      "adj"
+    ],
+    "small": [
+      "adj"
+    ],
+    "smart": [
+      "adj"
+    ],
+    "smell": [
+      "n",
+      "v"
+    ],
+    "smile": [
+      "n",
+      "v"
+    ],
+    "smog": [
+      "n"
+    ],
+    "smoke": [
+      "n",
+      "v"
+    ],
+    "smooth": [
+      "adj"
+    ],
+    "snack": [
+      "n"
+    ],
+    "snake": [
+      "n"
+    ],
+    "sneeze": [
+      "v"
+    ],
+    "snow": [
+      "n",
+      "v"
+    ],
+    "snowy": [
+      "adj"
+    ],
+    "so": [
+      "adv"
+    ],
+    "soccer": [
+      "n"
+    ],
+    "social": [
+      "adj"
+    ],
+    "socialist": [
+      "adj",
+      "n"
+    ],
+    "society": [
+      "n"
+    ],
+    "sock": [
+      "n"
+    ],
+    "sofa": [
+      "n"
+    ],
+    "soft": [
+      "adj"
+    ],
+    "software": [
+      "n"
+    ],
+    "soil": [
+      "n"
+    ],
+    "soldier": [
+      "n"
+    ],
+    "solid": [
+      "adj",
+      "n"
+    ],
+    "solution": [
+      "n"
+    ],
+    "solve": [
+      "v"
+    ],
+    "somehow": [
+      "adv"
+    ],
+    "sometimes": [
+      "adv"
+    ],
+    "somewhat": [
+      "adv"
+    ],
+    "somewhere": [
+      "adv"
+    ],
+    "son": [
+      "n"
+    ],
+    "song": [
+      "n"
+    ],
+    "soon": [
+      "adv"
+    ],
+    "sore": [
+      "adj"
+    ],
+    "sorry": [
+      "adj"
+    ],
+    "sort": [
+      "n",
+      "v"
+    ],
+    "soul": [
+      "n"
+    ],
+    "sound": [
+      "n",
+      "v"
+    ],
+    "soup": [
+      "n"
+    ],
+    "sour": [
+      "adj"
+    ],
+    "source": [
+      "n"
+    ],
+    "south": [
+      "adj",
+      "n"
+    ],
+    "southern": [
+      "adj"
+    ],
+    "sow": [
+      "v"
+    ],
+    "space": [
+      "n"
+    ],
+    "spare": [
+      "adj",
+      "v"
+    ],
+    "spark": [
+      "n"
+    ],
+    "speak": [
+      "v"
+    ],
+    "speaker": [
+      "n"
+    ],
+    "special": [
+      "adj"
+    ],
+    "specialist": [
+      "n"
+    ],
+    "specific": [
+      "adj"
+    ],
+    "speech": [
+      "n"
+    ],
+    "speed": [
+      "n",
+      "v"
+    ],
+    "spell": [
+      "v"
+    ],
+    "spend": [
+      "v"
+    ],
+    "spin": [
+      "v"
+    ],
+    "spirit": [
+      "n"
+    ],
+    "splendid": [
+      "adj"
+    ],
+    "split": [
+      "v"
+    ],
+    "spoken": [
+      "adj"
+    ],
+    "sponsor": [
+      "n",
+      "v"
+    ],
+    "spoon": [
+      "n"
+    ],
+    "sport": [
+      "n"
+    ],
+    "spot": [
+      "n",
+      "v"
+    ],
+    "spread": [
+      "v"
+    ],
+    "spring": [
+      "n"
+    ],
+    "spy": [
+      "n"
+    ],
+    "square": [
+      "adj",
+      "n"
+    ],
+    "stability": [
+      "n"
+    ],
+    "stable": [
+      "adj"
+    ],
+    "stadium": [
+      "n"
+    ],
+    "staff": [
+      "n"
+    ],
+    "stage": [
+      "n"
+    ],
+    "stair": [
+      "n"
+    ],
+    "stamp": [
+      "n"
+    ],
+    "stand": [
+      "v"
+    ],
+    "standard": [
+      "adj",
+      "n"
+    ],
+    "star": [
+      "n"
+    ],
+    "stare": [
+      "v"
+    ],
+    "start": [
+      "n",
+      "v"
+    ],
+    "starve": [
+      "v"
+    ],
+    "state": [
+      "n",
+      "v"
+    ],
+    "statement": [
+      "n"
+    ],
+    "station": [
+      "n"
+    ],
+    "statistic": [
+      "n"
+    ],
+    "statue": [
+      "n"
+    ],
+    "status": [
+      "n"
+    ],
+    "stay": [
+      "v"
+    ],
+    "steady": [
+      "adj"
+    ],
+    "steak": [
+      "n"
+    ],
+    "steal": [
+      "v"
+    ],
+    "steam": [
+      "n"
+    ],
+    "steel": [
+      "n"
+    ],
+    "step": [
+      "n",
+      "v"
+    ],
+    "stick": [
+      "n",
+      "v"
+    ],
+    "still": [
+      "adv"
+    ],
+    "stimulate": [
+      "v"
+    ],
+    "stomach": [
+      "n"
+    ],
+    "stomachache": [
+      "n"
+    ],
+    "stone": [
+      "n"
+    ],
+    "stop": [
+      "n",
+      "v"
+    ],
+    "store": [
+      "n",
+      "v"
+    ],
+    "storm": [
+      "n"
+    ],
+    "story": [
+      "n"
+    ],
+    "straight": [
+      "adj",
+      "adv"
+    ],
+    "straightforward": [
+      "adj"
+    ],
+    "strait": [
+      "n"
+    ],
+    "strange": [
+      "adj"
+    ],
+    "stranger": [
+      "n"
+    ],
+    "strategy": [
+      "n"
+    ],
+    "strawberry": [
+      "n"
+    ],
+    "stream": [
+      "n"
+    ],
+    "street": [
+      "n"
+    ],
+    "strength": [
+      "n"
+    ],
+    "strengthen": [
+      "v"
+    ],
+    "stress": [
+      "n",
+      "v"
+    ],
+    "stretch": [
+      "v"
+    ],
+    "strict": [
+      "adj"
+    ],
+    "strike": [
+      "v"
+    ],
+    "string": [
+      "n"
+    ],
+    "strong": [
+      "adj"
+    ],
+    "structure": [
+      "n"
+    ],
+    "struggle": [
+      "n",
+      "v"
+    ],
+    "student": [
+      "n"
+    ],
+    "studio": [
+      "n"
+    ],
+    "study": [
+      "n",
+      "v"
+    ],
+    "stuff": [
+      "n"
+    ],
+    "stupid": [
+      "adj"
+    ],
+    "style": [
+      "n"
+    ],
+    "subject": [
+      "n"
+    ],
+    "subjective": [
+      "adj"
+    ],
+    "submit": [
+      "v"
+    ],
+    "subscribe": [
+      "v"
+    ],
+    "subsequent": [
+      "adj"
+    ],
+    "substance": [
+      "n"
+    ],
+    "substantial": [
+      "adj"
+    ],
+    "suburb": [
+      "n"
+    ],
+    "subway": [
+      "n"
+    ],
+    "succeed": [
+      "v"
+    ],
+    "success": [
+      "n"
+    ],
+    "successful": [
+      "adj"
+    ],
+    "sudden": [
+      "adj"
+    ],
+    "suffer": [
+      "v"
+    ],
+    "sufficient": [
+      "adj"
+    ],
+    "sugar": [
+      "n"
+    ],
+    "suggest": [
+      "v"
+    ],
+    "suggestion": [
+      "n"
+    ],
+    "suit": [
+      "n",
+      "v"
+    ],
+    "suitable": [
+      "adj"
+    ],
+    "sum": [
+      "n"
+    ],
+    "summary": [
+      "n"
+    ],
+    "summer": [
+      "n"
+    ],
+    "sun": [
+      "n"
+    ],
+    "sunny": [
+      "adj"
+    ],
+    "super": [
+      "adj"
+    ],
+    "superb": [
+      "adj"
+    ],
+    "superior": [
+      "adj"
+    ],
+    "supermarket": [
+      "n"
+    ],
+    "supply": [
+      "n",
+      "v"
+    ],
+    "support": [
+      "n",
+      "v"
+    ],
+    "suppose": [
+      "v"
+    ],
+    "sure": [
+      "adj"
+    ],
+    "surf": [
+      "v"
+    ],
+    "surface": [
+      "n"
+    ],
+    "surgeon": [
+      "n"
+    ],
+    "surgery": [
+      "n"
+    ],
+    "surprise": [
+      "n",
+      "v"
+    ],
+    "surround": [
+      "v"
+    ],
+    "surrounding": [
+      "adj"
+    ],
+    "survey": [
+      "n",
+      "v"
+    ],
+    "survive": [
+      "v"
+    ],
+    "suspect": [
+      "n",
+      "v"
+    ],
+    "suspend": [
+      "v"
+    ],
+    "sustain": [
+      "v"
+    ],
+    "sweat": [
+      "n"
+    ],
+    "sweater": [
+      "n"
+    ],
+    "sweep": [
+      "v"
+    ],
+    "sweet": [
+      "adj"
+    ],
+    "swim": [
+      "v"
+    ],
+    "swimming": [
+      "n"
+    ],
+    "swing": [
+      "v"
+    ],
+    "switch": [
+      "n",
+      "v"
+    ],
+    "symbol": [
+      "n"
+    ],
+    "sympathy": [
+      "n"
+    ],
+    "symphony": [
+      "n"
+    ],
+    "system": [
+      "n"
+    ]
+  }
+}

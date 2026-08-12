@@ -1,0 +1,877 @@
+[
+  {
+    "q": "The factory installed a new <span class='blank'>_____</span> that can assemble parts twice as fast.",
+    "answer": "machine",
+    "explain": "machine n. 机器",
+    "translation": "工厂安装了一台新<strong>机器</strong>，组装零件的速度能提高一倍。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The dog went <span class='blank'>_____</span> and started chasing its own tail in circles.",
+    "answer": "mad",
+    "explain": "mad adj. 疯狂的",
+    "translation": "那只狗变得<strong>疯狂</strong>，开始转着圈追自己的尾巴。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The waiter politely asked, 'Would you like dessert, <span class='blank'>_____</span>?'",
+    "answer": "madam",
+    "explain": "madam n. 女士，夫人",
+    "translation": "服务员礼貌地问道：'<strong>女士</strong>，您想要甜点吗？'",
+    "pool": "BASE"
+  },
+  {
+    "q": "She subscribes to a monthly fashion <span class='blank'>_____</span> that covers the latest trends.",
+    "answer": "magazine",
+    "explain": "magazine n. 杂志",
+    "translation": "她订阅了一本每月出版的时尚<strong>杂志</strong>，报道最新潮流。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The children were convinced that the old tree had some kind of <span class='blank'>_____</span> power.",
+    "answer": "magic",
+    "explain": "magic n/adj. 魔法 / 有魔力的",
+    "translation": "孩子们坚信那棵老树有某种<strong>魔法</strong>力量。",
+    "pool": "BASE"
+  },
+  {
+    "q": "I <span class='blank'>_____</span> the package yesterday, so it should arrive by Thursday.",
+    "answer": "mailed",
+    "explain": "mail v. 邮寄",
+    "translation": "我昨天把包裹<strong>寄</strong>出去了，所以应该周四就能到。",
+    "pool": "PAST"
+  },
+  {
+    "q": "The <span class='blank'>_____</span> reason for his success is his willingness to work harder than anyone else.",
+    "answer": "main",
+    "explain": "main adj. 主要的",
+    "translation": "他成功的<strong>主要</strong>原因是他比任何人都更愿意努力。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The engineer regularly <span class='blank'>_____</span> the equipment to ensure it runs smoothly.",
+    "answer": "maintains",
+    "explain": "maintain v. 维持，维护",
+    "translation": "工程师定期<strong>维护</strong>设备，以确保其平稳运行。",
+    "pool": "THIRD"
+  },
+  {
+    "q": "She <span class='blank'>_____</span> in computer science and hopes to work in artificial intelligence.",
+    "answer": "majors",
+    "explain": "major v. 主修",
+    "translation": "她<strong>主修</strong>计算机科学，希望能在人工智能领域工作。",
+    "pool": "THIRD"
+  },
+  {
+    "q": "The <span class='blank'>_____</span> of the committee voted in favor of the new proposal.",
+    "answer": "majority",
+    "explain": "majority n. 大多数",
+    "translation": "委员会的<strong>大多数</strong>成员投票支持这项新提案。",
+    "pool": "BASE"
+  },
+  {
+    "q": "She <span class='blank'>_____</span> a delicious chocolate cake for her daughter's birthday party.",
+    "answer": "made",
+    "explain": "make v. 制造，使",
+    "translation": "她为女儿的生日派对<strong>做了</strong>一个美味的巧克力蛋糕。",
+    "pool": "PAST"
+  },
+  {
+    "q": "The zoo just welcomed a baby <span class='blank'>_____</span> elephant, weighing over two hundred pounds.",
+    "answer": "male",
+    "explain": "male adj/n. 男性 / 男性的",
+    "translation": "动物园刚迎来一头<strong>雄性</strong>小象，体重超过两百磅。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The young <span class='blank'>_____</span> saved the child from the burning building without hesitation.",
+    "answer": "man",
+    "explain": "man n. 男人，人",
+    "translation": "那位年轻<strong>男子</strong>毫不犹豫地救出了那名被困在着火大楼里的孩子。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Despite the heavy traffic, we <span class='blank'>_____</span> to arrive at the airport just in time.",
+    "answer": "managed",
+    "explain": "manage v. 管理，设法",
+    "translation": "尽管交通很拥堵，我们还是<strong>设法</strong>及时赶到了机场。",
+    "pool": "PAST"
+  },
+  {
+    "q": "The store <span class='blank'>_____</span> offered a full refund when the customer complained about the defective product.",
+    "answer": "manager",
+    "explain": "manager n. 经理",
+    "translation": "当顾客投诉产品有缺陷时，商店<strong>经理</strong>提供了全额退款。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The discovery of fire was one of the most important milestones in the history of <span class='blank'>_____</span>.",
+    "answer": "mankind",
+    "explain": "mankind n. 人类",
+    "translation": "火的发现是<strong>人类</strong>历史上最重要的里程碑之一。",
+    "pool": "BASE"
+  },
+  {
+    "q": "His polite <span class='blank'>_____</span> made a strong impression on everyone at the formal dinner.",
+    "answer": "manner",
+    "explain": "manner n. 方式，举止",
+    "translation": "他彬彬有礼的<strong>举止</strong>在正式晚宴上给所有人留下了深刻印象。",
+    "pool": "BASE"
+  },
+  {
+    "q": "There are so <span class='blank'>_____</span> interesting books in this library that I never know which one to pick.",
+    "answer": "many",
+    "explain": "many adj. 许多的",
+    "translation": "这家图书馆里有<strong>太多</strong>有趣的书，我总是不知道该选哪一本。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Tourists should carry a detailed <span class='blank'>_____</span> when hiking through unfamiliar mountain trails.",
+    "answer": "map",
+    "explain": "map n. 地图",
+    "translation": "游客在不熟悉的山路上徒步时应该携带一张详细的<strong>地图</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Running a full <span class='blank'>_____</span> requires months of training and strong mental endurance.",
+    "answer": "marathon",
+    "explain": "marathon n. 马拉松",
+    "translation": "跑一场完整的<strong>马拉松</strong>需要数月的训练和坚强的心理耐力。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The teacher always <span class='blank'>_____</span> important dates on the calendar with a red pen.",
+    "answer": "marks",
+    "explain": "mark v. 做标记",
+    "translation": "老师总是用红笔在日历上<strong>标记</strong>重要的日期。",
+    "pool": "THIRD"
+  },
+  {
+    "q": "The local farmers' <span class='blank'>_____</span> opens every Saturday morning with fresh organic produce.",
+    "answer": "market",
+    "explain": "market n. 市场",
+    "translation": "当地的农产品<strong>市场</strong>每周六早晨开放，售卖新鲜的有机产品。",
+    "pool": "BASE"
+  },
+  {
+    "q": "After twenty years of <span class='blank'>_____</span>, they still celebrated their anniversary with a romantic dinner.",
+    "answer": "marriage",
+    "explain": "marriage n. 婚姻",
+    "translation": "结婚二十年后，他们仍然以一顿浪漫的晚餐来庆祝<strong>婚姻</strong>纪念日。",
+    "pool": "BASE"
+  },
+  {
+    "q": "He <span class='blank'>_____</span> his college sweetheart in a beautiful outdoor ceremony last summer.",
+    "answer": "marries",
+    "explain": "marry v. 结婚",
+    "translation": "他去年夏天在一场美丽的户外仪式上<strong>娶</strong>了他的大学恋人。",
+    "pool": "THIRD"
+  },
+  {
+    "q": "A <span class='blank'>_____</span> of people gathered in the square to watch the fireworks display.",
+    "answer": "mass",
+    "explain": "mass n. 大量",
+    "translation": "<strong>大量</strong>人群聚集在广场观看烟花表演。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The construction project required a <span class='blank'>_____</span> amount of concrete and steel.",
+    "answer": "massive",
+    "explain": "massive adj. 巨大的，大量的",
+    "translation": "这个建设项目需要<strong>大量的</strong>混凝土和钢材。",
+    "pool": "BASE"
+  },
+  {
+    "q": "It takes years of practice to truly <span class='blank'>_____</span> the art of playing the violin.",
+    "answer": "master",
+    "explain": "master v. 掌握",
+    "translation": "真正<strong>掌握</strong>拉小提琴的艺术需要多年的练习。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The color of her scarf perfectly <span class='blank'>_____</span> the shade of her shoes.",
+    "answer": "matches",
+    "explain": "match v. 匹配",
+    "translation": "她围巾的颜色与鞋子的色调完美<strong>匹配</strong>。",
+    "pool": "THIRD"
+  },
+  {
+    "q": "The designer chose a soft cotton <span class='blank'>_____</span> for the summer dress collection.",
+    "answer": "material",
+    "explain": "material n. 材料",
+    "translation": "设计师为夏季连衣裙系列选择了一种柔软的棉<strong>材料</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Students who excel in <span class='blank'>_____</span> often have strong logical reasoning abilities.",
+    "answer": "maths",
+    "explain": "maths n. 数学",
+    "translation": "在<strong>数学</strong>方面出色的学生通常具有很强的逻辑推理能力。",
+    "pool": "BASE"
+  },
+  {
+    "q": "It <span class='blank'>_____</span> a great deal to her that her parents attended her graduation ceremony.",
+    "answer": "matters",
+    "explain": "matter v. 要紧",
+    "translation": "父母出席她的毕业典礼对她来说非常<strong>重要</strong>。",
+    "pool": "THIRD"
+  },
+  {
+    "q": "The wine needs to age for several years before it reaches its fully <span class='blank'>_____</span> flavor.",
+    "answer": "mature",
+    "explain": "mature adj. 成熟的",
+    "translation": "这款葡萄酒需要陈酿数年才能达到完全<strong>成熟</strong>的风味。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The elevator has a <span class='blank'>_____</span> capacity of fifteen people for safety reasons.",
+    "answer": "maximum",
+    "explain": "maximum n/adj. 最大值 / 最大的",
+    "translation": "出于安全考虑，电梯的<strong>最大</strong>载客量为十五人。",
+    "pool": "BASE"
+  },
+  {
+    "q": "<span class='blank'>_____</span> we should leave earlier to avoid the rush hour traffic on the highway.",
+    "answer": "maybe",
+    "explain": "maybe adv. 也许",
+    "translation": "<strong>也许</strong>我们应该早点出发，以避开高速公路的拥堵时段。",
+    "pool": "BASE"
+  },
+  {
+    "q": "A balanced <span class='blank'>_____</span> should include vegetables, protein, and some carbohydrates.",
+    "answer": "meal",
+    "explain": "meal n. 一餐，饭",
+    "translation": "一顿均衡的<strong>餐食</strong>应该包含蔬菜、蛋白质和一些碳水化合物。",
+    "pool": "BASE"
+  },
+  {
+    "q": "This symbol <span class='blank'>_____</span> 'danger' in almost every country around the world.",
+    "answer": "means",
+    "explain": "mean v. 意思是",
+    "translation": "这个符号在几乎全世界每个国家都<strong>意味着</strong>危险。",
+    "pool": "THIRD"
+  },
+  {
+    "q": "The <span class='blank'>_____</span> of this ancient poem has been debated by scholars for centuries.",
+    "answer": "meaning",
+    "explain": "meaning n. 意思，含义",
+    "translation": "这首古诗的<strong>含义</strong>已经被学者们争论了几个世纪。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The organization helps people find legal <span class='blank'>_____</span> to resolve their disputes peacefully.",
+    "answer": "means",
+    "explain": "means n. 方法，手段",
+    "translation": "该组织帮助人们寻找合法的<strong>手段</strong>来和平解决他们的纠纷。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The architect carefully <span class='blank'>_____</span> every wall before ordering the construction materials.",
+    "answer": "measured",
+    "explain": "measure v. 测量",
+    "translation": "建筑师在订购建筑材料之前仔细<strong>测量</strong>了每一面墙。",
+    "pool": "PAST"
+  },
+  {
+    "q": "The recipe calls for lean <span class='blank'>_____</span> instead of fatty pork for a healthier option.",
+    "answer": "meat",
+    "explain": "meat n. 肉",
+    "translation": "这道菜谱要求使用瘦肉而不是肥猪肉，以作为更健康的选择。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The skilled <span class='blank'>_____</span> diagnosed the engine problem in less than thirty minutes.",
+    "answer": "mechanic",
+    "explain": "mechanic n. 技工，机械师",
+    "translation": "那位熟练的<strong>机械师</strong>在不到三十分钟内就诊断出了发动机问题。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The athlete proudly wore the gold <span class='blank'>_____</span> around her neck during the victory ceremony.",
+    "answer": "medal",
+    "explain": "medal n. 奖章，勋章",
+    "translation": "在颁奖典礼上，这位运动员骄傲地将金<strong>奖牌</strong>挂在脖子上。",
+    "pool": "BASE"
+  },
+  {
+    "q": "All new employees must pass a <span class='blank'>_____</span> examination before they can start working.",
+    "answer": "medical",
+    "explain": "medical adj. 医学的",
+    "translation": "所有新员工在开始工作之前都必须通过<strong>医学</strong>体检。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Advances in modern <span class='blank'>_____</span> have significantly increased the average human lifespan.",
+    "answer": "medicine",
+    "explain": "medicine n. 药，医学",
+    "translation": "现代<strong>医学</strong>的进步显著提高了人类的平均寿命。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The artist chose oil paint as his preferred <span class='blank'>_____</span> for the landscape portrait.",
+    "answer": "medium",
+    "explain": "medium n. 媒体",
+    "translation": "艺术家选择油画颜料作为风景肖像的首选<strong>媒介</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "We first <span class='blank'>_____</span> at a conference in Chicago about three years ago.",
+    "answer": "met",
+    "explain": "meet v. 遇见",
+    "translation": "我们大约三年前在芝加哥的一次会议上第一次<strong>见面</strong>。",
+    "pool": "PAST"
+  },
+  {
+    "q": "The weekly team <span class='blank'>_____</span> usually lasts about forty-five minutes and covers project updates.",
+    "answer": "meeting",
+    "explain": "meeting n. 会议",
+    "translation": "每周的团队<strong>会议</strong>通常持续约四十五分钟，讨论项目进展。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Every active <span class='blank'>_____</span> of the club has the right to vote on important decisions.",
+    "answer": "member",
+    "explain": "member n. 成员",
+    "translation": "俱乐部的每一位活跃<strong>成员</strong>都有权对重要决定进行投票。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The gym offers a discounted annual <span class='blank'>_____</span> for students and senior citizens.",
+    "answer": "membership",
+    "explain": "membership n. 会员资格",
+    "translation": "健身房为学生和老年人提供折扣年度<strong>会员资格</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The city built a beautiful <span class='blank'>_____</span> to honor the soldiers who died in the war.",
+    "answer": "memorial",
+    "explain": "memorial n. 纪念碑",
+    "translation": "这座城市建造了一座美丽的<strong>纪念碑</strong>，以纪念战争中牺牲的士兵。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The old photograph brought back a vivid <span class='blank'>_____</span> of my childhood summers at the beach.",
+    "answer": "memory",
+    "explain": "memory n. 记忆",
+    "translation": "这张老照片唤起了我对童年在海滩度过夏天的生动<strong>记忆</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Regular exercise has been proven to improve both physical and <span class='blank'>_____</span> health.",
+    "answer": "mental",
+    "explain": "mental adj. 精神的，心理的",
+    "translation": "定期锻炼已被证明能改善身体<strong>和心理健康</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "She never <span class='blank'>_____</span> her previous work experience during the interview.",
+    "answer": "mentions",
+    "explain": "mention v. 提到",
+    "translation": "她在面试中从未<strong>提及</strong>她之前的工作经验。",
+    "pool": "THIRD"
+  },
+  {
+    "q": "The restaurant's seasonal <span class='blank'>_____</span> features dishes made with locally sourced ingredients.",
+    "answer": "menu",
+    "explain": "menu n. 菜单",
+    "translation": "这家餐厅的时令<strong>菜单</strong>以当地采购的食材制作的菜肴为特色。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The king showed <span class='blank'>_____</span> to the prisoners and allowed them to return home safely.",
+    "answer": "mercy",
+    "explain": "mercy n. 仁慈，怜悯",
+    "translation": "国王对囚犯表现出<strong>仁慈</strong>，允许他们安全返回家乡。",
+    "pool": "BASE"
+  },
+  {
+    "q": "He was <span class='blank'>_____</span> trying to help when he accidentally broke the antique vase.",
+    "answer": "merely",
+    "explain": "merely adv. 仅仅，只不过",
+    "translation": "他<strong>只是</strong>想帮忙，却不小心打碎了那个古董花瓶。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Everyone sang <span class='blank'>_____</span> Christmas carols as they gathered around the decorated tree.",
+    "answer": "merry",
+    "explain": "merry adj. 快乐的",
+    "translation": "大家围坐在装饰好的圣诞树旁，唱着<strong>快乐的</strong>圣诞颂歌。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The kitchen was a complete <span class='blank'>_____</span> after the children tried to bake cookies by themselves.",
+    "answer": "mess",
+    "explain": "mess n. 混乱",
+    "translation": "孩子们尝试自己做饼干后，厨房变得一片<strong>混乱</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Please leave a detailed <span class='blank'>_____</span> if I do not answer the phone right away.",
+    "answer": "message",
+    "explain": "message n. 信息",
+    "translation": "如果我没有立即接听电话，请留下详细的<strong>信息</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The bridge was reinforced with strong steel <span class='blank'>_____</span> to withstand heavy loads.",
+    "answer": "metal",
+    "explain": "metal n. 金属",
+    "translation": "这座桥用坚固的钢<strong>金属</strong>加固，以承受重载。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The scientist developed a new <span class='blank'>_____</span> for detecting early signs of the disease.",
+    "answer": "method",
+    "explain": "method n. 方法",
+    "translation": "这位科学家开发了一种<strong>新方法</strong>来检测疾病的早期迹象。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The swimming pool is exactly fifty <span class='blank'>_____</span> long, which is standard for Olympic competitions.",
+    "answer": "metre",
+    "explain": "metre n. 米，公尺",
+    "translation": "游泳池正好五十<strong>米</strong>长，这是奥林匹克比赛的标准长度。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Students used a powerful <span class='blank'>_____</span> to examine the tiny organisms in the water sample.",
+    "answer": "microscope",
+    "explain": "microscope n. 显微镜",
+    "translation": "学生们使用高倍<strong>显微镜</strong>来观察水样中的微小生物。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The teacher asked the student sitting in the <span class='blank'>_____</span> of the room to answer the question.",
+    "answer": "middle",
+    "explain": "middle n. 中间",
+    "translation": "老师让坐在房间<strong>中间</strong>的学生回答这个问题。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The New Year's celebration began exactly at <span class='blank'>_____</span> with fireworks and loud cheers.",
+    "answer": "midnight",
+    "explain": "midnight n. 午夜",
+    "translation": "新年庆祝活动在<strong>午夜</strong>准时开始，伴随着烟花和欢呼声。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The ancient castle was built to demonstrate the king's military <span class='blank'>_____</span> to neighboring nations.",
+    "answer": "might",
+    "explain": "might n. 力量",
+    "translation": "这座古堡的建造是为了向邻国展示国王的军事<strong>力量</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The doctor said it was only a <span class='blank'>_____</span> infection and should clear up within a few days.",
+    "answer": "mild",
+    "explain": "mild adj. 温和的，轻微的",
+    "translation": "医生说这只是<strong>轻微</strong>感染，几天内就会痊愈。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The nearest gas station is about five <span class='blank'>_____</span> down the road, so we should stop soon.",
+    "answer": "mile",
+    "explain": "mile n. 英里",
+    "translation": "最近的加油站大约在沿路五<strong>英里</strong>处，所以我们应该尽快停下来。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The country's <span class='blank'>_____</span> forces were deployed to assist with the disaster relief efforts.",
+    "answer": "military",
+    "explain": "military adj. 军事的",
+    "translation": "该国的<strong>军事</strong>力量被部署来协助救灾工作。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The farmer woke up early every morning to <span class='blank'>_____</span> the cows before sunrise.",
+    "answer": "milk",
+    "explain": "milk v. 挤奶",
+    "translation": "农民每天黎明前起床给奶牛<strong>挤奶</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The difference between the two measurements was only a few <span class='blank'>_____</span>, so they were essentially the same.",
+    "answer": "millimetre",
+    "explain": "millimetre n. 毫米",
+    "translation": "两次测量之间的差异只有几<strong>毫米</strong>，所以它们本质上是相同的。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The lottery jackpot reached over fifty <span class='blank'>_____</span> dollars, attracting millions of ticket buyers.",
+    "answer": "million",
+    "explain": "million n. 百万",
+    "translation": "彩票头奖达到了五千多<strong>百万</strong>美元，吸引了数百万购票者。",
+    "pool": "BASE"
+  },
+  {
+    "q": "She never <span class='blank'>_____</span> the long commute because she enjoys listening to audiobooks in the car.",
+    "answer": "minds",
+    "explain": "mind v. 介意",
+    "translation": "她从不<strong>介意</strong>漫长的通勤，因为她喜欢在车里听有声书。",
+    "pool": "THIRD"
+  },
+  {
+    "q": "The coal <span class='blank'>_____</span> was closed down last year due to safety concerns and low demand.",
+    "answer": "mine",
+    "explain": "mine n. 矿",
+    "translation": "由于安全问题和需求低迷，这座煤<strong>矿</strong>于去年关闭。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Water from natural springs often contains important <span class='blank'>_____</span> that are beneficial for health.",
+    "answer": "mineral",
+    "explain": "mineral n. 矿物",
+    "translation": "天然泉水通常含有对健康有益的重要<strong>矿物质</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The restaurant requires a <span class='blank'>_____</span> order of twenty dollars for home delivery service.",
+    "answer": "minimum",
+    "explain": "minimum n/adj. 最小值 / 最小的",
+    "translation": "这家餐厅要求外卖订单的<strong>最低</strong>金额为二十美元。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The foreign <span class='blank'>_____</span> traveled to Geneva to participate in the peace negotiations.",
+    "answer": "minister",
+    "explain": "minister n. 部长，大臣，牧师",
+    "translation": "外交<strong>部长</strong>前往日内瓦参加和平谈判。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The accident caused only <span class='blank'>_____</span> damage to the car, so it was easily repaired.",
+    "answer": "minor",
+    "explain": "minor adj. 较小的",
+    "translation": "事故只给汽车造成了<strong>轻微</strong>损坏，所以很容易修复。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Only a small <span class='blank'>_____</span> of the shareholders voted against the proposed merger.",
+    "answer": "minority",
+    "explain": "minority n. 少数，少数民族",
+    "translation": "只有<strong>少数</strong>股东投票反对拟议的合并。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Wait just a <span class='blank'>_____</span> while I grab my keys from the kitchen counter.",
+    "answer": "minute",
+    "explain": "minute n. 分钟",
+    "translation": "请等一<strong>分钟</strong>，我去厨房台面上拿钥匙。",
+    "pool": "BASE"
+  },
+  {
+    "q": "She looked at her reflection in the bathroom <span class='blank'>_____</span> before leaving for the interview.",
+    "answer": "mirror",
+    "explain": "mirror n. 镜子",
+    "translation": "她在去面试前看了看浴室<strong>镜子</strong>里的自己。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The bus always <span class='blank'>_____</span> the old stop because the route was changed last month.",
+    "answer": "misses",
+    "explain": "miss v. 错过",
+    "translation": "这辆公交车总是<strong>错过</strong>老车站，因为路线已于上个月更改。",
+    "pool": "THIRD"
+  },
+  {
+    "q": "The defense system is designed to intercept incoming <span class='blank'>_____</span> before they reach their targets.",
+    "answer": "missile",
+    "explain": "missile n. 导弹",
+    "translation": "该防御系统旨在拦截来袭的<strong>导弹</strong>，使其无法到达目标。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The police are searching for a <span class='blank'>_____</span> teenager who disappeared three days ago.",
+    "answer": "missing",
+    "explain": "missing adj. 失踪的，缺少的",
+    "translation": "警方正在寻找一名三天前失踪的<strong>失踪</strong>青少年。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The astronaut described his <span class='blank'>_____</span> to the space station as the greatest adventure of his life.",
+    "answer": "mission",
+    "explain": "mission n. 任务，使命",
+    "translation": "宇航员将前往空间站的<strong>任务</strong>描述为他生命中最伟大的冒险。",
+    "pool": "BASE"
+  },
+  {
+    "q": "A thick <span class='blank'>_____</span> rolled in from the ocean and covered the coastal town by dawn.",
+    "answer": "mist",
+    "explain": "mist n. 薄雾",
+    "translation": "浓<strong>雾</strong>从海面飘来，到黎明时已经笼罩了沿海小镇。",
+    "pool": "BASE"
+  },
+  {
+    "q": "It was a costly <span class='blank'>_____</span> to invest in the company without doing proper research first.",
+    "answer": "mistake",
+    "explain": "mistake n. 错误",
+    "translation": "在没有进行适当调查的情况下投资这家公司是一个代价高昂的<strong>错误</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The chef carefully <span class='blank'>_____</span> the ingredients before putting the dish in the oven.",
+    "answer": "mixes",
+    "explain": "mix v. 混合",
+    "translation": "厨师小心地将原料<strong>混合</strong>在一起，然后把菜放入烤箱。",
+    "pool": "THIRD"
+  },
+  {
+    "q": "The cake batter should have a smooth <span class='blank'>_____</span> without any lumps of flour.",
+    "answer": "mixture",
+    "explain": "mixture n. 混合物",
+    "translation": "蛋糕面糊应该是光滑的<strong>混合物</strong>，没有任何面粉结块。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Please switch the phone to silent <span class='blank'>_____</span> before entering the concert hall.",
+    "answer": "mode",
+    "explain": "mode n. 模式",
+    "translation": "进入音乐厅前，请将手机切换到静音<strong>模式</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "She <span class='blank'>_____</span> for a well-known fashion brand during Paris Fashion Week.",
+    "answer": "models",
+    "explain": "model v. 做模特",
+    "translation": "她在巴黎时装周期间为一家知名时尚品牌<strong>做模特</strong>。",
+    "pool": "THIRD"
+  },
+  {
+    "q": "The museum combines <span class='blank'>_____</span> architecture with traditional design elements from the region.",
+    "answer": "modern",
+    "explain": "modern adj. 现代的",
+    "translation": "这座博物馆将<strong>现代</strong>建筑与该地区的传统设计元素相结合。",
+    "pool": "BASE"
+  },
+  {
+    "q": "At that exact <span class='blank'>_____</span>, the lights went out and the entire room fell into darkness.",
+    "answer": "moment",
+    "explain": "moment n. 时刻，瞬间",
+    "translation": "就在那一<strong>刻</strong>，灯熄灭了，整个房间陷入黑暗。",
+    "pool": "BASE"
+  },
+  {
+    "q": "He saved enough <span class='blank'>_____</span> over five years to finally buy his own apartment.",
+    "answer": "money",
+    "explain": "money n. 钱",
+    "translation": "他五年里攒够了<strong>钱</strong>，终于买下了自己的公寓。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The nurse <span class='blank'>_____</span> the patient's heart rate continuously throughout the night.",
+    "answer": "monitors",
+    "explain": "monitor v. 监控",
+    "translation": "护士整夜持续<strong>监控</strong>病人的心率。",
+    "pool": "THIRD"
+  },
+  {
+    "q": "A clever <span class='blank'>_____</span> managed to open the cage door and escape into the nearby forest.",
+    "answer": "monkey",
+    "explain": "monkey n. 猴子",
+    "translation": "一只聪明的<strong>猴子</strong>设法打开了笼门，逃进了附近的森林。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The project must be completed within one <span class='blank'>_____</span> to meet the client's deadline.",
+    "answer": "month",
+    "explain": "month n. 月",
+    "translation": "该项目必须在一个月内完成，以满足客户的截止日期。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The magazine publishes a <span class='blank'>_____</span> issue covering current events and cultural topics.",
+    "answer": "monthly",
+    "explain": "monthly adj. 每月的",
+    "translation": "该杂志出版<strong>月刊</strong>，涵盖时事和文化话题。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The cheerful music in the café instantly improved my <span class='blank'>_____</span> after a stressful day.",
+    "answer": "mood",
+    "explain": "mood n. 心情，情绪",
+    "translation": "在紧张的一天后，咖啡馆里欢快的音乐立刻改善了我的<strong>心情</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The full <span class='blank'>_____</span> rose above the horizon and illuminated the quiet lake below.",
+    "answer": "moon",
+    "explain": "moon n. 月亮",
+    "translation": "满<strong>月</strong>从地平线升起，照亮了下方宁静的湖面。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The story has a clear <span class='blank'>_____</span> about the importance of honesty and kindness.",
+    "answer": "moral",
+    "explain": "moral n. 道德",
+    "translation": "这个故事有一个明确的<strong>道德寓意</strong>，关于诚实和善良的重要性。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The plan is too expensive; <span class='blank'>_____</span>, it would take twice as long as the alternative.",
+    "answer": "moreover",
+    "explain": "moreover adv. 此外，而且",
+    "translation": "这个计划太昂贵了；<strong>而且</strong>，它需要的时间是替代方案的两倍。",
+    "pool": "BASE"
+  },
+  {
+    "q": "I prefer to go jogging early in the <span class='blank'>_____</span> before the streets become crowded.",
+    "answer": "morning",
+    "explain": "morning n. 早晨",
+    "translation": "我喜欢在<strong>早晨</strong>早些时候去慢跑，在街道变得拥挤之前。",
+    "pool": "BASE"
+  },
+  {
+    "q": "A single <span class='blank'>_____</span> bite can transmit dangerous diseases in tropical regions.",
+    "answer": "mosquito",
+    "explain": "mosquito n. 蚊子",
+    "translation": "在热带地区，一只<strong>蚊子</strong>叮咬就可能传播危险的疾病。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The crowd consisted <span class='blank'>_____</span> of young students who were eager to hear the speaker.",
+    "answer": "mostly",
+    "explain": "mostly adv. 主要地，通常",
+    "translation": "人群<strong>主要</strong>由热切想听演讲的年轻学生组成。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The cat <span class='blank'>_____</span> her kittens with great care, keeping them warm and fed.",
+    "answer": "mother",
+    "explain": "mother v. 像母亲般照顾",
+    "translation": "那只猫像<strong>母亲</strong>一样精心照顾她的小猫，让它们保持温暖和吃饱。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The dancer's graceful <span class='blank'>_____</span> across the stage captivated the entire audience.",
+    "answer": "motion",
+    "explain": "motion n. 运动，动作",
+    "translation": "舞者在舞台上优雅的<strong>动作</strong>迷住了所有观众。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Good teachers know how to <span class='blank'>_____</span> students who have lost interest in learning.",
+    "answer": "motivate",
+    "explain": "motivate v. 激励，激发",
+    "translation": "好老师知道如何<strong>激励</strong>那些对学习失去兴趣的学生。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The detective spent weeks trying to understand the <span class='blank'>_____</span> behind the unexpected crime.",
+    "answer": "motive",
+    "explain": "motive n. 动机",
+    "translation": "侦探花了数周时间试图理解这起意外犯罪背后的<strong>动机</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The electric <span class='blank'>_____</span> in the new car is much quieter than traditional gasoline engines.",
+    "answer": "motor",
+    "explain": "motor n. 发动机，马达",
+    "translation": "新车中的电动<strong>马达</strong>比传统的汽油发动机安静得多。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The museum <span class='blank'>_____</span> a new exhibition of ancient artifacts every spring.",
+    "answer": "mounts",
+    "explain": "mount v. 举办，增加",
+    "translation": "博物馆每年春天都会<strong>举办</strong>一场新的古代文物展览。",
+    "pool": "THIRD"
+  },
+  {
+    "q": "Climbing the highest <span class='blank'>_____</span> in the range requires specialized equipment and training.",
+    "answer": "mountain",
+    "explain": "mountain n. 山",
+    "translation": "攀登该山脉中最高的<strong>山</strong>需要专门的装备和训练。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The computer <span class='blank'>_____</span> stopped working, so I had to replace it with a new one.",
+    "answer": "mouse",
+    "explain": "mouse n. 鼠标",
+    "translation": "电脑<strong>鼠标</strong>坏了，所以我不得不换一个新的。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The dentist examined the patient's <span class='blank'>_____</span> and found two small cavities.",
+    "answer": "mouth",
+    "explain": "mouth n. 嘴",
+    "translation": "牙医检查了病人的<strong>口腔</strong>，发现了两处小蛀牙。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The family is <span class='blank'>_____</span> to a larger apartment because they need more space.",
+    "answer": "moving",
+    "explain": "move v. 移动",
+    "translation": "这家人正在<strong>搬</strong>到一个更大的公寓，因为他们需要更多空间。",
+    "pool": "ING"
+  },
+  {
+    "q": "The civil rights <span class='blank'>_____</span> changed American society in profound and lasting ways.",
+    "answer": "movement",
+    "explain": "movement n. 运动，活动",
+    "translation": "民权<strong>运动</strong>以深远而持久的方式改变了美国社会。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The new <span class='blank'>_____</span> based on the bestselling novel will be released next Friday.",
+    "answer": "movie",
+    "explain": "movie n. 电影",
+    "translation": "这部根据畅销小说改编的新<strong>电影</strong>将于下周五上映。",
+    "pool": "BASE"
+  },
+  {
+    "q": "After the heavy rain, the trail was covered in thick <span class='blank'>_____</span> that made hiking difficult.",
+    "answer": "mud",
+    "explain": "mud n. 泥",
+    "translation": "大雨过后，小径上覆盖着厚厚的<strong>泥</strong>，使徒步变得困难。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The disease can cause <span class='blank'>_____</span> symptoms that affect different parts of the body.",
+    "answer": "multiple",
+    "explain": "multiple adj. 多样的",
+    "translation": "这种疾病会引起<strong>多种</strong>症状，影响身体的不同部位。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The detective discovered that the victim had been <span class='blank'>_____</span> at least twelve hours before.",
+    "answer": "murdered",
+    "explain": "murder v. 谋杀",
+    "translation": "侦探发现受害者至少在十二小时前就被<strong>谋杀</strong>了。",
+    "pool": "PAST"
+  },
+  {
+    "q": "Stretching before exercise helps prevent injuries and reduces soreness in the <span class='blank'>_____</span>.",
+    "answer": "muscle",
+    "explain": "muscle n. 肌肉",
+    "translation": "运动前拉伸有助于防止受伤，并减少<strong>肌肉</strong>酸痛。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The national <span class='blank'>_____</span> houses thousands of rare paintings and historical documents.",
+    "answer": "museum",
+    "explain": "museum n. 博物馆",
+    "translation": "国家<strong>博物馆</strong>收藏了数千幅稀有画作和历史文献。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Wild <span class='blank'>_____</span> started to appear everywhere in the forest after the week of constant rain.",
+    "answer": "mushroom",
+    "explain": "mushroom n. 蘑菇",
+    "translation": "经过一周的连续降雨，野生<strong>蘑菇</strong>开始在森林中到处出现。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The soothing <span class='blank'>_____</span> from the piano helped the baby fall asleep quickly.",
+    "answer": "music",
+    "explain": "music n. 音乐",
+    "translation": "钢琴传来的舒缓<strong>音乐</strong>帮助宝宝很快入睡。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The talented young <span class='blank'>_____</span> performed a solo concert that received a standing ovation.",
+    "answer": "musician",
+    "explain": "musician n. 音乐家",
+    "translation": "这位才华横溢的年轻<strong>音乐家</strong>举办了一场独奏音乐会，获得了起立鼓掌。",
+    "pool": "BASE"
+  }
+]

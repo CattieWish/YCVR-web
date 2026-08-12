@@ -1,0 +1,1291 @@
+{
+  "BASE": [
+    "lab",
+    "label",
+    "labour",
+    "lack",
+    "lady",
+    "lake",
+    "lamb",
+    "lamp",
+    "land",
+    "landscape",
+    "language",
+    "lantern",
+    "lap",
+    "laptop",
+    "large",
+    "last",
+    "late",
+    "later",
+    "laugh",
+    "launch",
+    "law",
+    "lawyer",
+    "lay",
+    "lazy",
+    "lead",
+    "leader",
+    "leadership",
+    "leaf",
+    "league",
+    "leak",
+    "learn",
+    "least",
+    "leather",
+    "leave",
+    "lecture",
+    "left",
+    "leg",
+    "legal",
+    "leisure",
+    "lemon",
+    "lend",
+    "length",
+    "less",
+    "lesson",
+    "let",
+    "letter",
+    "level",
+    "liberation",
+    "liberty",
+    "librarian",
+    "library",
+    "license",
+    "lie",
+    "life",
+    "lift",
+    "light",
+    "like",
+    "likely",
+    "limit",
+    "limited",
+    "line",
+    "link",
+    "lion",
+    "liquid",
+    "list",
+    "listen",
+    "literally",
+    "literary",
+    "literature",
+    "litter",
+    "little",
+    "live",
+    "lively",
+    "living",
+    "load",
+    "loan",
+    "local",
+    "location",
+    "lock",
+    "log",
+    "logical",
+    "lonely",
+    "long",
+    "look",
+    "loose",
+    "lose",
+    "loss",
+    "lot",
+    "loud",
+    "love",
+    "lovely",
+    "low",
+    "lower",
+    "luck",
+    "lucky",
+    "lunar",
+    "lunch",
+    "lung",
+    "luxury"
+  ],
+  "PLURAL": [
+    "labs",
+    "labels",
+    "ladies",
+    "lakes",
+    "lambs",
+    "lamps",
+    "lands",
+    "landscapes",
+    "languages",
+    "lanterns",
+    "laps",
+    "laptops",
+    "laws",
+    "lawyers",
+    "leaders",
+    "leagues",
+    "leaks",
+    "leaves",
+    "lectures",
+    "legs",
+    "lemons",
+    "lengths",
+    "lessons",
+    "letters",
+    "levels",
+    "liberations",
+    "liberties",
+    "librarians",
+    "libraries",
+    "licenses",
+    "lies",
+    "lives",
+    "lifts",
+    "lights",
+    "likes",
+    "limits",
+    "lines",
+    "links",
+    "lions",
+    "liquids",
+    "lists",
+    "listeners",
+    "litters",
+    "loads",
+    "loans",
+    "locals",
+    "locations",
+    "locks",
+    "logs",
+    "looks",
+    "losses",
+    "lots",
+    "lungs",
+    "luxuries"
+  ],
+  "THIRD": [
+    "labels",
+    "lacks",
+    "labours",
+    "lands",
+    "laps",
+    "laughs",
+    "launches",
+    "lays",
+    "leads",
+    "leaks",
+    "learns",
+    "leaves",
+    "lectures",
+    "lends",
+    "lets",
+    "levels",
+    "lies",
+    "lifts",
+    "lights",
+    "likes",
+    "limits",
+    "lines",
+    "links",
+    "lists",
+    "listens",
+    "litters",
+    "lives",
+    "loads",
+    "loans",
+    "locks",
+    "logs",
+    "looks",
+    "loses",
+    "loves",
+    "lowers",
+    "lunches"
+  ],
+  "ING": [
+    "labeling",
+    "lacking",
+    "labouring",
+    "landing",
+    "lapping",
+    "laughing",
+    "launching",
+    "laying",
+    "leading",
+    "leaking",
+    "learning",
+    "leaving",
+    "lecturing",
+    "lending",
+    "letting",
+    "leveling",
+    "lying",
+    "lifting",
+    "lighting",
+    "liking",
+    "limiting",
+    "lining",
+    "linking",
+    "listing",
+    "listening",
+    "littering",
+    "living",
+    "loading",
+    "loaning",
+    "locking",
+    "logging",
+    "looking",
+    "losing",
+    "loving",
+    "lowering",
+    "lunching"
+  ],
+  "PAST": [
+    "labeled",
+    "lacked",
+    "laboured",
+    "landed",
+    "lapped",
+    "laughed",
+    "launched",
+    "laid",
+    "led",
+    "leaked",
+    "learned",
+    "learnt",
+    "left",
+    "lectured",
+    "lent",
+    "let",
+    "leveled",
+    "lay",
+    "lied",
+    "lifted",
+    "lit",
+    "lighted",
+    "liked",
+    "limited",
+    "lined",
+    "linked",
+    "listed",
+    "listened",
+    "littered",
+    "lived",
+    "loaded",
+    "loaned",
+    "locked",
+    "logged",
+    "looked",
+    "lost",
+    "loved",
+    "lowered",
+    "lunched"
+  ],
+  "COMP": [
+    "larger",
+    "later",
+    "lazier",
+    "less",
+    "livelier",
+    "longer",
+    "louder",
+    "lovelier",
+    "lower",
+    "luckier"
+  ],
+  "SUPER": [
+    "largest",
+    "latest",
+    "laziest",
+    "least",
+    "liveliest",
+    "longest",
+    "loudest",
+    "loveliest",
+    "lowest",
+    "luckiest"
+  ],
+  "DICT": {
+    "lab": "n. 实验室",
+    "label": "n. 标签 / v. 贴标签",
+    "labour": "n. 劳动 / v. 劳动（英式拼写）",
+    "lack": "n. 缺乏 / v. 缺乏",
+    "lady": "n. 女士",
+    "lake": "n. 湖",
+    "lamb": "n. 羔羊",
+    "lamp": "n. 灯",
+    "land": "n. 陆地 / v. 登陆",
+    "landscape": "n. 风景",
+    "language": "n. 语言",
+    "lantern": "n. 灯笼",
+    "lap": "n. 大腿；一圈 / v. 舔食",
+    "laptop": "n. 笔记本电脑",
+    "large": "adj. 大的",
+    "last": "adj. 最后的 / adv. 最后 / n. 最后 / v. 持续",
+    "late": "adj. 晚的 / adv. 晚",
+    "later": "adj. 更晚的 / adv. 稍后（比较级）",
+    "laugh": "n. 笑 / v. 笑",
+    "launch": "n. 发射 / v. 发射",
+    "law": "n. 法律",
+    "lawyer": "n. 律师",
+    "lay": "v. 躺（过去式）",
+    "lazy": "adj. 懒惰的",
+    "lead": "v. 领导 / n. 领导；领先",
+    "leader": "n. 领导者",
+    "leadership": "n. 领导力",
+    "leaf": "n. 叶子",
+    "league": "n. 联盟",
+    "leak": "n. 泄漏 / v. 泄漏",
+    "learn": "v. 学习",
+    "least": "adj./adv. 最少的（最高级）",
+    "leather": "n. 皮革",
+    "leave": "n. 假期 / v. 离开",
+    "lecture": "n. 讲座 / v. 演讲",
+    "left": "adj. 左边的 / n. 左边 / v. 离开（过去式）",
+    "leg": "n. 腿",
+    "legal": "adj. 合法的",
+    "leisure": "n. 闲暇",
+    "lemon": "n. 柠檬",
+    "lend": "v. 借出",
+    "length": "n. 长度",
+    "less": "adj./adv./pron. 更少的（比较级）",
+    "lesson": "n. 课",
+    "let": "v. 让（过去式）",
+    "letter": "n. 字母；信",
+    "level": "n. 水平 / v. 使水平",
+    "liberation": "n. 解放",
+    "liberty": "n. 自由",
+    "librarian": "n. 图书管理员",
+    "library": "n. 图书馆",
+    "license": "n. 许可证 / v. 许可",
+    "lie": "n. 谎言 / v. 躺；说谎",
+    "life": "n. 生活；生命",
+    "lift": "n. 电梯 / v. 举起",
+    "light": "n. 光 / adj. 轻的 / v. 点燃",
+    "like": "v. 喜欢 / prep. 像",
+    "likely": "adj. 可能的 / adv. 可能",
+    "limit": "n. 限制 / v. 限制",
+    "limited": "adj. 有限的 / v. 限制（过去式）",
+    "line": "n. 线 / v. 排队",
+    "link": "n. 链接 / v. 连接",
+    "lion": "n. 狮子",
+    "liquid": "n. 液体 / adj. 液体的",
+    "list": "n. 清单 / v. 列出",
+    "listen": "v. 听",
+    "literally": "adv. 字面上",
+    "literary": "adj. 文学的",
+    "literature": "n. 文学",
+    "litter": "n. 垃圾 / v. 乱扔",
+    "little": "adj. 小的 / adv. 少许",
+    "live": "v. 生活 / adj. 现场的",
+    "lively": "adj. 活泼的",
+    "living": "adj. 活的 / n. 生活（现在分词）",
+    "load": "n. 负载 / v. 装载",
+    "loan": "n. 贷款 / v. 借出",
+    "local": "adj. 当地的 / n. 当地人",
+    "location": "n. 位置",
+    "lock": "n. 锁 / v. 锁上",
+    "log": "n. 原木 / v. 记录",
+    "logical": "adj. 逻辑的",
+    "lonely": "adj. 孤独的",
+    "long": "adj. 长的 / v. 渴望",
+    "look": "n. 看 / v. 看",
+    "loose": "adj. 松的",
+    "lose": "v. 丢失",
+    "loss": "n. 损失",
+    "lot": "n. 大量",
+    "loud": "adj. 大声的",
+    "love": "n. 爱 / v. 爱",
+    "lovely": "adj. 可爱的",
+    "low": "adj. 低的 / adv. 低地",
+    "lower": "adj. 较低的 / v. 降低（比较级）",
+    "luck": "n. 运气",
+    "lucky": "adj. 幸运的",
+    "lunar": "adj. 月球的",
+    "lunch": "n. 午餐 / v. 吃午餐",
+    "lung": "n. 肺",
+    "luxury": "n. 奢侈品 / adj. 奢侈的"
+  },
+  "POS": {
+    "lab": [
+      "n"
+    ],
+    "label": [
+      "n",
+      "v"
+    ],
+    "labour": [
+      "n",
+      "v"
+    ],
+    "lack": [
+      "n",
+      "v"
+    ],
+    "lady": [
+      "n"
+    ],
+    "lake": [
+      "n"
+    ],
+    "lamb": [
+      "n"
+    ],
+    "lamp": [
+      "n"
+    ],
+    "land": [
+      "n",
+      "v"
+    ],
+    "landscape": [
+      "n"
+    ],
+    "language": [
+      "n"
+    ],
+    "lantern": [
+      "n"
+    ],
+    "lap": [
+      "n",
+      "v"
+    ],
+    "laptop": [
+      "n"
+    ],
+    "large": [
+      "adj"
+    ],
+    "last": [
+      "adj",
+      "adv",
+      "n",
+      "v"
+    ],
+    "late": [
+      "adj",
+      "adv"
+    ],
+    "later": [
+      "adj",
+      "adv"
+    ],
+    "laugh": [
+      "n",
+      "v"
+    ],
+    "launch": [
+      "n",
+      "v"
+    ],
+    "law": [
+      "n"
+    ],
+    "lawyer": [
+      "n"
+    ],
+    "lay": [
+      "v"
+    ],
+    "lazy": [
+      "adj"
+    ],
+    "lead": [
+      "v",
+      "n"
+    ],
+    "leader": [
+      "n"
+    ],
+    "leadership": [
+      "n"
+    ],
+    "leaf": [
+      "n"
+    ],
+    "league": [
+      "n"
+    ],
+    "leak": [
+      "n",
+      "v"
+    ],
+    "learn": [
+      "v"
+    ],
+    "least": [
+      "adj",
+      "adv"
+    ],
+    "leather": [
+      "n"
+    ],
+    "leave": [
+      "n",
+      "v"
+    ],
+    "lecture": [
+      "n",
+      "v"
+    ],
+    "left": [
+      "adj",
+      "n",
+      "v"
+    ],
+    "leg": [
+      "n"
+    ],
+    "legal": [
+      "adj"
+    ],
+    "leisure": [
+      "n"
+    ],
+    "lemon": [
+      "n"
+    ],
+    "lend": [
+      "v"
+    ],
+    "length": [
+      "n"
+    ],
+    "less": [
+      "adj",
+      "adv",
+      "pron"
+    ],
+    "lesson": [
+      "n"
+    ],
+    "let": [
+      "v"
+    ],
+    "letter": [
+      "n"
+    ],
+    "level": [
+      "n",
+      "v"
+    ],
+    "liberation": [
+      "n"
+    ],
+    "liberty": [
+      "n"
+    ],
+    "librarian": [
+      "n"
+    ],
+    "library": [
+      "n"
+    ],
+    "license": [
+      "n",
+      "v"
+    ],
+    "lie": [
+      "n",
+      "v"
+    ],
+    "life": [
+      "n"
+    ],
+    "lift": [
+      "n",
+      "v"
+    ],
+    "light": [
+      "n",
+      "adj",
+      "v"
+    ],
+    "like": [
+      "v",
+      "prep",
+      "n"
+    ],
+    "likely": [
+      "adj",
+      "adv"
+    ],
+    "limit": [
+      "n",
+      "v"
+    ],
+    "limited": [
+      "adj",
+      "v"
+    ],
+    "line": [
+      "n",
+      "v"
+    ],
+    "link": [
+      "n",
+      "v"
+    ],
+    "lion": [
+      "n"
+    ],
+    "liquid": [
+      "n",
+      "adj"
+    ],
+    "list": [
+      "n",
+      "v"
+    ],
+    "listen": [
+      "v"
+    ],
+    "literally": [
+      "adv"
+    ],
+    "literary": [
+      "adj"
+    ],
+    "literature": [
+      "n"
+    ],
+    "litter": [
+      "n",
+      "v"
+    ],
+    "little": [
+      "adj",
+      "adv"
+    ],
+    "live": [
+      "v",
+      "adj"
+    ],
+    "lively": [
+      "adj"
+    ],
+    "living": [
+      "adj",
+      "n"
+    ],
+    "load": [
+      "n",
+      "v"
+    ],
+    "loan": [
+      "n",
+      "v"
+    ],
+    "local": [
+      "adj",
+      "n"
+    ],
+    "location": [
+      "n"
+    ],
+    "lock": [
+      "n",
+      "v"
+    ],
+    "log": [
+      "n",
+      "v"
+    ],
+    "logical": [
+      "adj"
+    ],
+    "lonely": [
+      "adj"
+    ],
+    "long": [
+      "adj",
+      "v"
+    ],
+    "look": [
+      "n",
+      "v"
+    ],
+    "loose": [
+      "adj"
+    ],
+    "lose": [
+      "v"
+    ],
+    "loss": [
+      "n"
+    ],
+    "lot": [
+      "n"
+    ],
+    "loud": [
+      "adj"
+    ],
+    "love": [
+      "n",
+      "v"
+    ],
+    "lovely": [
+      "adj"
+    ],
+    "low": [
+      "adj",
+      "adv"
+    ],
+    "lower": [
+      "adj",
+      "v"
+    ],
+    "luck": [
+      "n"
+    ],
+    "lucky": [
+      "adj"
+    ],
+    "lunar": [
+      "adj"
+    ],
+    "lunch": [
+      "n",
+      "v"
+    ],
+    "lung": [
+      "n"
+    ],
+    "luxury": [
+      "n",
+      "adj"
+    ],
+    "labs": [
+      "n"
+    ],
+    "labels": [
+      "n",
+      "v"
+    ],
+    "ladies": [
+      "n"
+    ],
+    "lakes": [
+      "n"
+    ],
+    "lambs": [
+      "n"
+    ],
+    "lamps": [
+      "n"
+    ],
+    "lands": [
+      "n",
+      "v"
+    ],
+    "landscapes": [
+      "n"
+    ],
+    "languages": [
+      "n"
+    ],
+    "lanterns": [
+      "n"
+    ],
+    "laps": [
+      "n",
+      "v"
+    ],
+    "laptops": [
+      "n"
+    ],
+    "laws": [
+      "n"
+    ],
+    "lawyers": [
+      "n"
+    ],
+    "leaders": [
+      "n"
+    ],
+    "leagues": [
+      "n"
+    ],
+    "leaks": [
+      "n",
+      "v"
+    ],
+    "leaves": [
+      "n",
+      "v"
+    ],
+    "lectures": [
+      "n",
+      "v"
+    ],
+    "legs": [
+      "n"
+    ],
+    "lemons": [
+      "n"
+    ],
+    "lengths": [
+      "n"
+    ],
+    "lessons": [
+      "n"
+    ],
+    "letters": [
+      "n"
+    ],
+    "levels": [
+      "n",
+      "v"
+    ],
+    "liberations": [
+      "n"
+    ],
+    "liberties": [
+      "n"
+    ],
+    "librarians": [
+      "n"
+    ],
+    "libraries": [
+      "n"
+    ],
+    "licenses": [
+      "n",
+      "v"
+    ],
+    "lies": [
+      "n",
+      "v"
+    ],
+    "lives": [
+      "n",
+      "v"
+    ],
+    "lifts": [
+      "n",
+      "v"
+    ],
+    "lights": [
+      "n",
+      "adj",
+      "v"
+    ],
+    "likes": [
+      "n",
+      "v"
+    ],
+    "limits": [
+      "n",
+      "v"
+    ],
+    "lines": [
+      "n",
+      "v"
+    ],
+    "links": [
+      "n",
+      "v"
+    ],
+    "lions": [
+      "n"
+    ],
+    "liquids": [
+      "n",
+      "adj"
+    ],
+    "lists": [
+      "n",
+      "v"
+    ],
+    "listeners": [
+      "n"
+    ],
+    "litters": [
+      "n",
+      "v"
+    ],
+    "loads": [
+      "n",
+      "v"
+    ],
+    "loans": [
+      "n",
+      "v"
+    ],
+    "locals": [
+      "n",
+      "adj"
+    ],
+    "locations": [
+      "n"
+    ],
+    "locks": [
+      "n",
+      "v"
+    ],
+    "logs": [
+      "n",
+      "v"
+    ],
+    "looks": [
+      "n",
+      "v"
+    ],
+    "losses": [
+      "n"
+    ],
+    "lots": [
+      "n"
+    ],
+    "lungs": [
+      "n"
+    ],
+    "luxuries": [
+      "n"
+    ],
+    "lacks": [
+      "n",
+      "v"
+    ],
+    "labours": [
+      "n",
+      "v"
+    ],
+    "laughs": [
+      "n",
+      "v"
+    ],
+    "launches": [
+      "n",
+      "v"
+    ],
+    "lays": [
+      "v"
+    ],
+    "leads": [
+      "n",
+      "v"
+    ],
+    "learns": [
+      "v"
+    ],
+    "lends": [
+      "v"
+    ],
+    "lets": [
+      "v"
+    ],
+    "loses": [
+      "v"
+    ],
+    "loves": [
+      "n",
+      "v"
+    ],
+    "lowers": [
+      "v",
+      "adj"
+    ],
+    "lunches": [
+      "n",
+      "v"
+    ],
+    "listens": [
+      "v"
+    ],
+    "labeling": [
+      "v"
+    ],
+    "lacking": [
+      "v",
+      "n"
+    ],
+    "labouring": [
+      "v",
+      "n"
+    ],
+    "landing": [
+      "n",
+      "v"
+    ],
+    "lapping": [
+      "n",
+      "v"
+    ],
+    "laughing": [
+      "n",
+      "v"
+    ],
+    "launching": [
+      "n",
+      "v"
+    ],
+    "laying": [
+      "v"
+    ],
+    "leading": [
+      "adj",
+      "v"
+    ],
+    "leaking": [
+      "n",
+      "v"
+    ],
+    "learning": [
+      "n",
+      "v"
+    ],
+    "leaving": [
+      "n",
+      "v"
+    ],
+    "lecturing": [
+      "n",
+      "v"
+    ],
+    "lending": [
+      "n",
+      "v"
+    ],
+    "letting": [
+      "n",
+      "v"
+    ],
+    "leveling": [
+      "v"
+    ],
+    "lying": [
+      "n",
+      "v"
+    ],
+    "lifting": [
+      "n",
+      "v"
+    ],
+    "lighting": [
+      "n",
+      "v"
+    ],
+    "liking": [
+      "n",
+      "v"
+    ],
+    "limiting": [
+      "v"
+    ],
+    "lining": [
+      "n",
+      "v"
+    ],
+    "linking": [
+      "v"
+    ],
+    "listing": [
+      "n",
+      "v"
+    ],
+    "listening": [
+      "n",
+      "v"
+    ],
+    "littering": [
+      "v"
+    ],
+    "loading": [
+      "n",
+      "v"
+    ],
+    "loaning": [
+      "n",
+      "v"
+    ],
+    "locking": [
+      "n",
+      "v"
+    ],
+    "logging": [
+      "n",
+      "v"
+    ],
+    "looking": [
+      "n",
+      "v"
+    ],
+    "losing": [
+      "adj",
+      "v"
+    ],
+    "loving": [
+      "adj",
+      "v"
+    ],
+    "lowering": [
+      "n",
+      "v"
+    ],
+    "lunching": [
+      "v"
+    ],
+    "labeled": [
+      "adj",
+      "v"
+    ],
+    "lacked": [
+      "v"
+    ],
+    "laboured": [
+      "adj",
+      "v"
+    ],
+    "landed": [
+      "adj",
+      "v"
+    ],
+    "lapped": [
+      "v"
+    ],
+    "laughed": [
+      "v"
+    ],
+    "launched": [
+      "v"
+    ],
+    "laid": [
+      "v"
+    ],
+    "led": [
+      "v"
+    ],
+    "leaked": [
+      "v"
+    ],
+    "learned": [
+      "adj",
+      "v"
+    ],
+    "learnt": [
+      "v"
+    ],
+    "lectured": [
+      "v"
+    ],
+    "lent": [
+      "v"
+    ],
+    "leveled": [
+      "v"
+    ],
+    "lied": [
+      "v"
+    ],
+    "lifted": [
+      "v"
+    ],
+    "lit": [
+      "adj",
+      "v"
+    ],
+    "lighted": [
+      "adj",
+      "v"
+    ],
+    "liked": [
+      "v"
+    ],
+    "lined": [
+      "adj",
+      "v"
+    ],
+    "linked": [
+      "adj",
+      "v"
+    ],
+    "listed": [
+      "adj",
+      "v"
+    ],
+    "listened": [
+      "v"
+    ],
+    "littered": [
+      "adj",
+      "v"
+    ],
+    "lived": [
+      "adj",
+      "v"
+    ],
+    "loaded": [
+      "adj",
+      "v"
+    ],
+    "loaned": [
+      "v"
+    ],
+    "locked": [
+      "adj",
+      "v"
+    ],
+    "logged": [
+      "v"
+    ],
+    "looked": [
+      "v"
+    ],
+    "lost": [
+      "adj",
+      "v"
+    ],
+    "loved": [
+      "v"
+    ],
+    "lowered": [
+      "v"
+    ],
+    "lunched": [
+      "v"
+    ],
+    "larger": [
+      "adj"
+    ],
+    "lazier": [
+      "adj"
+    ],
+    "livelier": [
+      "adj"
+    ],
+    "longer": [
+      "adj",
+      "adv"
+    ],
+    "louder": [
+      "adj"
+    ],
+    "lovelier": [
+      "adj"
+    ],
+    "luckier": [
+      "adj"
+    ],
+    "largest": [
+      "adj"
+    ],
+    "latest": [
+      "adj"
+    ],
+    "laziest": [
+      "adj"
+    ],
+    "liveliest": [
+      "adj"
+    ],
+    "longest": [
+      "adj"
+    ],
+    "loudest": [
+      "adj"
+    ],
+    "loveliest": [
+      "adj"
+    ],
+    "lowest": [
+      "adj"
+    ],
+    "luckiest": [
+      "adj"
+    ]
+  }
+}

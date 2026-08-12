@@ -1,0 +1,78 @@
+{
+  "BASE": [
+    "qualification",
+    "qualify",
+    "quality",
+    "quantity",
+    "quarter",
+    "question",
+    "quick",
+    "quiet",
+    "quit",
+    "quite",
+    "quote"
+  ],
+  "PLURAL": [
+    "qualifications",
+    "qualities",
+    "quantities",
+    "quarters",
+    "questions",
+    "quotes"
+  ],
+  "THIRD": [
+    "qualifies",
+    "questions",
+    "quiets",
+    "quits",
+    "quotes"
+  ],
+  "ING": [
+    "qualifying",
+    "questioning",
+    "quieting",
+    "quitting",
+    "quoting"
+  ],
+  "PAST": [
+    "qualified",
+    "questioned",
+    "quieted",
+    "quit",
+    "quoted"
+  ],
+  "COMP": [
+    "quicker",
+    "quieter"
+  ],
+  "SUPER": [
+    "quickest",
+    "quietest"
+  ],
+  "DICT": {
+    "qualification": "n. 资格，资历；限定条件",
+    "qualify": "v. （使）具有资格；取得资格",
+    "quality": "n. 质量；品质，素质",
+    "quantity": "n. 数量，量",
+    "quarter": "n. 四分之一；一刻钟；季度",
+    "question": "n. 问题 / v. 询问，质疑",
+    "quick": "adj. 快的，迅速的",
+    "quiet": "adj. 安静的 / n. 宁静 / v. 使安静",
+    "quit": "v. 停止；辞职，放弃",
+    "quite": "adv. 相当，很，十分",
+    "quote": "n. 引文，引语 / v. 引用，引述"
+  },
+  "POS": {
+    "qualification": ["n"],
+    "qualify": ["v"],
+    "quality": ["n"],
+    "quantity": ["n"],
+    "quarter": ["n"],
+    "question": ["n", "v"],
+    "quick": ["adj"],
+    "quiet": ["adj", "n", "v"],
+    "quit": ["v"],
+    "quite": ["adv"],
+    "quote": ["n", "v"]
+  }
+}

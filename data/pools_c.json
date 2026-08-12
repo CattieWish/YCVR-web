@@ -1,0 +1,3143 @@
+{
+  "BASE": [
+    "cabbage",
+    "cafeteria",
+    "café",
+    "cage",
+    "cake",
+    "calculate",
+    "calendar",
+    "call",
+    "calligraphy",
+    "calm",
+    "calorie",
+    "camel",
+    "camera",
+    "camp",
+    "campaign",
+    "campus",
+    "can",
+    "canal",
+    "cancel",
+    "cancer",
+    "candidate",
+    "candle",
+    "candy",
+    "canteen",
+    "cap",
+    "capable",
+    "capacity",
+    "capital",
+    "capsule",
+    "captain",
+    "car",
+    "carbon",
+    "card",
+    "care",
+    "career",
+    "careful",
+    "careless",
+    "carpet",
+    "carrot",
+    "carry",
+    "cartoon",
+    "carve",
+    "case",
+    "cash",
+    "cast",
+    "castle",
+    "cat",
+    "catch",
+    "category",
+    "cattle",
+    "cause",
+    "cave",
+    "cease",
+    "ceiling",
+    "celebrate",
+    "celebrity",
+    "cell",
+    "cent",
+    "center",
+    "centimeter",
+    "central",
+    "century",
+    "certain",
+    "certainly",
+    "certificate",
+    "chain",
+    "chair",
+    "chairman",
+    "chalk",
+    "challenge",
+    "champion",
+    "chance",
+    "change",
+    "channel",
+    "chaos",
+    "chapter",
+    "character",
+    "characteristic",
+    "charge",
+    "charity",
+    "chart",
+    "chat",
+    "cheap",
+    "cheat",
+    "check",
+    "cheek",
+    "cheer",
+    "cheese",
+    "chef",
+    "chemical",
+    "chemist",
+    "chemistry",
+    "chess",
+    "chest",
+    "chew",
+    "chicken",
+    "chief",
+    "child",
+    "chocolate",
+    "choice",
+    "choke",
+    "choose",
+    "chopsticks",
+    "chorus",
+    "church",
+    "cigarette",
+    "cinema",
+    "circle",
+    "circuit",
+    "circumstance",
+    "circus",
+    "cite",
+    "citizen",
+    "city",
+    "civil",
+    "civilian",
+    "civilization",
+    "claim",
+    "clap",
+    "clarify",
+    "class",
+    "classic",
+    "classmate",
+    "classroom",
+    "clay",
+    "clean",
+    "clear",
+    "clerk",
+    "clever",
+    "click",
+    "client",
+    "climate",
+    "climb",
+    "clinic",
+    "clock",
+    "clone",
+    "close",
+    "cloth",
+    "clothes",
+    "cloud",
+    "cloudy",
+    "club",
+    "clue",
+    "coach",
+    "coal",
+    "coast",
+    "coat",
+    "coffee",
+    "coin",
+    "cold",
+    "collapse",
+    "collar",
+    "collect",
+    "collection",
+    "college",
+    "color",
+    "column",
+    "combine",
+    "come",
+    "comedy",
+    "comfort",
+    "comfortable",
+    "comic",
+    "comment",
+    "commercial",
+    "commit",
+    "commitment",
+    "committee",
+    "common",
+    "communicate",
+    "communication",
+    "communist",
+    "community",
+    "company",
+    "compare",
+    "comparison",
+    "compete",
+    "competence",
+    "competition",
+    "complain",
+    "complete",
+    "complex",
+    "complicated",
+    "component",
+    "compose",
+    "composition",
+    "comprehension",
+    "comprehensive",
+    "comprise",
+    "computer",
+    "concentrate",
+    "concept",
+    "concern",
+    "concert",
+    "conclude",
+    "conclusion",
+    "concrete",
+    "condition",
+    "conduct",
+    "conference",
+    "confidence",
+    "confirm",
+    "conflict",
+    "confucianism",
+    "Confucianism",
+    "confused",
+    "congratulation",
+    "connect",
+    "consequence",
+    "conservation",
+    "consider",
+    "consist",
+    "consistent",
+    "constant",
+    "constitution",
+    "construction",
+    "consultant",
+    "consultation",
+    "consume",
+    "consumption",
+    "contact",
+    "contain",
+    "contemporary",
+    "content",
+    "contest",
+    "context",
+    "continent",
+    "continue",
+    "contract",
+    "contradictory",
+    "contrary",
+    "contrast",
+    "contribution",
+    "control",
+    "convenient",
+    "conventional",
+    "conversation",
+    "convince",
+    "cook",
+    "cookie",
+    "cool",
+    "cooperate",
+    "copy",
+    "core",
+    "corn",
+    "corner",
+    "corporate",
+    "correct",
+    "correspond",
+    "cost",
+    "costume",
+    "cottage",
+    "cotton",
+    "cough",
+    "could",
+    "council",
+    "count",
+    "country",
+    "countryside",
+    "county",
+    "couple",
+    "courage",
+    "course",
+    "court",
+    "cousin",
+    "cover",
+    "coverage",
+    "cow",
+    "crash",
+    "crayon",
+    "crazy",
+    "cream",
+    "create",
+    "creative",
+    "creature",
+    "credit",
+    "crew",
+    "crime",
+    "crisis",
+    "criterion",
+    "critical",
+    "criticize",
+    "crop",
+    "cross",
+    "crowd",
+    "crucial",
+    "cruel",
+    "cry",
+    "cuisine",
+    "culture",
+    "cup",
+    "cupboard",
+    "cure",
+    "curious",
+    "current",
+    "curtain",
+    "custom",
+    "customer",
+    "cut",
+    "cute",
+    "cycle"
+  ],
+  "PLURAL": [
+    "cabbages",
+    "cafeterias",
+    "cafés",
+    "cages",
+    "cakes",
+    "calendars",
+    "calligraphies",
+    "calories",
+    "camels",
+    "cameras",
+    "campaigns",
+    "camps",
+    "campuses",
+    "canals",
+    "cancers",
+    "candidates",
+    "candies",
+    "candles",
+    "cans",
+    "canteens",
+    "capacities",
+    "capitals",
+    "caps",
+    "capsules",
+    "captains",
+    "carbons",
+    "cards",
+    "careers",
+    "carpets",
+    "carrots",
+    "cars",
+    "cartoons",
+    "cases",
+    "cashes",
+    "castles",
+    "categories",
+    "cats",
+    "cattles",
+    "causes",
+    "caves",
+    "ceilings",
+    "celebrities",
+    "cells",
+    "centimeters",
+    "centers",
+    "cents",
+    "centuries",
+    "certificates",
+    "chains",
+    "chairs",
+    "chalks",
+    "challenges",
+    "champions",
+    "chances",
+    "channels",
+    "chapters",
+    "characteristics",
+    "characters",
+    "charities",
+    "charts",
+    "cheeks",
+    "cheeses",
+    "chemists",
+    "chests",
+    "cheves",
+    "chickens",
+    "children",
+    "chocolates",
+    "choices",
+    "chokes",
+    "choruses",
+    "churches",
+    "cigarettes",
+    "cinemas",
+    "circles",
+    "circuits",
+    "circumstances",
+    "circuses",
+    "cities",
+    "citizens",
+    "civilians",
+    "civilizations",
+    "classes",
+    "classmates",
+    "classrooms",
+    "clays",
+    "clerks",
+    "clients",
+    "climates",
+    "clinics",
+    "clocks",
+    "clones",
+    "cloths",
+    "clouds",
+    "clubs",
+    "clues",
+    "coaches",
+    "coals",
+    "coasts",
+    "coats",
+    "coffees",
+    "coins",
+    "collars",
+    "collections",
+    "colleges",
+    "colors",
+    "columns",
+    "comedies",
+    "comforts",
+    "comics",
+    "comments",
+    "commitments",
+    "committees",
+    "communications",
+    "communists",
+    "communities",
+    "companies",
+    "comparisons",
+    "competences",
+    "competitions",
+    "components",
+    "compositions",
+    "comprehensions",
+    "computers",
+    "concepts",
+    "concerns",
+    "concerts",
+    "conclusions",
+    "conditions",
+    "conducts",
+    "conferences",
+    "confidences",
+    "conflicts",
+    "consequences",
+    "conservations",
+    "constitutions",
+    "constructions",
+    "consultants",
+    "consultations",
+    "consumptions",
+    "contacts",
+    "contents",
+    "contests",
+    "contexts",
+    "continents",
+    "contracts",
+    "contrasts",
+    "contributions",
+    "conversations",
+    "cookies",
+    "cores",
+    "corners",
+    "corns",
+    "costs",
+    "costumes",
+    "cottages",
+    "cottons",
+    "councils",
+    "counties",
+    "countries",
+    "countrysides",
+    "couples",
+    "courses",
+    "courts",
+    "cousins",
+    "coverages",
+    "cows",
+    "crayons",
+    "creams",
+    "creatures",
+    "credits",
+    "crews",
+    "crimes",
+    "crises",
+    "criteria",
+    "criticizes",
+    "crops",
+    "crowds",
+    "cuisines",
+    "cultures",
+    "cupboards",
+    "cups",
+    "curtains",
+    "customers",
+    "customs",
+    "cycles"
+  ],
+  "THIRD": [
+    "calculates",
+    "calls",
+    "cancels",
+    "cares",
+    "carries",
+    "carves",
+    "casts",
+    "catches",
+    "celebrates",
+    "challenges",
+    "changes",
+    "charges",
+    "chats",
+    "cheats",
+    "checks",
+    "cheers",
+    "chews",
+    "chokes",
+    "chooses",
+    "choruses",
+    "cites",
+    "claps",
+    "clarifies",
+    "clicks",
+    "climbs",
+    "clones",
+    "closes",
+    "coaches",
+    "collects",
+    "combines",
+    "comes",
+    "commits",
+    "communicates",
+    "compares",
+    "competes",
+    "complains",
+    "completes",
+    "composes",
+    "comprises",
+    "concentrates",
+    "concludes",
+    "confirms",
+    "connects",
+    "considers",
+    "consumes",
+    "contains",
+    "continues",
+    "controls",
+    "convinces",
+    "cooks",
+    "cooperates",
+    "copies",
+    "corresponds",
+    "coughs",
+    "counts",
+    "covers",
+    "crashes",
+    "creates",
+    "cries",
+    "criticizes",
+    "crosses",
+    "cuts"
+  ],
+  "ING": [
+    "calculating",
+    "calling",
+    "camping",
+    "canceling",
+    "caring",
+    "carrying",
+    "carving",
+    "casting",
+    "catching",
+    "causing",
+    "celebrating",
+    "challenging",
+    "changing",
+    "charging",
+    "chasing",
+    "chatting",
+    "cheating",
+    "checking",
+    "cheering",
+    "chewing",
+    "choking",
+    "choosing",
+    "circling",
+    "citing",
+    "clapping",
+    "clarifying",
+    "cleaning",
+    "clicking",
+    "climbing",
+    "cloning",
+    "closing",
+    "collapsing",
+    "collecting",
+    "combining",
+    "coming",
+    "committing",
+    "communicating",
+    "comparing",
+    "competing",
+    "complaining",
+    "completing",
+    "composing",
+    "comprising",
+    "concentrating",
+    "concluding",
+    "confirming",
+    "connecting",
+    "considering",
+    "consuming",
+    "containing",
+    "continuing",
+    "controlling",
+    "convincing",
+    "cooking",
+    "cooperating",
+    "copying",
+    "corresponding",
+    "coughing",
+    "counting",
+    "covering",
+    "crashing",
+    "creating",
+    "crossing",
+    "crying"
+  ],
+  "PAST": [
+    "calculated",
+    "called",
+    "came",
+    "canceled",
+    "cared",
+    "carried",
+    "carved",
+    "cast",
+    "caught",
+    "caused",
+    "ceased",
+    "celebrated",
+    "challenged",
+    "changed",
+    "charged",
+    "chatted",
+    "cheated",
+    "checked",
+    "cheered",
+    "chewed",
+    "choked",
+    "chose",
+    "chosen",
+    "claimed",
+    "clapped",
+    "clarified",
+    "climbed",
+    "closed",
+    "collapsed",
+    "collected",
+    "combined",
+    "come",
+    "committed",
+    "communicated",
+    "compared",
+    "competed",
+    "complained",
+    "completed",
+    "concentrated",
+    "concluded",
+    "confirmed",
+    "connected",
+    "considered",
+    "consisted",
+    "consumed",
+    "contained",
+    "continued",
+    "controlled",
+    "convinced",
+    "cooked",
+    "cooperated",
+    "copied",
+    "cost",
+    "coughed",
+    "counted",
+    "covered",
+    "crashed",
+    "created",
+    "cried",
+    "criticized",
+    "crossed",
+    "cured",
+    "cut"
+  ],
+  "COMP": [
+    "calmer",
+    "cheaper",
+    "cleaner",
+    "clearer",
+    "colder",
+    "cooler",
+    "crazier",
+    "crueler",
+    "cuter"
+  ],
+  "SUPER": [
+    "calmest",
+    "cheapest",
+    "cleanest",
+    "clearest",
+    "coldest",
+    "coolest",
+    "craziest",
+    "cruelest",
+    "cutest"
+  ],
+  "DICT": {
+    "cabbage": "n. 卷心菜",
+    "café": "n. 咖啡馆",
+    "cage": "n. 笼子",
+    "cake": "n. 蛋糕",
+    "calculate": "v. 计算",
+    "calendar": "n. 日历",
+    "call": "v. 呼叫",
+    "calm": "adj. 平静的",
+    "camera": "n. 相机",
+    "camp": "n. 露营",
+    "campaign": "n. 运动",
+    "campus": "n. 校园",
+    "cancel": "v. 取消",
+    "cancer": "n. 癌症",
+    "candidate": "n. 候选人",
+    "candle": "n. 蜡烛",
+    "candy": "n. 糖果",
+    "cap": "n. 帽子",
+    "capable": "adj. 有能力的",
+    "capacity": "n. 容量",
+    "capital": "n. 首都；资本",
+    "captain": "n. 船长",
+    "car": "n. 汽车",
+    "carbon": "n. 碳",
+    "card": "n. 卡片",
+    "care": "v. 关心",
+    "career": "n. 职业",
+    "careful": "adj. 小心的",
+    "careless": "adj. 粗心的",
+    "carpet": "n. 地毯",
+    "carrot": "n. 胡萝卜",
+    "carry": "v. 携带",
+    "cartoon": "n. 卡通",
+    "case": "n. 案例",
+    "cash": "n. 现金",
+    "castle": "n. 城堡",
+    "cat": "n. 猫",
+    "catch": "v. 抓住",
+    "category": "n. 类别",
+    "cattle": "n. 牛",
+    "cause": "n. 原因",
+    "cave": "n. 洞穴",
+    "ceiling": "n. 天花板",
+    "celebrate": "v. 庆祝",
+    "celebrity": "n. 名人",
+    "cell": "n. 细胞",
+    "central": "adj. 中心的",
+    "century": "n. 世纪",
+    "certain": "adj. 确定的",
+    "certificate": "n. 证书",
+    "chain": "n. 链条",
+    "chair": "n. 椅子",
+    "chairman": "n. 主席",
+    "challenge": "n./v. 挑战",
+    "champion": "n. 冠军",
+    "chance": "n. 机会",
+    "change": "v. 改变",
+    "channel": "n. 频道",
+    "chaos": "n. 混乱",
+    "chapter": "n. 章节",
+    "character": "n. 性格；角色",
+    "characteristic": "n. 特征",
+    "charge": "v. 收费；指控",
+    "charity": "n. 慈善",
+    "chart": "n. 图表",
+    "chat": "v. 聊天",
+    "cheap": "adj. 便宜的",
+    "cheat": "v. 欺骗",
+    "check": "v. 检查",
+    "cheek": "n. 脸颊",
+    "cheer": "v. 欢呼",
+    "cheese": "n. 奶酪",
+    "chef": "n. 厨师",
+    "chemical": "adj. 化学的",
+    "chemist": "n. 化学家",
+    "chemistry": "n. 化学",
+    "chess": "n. 国际象棋",
+    "chest": "n. 胸部",
+    "chicken": "n. 鸡",
+    "chief": "adj. 主要的",
+    "chocolate": "n. 巧克力",
+    "choice": "n. 选择",
+    "choose": "v. 选择",
+    "chopsticks": "n. 筷子",
+    "church": "n. 教堂",
+    "cigarette": "n. 香烟",
+    "cinema": "n. 电影院",
+    "circle": "n. 圆圈",
+    "circuit": "n. 电路",
+    "circumstance": "n. 环境",
+    "circus": "n. 马戏团",
+    "cite": "v. 引用",
+    "citizen": "n. 公民",
+    "city": "n. 城市",
+    "civil": "adj. 公民的",
+    "civilian": "n. 平民",
+    "claim": "v. 声称",
+    "clap": "v. 鼓掌",
+    "clarify": "v. 澄清",
+    "class": "n. 班级",
+    "classic": "adj. 经典的",
+    "classmate": "n. 同学",
+    "classroom": "n. 教室",
+    "clean": "adj. 干净的",
+    "clear": "adj. 清楚的",
+    "clerk": "n. 职员",
+    "clever": "adj. 聪明的",
+    "click": "v. 点击",
+    "client": "n. 客户",
+    "climate": "n. 气候",
+    "climb": "v. 爬",
+    "clinic": "n. 诊所",
+    "clock": "n. 时钟",
+    "close": "v. 关闭",
+    "cloth": "n. 布",
+    "clothes": "n. 衣服",
+    "cloud": "n. 云",
+    "cloudy": "adj. 多云的",
+    "club": "n. 俱乐部",
+    "clue": "n. 线索",
+    "coach": "n. 教练",
+    "coal": "n. 煤",
+    "coast": "n. 海岸",
+    "coat": "n. 外套",
+    "coffee": "n. 咖啡",
+    "coin": "n. 硬币",
+    "cold": "adj. 冷的",
+    "collapse": "v. 倒塌",
+    "collar": "n. 衣领",
+    "collect": "v. 收集",
+    "collection": "n. 收集",
+    "college": "n. 大学",
+    "column": "n. 专栏",
+    "combine": "v. 结合",
+    "come": "v. 来",
+    "comedy": "n. 喜剧",
+    "comfort": "n. 舒适",
+    "comfortable": "adj. 舒适的",
+    "comic": "n. 漫画",
+    "comment": "n. 评论",
+    "commercial": "adj. 商业的",
+    "commit": "v. 承诺",
+    "commitment": "n. 承诺",
+    "committee": "n. 委员会",
+    "common": "adj. 普通的",
+    "communicate": "v. 交流",
+    "communication": "n. 通信",
+    "communist": "n. 共产主义者",
+    "community": "n. 社区",
+    "company": "n. 公司",
+    "compare": "v. 比较",
+    "competition": "n. 比赛",
+    "complain": "v. 抱怨",
+    "complete": "v. 完成",
+    "complex": "adj. 复杂的",
+    "component": "n. 组成部分",
+    "compose": "v. 组成",
+    "composition": "n. 作文",
+    "comprehension": "n. 理解",
+    "computer": "n. 计算机",
+    "concentrate": "v. 集中",
+    "concept": "n. 概念",
+    "concern": "n. 关心",
+    "concert": "n. 音乐会",
+    "conclude": "v. 结论",
+    "conclusion": "n. 结论",
+    "concrete": "adj. 具体的",
+    "condition": "n. 条件",
+    "conduct": "n. 行为",
+    "conference": "n. 会议",
+    "confidence": "n. 信心",
+    "confirm": "v. 确认",
+    "conflict": "n. 冲突",
+    "confused": "adj. 困惑的",
+    "congratulation": "n. 祝贺",
+    "connect": "v. 连接",
+    "consequence": "n. 结果",
+    "conservation": "n. 保护",
+    "consider": "v. 考虑",
+    "consistent": "adj. 一致的",
+    "constant": "adj. 恒定的",
+    "constitution": "n. 宪法",
+    "construction": "n. 建设",
+    "consultant": "n. 顾问",
+    "consultation": "n. 咨询",
+    "consume": "v. 消费",
+    "consumption": "n. 消费",
+    "contact": "n. 联系",
+    "contain": "v. 包含",
+    "contemporary": "adj. 当代的",
+    "content": "n. 内容",
+    "contest": "n. 比赛",
+    "context": "n. 上下文",
+    "continent": "n. 大陆",
+    "continue": "v. 继续",
+    "contract": "n. 合同",
+    "contradictory": "adj. 矛盾的",
+    "contrary": "adj. 相反的",
+    "contrast": "n. 对比",
+    "contribution": "n. 贡献",
+    "control": "v. 控制",
+    "convenient": "adj. 方便的",
+    "conventional": "adj. 传统的",
+    "conversation": "n. 对话",
+    "convince": "v. 说服",
+    "cook": "v. 烹饪",
+    "cookie": "n. 饼干",
+    "cool": "adj. 凉爽的",
+    "cooperate": "v. 合作",
+    "copy": "v. 复制",
+    "core": "n. 核心",
+    "corn": "n. 玉米",
+    "corner": "n. 角落",
+    "corporate": "adj. 公司的",
+    "correct": "adj. 正确的",
+    "correspond": "v. 对应",
+    "cost": "n. 成本",
+    "costume": "n. 服装",
+    "cottage": "n. 小屋",
+    "cotton": "n. 棉花",
+    "cough": "v. 咳嗽",
+    "could": "aux. 能够",
+    "council": "n. 委员会",
+    "count": "v. 计数",
+    "country": "n. 国家",
+    "countryside": "n. 乡村",
+    "county": "n. 县",
+    "couple": "n. 一对",
+    "courage": "n. 勇气",
+    "course": "n. 课程",
+    "court": "n. 法庭",
+    "cousin": "n. 堂兄",
+    "cover": "v. 覆盖",
+    "coverage": "n. 覆盖",
+    "cow": "n. 牛",
+    "crash": "v. 碰撞",
+    "crayon": "n. 蜡笔",
+    "crazy": "adj. 疯狂的",
+    "cream": "n. 奶油",
+    "create": "v. 创造",
+    "creative": "adj. 有创造力的",
+    "creature": "n. 生物",
+    "credit": "n. 信用",
+    "crew": "n. 船员",
+    "crime": "n. 犯罪",
+    "crisis": "n. 危机",
+    "critical": "adj. 批评的",
+    "crop": "n. 作物",
+    "cross": "v. 交叉",
+    "crowd": "n. 人群",
+    "crucial": "adj. 关键的",
+    "cruel": "adj. 残忍的",
+    "cry": "v. 哭",
+    "cuisine": "n. 烹饪",
+    "culture": "n. 文化",
+    "cup": "n. 杯子",
+    "cupboard": "n. 橱柜",
+    "cure": "v. 治愈",
+    "curious": "adj. 好奇的",
+    "current": "adj. 当前的",
+    "curtain": "n. 窗帘",
+    "custom": "n. 习俗",
+    "customer": "n. 顾客",
+    "cut": "v. 切割",
+    "cute": "adj. 可爱的",
+    "cycle": "n. 周期",
+    "cafeteria": "n. 自助餐厅",
+    "calligraphy": "n. 书法",
+    "calorie": "n. 卡路里（热量单位）",
+    "camel": "n. 骆驼",
+    "canal": "n. 运河，水道，沟渠",
+    "canteen": "n. 食堂，餐厅",
+    "capsule": "n. 胶囊，太空舱",
+    "carve": "v. 雕刻，切割",
+    "cast": "v. 投，扔；选派演员；铸造",
+    "cent": "n. 分（货币单位）",
+    "center": "n. 中心，中央",
+    "chalk": "n. 粉笔",
+    "chew": "v. 咀嚼；嚼碎",
+    "child": "n. 孩子；儿童",
+    "choke": "v. 窒息；呛住 / n. 阻塞",
+    "chorus": "n. 合唱；合唱队；齐声 v. 合唱；齐声说",
+    "clay": "n. 黏土；陶土",
+    "clone": "n. 克隆；复制品 v. 克隆；复制",
+    "color": "n. 颜色；肤色；特色 v. 给……着色（英式）",
+    "compete": "v. 竞争；比赛",
+    "competence": "n. 能力；胜任",
+    "comprehensive": "adj. 全面的；综合的；详尽的",
+    "consist": "v. 由……组成，在于",
+    "cease": "v. 停止；终止",
+    "certainly": "adv. 当然；肯定地",
+    "comparison": "n. 比较；对照",
+    "complicated": "adj. 复杂的；难懂的",
+    "comprise": "v. 包含；由……组成",
+    "confucianism": "n. 儒家思想；儒学",
+    "criterion": "n. 标准；准则；尺度",
+    "criticize": "v. 批评；评论；挑剔",
+    "civilization": "n. 文明；文明社会",
+    "centimeter": "n. 厘米",
+    "Confucianism": "n. 儒家思想，儒家学说"
+  },
+  "POS": {
+    "cabbage": [
+      "n"
+    ],
+    "café": [
+      "n"
+    ],
+    "cage": [
+      "n"
+    ],
+    "cake": [
+      "n"
+    ],
+    "calculate": [
+      "v"
+    ],
+    "calendar": [
+      "n"
+    ],
+    "call": [
+      "v"
+    ],
+    "calm": [
+      "adj"
+    ],
+    "camera": [
+      "n"
+    ],
+    "camp": [
+      "n"
+    ],
+    "campaign": [
+      "n"
+    ],
+    "campus": [
+      "n"
+    ],
+    "cancel": [
+      "v"
+    ],
+    "cancer": [
+      "n"
+    ],
+    "candidate": [
+      "n"
+    ],
+    "candle": [
+      "n"
+    ],
+    "candy": [
+      "n"
+    ],
+    "cap": [
+      "n"
+    ],
+    "capable": [
+      "adj"
+    ],
+    "capacity": [
+      "n"
+    ],
+    "capital": [
+      "n"
+    ],
+    "captain": [
+      "n"
+    ],
+    "car": [
+      "n"
+    ],
+    "carbon": [
+      "n"
+    ],
+    "card": [
+      "n"
+    ],
+    "care": [
+      "v"
+    ],
+    "career": [
+      "n"
+    ],
+    "careful": [
+      "adj"
+    ],
+    "careless": [
+      "adj"
+    ],
+    "carpet": [
+      "n"
+    ],
+    "carrot": [
+      "n"
+    ],
+    "carry": [
+      "v"
+    ],
+    "cartoon": [
+      "n"
+    ],
+    "case": [
+      "n"
+    ],
+    "cash": [
+      "n"
+    ],
+    "castle": [
+      "n"
+    ],
+    "cat": [
+      "n"
+    ],
+    "catch": [
+      "v"
+    ],
+    "category": [
+      "n"
+    ],
+    "cattle": [
+      "n"
+    ],
+    "cause": [
+      "n"
+    ],
+    "cave": [
+      "n"
+    ],
+    "ceiling": [
+      "n"
+    ],
+    "celebrate": [
+      "v"
+    ],
+    "celebrity": [
+      "n"
+    ],
+    "cell": [
+      "n"
+    ],
+    "central": [
+      "adj"
+    ],
+    "century": [
+      "n"
+    ],
+    "certain": [
+      "adj"
+    ],
+    "certificate": [
+      "n"
+    ],
+    "chain": [
+      "n"
+    ],
+    "chair": [
+      "n"
+    ],
+    "chairman": [
+      "n"
+    ],
+    "challenge": [
+      "n",
+      "v"
+    ],
+    "champion": [
+      "n"
+    ],
+    "chance": [
+      "n"
+    ],
+    "change": [
+      "v"
+    ],
+    "channel": [
+      "n"
+    ],
+    "chaos": [
+      "n"
+    ],
+    "chapter": [
+      "n"
+    ],
+    "character": [
+      "n"
+    ],
+    "characteristic": [
+      "n"
+    ],
+    "charge": [
+      "v"
+    ],
+    "charity": [
+      "n"
+    ],
+    "chart": [
+      "n"
+    ],
+    "chat": [
+      "v"
+    ],
+    "cheap": [
+      "adj"
+    ],
+    "cheat": [
+      "v"
+    ],
+    "check": [
+      "v"
+    ],
+    "cheek": [
+      "n"
+    ],
+    "cheer": [
+      "v"
+    ],
+    "cheese": [
+      "n"
+    ],
+    "chef": [
+      "n"
+    ],
+    "chemical": [
+      "adj"
+    ],
+    "chemist": [
+      "n"
+    ],
+    "chemistry": [
+      "n"
+    ],
+    "chess": [
+      "n"
+    ],
+    "chest": [
+      "n"
+    ],
+    "chicken": [
+      "n"
+    ],
+    "chief": [
+      "adj"
+    ],
+    "child (pl. children)": [
+      "n"
+    ],
+    "chocolate": [
+      "n"
+    ],
+    "choice": [
+      "n"
+    ],
+    "choose": [
+      "v"
+    ],
+    "chopsticks": [
+      "n"
+    ],
+    "church": [
+      "n"
+    ],
+    "cigarette": [
+      "n"
+    ],
+    "cinema": [
+      "n"
+    ],
+    "circle": [
+      "n"
+    ],
+    "circuit": [
+      "n"
+    ],
+    "circumstance": [
+      "n"
+    ],
+    "circus": [
+      "n"
+    ],
+    "cite": [
+      "v"
+    ],
+    "citizen": [
+      "n"
+    ],
+    "city": [
+      "n"
+    ],
+    "civil": [
+      "adj"
+    ],
+    "civilian": [
+      "n"
+    ],
+    "civilisation (civilization)": [
+      "n"
+    ],
+    "claim": [
+      "v"
+    ],
+    "clap": [
+      "v"
+    ],
+    "clarify": [
+      "v"
+    ],
+    "class": [
+      "n"
+    ],
+    "classic": [
+      "adj"
+    ],
+    "classmate": [
+      "n"
+    ],
+    "classroom": [
+      "n"
+    ],
+    "clean": [
+      "adj"
+    ],
+    "clear": [
+      "adj"
+    ],
+    "clerk": [
+      "n"
+    ],
+    "clever": [
+      "adj"
+    ],
+    "click": [
+      "v"
+    ],
+    "client": [
+      "n"
+    ],
+    "climate": [
+      "n"
+    ],
+    "climb": [
+      "v"
+    ],
+    "clinic": [
+      "n"
+    ],
+    "clock": [
+      "n"
+    ],
+    "close": [
+      "v"
+    ],
+    "cloth": [
+      "n"
+    ],
+    "clothes": [
+      "n"
+    ],
+    "cloud": [
+      "n"
+    ],
+    "cloudy": [
+      "adj"
+    ],
+    "club": [
+      "n"
+    ],
+    "clue": [
+      "n"
+    ],
+    "coach": [
+      "n"
+    ],
+    "coal": [
+      "n"
+    ],
+    "coast": [
+      "n"
+    ],
+    "coat": [
+      "n"
+    ],
+    "coffee": [
+      "n"
+    ],
+    "coin": [
+      "n"
+    ],
+    "cold": [
+      "adj"
+    ],
+    "collapse": [
+      "v"
+    ],
+    "collar": [
+      "n"
+    ],
+    "collect": [
+      "v"
+    ],
+    "collection": [
+      "n"
+    ],
+    "college": [
+      "n"
+    ],
+    "column": [
+      "n"
+    ],
+    "combine": [
+      "v"
+    ],
+    "come": [
+      "v"
+    ],
+    "comedy": [
+      "n"
+    ],
+    "comfort": [
+      "n"
+    ],
+    "comfortable": [
+      "adj"
+    ],
+    "comic": [
+      "n"
+    ],
+    "comment": [
+      "n"
+    ],
+    "commercial": [
+      "adj"
+    ],
+    "commit": [
+      "v"
+    ],
+    "commitment": [
+      "n"
+    ],
+    "committee": [
+      "n"
+    ],
+    "common": [
+      "adj"
+    ],
+    "communicate": [
+      "v"
+    ],
+    "communication": [
+      "n"
+    ],
+    "communist": [
+      "n"
+    ],
+    "community": [
+      "n"
+    ],
+    "company": [
+      "n"
+    ],
+    "compare": [
+      "v"
+    ],
+    "competition": [
+      "n"
+    ],
+    "complain": [
+      "v"
+    ],
+    "complete": [
+      "v"
+    ],
+    "complex": [
+      "adj"
+    ],
+    "component": [
+      "n"
+    ],
+    "compose": [
+      "v"
+    ],
+    "composition": [
+      "n"
+    ],
+    "comprehension": [
+      "n"
+    ],
+    "computer": [
+      "n"
+    ],
+    "concentrate": [
+      "v"
+    ],
+    "concept": [
+      "n"
+    ],
+    "concern": [
+      "n"
+    ],
+    "concert": [
+      "n"
+    ],
+    "conclude": [
+      "v"
+    ],
+    "conclusion": [
+      "n"
+    ],
+    "concrete": [
+      "adj"
+    ],
+    "condition": [
+      "n"
+    ],
+    "conduct": [
+      "n"
+    ],
+    "conference": [
+      "n"
+    ],
+    "confidence": [
+      "n"
+    ],
+    "confirm": [
+      "v"
+    ],
+    "conflict": [
+      "n"
+    ],
+    "confused": [
+      "adj"
+    ],
+    "congratulation": [
+      "n"
+    ],
+    "connect": [
+      "v"
+    ],
+    "consequence": [
+      "n"
+    ],
+    "conservation": [
+      "n"
+    ],
+    "consider": [
+      "v"
+    ],
+    "consistent": [
+      "adj"
+    ],
+    "constant": [
+      "adj"
+    ],
+    "constitution": [
+      "n"
+    ],
+    "construction": [
+      "n"
+    ],
+    "consultant": [
+      "n"
+    ],
+    "consultation": [
+      "n"
+    ],
+    "consume": [
+      "v"
+    ],
+    "consumption": [
+      "n"
+    ],
+    "contact": [
+      "n"
+    ],
+    "contain": [
+      "v"
+    ],
+    "contemporary": [
+      "adj"
+    ],
+    "content": [
+      "n"
+    ],
+    "contest": [
+      "n"
+    ],
+    "context": [
+      "n"
+    ],
+    "continent": [
+      "n"
+    ],
+    "continue": [
+      "v"
+    ],
+    "contract": [
+      "n"
+    ],
+    "contradictory": [
+      "adj"
+    ],
+    "contrary": [
+      "adj"
+    ],
+    "contrast": [
+      "n"
+    ],
+    "contribution": [
+      "n"
+    ],
+    "control": [
+      "v"
+    ],
+    "convenient": [
+      "adj"
+    ],
+    "conventional": [
+      "adj"
+    ],
+    "conversation": [
+      "n"
+    ],
+    "convince": [
+      "v"
+    ],
+    "cook": [
+      "v"
+    ],
+    "cookie": [
+      "n"
+    ],
+    "cool": [
+      "adj"
+    ],
+    "cooperate": [
+      "v"
+    ],
+    "copy": [
+      "v"
+    ],
+    "core": [
+      "n"
+    ],
+    "corn": [
+      "n"
+    ],
+    "corner": [
+      "n"
+    ],
+    "corporate": [
+      "adj"
+    ],
+    "correct": [
+      "adj"
+    ],
+    "correspond": [
+      "v"
+    ],
+    "cost": [
+      "n"
+    ],
+    "costume": [
+      "n"
+    ],
+    "cottage": [
+      "n"
+    ],
+    "cotton": [
+      "n"
+    ],
+    "cough": [
+      "v"
+    ],
+    "could": [
+      "aux"
+    ],
+    "council": [
+      "n"
+    ],
+    "count": [
+      "v"
+    ],
+    "country": [
+      "n"
+    ],
+    "countryside": [
+      "n"
+    ],
+    "county": [
+      "n"
+    ],
+    "couple": [
+      "n"
+    ],
+    "courage": [
+      "n"
+    ],
+    "course": [
+      "n"
+    ],
+    "court": [
+      "n"
+    ],
+    "cousin": [
+      "n"
+    ],
+    "cover": [
+      "v"
+    ],
+    "coverage": [
+      "n"
+    ],
+    "cow": [
+      "n"
+    ],
+    "crash": [
+      "v"
+    ],
+    "crayon": [
+      "n"
+    ],
+    "crazy": [
+      "adj"
+    ],
+    "cream": [
+      "n"
+    ],
+    "create": [
+      "v"
+    ],
+    "creative": [
+      "adj"
+    ],
+    "creature": [
+      "n"
+    ],
+    "credit": [
+      "n"
+    ],
+    "crew": [
+      "n"
+    ],
+    "crime": [
+      "n"
+    ],
+    "crisis": [
+      "n"
+    ],
+    "criterion (pl. criteria)": [
+      "n"
+    ],
+    "critical": [
+      "adj"
+    ],
+    "criticise (criticize)": [
+      "v"
+    ],
+    "crop": [
+      "n"
+    ],
+    "cross": [
+      "v"
+    ],
+    "crowd": [
+      "n"
+    ],
+    "crucial": [
+      "adj"
+    ],
+    "cruel": [
+      "adj"
+    ],
+    "cry": [
+      "v"
+    ],
+    "cuisine": [
+      "n"
+    ],
+    "culture": [
+      "n"
+    ],
+    "cup": [
+      "n"
+    ],
+    "cupboard": [
+      "n"
+    ],
+    "cure": [
+      "v"
+    ],
+    "curious": [
+      "adj"
+    ],
+    "current": [
+      "adj"
+    ],
+    "curtain": [
+      "n"
+    ],
+    "custom": [
+      "n"
+    ],
+    "customer": [
+      "n"
+    ],
+    "cut": [
+      "v"
+    ],
+    "cute": [
+      "adj"
+    ],
+    "cycle": [
+      "n"
+    ],
+    "cafeteria": [
+      "n"
+    ],
+    "calligraphy": [
+      "n"
+    ],
+    "calorie": [
+      "n"
+    ],
+    "camel": [
+      "n"
+    ],
+    "canal": [
+      "n"
+    ],
+    "canteen": [
+      "n"
+    ],
+    "capsule": [
+      "n"
+    ],
+    "carve": [
+      "v"
+    ],
+    "cast": [
+      "v"
+    ],
+    "cent": [
+      "n"
+    ],
+    "chalk": [
+      "n"
+    ],
+    "chew": [
+      "v"
+    ],
+    "child": [
+      "n"
+    ],
+    "choke": [
+      "v",
+      "n"
+    ],
+    "chorus": [
+      "n",
+      "v"
+    ],
+    "clay": [
+      "n"
+    ],
+    "clone": [
+      "n",
+      "v"
+    ],
+    "compete": [
+      "v"
+    ],
+    "competence": [
+      "n"
+    ],
+    "comprehensive": [
+      "adj"
+    ],
+    "consist": [
+      "v"
+    ],
+    "cease": [
+      "v"
+    ],
+    "certainly": [
+      "adv"
+    ],
+    "comparison": [
+      "n"
+    ],
+    "complicated": [
+      "adj"
+    ],
+    "comprise": [
+      "v"
+    ],
+    "confucianism": [
+      "n"
+    ],
+    "confucius": [
+      "n"
+    ],
+    "criterion": [
+      "n"
+    ],
+    "civilization": [
+      "n"
+    ],
+    "centimeter": [
+      "n"
+    ],
+    "cabbages": [
+      "n"
+    ],
+    "cages": [
+      "n"
+    ],
+    "calculates": [
+      "v"
+    ],
+    "calls": [
+      "v"
+    ],
+    "camps": [
+      "n"
+    ],
+    "cancels": [
+      "v"
+    ],
+    "capacities": [
+      "n"
+    ],
+    "cares": [
+      "v"
+    ],
+    "carries": [
+      "v"
+    ],
+    "carves": [
+      "v"
+    ],
+    "casts": [
+      "v"
+    ],
+    "catches": [
+      "v"
+    ],
+    "categories": [
+      "n"
+    ],
+    "celebrates": [
+      "v"
+    ],
+    "celebrities": [
+      "n"
+    ],
+    "certainlies": [
+      "adv"
+    ],
+    "challenges": [
+      "n",
+      "v"
+    ],
+    "changes": [
+      "v"
+    ],
+    "charges": [
+      "v"
+    ],
+    "charities": [
+      "n"
+    ],
+    "chats": [
+      "v"
+    ],
+    "cheats": [
+      "v"
+    ],
+    "checks": [
+      "v"
+    ],
+    "cheers": [
+      "v"
+    ],
+    "chemists": [
+      "n"
+    ],
+    "cheves": [
+      "n"
+    ],
+    "chews": [
+      "v"
+    ],
+    "children": [
+      "n"
+    ],
+    "chokes": [
+      "v",
+      "n"
+    ],
+    "chooses": [
+      "v"
+    ],
+    "choruses": [
+      "n",
+      "v"
+    ],
+    "cites": [
+      "v"
+    ],
+    "cities": [
+      "n"
+    ],
+    "claps": [
+      "v"
+    ],
+    "clarifies": [
+      "v"
+    ],
+    "clicks": [
+      "v"
+    ],
+    "climbs": [
+      "v"
+    ],
+    "clones": [
+      "n",
+      "v"
+    ],
+    "closes": [
+      "v"
+    ],
+    "coaches": [
+      "n"
+    ],
+    "collections": [
+      "n"
+    ],
+    "collects": [
+      "v"
+    ],
+    "combines": [
+      "v"
+    ],
+    "comes": [
+      "v"
+    ],
+    "comments": [
+      "n"
+    ],
+    "commitments": [
+      "n"
+    ],
+    "commits": [
+      "v"
+    ],
+    "communicates": [
+      "v"
+    ],
+    "communications": [
+      "n"
+    ],
+    "communists": [
+      "n"
+    ],
+    "communities": [
+      "n"
+    ],
+    "compares": [
+      "v"
+    ],
+    "competes": [
+      "v"
+    ],
+    "competitions": [
+      "n"
+    ],
+    "complains": [
+      "v"
+    ],
+    "completes": [
+      "v"
+    ],
+    "composes": [
+      "v"
+    ],
+    "compositions": [
+      "n"
+    ],
+    "comprehensions": [
+      "n"
+    ],
+    "comprises": [
+      "v"
+    ],
+    "concentrates": [
+      "v"
+    ],
+    "concludes": [
+      "v"
+    ],
+    "conclusions": [
+      "n"
+    ],
+    "conditions": [
+      "n"
+    ],
+    "confirms": [
+      "v"
+    ],
+    "connects": [
+      "v"
+    ],
+    "conservations": [
+      "n"
+    ],
+    "considers": [
+      "v"
+    ],
+    "consists": [
+      "v"
+    ],
+    "constitutions": [
+      "n"
+    ],
+    "constructions": [
+      "n"
+    ],
+    "consultations": [
+      "n"
+    ],
+    "consumes": [
+      "v"
+    ],
+    "consumptions": [
+      "n"
+    ],
+    "contains": [
+      "v"
+    ],
+    "contemporaries": [
+      "adj"
+    ],
+    "continues": [
+      "v"
+    ],
+    "contradictories": [
+      "adj"
+    ],
+    "contraries": [
+      "adj"
+    ],
+    "contributions": [
+      "n"
+    ],
+    "controls": [
+      "v"
+    ],
+    "conversations": [
+      "n"
+    ],
+    "convinces": [
+      "v"
+    ],
+    "cooks": [
+      "v"
+    ],
+    "cooperates": [
+      "v"
+    ],
+    "copies": [
+      "v"
+    ],
+    "corresponds": [
+      "v"
+    ],
+    "cottages": [
+      "n"
+    ],
+    "coughs": [
+      "v"
+    ],
+    "counts": [
+      "v"
+    ],
+    "coverages": [
+      "n"
+    ],
+    "covers": [
+      "v"
+    ],
+    "crashes": [
+      "v"
+    ],
+    "creates": [
+      "v"
+    ],
+    "creatures": [
+      "n"
+    ],
+    "cries": [
+      "v"
+    ],
+    "crises": [
+      "n"
+    ],
+    "criteria": [
+      "n"
+    ],
+    "crosses": [
+      "v"
+    ],
+    "cultures": [
+      "n"
+    ],
+    "cures": [
+      "v"
+    ],
+    "cuts": [
+      "v"
+    ],
+    "calculating": [
+      "v"
+    ],
+    "calling": [
+      "v"
+    ],
+    "camping": [
+      "n"
+    ],
+    "canceling": [
+      "v"
+    ],
+    "caring": [
+      "v"
+    ],
+    "carrying": [
+      "v"
+    ],
+    "carving": [
+      "v"
+    ],
+    "casting": [
+      "v"
+    ],
+    "catching": [
+      "v"
+    ],
+    "causing": [
+      "n"
+    ],
+    "celebrating": [
+      "v"
+    ],
+    "certainlying": [
+      "adv"
+    ],
+    "challenging": [
+      "n",
+      "v"
+    ],
+    "changing": [
+      "v"
+    ],
+    "charging": [
+      "v"
+    ],
+    "chatting": [
+      "v"
+    ],
+    "cheating": [
+      "v"
+    ],
+    "checking": [
+      "v"
+    ],
+    "cheering": [
+      "v"
+    ],
+    "chewing": [
+      "v"
+    ],
+    "choking": [
+      "v",
+      "n"
+    ],
+    "choosing": [
+      "v"
+    ],
+    "circling": [
+      "n"
+    ],
+    "citing": [
+      "v"
+    ],
+    "clapping": [
+      "v"
+    ],
+    "clarifying": [
+      "v"
+    ],
+    "cleaning": [
+      "adj"
+    ],
+    "clicking": [
+      "v"
+    ],
+    "climbing": [
+      "v"
+    ],
+    "cloning": [
+      "n",
+      "v"
+    ],
+    "closing": [
+      "v"
+    ],
+    "collapsing": [
+      "v"
+    ],
+    "collecting": [
+      "v"
+    ],
+    "combining": [
+      "v"
+    ],
+    "coming": [
+      "v"
+    ],
+    "committing": [
+      "v"
+    ],
+    "communicating": [
+      "v"
+    ],
+    "comparing": [
+      "v"
+    ],
+    "competing": [
+      "v"
+    ],
+    "complaining": [
+      "v"
+    ],
+    "completing": [
+      "v"
+    ],
+    "composing": [
+      "v"
+    ],
+    "comprising": [
+      "v"
+    ],
+    "concentrating": [
+      "v"
+    ],
+    "concluding": [
+      "v"
+    ],
+    "confirming": [
+      "v"
+    ],
+    "connecting": [
+      "v"
+    ],
+    "considerring": [
+      "v"
+    ],
+    "consuming": [
+      "v"
+    ],
+    "containing": [
+      "v"
+    ],
+    "continueing": [
+      "v"
+    ],
+    "controlling": [
+      "v"
+    ],
+    "convincing": [
+      "v"
+    ],
+    "cooking": [
+      "v"
+    ],
+    "cooperating": [
+      "v"
+    ],
+    "copying": [
+      "v"
+    ],
+    "corresponding": [
+      "v"
+    ],
+    "coughing": [
+      "v"
+    ],
+    "counting": [
+      "v"
+    ],
+    "coverring": [
+      "v"
+    ],
+    "crashing": [
+      "v"
+    ],
+    "creating": [
+      "v"
+    ],
+    "crossing": [
+      "v"
+    ],
+    "crying": [
+      "v"
+    ],
+    "cutting": [
+      "v"
+    ],
+    "calculated": [
+      "v"
+    ],
+    "called": [
+      "v"
+    ],
+    "came": [
+      "v"
+    ],
+    "canceled": [
+      "v"
+    ],
+    "cared": [
+      "v"
+    ],
+    "carried": [
+      "v"
+    ],
+    "carved": [
+      "v"
+    ],
+    "caught": [
+      "v"
+    ],
+    "caused": [
+      "n"
+    ],
+    "ceased": [
+      "v"
+    ],
+    "celebrated": [
+      "v"
+    ],
+    "challenged": [
+      "n",
+      "v"
+    ],
+    "changed": [
+      "v"
+    ],
+    "charged": [
+      "v"
+    ],
+    "chatted": [
+      "v"
+    ],
+    "cheated": [
+      "v"
+    ],
+    "checked": [
+      "v"
+    ],
+    "cheered": [
+      "v"
+    ],
+    "chewed": [
+      "v"
+    ],
+    "choked": [
+      "v",
+      "n"
+    ],
+    "chose": [
+      "v"
+    ],
+    "chosen": [
+      "v"
+    ],
+    "claimed": [
+      "v"
+    ],
+    "clapped": [
+      "v"
+    ],
+    "clarified": [
+      "v"
+    ],
+    "climbed": [
+      "v"
+    ],
+    "closed": [
+      "v"
+    ],
+    "collapsed": [
+      "v"
+    ],
+    "collected": [
+      "v"
+    ],
+    "combined": [
+      "v"
+    ],
+    "committed": [
+      "v"
+    ],
+    "communicated": [
+      "v"
+    ],
+    "compared": [
+      "v"
+    ],
+    "competed": [
+      "v"
+    ],
+    "complained": [
+      "v"
+    ],
+    "completed": [
+      "v"
+    ],
+    "concentrated": [
+      "v"
+    ],
+    "concluded": [
+      "v"
+    ],
+    "confirmed": [
+      "v"
+    ],
+    "connected": [
+      "v"
+    ],
+    "considered": [
+      "v"
+    ],
+    "consisted": [
+      "v"
+    ],
+    "consumed": [
+      "v"
+    ],
+    "contained": [
+      "v"
+    ],
+    "continued": [
+      "v"
+    ],
+    "controlled": [
+      "v"
+    ],
+    "convinced": [
+      "v"
+    ],
+    "cooked": [
+      "v"
+    ],
+    "cooperated": [
+      "v"
+    ],
+    "copied": [
+      "v"
+    ],
+    "coughed": [
+      "v"
+    ],
+    "counted": [
+      "v"
+    ],
+    "covered": [
+      "v"
+    ],
+    "crashed": [
+      "v"
+    ],
+    "created": [
+      "v"
+    ],
+    "cried": [
+      "v"
+    ],
+    "crossed": [
+      "v"
+    ],
+    "cured": [
+      "v"
+    ],
+    "caféer": [
+      "n"
+    ],
+    "cager": [
+      "n"
+    ],
+    "caker": [
+      "n"
+    ],
+    "caller": [
+      "v"
+    ],
+    "calmer": [
+      "adj"
+    ],
+    "cameller": [
+      "n"
+    ],
+    "camper": [
+      "n"
+    ],
+    "canaller": [
+      "n"
+    ],
+    "candier": [
+      "n"
+    ],
+    "capper": [
+      "n"
+    ],
+    "carder": [
+      "n"
+    ],
+    "carer": [
+      "v"
+    ],
+    "carrer": [
+      "n"
+    ],
+    "carrier": [
+      "v"
+    ],
+    "carver": [
+      "v"
+    ],
+    "caser": [
+      "n"
+    ],
+    "casher": [
+      "n"
+    ],
+    "caster": [
+      "v"
+    ],
+    "catcher": [
+      "v"
+    ],
+    "catter": [
+      "n"
+    ],
+    "causer": [
+      "n"
+    ],
+    "caver": [
+      "n"
+    ],
+    "ceaser": [
+      "v"
+    ],
+    "celler": [
+      "n"
+    ],
+    "center": [
+      "n"
+    ],
+    "chainer": [
+      "n"
+    ],
+    "chairer": [
+      "n"
+    ],
+    "chalker": [
+      "n"
+    ],
+    "chaoser": [
+      "n"
+    ],
+    "charter": [
+      "n"
+    ],
+    "chatter": [
+      "v"
+    ],
+    "cheaper": [
+      "adj"
+    ],
+    "cheater": [
+      "v"
+    ],
+    "checker": [
+      "v"
+    ],
+    "cheeker": [
+      "n"
+    ],
+    "cheffer": [
+      "n"
+    ],
+    "chesser": [
+      "n"
+    ],
+    "chewer": [
+      "v"
+    ],
+    "childer": [
+      "n"
+    ],
+    "choker": [
+      "v",
+      "n"
+    ],
+    "citer": [
+      "v"
+    ],
+    "claimer": [
+      "v"
+    ],
+    "clapper": [
+      "v"
+    ],
+    "classer": [
+      "n"
+    ],
+    "clayyer": [
+      "n"
+    ],
+    "cleaner": [
+      "adj"
+    ],
+    "clearer": [
+      "adj"
+    ],
+    "clerker": [
+      "n"
+    ],
+    "clicker": [
+      "v"
+    ],
+    "climber": [
+      "v"
+    ],
+    "clocker": [
+      "n"
+    ],
+    "cloner": [
+      "n",
+      "v"
+    ],
+    "closer": [
+      "v"
+    ],
+    "clother": [
+      "n"
+    ],
+    "clouder": [
+      "n"
+    ],
+    "clubber": [
+      "n"
+    ],
+    "cluer": [
+      "n"
+    ],
+    "coacher": [
+      "n"
+    ],
+    "coaler": [
+      "n"
+    ],
+    "coaster": [
+      "n"
+    ],
+    "coater": [
+      "n"
+    ],
+    "coiner": [
+      "n"
+    ],
+    "colder": [
+      "adj"
+    ],
+    "comer": [
+      "v"
+    ],
+    "comiccer": [
+      "n"
+    ],
+    "cooker": [
+      "v"
+    ],
+    "cooler": [
+      "adj"
+    ],
+    "copier": [
+      "v"
+    ],
+    "corer": [
+      "n"
+    ],
+    "coster": [
+      "n"
+    ],
+    "cougher": [
+      "v"
+    ],
+    "coulder": [
+      "aux"
+    ],
+    "counter": [
+      "v"
+    ],
+    "courter": [
+      "n"
+    ],
+    "cower": [
+      "n"
+    ],
+    "crasher": [
+      "v"
+    ],
+    "crazier": [
+      "adj"
+    ],
+    "creamer": [
+      "n"
+    ],
+    "crewer": [
+      "n"
+    ],
+    "crier": [
+      "v"
+    ],
+    "crimer": [
+      "n"
+    ],
+    "cropper": [
+      "n"
+    ],
+    "crosser": [
+      "v"
+    ],
+    "crowder": [
+      "n"
+    ],
+    "crueler": [
+      "adj"
+    ],
+    "cupper": [
+      "n"
+    ],
+    "cuter": [
+      "adj"
+    ],
+    "cycler": [
+      "n"
+    ],
+    "caféest": [
+      "n"
+    ],
+    "cagest": [
+      "n"
+    ],
+    "cakest": [
+      "n"
+    ],
+    "callest": [
+      "v"
+    ],
+    "calmest": [
+      "adj"
+    ],
+    "camellest": [
+      "n"
+    ],
+    "campest": [
+      "n"
+    ],
+    "canallest": [
+      "n"
+    ],
+    "candiest": [
+      "n"
+    ],
+    "cappest": [
+      "n"
+    ],
+    "cardest": [
+      "n"
+    ],
+    "carest": [
+      "v"
+    ],
+    "carrest": [
+      "n"
+    ],
+    "carriest": [
+      "v"
+    ],
+    "carvest": [
+      "v"
+    ],
+    "casest": [
+      "n"
+    ],
+    "cashest": [
+      "n"
+    ],
+    "castest": [
+      "v"
+    ],
+    "catchest": [
+      "v"
+    ],
+    "cattest": [
+      "n"
+    ],
+    "causest": [
+      "n"
+    ],
+    "cavest": [
+      "n"
+    ],
+    "ceasest": [
+      "v"
+    ],
+    "cellest": [
+      "n"
+    ],
+    "centest": [
+      "n"
+    ],
+    "chainest": [
+      "n"
+    ],
+    "chairest": [
+      "n"
+    ],
+    "chalkest": [
+      "n"
+    ],
+    "chaosest": [
+      "n"
+    ],
+    "chartest": [
+      "n"
+    ],
+    "chattest": [
+      "v"
+    ],
+    "cheapest": [
+      "adj"
+    ],
+    "cheatest": [
+      "v"
+    ],
+    "checkest": [
+      "v"
+    ],
+    "cheekest": [
+      "n"
+    ],
+    "cheffest": [
+      "n"
+    ],
+    "chessest": [
+      "n"
+    ],
+    "chewest": [
+      "v"
+    ],
+    "childest": [
+      "n"
+    ],
+    "chokest": [
+      "v",
+      "n"
+    ],
+    "citest": [
+      "v"
+    ],
+    "claimest": [
+      "v"
+    ],
+    "clappest": [
+      "v"
+    ],
+    "classest": [
+      "n"
+    ],
+    "clayyest": [
+      "n"
+    ],
+    "cleanest": [
+      "adj"
+    ],
+    "clearest": [
+      "adj"
+    ],
+    "clerkest": [
+      "n"
+    ],
+    "clickest": [
+      "v"
+    ],
+    "climbest": [
+      "v"
+    ],
+    "clockest": [
+      "n"
+    ],
+    "clonest": [
+      "n",
+      "v"
+    ],
+    "closest": [
+      "v"
+    ],
+    "clothest": [
+      "n"
+    ],
+    "cloudest": [
+      "n"
+    ],
+    "clubbest": [
+      "n"
+    ],
+    "cluest": [
+      "n"
+    ],
+    "coachest": [
+      "n"
+    ],
+    "coalest": [
+      "n"
+    ],
+    "coastest": [
+      "n"
+    ],
+    "coatest": [
+      "n"
+    ],
+    "coinest": [
+      "n"
+    ],
+    "coldest": [
+      "adj"
+    ],
+    "comest": [
+      "v"
+    ],
+    "comiccest": [
+      "n"
+    ],
+    "cookest": [
+      "v"
+    ],
+    "coolest": [
+      "adj"
+    ],
+    "copiest": [
+      "v"
+    ],
+    "corest": [
+      "n"
+    ],
+    "cornest": [
+      "n"
+    ],
+    "costest": [
+      "n"
+    ],
+    "coughest": [
+      "v"
+    ],
+    "couldest": [
+      "aux"
+    ],
+    "countest": [
+      "v"
+    ],
+    "courtest": [
+      "n"
+    ],
+    "cowest": [
+      "n"
+    ],
+    "crashest": [
+      "v"
+    ],
+    "craziest": [
+      "adj"
+    ],
+    "creamest": [
+      "n"
+    ],
+    "crewest": [
+      "n"
+    ],
+    "criest": [
+      "v"
+    ],
+    "crimest": [
+      "n"
+    ],
+    "croppest": [
+      "n"
+    ],
+    "crossest": [
+      "v"
+    ],
+    "crowdest": [
+      "n"
+    ],
+    "cruelest": [
+      "adj"
+    ],
+    "cuppest": [
+      "n"
+    ],
+    "cutest": [
+      "adj"
+    ],
+    "cyclest": [
+      "n"
+    ],
+    "Confucianism": [
+      "n"
+    ]
+  }
+}

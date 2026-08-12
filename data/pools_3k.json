@@ -1,0 +1,9349 @@
+{
+  "BASE": [
+    "abandon",
+    "ability",
+    "able",
+    "abnormal",
+    "aboard",
+    "abroad",
+    "absence",
+    "absent",
+    "absolutely",
+    "absorb",
+    "abstract",
+    "abuse",
+    "academic",
+    "accent",
+    "accept",
+    "access",
+    "accident",
+    "accommodation",
+    "accompany",
+    "account",
+    "accurate",
+    "accuse",
+    "ache",
+    "achieve",
+    "achievement",
+    "acid",
+    "acknowledge",
+    "acquire",
+    "act",
+    "action",
+    "active",
+    "activity",
+    "actor",
+    "actress",
+    "actually",
+    "adapt",
+    "adaptation",
+    "add",
+    "addict",
+    "addition",
+    "address",
+    "adjust",
+    "administration",
+    "admire",
+    "admit",
+    "adopt",
+    "adorable",
+    "adult",
+    "advance",
+    "advantage",
+    "adventure",
+    "advertise",
+    "advice",
+    "advise",
+    "advocate",
+    "affair",
+    "affect",
+    "afford",
+    "afraid",
+    "afternoon",
+    "afterward",
+    "again",
+    "age",
+    "agency",
+    "agenda",
+    "ago",
+    "agree",
+    "agreement",
+    "agriculture",
+    "ahead",
+    "aid",
+    "aim",
+    "air",
+    "airline",
+    "airport",
+    "alarm",
+    "alcohol",
+    "alive",
+    "allow",
+    "almost",
+    "alone",
+    "aloud",
+    "already",
+    "also",
+    "alter",
+    "alternative",
+    "altogether",
+    "always",
+    "amateur",
+    "amazing",
+    "ambition",
+    "ambitious",
+    "ambulance",
+    "amount",
+    "amuse",
+    "analyze",
+    "ancestor",
+    "ancient",
+    "anger",
+    "angle",
+    "angry",
+    "animal",
+    "ankle",
+    "announce",
+    "annoy",
+    "annual",
+    "answer",
+    "ant",
+    "anticipate",
+    "antique",
+    "anxiety",
+    "anxious",
+    "anyhow",
+    "anyway",
+    "anywhere",
+    "apart",
+    "apartment",
+    "apparently",
+    "appeal",
+    "appear",
+    "appetite",
+    "applaud",
+    "apple",
+    "applicant",
+    "application",
+    "apply",
+    "appointment",
+    "appreciate",
+    "approach",
+    "appropriate",
+    "approve",
+    "arch",
+    "architect",
+    "area",
+    "argue",
+    "arise",
+    "arm",
+    "army",
+    "arrangement",
+    "arrest",
+    "arrive",
+    "arrow",
+    "art",
+    "article",
+    "artificial",
+    "artist",
+    "ashamed",
+    "aside",
+    "ask",
+    "asleep",
+    "aspect",
+    "assess",
+    "assign",
+    "assistant",
+    "association",
+    "assume",
+    "assumption",
+    "astonish",
+    "astronaut",
+    "astronomer",
+    "athlete",
+    "atmosphere",
+    "attach",
+    "attack",
+    "attain",
+    "attempt",
+    "attend",
+    "attention",
+    "attitude",
+    "attract",
+    "audience",
+    "aunt",
+    "author",
+    "authority",
+    "automatic",
+    "autonomous",
+    "autumn",
+    "available",
+    "average",
+    "avoid",
+    "awake",
+    "award",
+    "aware",
+    "away",
+    "awesome",
+    "awful",
+    "awkward",
+    "baby",
+    "back",
+    "background",
+    "backward",
+    "bacon",
+    "bad",
+    "badminton",
+    "bag",
+    "bakery",
+    "balance",
+    "ball",
+    "ballet",
+    "balloon",
+    "bamboo",
+    "ban",
+    "banana",
+    "band",
+    "bank",
+    "bar",
+    "barbecue",
+    "barely",
+    "bark",
+    "barrier",
+    "base",
+    "baseball",
+    "basic",
+    "basin",
+    "basis",
+    "basket",
+    "basketball",
+    "bat",
+    "bath",
+    "bathroom",
+    "battery",
+    "battle",
+    "bay",
+    "beach",
+    "bean",
+    "bear",
+    "beard",
+    "beat",
+    "beautiful",
+    "beauty",
+    "become",
+    "bed",
+    "bedroom",
+    "beef",
+    "beer",
+    "begin",
+    "behalf",
+    "behave",
+    "behavior",
+    "belief",
+    "believe",
+    "bell",
+    "belong",
+    "belt",
+    "bend",
+    "benefit",
+    "best",
+    "bet",
+    "better",
+    "big",
+    "bike",
+    "bill",
+    "billion",
+    "biology",
+    "bird",
+    "birth",
+    "birthday",
+    "biscuit",
+    "bit",
+    "bite",
+    "bitter",
+    "black",
+    "blackboard",
+    "blame",
+    "blank",
+    "blanket",
+    "bleed",
+    "bless",
+    "blind",
+    "block",
+    "blog",
+    "blood",
+    "blouse",
+    "blow",
+    "blue",
+    "board",
+    "boat",
+    "body",
+    "boil",
+    "bomb",
+    "bond",
+    "bone",
+    "bonus",
+    "book",
+    "boost",
+    "boot",
+    "border",
+    "bored",
+    "boring",
+    "born",
+    "borrow",
+    "boss",
+    "botanical",
+    "bother",
+    "bottle",
+    "bottom",
+    "bounce",
+    "bound",
+    "boundary",
+    "bow",
+    "bowl",
+    "bowling",
+    "box",
+    "boxing",
+    "boy",
+    "brain",
+    "branch",
+    "brave",
+    "bread",
+    "break",
+    "breakfast",
+    "breast",
+    "breath",
+    "breathe",
+    "brick",
+    "bridge",
+    "brief",
+    "bright",
+    "brilliant",
+    "bring",
+    "broad",
+    "broadcast",
+    "brochure",
+    "brother",
+    "brown",
+    "brush",
+    "budget",
+    "buffet",
+    "build",
+    "building",
+    "bunch",
+    "burn",
+    "bury",
+    "bus",
+    "business",
+    "busy",
+    "butcher",
+    "butter",
+    "button",
+    "buy",
+    "cabbage",
+    "cafeteria",
+    "café",
+    "cage",
+    "cake",
+    "calculate",
+    "calendar",
+    "call",
+    "calligraphy",
+    "calm",
+    "calorie",
+    "camel",
+    "camera",
+    "camp",
+    "campaign",
+    "campus",
+    "can",
+    "canal",
+    "cancel",
+    "cancer",
+    "candidate",
+    "candle",
+    "candy",
+    "canteen",
+    "cap",
+    "capable",
+    "capacity",
+    "capital",
+    "capsule",
+    "captain",
+    "car",
+    "carbon",
+    "card",
+    "care",
+    "career",
+    "careful",
+    "careless",
+    "carpet",
+    "carrot",
+    "carry",
+    "cartoon",
+    "carve",
+    "case",
+    "cash",
+    "cast",
+    "castle",
+    "cat",
+    "catch",
+    "category",
+    "cattle",
+    "cause",
+    "cave",
+    "cease",
+    "ceiling",
+    "celebrate",
+    "celebrity",
+    "cell",
+    "cent",
+    "center",
+    "centimeter",
+    "central",
+    "century",
+    "certain",
+    "certainly",
+    "certificate",
+    "chain",
+    "chair",
+    "chairman",
+    "chalk",
+    "challenge",
+    "champion",
+    "chance",
+    "change",
+    "channel",
+    "chaos",
+    "chapter",
+    "character",
+    "characteristic",
+    "charge",
+    "charity",
+    "chart",
+    "chat",
+    "cheap",
+    "cheat",
+    "check",
+    "cheek",
+    "cheer",
+    "cheese",
+    "chef",
+    "chemical",
+    "chemist",
+    "chemistry",
+    "chess",
+    "chest",
+    "chew",
+    "chicken",
+    "chief",
+    "child",
+    "chocolate",
+    "choice",
+    "choke",
+    "choose",
+    "chopsticks",
+    "chorus",
+    "church",
+    "cigarette",
+    "cinema",
+    "circle",
+    "circuit",
+    "circumstance",
+    "circus",
+    "cite",
+    "citizen",
+    "city",
+    "civil",
+    "civilian",
+    "civilization",
+    "claim",
+    "clap",
+    "clarify",
+    "class",
+    "classic",
+    "classmate",
+    "classroom",
+    "clay",
+    "clean",
+    "clear",
+    "clerk",
+    "clever",
+    "click",
+    "client",
+    "climate",
+    "climb",
+    "clinic",
+    "clock",
+    "clone",
+    "close",
+    "cloth",
+    "clothes",
+    "cloud",
+    "cloudy",
+    "club",
+    "clue",
+    "coach",
+    "coal",
+    "coast",
+    "coat",
+    "coffee",
+    "coin",
+    "cold",
+    "collapse",
+    "collar",
+    "collect",
+    "collection",
+    "college",
+    "color",
+    "column",
+    "combine",
+    "come",
+    "comedy",
+    "comfort",
+    "comfortable",
+    "comic",
+    "comment",
+    "commercial",
+    "commit",
+    "commitment",
+    "committee",
+    "common",
+    "communicate",
+    "communication",
+    "communist",
+    "community",
+    "company",
+    "compare",
+    "comparison",
+    "compete",
+    "competence",
+    "competition",
+    "complain",
+    "complete",
+    "complex",
+    "complicated",
+    "component",
+    "compose",
+    "composition",
+    "comprehension",
+    "comprehensive",
+    "comprise",
+    "computer",
+    "concentrate",
+    "concept",
+    "concern",
+    "concert",
+    "conclude",
+    "conclusion",
+    "concrete",
+    "condition",
+    "conduct",
+    "conference",
+    "confidence",
+    "confirm",
+    "conflict",
+    "confucianism",
+    "confused",
+    "congratulation",
+    "connect",
+    "consequence",
+    "conservation",
+    "consider",
+    "consist",
+    "consistent",
+    "constant",
+    "constitution",
+    "construction",
+    "consultant",
+    "consultation",
+    "consume",
+    "consumption",
+    "contact",
+    "contain",
+    "contemporary",
+    "content",
+    "contest",
+    "context",
+    "continent",
+    "continue",
+    "contract",
+    "contradictory",
+    "contrary",
+    "contrast",
+    "contribution",
+    "control",
+    "convenient",
+    "conventional",
+    "conversation",
+    "convince",
+    "cook",
+    "cookie",
+    "cool",
+    "cooperate",
+    "copy",
+    "core",
+    "corn",
+    "corner",
+    "corporate",
+    "correct",
+    "correspond",
+    "cost",
+    "costume",
+    "cottage",
+    "cotton",
+    "cough",
+    "could",
+    "council",
+    "count",
+    "country",
+    "countryside",
+    "county",
+    "couple",
+    "courage",
+    "course",
+    "court",
+    "cousin",
+    "cover",
+    "coverage",
+    "cow",
+    "crash",
+    "crayon",
+    "crazy",
+    "cream",
+    "create",
+    "creative",
+    "creature",
+    "credit",
+    "crew",
+    "crime",
+    "crisis",
+    "criterion",
+    "critical",
+    "criticize",
+    "crop",
+    "cross",
+    "crowd",
+    "crucial",
+    "cruel",
+    "cry",
+    "cuisine",
+    "culture",
+    "cup",
+    "cupboard",
+    "cure",
+    "curious",
+    "current",
+    "curtain",
+    "custom",
+    "customer",
+    "cut",
+    "cute",
+    "cycle"
+  ],
+  "PLURAL": [
+    "Confucianisms",
+    "Confuciuses",
+    "a.m.s",
+    "abandons",
+    "abilities",
+    "ables",
+    "abnormals",
+    "aboards",
+    "abroads",
+    "absences",
+    "absents",
+    "absolutelies",
+    "absorbs",
+    "abstracts",
+    "abuses",
+    "academics",
+    "accents",
+    "accepts",
+    "accesses",
+    "accidents",
+    "accommodations",
+    "accompanies",
+    "accounts",
+    "accurates",
+    "accuses",
+    "aches",
+    "achievements",
+    "achieves",
+    "acids",
+    "acknowledges",
+    "acquires",
+    "actions",
+    "actives",
+    "activities",
+    "actors",
+    "actresses",
+    "acts",
+    "actuallies",
+    "adaptations",
+    "adapts",
+    "addicts",
+    "additions",
+    "addresses",
+    "adds",
+    "adjusts",
+    "administrations",
+    "admires",
+    "admits",
+    "adopts",
+    "adorables",
+    "adults",
+    "advances",
+    "advantages",
+    "adventures",
+    "advertises",
+    "advices",
+    "advises",
+    "advocates",
+    "affairs",
+    "affects",
+    "affords",
+    "afraids",
+    "afternoons",
+    "afterwards",
+    "agains",
+    "agencies",
+    "agendas",
+    "ages",
+    "agoes",
+    "agreements",
+    "agrees",
+    "agricultures",
+    "aheads",
+    "aids",
+    "aims",
+    "airlines",
+    "airports",
+    "airs",
+    "alarms",
+    "alcohols",
+    "alives",
+    "allows",
+    "alones",
+    "alouds",
+    "alsoes",
+    "alternatives",
+    "alumni",
+    "alwayses",
+    "amateurs",
+    "amazings",
+    "ambitions",
+    "ambitiouses",
+    "ambulances",
+    "amounts",
+    "amuses",
+    "analyses",
+    "ancestors",
+    "ancients",
+    "angers",
+    "angles",
+    "angries",
+    "animals",
+    "ankles",
+    "announces",
+    "annoys",
+    "annuals",
+    "answers",
+    "anticipates",
+    "antiques",
+    "ants",
+    "anxieties",
+    "anxiouses",
+    "anyhows",
+    "anyways",
+    "anywheres",
+    "apartments",
+    "aparts",
+    "appeals",
+    "appears",
+    "appendices",
+    "appetites",
+    "applauds",
+    "apples",
+    "applicants",
+    "applications",
+    "applies",
+    "appointments",
+    "appreciates",
+    "approaches",
+    "appropriates",
+    "approves",
+    "arches",
+    "architects",
+    "areas",
+    "argues",
+    "arises",
+    "armies",
+    "arms",
+    "arrangements",
+    "arrests",
+    "arrives",
+    "arrows",
+    "articles",
+    "artificials",
+    "artists",
+    "arts",
+    "ashameds",
+    "asides",
+    "asks",
+    "asleeps",
+    "aspects",
+    "assesses",
+    "assigns",
+    "assistants",
+    "associations",
+    "assumes",
+    "assumptions",
+    "astonishes",
+    "astronauts",
+    "astronomers",
+    "athletes",
+    "atmospheres",
+    "attaches",
+    "attacks",
+    "attains",
+    "attempts",
+    "attends",
+    "attentions",
+    "attitudes",
+    "attracts",
+    "audiences",
+    "aunts",
+    "authorities",
+    "authors",
+    "automatics",
+    "autonomouses",
+    "autumns",
+    "availables",
+    "averages",
+    "avoids",
+    "awakes",
+    "awards",
+    "awares",
+    "aways",
+    "awesomes",
+    "awfuls",
+    "awkwards",
+    "babies",
+    "backgrounds",
+    "backs",
+    "backwards",
+    "bacons",
+    "badmintons",
+    "bads",
+    "bags",
+    "bakeries",
+    "balances",
+    "ballets",
+    "balloons",
+    "balls",
+    "bamboos",
+    "bananas",
+    "bands",
+    "banks",
+    "bans",
+    "barbecues",
+    "barelies",
+    "barks",
+    "barriers",
+    "bars",
+    "baseballs",
+    "bases",
+    "basics",
+    "basins",
+    "basketballs",
+    "baskets",
+    "bathrooms",
+    "baths",
+    "bats",
+    "batteries",
+    "battles",
+    "bays",
+    "beaches",
+    "beans",
+    "beards",
+    "bears",
+    "beats",
+    "beauties",
+    "beautifuls",
+    "becomes",
+    "bedrooms",
+    "beds",
+    "beers",
+    "beeves",
+    "begins",
+    "behalves",
+    "behaves",
+    "behaviours",
+    "believes",
+    "bells",
+    "belongs",
+    "belts",
+    "bends",
+    "benefits",
+    "bests",
+    "bets",
+    "betters",
+    "bigs",
+    "bikes",
+    "billions",
+    "bills",
+    "biologies",
+    "birds",
+    "birthdays",
+    "births",
+    "biscuits",
+    "bites",
+    "bits",
+    "bitters",
+    "blackboards",
+    "blacks",
+    "blames",
+    "blankets",
+    "blanks",
+    "bleeds",
+    "blesses",
+    "blinds",
+    "blocks",
+    "blogs",
+    "bloods",
+    "blouses",
+    "blows",
+    "blues",
+    "boards",
+    "boats",
+    "bodies",
+    "boils",
+    "bombs",
+    "bonds",
+    "bones",
+    "bonuses",
+    "books",
+    "boosts",
+    "boots",
+    "borders",
+    "boreds",
+    "borings",
+    "borns",
+    "borrows",
+    "bosses",
+    "botanicals",
+    "bothers",
+    "bottles",
+    "bottoms",
+    "bounces",
+    "boundaries",
+    "bounds",
+    "bowlings",
+    "bowls",
+    "bows",
+    "boxes",
+    "boxings",
+    "boys",
+    "brains",
+    "branches",
+    "braves",
+    "breads",
+    "breakfasts",
+    "breaks",
+    "breasts",
+    "breathes",
+    "breaths",
+    "bricks",
+    "bridges",
+    "brieves",
+    "brights",
+    "brilliants",
+    "brings",
+    "broadcasts",
+    "broads",
+    "brochures",
+    "brothers",
+    "browns",
+    "brushes",
+    "budgets",
+    "buffets",
+    "buildings",
+    "builds",
+    "bunches",
+    "buries",
+    "burns",
+    "buses",
+    "busies",
+    "businesses",
+    "butchers",
+    "butters",
+    "buttons",
+    "buys",
+    "cabbages",
+    "cacti",
+    "cafeterias",
+    "cafés",
+    "cages",
+    "cakes",
+    "calculates",
+    "calendars",
+    "calligraphies",
+    "calls",
+    "calms",
+    "calories",
+    "camels",
+    "cameras",
+    "campaigns",
+    "camps",
+    "campuses",
+    "canals",
+    "cancels",
+    "cancers",
+    "candidates",
+    "candies",
+    "candles",
+    "cans",
+    "canteens",
+    "capables",
+    "capacities",
+    "capitals",
+    "caps",
+    "capsules",
+    "captains",
+    "carbons",
+    "cards",
+    "careers",
+    "carefuls",
+    "carelesses",
+    "cares",
+    "carpets",
+    "carries",
+    "carrots",
+    "cars",
+    "cartoons",
+    "carves",
+    "cases",
+    "cashes",
+    "castles",
+    "casts",
+    "catches",
+    "categories",
+    "cats",
+    "cattles",
+    "causes",
+    "caves",
+    "ceases",
+    "ceilings",
+    "celebrates",
+    "celebrities",
+    "cells",
+    "centimetre (centimeter)s",
+    "centimetres",
+    "centrals",
+    "centre (center)s",
+    "centres",
+    "cents",
+    "centuries",
+    "certainlies",
+    "certains",
+    "certificates",
+    "chains",
+    "chairman / chairwomans",
+    "chairs",
+    "chalks",
+    "challenges",
+    "champions",
+    "chances",
+    "changes",
+    "channels",
+    "chaoses",
+    "chapters",
+    "characteristics",
+    "characters",
+    "charges",
+    "charities",
+    "charts",
+    "chats",
+    "cheaps",
+    "cheats",
+    "checks",
+    "cheeks",
+    "cheers",
+    "cheeses",
+    "chemicals",
+    "chemistries",
+    "chemists",
+    "chesses",
+    "chests",
+    "cheves",
+    "chews",
+    "chickens",
+    "chieves",
+    "child (pl. children)s",
+    "children",
+    "chocolates",
+    "choices",
+    "chokes",
+    "chooses",
+    "chopstickses",
+    "choruses",
+    "churches",
+    "cigarettes",
+    "cinemas",
+    "circles",
+    "circuits",
+    "circumstances",
+    "circuses",
+    "cites",
+    "cities",
+    "citizens",
+    "civilians",
+    "civilisation (civilization)s",
+    "civilisations",
+    "civils",
+    "claims",
+    "claps",
+    "clarifies",
+    "classes",
+    "classics",
+    "classmates",
+    "classrooms",
+    "clays",
+    "cleans",
+    "clears",
+    "clerks",
+    "clevers",
+    "clicks",
+    "clients",
+    "climates",
+    "climbs",
+    "clinics",
+    "clocks",
+    "clones",
+    "closes",
+    "clotheses",
+    "cloths",
+    "cloudies",
+    "clouds",
+    "clubs",
+    "clues",
+    "coaches",
+    "coals",
+    "coasts",
+    "coats",
+    "coffees",
+    "coins",
+    "colds",
+    "collapses",
+    "collars",
+    "collections",
+    "collects",
+    "colleges",
+    "colour (color)s",
+    "colours",
+    "columns",
+    "combines",
+    "comedies",
+    "comes",
+    "comfortables",
+    "comforts",
+    "comics",
+    "comments",
+    "commercials",
+    "commitments",
+    "commits",
+    "committees",
+    "commons",
+    "communicates",
+    "communications",
+    "communists",
+    "communities",
+    "companies",
+    "compares",
+    "comparisons",
+    "competences",
+    "competes",
+    "competitions",
+    "complains",
+    "completes",
+    "complexes",
+    "complicateds",
+    "components",
+    "composes",
+    "compositions",
+    "comprehensions",
+    "comprehensives",
+    "comprises",
+    "computers",
+    "concentrates",
+    "concepts",
+    "concerns",
+    "concerts",
+    "concludes",
+    "conclusions",
+    "concretes",
+    "conditions",
+    "conducts",
+    "conferences",
+    "confidences",
+    "confirms",
+    "conflicts",
+    "confucianisms",
+    "confuciuses",
+    "confuseds",
+    "congratulations",
+    "connects",
+    "consequences",
+    "conservations",
+    "considers",
+    "consistents",
+    "consists",
+    "constants",
+    "constitutions",
+    "constructions",
+    "consultants",
+    "consultations",
+    "consumes",
+    "consumptions",
+    "contacts",
+    "contains",
+    "contemporaries",
+    "contents",
+    "contests",
+    "contexts",
+    "continents",
+    "continues",
+    "contracts",
+    "contradictories",
+    "contraries",
+    "contrasts",
+    "contributions",
+    "controls",
+    "convenients",
+    "conventionals",
+    "conversations",
+    "convinces",
+    "cookies",
+    "cooks",
+    "cools",
+    "cooperates",
+    "copies",
+    "cores",
+    "corners",
+    "corns",
+    "corporates",
+    "corrects",
+    "corresponds",
+    "costs",
+    "costumes",
+    "cottages",
+    "cottons",
+    "coughs",
+    "coulds",
+    "councils",
+    "counties",
+    "countries",
+    "countrysides",
+    "counts",
+    "couples",
+    "courages",
+    "courses",
+    "courts",
+    "cousins",
+    "coverages",
+    "covers",
+    "cows",
+    "crashes",
+    "crayons",
+    "crazies",
+    "creams",
+    "creates",
+    "creatives",
+    "creatures",
+    "credits",
+    "crews",
+    "cries",
+    "crimes",
+    "crises",
+    "criteria",
+    "criterion (pl. criteria)s",
+    "criticals",
+    "criticise (criticize)s",
+    "criticises",
+    "crops",
+    "crosses",
+    "crowds",
+    "crucials",
+    "cruels",
+    "cuisines",
+    "cultures",
+    "cupboards",
+    "cups",
+    "cures",
+    "curiouses",
+    "currents",
+    "curtains",
+    "customers",
+    "customs",
+    "cutes",
+    "cuts",
+    "cycles"
+  ],
+  "THIRD": [
+    "abandons",
+    "absolutelies",
+    "absorbs",
+    "abuses",
+    "accepts",
+    "accesses",
+    "accounts",
+    "achieves",
+    "acknowledges",
+    "acquires",
+    "acts",
+    "actuallies",
+    "adapts",
+    "addicts",
+    "addresses",
+    "adds",
+    "adjusts",
+    "admires",
+    "admits",
+    "adopts",
+    "advances",
+    "advertises",
+    "advises",
+    "advocates",
+    "affects",
+    "affords",
+    "afterwards",
+    "agains",
+    "agoes",
+    "agrees",
+    "aheads",
+    "aids",
+    "aims",
+    "airs",
+    "alarms",
+    "allows",
+    "alones",
+    "alouds",
+    "alsoes",
+    "alwayses",
+    "amazes",
+    "amounts",
+    "amuses",
+    "analyzes",
+    "angers",
+    "announces",
+    "annoys",
+    "answers",
+    "anticipates",
+    "anyhows",
+    "anyways",
+    "anywheres",
+    "aparts",
+    "apologizes",
+    "appeals",
+    "appears",
+    "applauds",
+    "applies",
+    "appoints",
+    "appreciates",
+    "approves",
+    "argues",
+    "arises",
+    "arrests",
+    "arrives",
+    "asides",
+    "asks",
+    "assesses",
+    "assigns",
+    "assumes",
+    "assures",
+    "astonishes",
+    "attaches",
+    "attacks",
+    "attains",
+    "attempts",
+    "attends",
+    "attracts",
+    "avoids",
+    "awakes",
+    "awards",
+    "aways",
+    "backs",
+    "backwards",
+    "balances",
+    "bans",
+    "barelies",
+    "barks",
+    "bears",
+    "beats",
+    "becomes",
+    "begins",
+    "behaves",
+    "believes",
+    "belongs",
+    "bends",
+    "benefits",
+    "bets",
+    "bits",
+    "blames",
+    "bleeds",
+    "blesses",
+    "blooms",
+    "blows",
+    "boards",
+    "boils",
+    "books",
+    "borrows",
+    "bothers",
+    "breaks",
+    "breathes",
+    "bridges",
+    "brings",
+    "broadcasts",
+    "brushes",
+    "builds",
+    "buries",
+    "burns",
+    "buys",
+    "calculates",
+    "calls",
+    "camps",
+    "cancels",
+    "cares",
+    "carries",
+    "carves",
+    "casts",
+    "catches",
+    "celebrates",
+    "certainlies",
+    "challenges",
+    "changes",
+    "charges",
+    "chats",
+    "cheats",
+    "checks",
+    "cheers",
+    "chews",
+    "chokes",
+    "chooses",
+    "choruses",
+    "cites",
+    "claps",
+    "clarifies",
+    "clicks",
+    "climbs",
+    "clones",
+    "closes",
+    "coaches",
+    "collapses",
+    "collects",
+    "combines",
+    "comes",
+    "commits",
+    "communicates",
+    "compares",
+    "competes",
+    "complains",
+    "completes",
+    "composes",
+    "comprises",
+    "concentrates",
+    "concludes",
+    "confirms",
+    "connects",
+    "considers",
+    "consumes",
+    "contains",
+    "continues",
+    "controls",
+    "convinces",
+    "cooks",
+    "cooperates",
+    "copies",
+    "corresponds",
+    "coughs",
+    "counts",
+    "covers",
+    "crashes",
+    "creates",
+    "cries",
+    "criticizes",
+    "crosses",
+    "cuts"
+  ],
+  "ING": [
+    "abandoning",
+    "abroading",
+    "absorbing",
+    "abusing",
+    "accepting",
+    "accessing",
+    "accounting",
+    "achieving",
+    "acknowledging",
+    "acquiring",
+    "acting",
+    "actuallying",
+    "adapting",
+    "addicting",
+    "adding",
+    "addressing",
+    "adjusting",
+    "admiring",
+    "admitting",
+    "adopting",
+    "advancing",
+    "advertising",
+    "advising",
+    "advocating",
+    "affecting",
+    "affording",
+    "afterwarding",
+    "againing",
+    "agoing",
+    "agreeing",
+    "aheading",
+    "aiding",
+    "aiming",
+    "airing",
+    "alarming",
+    "allowing",
+    "almosting",
+    "aloning",
+    "alouding",
+    "alreadying",
+    "altogetherring",
+    "alwaysing",
+    "amounting",
+    "amusing",
+    "angerring",
+    "announcing",
+    "annoyying",
+    "answerring",
+    "anticipating",
+    "anyhowing",
+    "anywayying",
+    "anywhering",
+    "aparting",
+    "appealing",
+    "appearing",
+    "applauding",
+    "applying",
+    "appreciating",
+    "approaching",
+    "approving",
+    "argueing",
+    "arguing",
+    "arising",
+    "arranging",
+    "arresting",
+    "arriving",
+    "asiding",
+    "asking",
+    "assessing",
+    "assigning",
+    "assisting",
+    "assuming",
+    "astonishing",
+    "attaching",
+    "attacking",
+    "attaining",
+    "attempting",
+    "attending",
+    "attracting",
+    "avoiding",
+    "awaking",
+    "awarding",
+    "awayying",
+    "backing",
+    "backwarding",
+    "balancing",
+    "banning",
+    "barelying",
+    "barking",
+    "bearing",
+    "beating",
+    "becoming",
+    "beginning",
+    "behaving",
+    "believing",
+    "belonging",
+    "bending",
+    "benefitting",
+    "betting",
+    "binding",
+    "bitting",
+    "blaming",
+    "bleeding",
+    "blessing",
+    "blowing",
+    "boarding",
+    "boiling",
+    "booking",
+    "borrowing",
+    "bothering",
+    "botherring",
+    "breaking",
+    "breathing",
+    "bridging",
+    "bringing",
+    "broadcasting",
+    "brushing",
+    "burning",
+    "burying",
+    "buyying",
+    "calculating",
+    "calling",
+    "camping",
+    "canceling",
+    "caring",
+    "carrying",
+    "carving",
+    "casting",
+    "catching",
+    "causing",
+    "celebrating",
+    "certainlying",
+    "challenging",
+    "changing",
+    "charging",
+    "chasing",
+    "chatting",
+    "cheating",
+    "checking",
+    "cheering",
+    "chewing",
+    "choking",
+    "choosing",
+    "chorussing",
+    "circling",
+    "citing",
+    "clapping",
+    "clarifying",
+    "cleaning",
+    "clicking",
+    "climbing",
+    "cloning",
+    "closing",
+    "collapsing",
+    "collecting",
+    "combining",
+    "coming",
+    "committing",
+    "communicating",
+    "comparing",
+    "competing",
+    "complaining",
+    "completing",
+    "composing",
+    "comprising",
+    "concentrating",
+    "concluding",
+    "confirming",
+    "connecting",
+    "considerring",
+    "consuming",
+    "containing",
+    "continueing",
+    "controlling",
+    "convincing",
+    "cooking",
+    "cooperating",
+    "copying",
+    "corresponding",
+    "coughing",
+    "counting",
+    "coverring",
+    "crashing",
+    "creating",
+    "crossing",
+    "crying",
+    "cutting"
+  ],
+  "PAST": [
+    "abandoned",
+    "absorbed",
+    "abused",
+    "accepted",
+    "accessed",
+    "accompanied",
+    "accomplished",
+    "accounted",
+    "accused",
+    "ached",
+    "achieved",
+    "acknowledged",
+    "acquired",
+    "acted",
+    "adapted",
+    "added",
+    "addicted",
+    "addressed",
+    "adjusted",
+    "admired",
+    "admitted",
+    "adopted",
+    "advanced",
+    "advertised",
+    "advised",
+    "affected",
+    "afforded",
+    "agreed",
+    "alarmed",
+    "allowed",
+    "altered",
+    "analyzed",
+    "angled",
+    "announced",
+    "annoyed",
+    "answered",
+    "anticipated",
+    "appealed",
+    "appeared",
+    "applied",
+    "approached",
+    "approved",
+    "arched",
+    "argued",
+    "armed",
+    "arose",
+    "arrested",
+    "arrived",
+    "asked",
+    "assessed",
+    "assigned",
+    "assumed",
+    "ate",
+    "attached",
+    "attacked",
+    "attempted",
+    "attended",
+    "attracted",
+    "avoided",
+    "awarded",
+    "awoke",
+    "backed",
+    "balanced",
+    "banned",
+    "barked",
+    "based",
+    "beat",
+    "beaten",
+    "became",
+    "become",
+    "began",
+    "begun",
+    "behaved",
+    "believed",
+    "belonged",
+    "benefited",
+    "bent",
+    "bet",
+    "bid",
+    "bidden",
+    "bit",
+    "bitten",
+    "blamed",
+    "bled",
+    "blessed",
+    "blew",
+    "blocked",
+    "blown",
+    "boarded",
+    "boiled",
+    "booked",
+    "bore",
+    "born",
+    "borne",
+    "borrowed",
+    "bothered",
+    "bought",
+    "bounced",
+    "bowed",
+    "breathed",
+    "broadcast",
+    "broken",
+    "brought",
+    "brushed",
+    "built",
+    "buried",
+    "burnt",
+    "burst",
+    "calculated",
+    "called",
+    "came",
+    "canceled",
+    "cared",
+    "carried",
+    "carved",
+    "cast",
+    "caught",
+    "caused",
+    "ceased",
+    "celebrated",
+    "challenged",
+    "changed",
+    "charged",
+    "chatted",
+    "cheated",
+    "checked",
+    "cheered",
+    "chewed",
+    "chidden",
+    "choked",
+    "chose",
+    "chosen",
+    "claimed",
+    "clapped",
+    "clarified",
+    "climbed",
+    "closed",
+    "clung",
+    "collapsed",
+    "collected",
+    "combined",
+    "come",
+    "committed",
+    "communicated",
+    "compared",
+    "competed",
+    "complained",
+    "completed",
+    "concentrated",
+    "concluded",
+    "confirmed",
+    "connected",
+    "considered",
+    "consisted",
+    "consumed",
+    "contained",
+    "continued",
+    "controlled",
+    "convinced",
+    "cooked",
+    "cooperated",
+    "copied",
+    "cost",
+    "coughed",
+    "counted",
+    "covered",
+    "crashed",
+    "created",
+    "crept",
+    "cried",
+    "criticized",
+    "crossed",
+    "cured",
+    "cut"
+  ],
+  "COMP": [
+    "a.m.er",
+    "abler",
+    "acher",
+    "acidder",
+    "acter",
+    "actorrer",
+    "adapter",
+    "adder",
+    "admitter",
+    "adopter",
+    "adulter",
+    "againer",
+    "ager",
+    "agoer",
+    "agreer",
+    "aheader",
+    "aider",
+    "aimer",
+    "airer",
+    "alarmer",
+    "allower",
+    "alouder",
+    "alsoer",
+    "angler",
+    "angrier",
+    "ankler",
+    "annoyyer",
+    "anter",
+    "aparter",
+    "appler",
+    "applier",
+    "archer",
+    "areaer",
+    "arguer",
+    "armer",
+    "armier",
+    "arrower",
+    "arter",
+    "asker",
+    "aunter",
+    "avoider",
+    "awarder",
+    "awayyer",
+    "awfuller",
+    "babier",
+    "backer",
+    "baconner",
+    "bagger",
+    "baller",
+    "bander",
+    "banker",
+    "banner",
+    "barker",
+    "barrer",
+    "baser",
+    "basiccer",
+    "basinner",
+    "basisser",
+    "bather",
+    "batter",
+    "bayyer",
+    "beacher",
+    "beaner",
+    "bearder",
+    "bearer",
+    "beater",
+    "bedder",
+    "beefer",
+    "beerer",
+    "beginner",
+    "beller",
+    "belter",
+    "bender",
+    "bester",
+    "bigger",
+    "biker",
+    "biller",
+    "birder",
+    "birther",
+    "biter",
+    "blacker",
+    "blamer",
+    "blanker",
+    "bleeder",
+    "blesser",
+    "blinder",
+    "blocker",
+    "blogger",
+    "blooder",
+    "blower",
+    "bluer",
+    "boarder",
+    "boater",
+    "bodier",
+    "boiler",
+    "bomber",
+    "bonder",
+    "boner",
+    "bonusser",
+    "booker",
+    "booster",
+    "booter",
+    "boredder",
+    "borner",
+    "bosser",
+    "bounder",
+    "bower",
+    "bowler",
+    "boxer",
+    "boyyer",
+    "brainer",
+    "braver",
+    "breader",
+    "breaker",
+    "bricker",
+    "briefer",
+    "bringer",
+    "broader",
+    "browner",
+    "brusher",
+    "builder",
+    "buncher",
+    "burier",
+    "burner",
+    "busier",
+    "busser",
+    "buyyer",
+    "caféer",
+    "cager",
+    "caker",
+    "caller",
+    "calmer",
+    "cameller",
+    "camper",
+    "canaller",
+    "candier",
+    "canner",
+    "capper",
+    "carder",
+    "carer",
+    "carrer",
+    "carrier",
+    "carver",
+    "caser",
+    "casher",
+    "caster",
+    "catcher",
+    "catter",
+    "causer",
+    "caver",
+    "ceaser",
+    "celler",
+    "center",
+    "chainer",
+    "chairer",
+    "chalker",
+    "chaoser",
+    "charter",
+    "chatter",
+    "cheaper",
+    "cheater",
+    "checker",
+    "cheeker",
+    "cheffer",
+    "chesser",
+    "chewer",
+    "chiefer",
+    "childer",
+    "choker",
+    "citer",
+    "civiller",
+    "claimer",
+    "clapper",
+    "classer",
+    "clayyer",
+    "cleaner",
+    "clearer",
+    "clerker",
+    "clicker",
+    "climber",
+    "clocker",
+    "cloner",
+    "closer",
+    "clother",
+    "clouder",
+    "clubber",
+    "cluer",
+    "coacher",
+    "coaler",
+    "coaster",
+    "coater",
+    "coiner",
+    "colder",
+    "comer",
+    "comiccer",
+    "cooker",
+    "cooler",
+    "copier",
+    "corer",
+    "coster",
+    "cougher",
+    "coulder",
+    "counter",
+    "courter",
+    "cower",
+    "crasher",
+    "crazier",
+    "creamer",
+    "crewer",
+    "crier",
+    "crimer",
+    "cropper",
+    "crosser",
+    "crowder",
+    "crueler",
+    "cupper",
+    "cuter",
+    "cutter",
+    "cycler"
+  ],
+  "SUPER": [
+    "a.m.est",
+    "ablest",
+    "achest",
+    "aciddest",
+    "actest",
+    "actorrest",
+    "adaptest",
+    "addest",
+    "admittest",
+    "adoptest",
+    "adultest",
+    "againest",
+    "agest",
+    "agoest",
+    "agreest",
+    "aheadest",
+    "aidest",
+    "aimest",
+    "airest",
+    "alarmest",
+    "allowest",
+    "aloudest",
+    "alsoest",
+    "anglest",
+    "angriest",
+    "anklest",
+    "annoyyest",
+    "antest",
+    "apartest",
+    "applest",
+    "appliest",
+    "archest",
+    "areaest",
+    "arguest",
+    "armest",
+    "armiest",
+    "arrowest",
+    "artest",
+    "askest",
+    "auntest",
+    "avoidest",
+    "awardest",
+    "awayyest",
+    "awfullest",
+    "babiest",
+    "backest",
+    "baconnest",
+    "baggest",
+    "ballest",
+    "bandest",
+    "bankest",
+    "bannest",
+    "barkest",
+    "barrest",
+    "basest",
+    "basiccest",
+    "basinnest",
+    "basissest",
+    "bathest",
+    "battest",
+    "bayyest",
+    "beachest",
+    "beanest",
+    "beardest",
+    "bearest",
+    "beatest",
+    "beddest",
+    "beefest",
+    "beerest",
+    "beginnest",
+    "bellest",
+    "beltest",
+    "bendest",
+    "bestest",
+    "bettest",
+    "biggest",
+    "bikest",
+    "billest",
+    "birdest",
+    "birthest",
+    "bitest",
+    "bittest",
+    "blackest",
+    "blamest",
+    "blankest",
+    "bleedest",
+    "blessest",
+    "blindest",
+    "blockest",
+    "bloggest",
+    "bloodest",
+    "blowest",
+    "bluest",
+    "boardest",
+    "boatest",
+    "bodiest",
+    "boilest",
+    "bombest",
+    "bondest",
+    "bonest",
+    "bonussest",
+    "bookest",
+    "boostest",
+    "bootest",
+    "boreddest",
+    "bornest",
+    "bossest",
+    "boundest",
+    "bowest",
+    "bowlest",
+    "boxest",
+    "boyyest",
+    "brainest",
+    "bravest",
+    "breadest",
+    "breakest",
+    "brickest",
+    "briefest",
+    "bringest",
+    "broadest",
+    "brownest",
+    "brushest",
+    "buildest",
+    "bunchest",
+    "buriest",
+    "burnest",
+    "busiest",
+    "bussest",
+    "buyyest",
+    "caféest",
+    "cagest",
+    "cakest",
+    "callest",
+    "calmest",
+    "camellest",
+    "campest",
+    "canallest",
+    "candiest",
+    "cannest",
+    "cappest",
+    "cardest",
+    "carest",
+    "carrest",
+    "carriest",
+    "carvest",
+    "casest",
+    "cashest",
+    "castest",
+    "catchest",
+    "cattest",
+    "causest",
+    "cavest",
+    "ceasest",
+    "cellest",
+    "centest",
+    "chainest",
+    "chairest",
+    "chalkest",
+    "chaosest",
+    "chartest",
+    "chattest",
+    "cheapest",
+    "cheatest",
+    "checkest",
+    "cheekest",
+    "cheffest",
+    "chessest",
+    "chewest",
+    "chiefest",
+    "childest",
+    "chokest",
+    "citest",
+    "civillest",
+    "claimest",
+    "clappest",
+    "classest",
+    "clayyest",
+    "cleanest",
+    "clearest",
+    "clerkest",
+    "clickest",
+    "climbest",
+    "clockest",
+    "clonest",
+    "closest",
+    "clothest",
+    "cloudest",
+    "clubbest",
+    "cluest",
+    "coachest",
+    "coalest",
+    "coastest",
+    "coatest",
+    "coinest",
+    "coldest",
+    "comest",
+    "comiccest",
+    "cookest",
+    "coolest",
+    "copiest",
+    "corest",
+    "cornest",
+    "costest",
+    "coughest",
+    "couldest",
+    "countest",
+    "courtest",
+    "cowest",
+    "crashest",
+    "craziest",
+    "creamest",
+    "crewest",
+    "criest",
+    "crimest",
+    "croppest",
+    "crossest",
+    "crowdest",
+    "cruelest",
+    "cuppest",
+    "cutest",
+    "cuttest",
+    "cyclest"
+  ],
+  "VARIANT_MAP": {
+    "arose": "arise",
+    "awoke": "awake",
+    "bore": "bear",
+    "became": "become",
+    "began": "begin",
+    "bent": "bend",
+    "bled": "bleed",
+    "blew": "blow",
+    "broke": "break",
+    "bred": "breed",
+    "brought": "bring",
+    "built": "build",
+    "burnt": "burn",
+    "bought": "buy",
+    "caught": "catch",
+    "chose": "choose",
+    "clung": "cling",
+    "came": "come",
+    "crept": "creep",
+    "children": "child",
+    "criteria": "criterion",
+    "crises": "crisis",
+    "alumni": "alumnus",
+    "cacti": "cactus",
+    "appendices": "appendix",
+    "abandons": "abandon",
+    "abilities": "ability",
+    "abler": "able",
+    "ablest": "able",
+    "abroading": "abroad",
+    "absolutelies": "absolutely",
+    "absorbs": "absorb",
+    "absorbing": "absorb",
+    "abuses": "abuse",
+    "abusing": "abuse",
+    "accepts": "accept",
+    "accepting": "accept",
+    "accesses": "access",
+    "accessing": "access",
+    "accommodations": "accommodation",
+    "accounts": "account",
+    "accounting": "account",
+    "acher": "ache",
+    "achest": "ache",
+    "achieves": "achieve",
+    "achieving": "achieve",
+    "achievements": "achievement",
+    "acidder": "acid",
+    "aciddest": "acid",
+    "acknowledges": "acknowledge",
+    "acknowledging": "acknowledge",
+    "acquires": "acquire",
+    "acquiring": "acquire",
+    "acts": "act",
+    "acting": "act",
+    "acter": "act",
+    "actest": "act",
+    "actions": "action",
+    "activities": "activity",
+    "actorrer": "actor",
+    "actorrest": "actor",
+    "actuallies": "actually",
+    "actuallying": "actually",
+    "adapts": "adapt",
+    "adapting": "adapt",
+    "adapter": "adapt",
+    "adaptest": "adapt",
+    "adaptations": "adaptation",
+    "adds": "add",
+    "adding": "add",
+    "adder": "add",
+    "addest": "add",
+    "addicts": "addict",
+    "addicting": "addict",
+    "additions": "addition",
+    "addresses": "address",
+    "addressing": "address",
+    "adjusts": "adjust",
+    "adjusting": "adjust",
+    "administrations": "administration",
+    "admires": "admire",
+    "admiring": "admire",
+    "admits": "admit",
+    "admitting": "admit",
+    "admitter": "admit",
+    "admittest": "admit",
+    "adopts": "adopt",
+    "adopting": "adopt",
+    "adopter": "adopt",
+    "adoptest": "adopt",
+    "adulter": "adult",
+    "adultest": "adult",
+    "advances": "advance",
+    "advancing": "advance",
+    "advantages": "advantage",
+    "adventures": "adventure",
+    "advertises": "advertise",
+    "advertising": "advertise",
+    "advises": "advise",
+    "advising": "advise",
+    "advocates": "advocate",
+    "advocating": "advocate",
+    "affects": "affect",
+    "affecting": "affect",
+    "affords": "afford",
+    "affording": "afford",
+    "afterwards": "afterward",
+    "afterwarding": "afterward",
+    "agains": "again",
+    "againing": "again",
+    "againer": "again",
+    "againest": "again",
+    "ages": "age",
+    "ager": "age",
+    "agest": "age",
+    "agoes": "ago",
+    "agoing": "ago",
+    "agoer": "ago",
+    "agoest": "ago",
+    "agrees": "agree",
+    "agreeing": "agree",
+    "agreer": "agree",
+    "agreest": "agree",
+    "agreements": "agreement",
+    "agricultures": "agriculture",
+    "aheads": "ahead",
+    "aheading": "ahead",
+    "aheader": "ahead",
+    "aheadest": "ahead",
+    "aids": "aid",
+    "aiding": "aid",
+    "aider": "aid",
+    "aidest": "aid",
+    "aims": "aim",
+    "aiming": "aim",
+    "aimer": "aim",
+    "aimest": "aim",
+    "airs": "air",
+    "airing": "air",
+    "airer": "air",
+    "airest": "air",
+    "alarms": "alarm",
+    "alarming": "alarm",
+    "alarmer": "alarm",
+    "alarmest": "alarm",
+    "allows": "allow",
+    "allowing": "allow",
+    "allower": "allow",
+    "allowest": "allow",
+    "almosting": "almost",
+    "alones": "alone",
+    "aloning": "alone",
+    "alouds": "aloud",
+    "alouding": "aloud",
+    "alouder": "aloud",
+    "aloudest": "aloud",
+    "alreadying": "already",
+    "alsoes": "also",
+    "alsoer": "also",
+    "alsoest": "also",
+    "altogetherring": "altogether",
+    "alwayses": "always",
+    "alwaysing": "always",
+    "ambitions": "ambition",
+    "amounts": "amount",
+    "amounting": "amount",
+    "amuses": "amuse",
+    "amusing": "amuse",
+    "angers": "anger",
+    "angerring": "anger",
+    "angler": "angle",
+    "anglest": "angle",
+    "angrier": "angry",
+    "angriest": "angry",
+    "ankler": "ankle",
+    "anklest": "ankle",
+    "announces": "announce",
+    "announcing": "announce",
+    "annoys": "annoy",
+    "annoyying": "annoy",
+    "annoyyer": "annoy",
+    "annoyyest": "annoy",
+    "answers": "answer",
+    "answerring": "answer",
+    "anter": "ant",
+    "antest": "ant",
+    "anticipates": "anticipate",
+    "anticipating": "anticipate",
+    "anyhows": "anyhow",
+    "anyhowing": "anyhow",
+    "anyways": "anyway",
+    "anywayying": "anyway",
+    "anywheres": "anywhere",
+    "anywhering": "anywhere",
+    "aparts": "apart",
+    "aparting": "apart",
+    "aparter": "apart",
+    "apartest": "apart",
+    "apartments": "apartment",
+    "appeals": "appeal",
+    "appealing": "appeal",
+    "appears": "appear",
+    "appearing": "appear",
+    "applauds": "applaud",
+    "applauding": "applaud",
+    "appler": "apple",
+    "applest": "apple",
+    "applications": "application",
+    "applies": "apply",
+    "applying": "apply",
+    "applier": "apply",
+    "appliest": "apply",
+    "appointments": "appointment",
+    "appreciates": "appreciate",
+    "appreciating": "appreciate",
+    "approves": "approve",
+    "approving": "approve",
+    "archer": "arch",
+    "archest": "arch",
+    "areaer": "area",
+    "areaest": "area",
+    "argues": "argue",
+    "argueing": "argue",
+    "arguer": "argue",
+    "arguest": "argue",
+    "arises": "arise",
+    "arising": "arise",
+    "armer": "arm",
+    "armest": "arm",
+    "armier": "army",
+    "armiest": "army",
+    "arrangements": "arrangement",
+    "arrests": "arrest",
+    "arresting": "arrest",
+    "arrives": "arrive",
+    "arriving": "arrive",
+    "arrower": "arrow",
+    "arrowest": "arrow",
+    "arter": "art",
+    "artest": "art",
+    "artists": "artist",
+    "asides": "aside",
+    "asiding": "aside",
+    "asks": "ask",
+    "asking": "ask",
+    "asker": "ask",
+    "askest": "ask",
+    "assesses": "assess",
+    "assessing": "assess",
+    "assigns": "assign",
+    "assigning": "assign",
+    "associations": "association",
+    "assumes": "assume",
+    "assuming": "assume",
+    "assumptions": "assumption",
+    "astonishes": "astonish",
+    "astonishing": "astonish",
+    "attaches": "attach",
+    "attaching": "attach",
+    "attacks": "attack",
+    "attacking": "attack",
+    "attains": "attain",
+    "attaining": "attain",
+    "attempts": "attempt",
+    "attempting": "attempt",
+    "attends": "attend",
+    "attending": "attend",
+    "attentions": "attention",
+    "attracts": "attract",
+    "attracting": "attract",
+    "aunter": "aunt",
+    "auntest": "aunt",
+    "authorities": "authority",
+    "averages": "average",
+    "avoids": "avoid",
+    "avoiding": "avoid",
+    "avoider": "avoid",
+    "avoidest": "avoid",
+    "awakes": "awake",
+    "awaking": "awake",
+    "awards": "award",
+    "awarding": "award",
+    "awarder": "award",
+    "awardest": "award",
+    "aways": "away",
+    "awayying": "away",
+    "awayyer": "away",
+    "awayyest": "away",
+    "awfuller": "awful",
+    "awfullest": "awful",
+    "cabbages": "cabbage",
+    "caféer": "café",
+    "caféest": "café",
+    "cages": "cage",
+    "cager": "cage",
+    "cagest": "cage",
+    "caker": "cake",
+    "cakest": "cake",
+    "calculates": "calculate",
+    "calculating": "calculate",
+    "calls": "call",
+    "calling": "call",
+    "caller": "call",
+    "callest": "call",
+    "calmer": "calm",
+    "calmest": "calm",
+    "cameller": "camel",
+    "camellest": "camel",
+    "camps": "camp",
+    "camping": "camp",
+    "camper": "camp",
+    "campest": "camp",
+    "canner": "can",
+    "cannest": "can",
+    "canaller": "canal",
+    "canallest": "canal",
+    "cancels": "cancel",
+    "canceling": "cancel",
+    "candier": "candy",
+    "candiest": "candy",
+    "capper": "cap",
+    "cappest": "cap",
+    "capacities": "capacity",
+    "carrer": "car",
+    "carrest": "car",
+    "carder": "card",
+    "cardest": "card",
+    "cares": "care",
+    "caring": "care",
+    "carer": "care",
+    "carest": "care",
+    "carries": "carry",
+    "carrying": "carry",
+    "carrier": "carry",
+    "carriest": "carry",
+    "carves": "carve",
+    "carving": "carve",
+    "carver": "carve",
+    "carvest": "carve",
+    "caser": "case",
+    "casest": "case",
+    "casher": "cash",
+    "cashest": "cash",
+    "casts": "cast",
+    "casting": "cast",
+    "caster": "cast",
+    "castest": "cast",
+    "catter": "cat",
+    "cattest": "cat",
+    "catches": "catch",
+    "catching": "catch",
+    "catcher": "catch",
+    "catchest": "catch",
+    "categories": "category",
+    "causer": "cause",
+    "causest": "cause",
+    "caver": "cave",
+    "cavest": "cave",
+    "ceaser": "cease",
+    "ceasest": "cease",
+    "celebrates": "celebrate",
+    "celebrating": "celebrate",
+    "celebrities": "celebrity",
+    "celler": "cell",
+    "cellest": "cell",
+    "center": "cent",
+    "centest": "cent",
+    "certainlies": "certainly",
+    "certainlying": "certainly",
+    "chainer": "chain",
+    "chainest": "chain",
+    "chairer": "chair",
+    "chairest": "chair",
+    "chalker": "chalk",
+    "chalkest": "chalk",
+    "challenges": "challenge",
+    "challenging": "challenge",
+    "changes": "change",
+    "changing": "change",
+    "chaoser": "chaos",
+    "chaosest": "chaos",
+    "charges": "charge",
+    "charging": "charge",
+    "charities": "charity",
+    "charter": "chart",
+    "chartest": "chart",
+    "chats": "chat",
+    "chatting": "chat",
+    "chatter": "chat",
+    "chattest": "chat",
+    "cheaper": "cheap",
+    "cheapest": "cheap",
+    "cheats": "cheat",
+    "cheating": "cheat",
+    "cheater": "cheat",
+    "cheatest": "cheat",
+    "checks": "check",
+    "checking": "check",
+    "checker": "check",
+    "checkest": "check",
+    "cheeker": "cheek",
+    "cheekest": "cheek",
+    "cheers": "cheer",
+    "cheering": "cheer",
+    "cheves": "chef",
+    "cheffer": "chef",
+    "cheffest": "chef",
+    "chemists": "chemist",
+    "chesser": "chess",
+    "chessest": "chess",
+    "chews": "chew",
+    "chewing": "chew",
+    "chewer": "chew",
+    "chewest": "chew",
+    "chieves": "chief",
+    "chiefer": "chief",
+    "chiefest": "chief",
+    "chokes": "choke",
+    "choking": "choke",
+    "choker": "choke",
+    "chokest": "choke",
+    "chooses": "choose",
+    "choosing": "choose",
+    "choruses": "chorus",
+    "chorussing": "chorus",
+    "cites": "cite",
+    "citing": "cite",
+    "citer": "cite",
+    "citest": "cite",
+    "cities": "city",
+    "civiller": "civil",
+    "civillest": "civil",
+    "claimer": "claim",
+    "claimest": "claim",
+    "claps": "clap",
+    "clapping": "clap",
+    "clapper": "clap",
+    "clappest": "clap",
+    "clarifies": "clarify",
+    "clarifying": "clarify",
+    "classer": "class",
+    "classest": "class",
+    "clayyer": "clay",
+    "clayyest": "clay",
+    "cleaner": "clean",
+    "cleanest": "clean",
+    "clearer": "clear",
+    "clearest": "clear",
+    "clerker": "clerk",
+    "clerkest": "clerk",
+    "clicks": "click",
+    "clicking": "click",
+    "clicker": "click",
+    "clickest": "click",
+    "climbs": "climb",
+    "climbing": "climb",
+    "climber": "climb",
+    "climbest": "climb",
+    "clocker": "clock",
+    "clockest": "clock",
+    "clones": "clone",
+    "cloning": "clone",
+    "cloner": "clone",
+    "clonest": "clone",
+    "closes": "close",
+    "closing": "close",
+    "closer": "close",
+    "closest": "close",
+    "clother": "cloth",
+    "clothest": "cloth",
+    "clouder": "cloud",
+    "cloudest": "cloud",
+    "clubber": "club",
+    "clubbest": "club",
+    "cluer": "clue",
+    "cluest": "clue",
+    "coacher": "coach",
+    "coachest": "coach",
+    "coaler": "coal",
+    "coalest": "coal",
+    "coaster": "coast",
+    "coastest": "coast",
+    "coater": "coat",
+    "coatest": "coat",
+    "coiner": "coin",
+    "coinest": "coin",
+    "colder": "cold",
+    "coldest": "cold",
+    "collapses": "collapse",
+    "collapsing": "collapse",
+    "collects": "collect",
+    "collecting": "collect",
+    "collections": "collection",
+    "combines": "combine",
+    "combining": "combine",
+    "comes": "come",
+    "coming": "come",
+    "comer": "come",
+    "comest": "come",
+    "comiccer": "comic",
+    "comiccest": "comic",
+    "comments": "comment",
+    "commits": "commit",
+    "committing": "commit",
+    "commitments": "commitment",
+    "communicates": "communicate",
+    "communicating": "communicate",
+    "communications": "communication",
+    "communists": "communist",
+    "communities": "community",
+    "compares": "compare",
+    "comparing": "compare",
+    "competes": "compete",
+    "competing": "compete",
+    "competitions": "competition",
+    "complains": "complain",
+    "complaining": "complain",
+    "completes": "complete",
+    "completing": "complete",
+    "composes": "compose",
+    "composing": "compose",
+    "compositions": "composition",
+    "comprehensions": "comprehension",
+    "comprises": "comprise",
+    "comprising": "comprise",
+    "concentrates": "concentrate",
+    "concentrating": "concentrate",
+    "concludes": "conclude",
+    "concluding": "conclude",
+    "conclusions": "conclusion",
+    "conditions": "condition",
+    "confirms": "confirm",
+    "confirming": "confirm",
+    "Confucianisms": "Confucianism",
+    "congratulations": "congratulation",
+    "connects": "connect",
+    "connecting": "connect",
+    "conservations": "conservation",
+    "considers": "consider",
+    "considerring": "consider",
+    "consists": "consist",
+    "constitutions": "constitution",
+    "constructions": "construction",
+    "consultations": "consultation",
+    "consumes": "consume",
+    "consuming": "consume",
+    "consumptions": "consumption",
+    "contains": "contain",
+    "containing": "contain",
+    "contemporaries": "contemporary",
+    "continues": "continue",
+    "continueing": "continue",
+    "contradictories": "contradictory",
+    "contraries": "contrary",
+    "contributions": "contribution",
+    "controls": "control",
+    "controlling": "control",
+    "conversations": "conversation",
+    "convinces": "convince",
+    "convincing": "convince",
+    "cooks": "cook",
+    "cooking": "cook",
+    "cooker": "cook",
+    "cookest": "cook",
+    "cooler": "cool",
+    "coolest": "cool",
+    "cooperates": "cooperate",
+    "cooperating": "cooperate",
+    "copies": "copy",
+    "copying": "copy",
+    "copier": "copy",
+    "copiest": "copy",
+    "corer": "core",
+    "corest": "core",
+    "cornest": "corn",
+    "corresponds": "correspond",
+    "corresponding": "correspond",
+    "coster": "cost",
+    "costest": "cost",
+    "cottages": "cottage",
+    "coughs": "cough",
+    "coughing": "cough",
+    "cougher": "cough",
+    "coughest": "cough",
+    "coulder": "could",
+    "couldest": "could",
+    "counts": "count",
+    "counting": "count",
+    "counter": "count",
+    "countest": "count",
+    "courages": "courage",
+    "courter": "court",
+    "courtest": "court",
+    "covers": "cover",
+    "coverring": "cover",
+    "coverages": "coverage",
+    "cower": "cow",
+    "cowest": "cow",
+    "crashes": "crash",
+    "crashing": "crash",
+    "crasher": "crash",
+    "crashest": "crash",
+    "crazier": "crazy",
+    "craziest": "crazy",
+    "creamer": "cream",
+    "creamest": "cream",
+    "creates": "create",
+    "creating": "create",
+    "creatures": "creature",
+    "crewer": "crew",
+    "crewest": "crew",
+    "crimer": "crime",
+    "crimest": "crime",
+    "cropper": "crop",
+    "croppest": "crop",
+    "crosses": "cross",
+    "crossing": "cross",
+    "crosser": "cross",
+    "crossest": "cross",
+    "crowder": "crowd",
+    "crowdest": "crowd",
+    "crueler": "cruel",
+    "cruelest": "cruel",
+    "cries": "cry",
+    "crying": "cry",
+    "crier": "cry",
+    "criest": "cry",
+    "cultures": "culture",
+    "cupper": "cup",
+    "cuppest": "cup",
+    "cures": "cure",
+    "cuts": "cut",
+    "cutting": "cut",
+    "cutter": "cut",
+    "cuttest": "cut",
+    "cuter": "cute",
+    "cutest": "cute",
+    "cycler": "cycle",
+    "cyclest": "cycle",
+    "babier": "baby",
+    "babiest": "baby",
+    "backs": "back",
+    "backing": "back",
+    "backer": "back",
+    "backest": "back",
+    "backwards": "backward",
+    "backwarding": "backward",
+    "baconner": "bacon",
+    "baconnest": "bacon",
+    "bagger": "bag",
+    "baggest": "bag",
+    "bakeries": "bakery",
+    "balances": "balance",
+    "balancing": "balance",
+    "baller": "ball",
+    "ballest": "ball",
+    "bamboos": "bamboo",
+    "bans": "ban",
+    "banning": "ban",
+    "banner": "ban",
+    "bannest": "ban",
+    "bander": "band",
+    "bandest": "band",
+    "banker": "bank",
+    "bankest": "bank",
+    "barrer": "bar",
+    "barrest": "bar",
+    "barelies": "barely",
+    "barelying": "barely",
+    "barks": "bark",
+    "barking": "bark",
+    "barker": "bark",
+    "barkest": "bark",
+    "baser": "base",
+    "basest": "base",
+    "basiccer": "basic",
+    "basiccest": "basic",
+    "basinner": "basin",
+    "basinnest": "basin",
+    "basisser": "basis",
+    "basissest": "basis",
+    "batter": "bat",
+    "battest": "bat",
+    "bather": "bath",
+    "bathest": "bath",
+    "batteries": "battery",
+    "bayyer": "bay",
+    "bayyest": "bay",
+    "beacher": "beach",
+    "beachest": "beach",
+    "beaner": "bean",
+    "beanest": "bean",
+    "bears": "bear",
+    "bearing": "bear",
+    "bearer": "bear",
+    "bearest": "bear",
+    "bearder": "beard",
+    "beardest": "beard",
+    "beats": "beat",
+    "beating": "beat",
+    "beater": "beat",
+    "beatest": "beat",
+    "becomes": "become",
+    "becoming": "become",
+    "bedder": "bed",
+    "beddest": "bed",
+    "beeves": "beef",
+    "beefer": "beef",
+    "beefest": "beef",
+    "beerer": "beer",
+    "beerest": "beer",
+    "begins": "begin",
+    "beginning": "begin",
+    "beginner": "begin",
+    "beginnest": "begin",
+    "behalves": "behalf",
+    "behaves": "behave",
+    "behaving": "behave",
+    "believes": "believe",
+    "believing": "believe",
+    "beller": "bell",
+    "bellest": "bell",
+    "belongs": "belong",
+    "belonging": "belong",
+    "belter": "belt",
+    "beltest": "belt",
+    "bends": "bend",
+    "bending": "bend",
+    "bender": "bend",
+    "bendest": "bend",
+    "benefits": "benefit",
+    "benefitting": "benefit",
+    "bester": "best",
+    "bestest": "best",
+    "bets": "bet",
+    "betting": "bet",
+    "bettest": "bet",
+    "biker": "bike",
+    "bikest": "bike",
+    "biller": "bill",
+    "billest": "bill",
+    "birder": "bird",
+    "birdest": "bird",
+    "birther": "birth",
+    "birthest": "birth",
+    "bits": "bit",
+    "bitting": "bit",
+    "bittest": "bit",
+    "biter": "bite",
+    "bitest": "bite",
+    "blacker": "black",
+    "blackest": "black",
+    "blames": "blame",
+    "blaming": "blame",
+    "blamer": "blame",
+    "blamest": "blame",
+    "blanker": "blank",
+    "blankest": "blank",
+    "bleeds": "bleed",
+    "bleeding": "bleed",
+    "bleeder": "bleed",
+    "bleedest": "bleed",
+    "blesses": "bless",
+    "blessing": "bless",
+    "blesser": "bless",
+    "blessest": "bless",
+    "blinder": "blind",
+    "blindest": "blind",
+    "blocker": "block",
+    "blockest": "block",
+    "blogger": "blog",
+    "bloggest": "blog",
+    "blooder": "blood",
+    "bloodest": "blood",
+    "blows": "blow",
+    "blowing": "blow",
+    "blower": "blow",
+    "blowest": "blow",
+    "bluer": "blue",
+    "bluest": "blue",
+    "boards": "board",
+    "boarding": "board",
+    "boarder": "board",
+    "boardest": "board",
+    "boater": "boat",
+    "boatest": "boat",
+    "bodier": "body",
+    "bodiest": "body",
+    "boils": "boil",
+    "boiling": "boil",
+    "boiler": "boil",
+    "boilest": "boil",
+    "bomber": "bomb",
+    "bombest": "bomb",
+    "bonder": "bond",
+    "bondest": "bond",
+    "boner": "bone",
+    "bonest": "bone",
+    "bonusser": "bonus",
+    "bonussest": "bonus",
+    "books": "book",
+    "booking": "book",
+    "booker": "book",
+    "bookest": "book",
+    "booter": "boot",
+    "bootest": "boot",
+    "boredder": "bored",
+    "boreddest": "bored",
+    "borner": "born",
+    "bornest": "born",
+    "borrows": "borrow",
+    "borrowing": "borrow",
+    "bosser": "boss",
+    "bossest": "boss",
+    "bothers": "bother",
+    "botherring": "bother",
+    "bounder": "bound",
+    "boundest": "bound",
+    "boundaries": "boundary",
+    "bower": "bow",
+    "bowest": "bow",
+    "bowler": "bowl",
+    "bowlest": "bowl",
+    "boxer": "box",
+    "boxest": "box",
+    "boyyer": "boy",
+    "boyyest": "boy",
+    "brainer": "brain",
+    "brainest": "brain",
+    "braver": "brave",
+    "bravest": "brave",
+    "breader": "bread",
+    "breadest": "bread",
+    "breaks": "break",
+    "breaking": "break",
+    "breaker": "break",
+    "breakest": "break",
+    "breathing": "breathe",
+    "breathes": "breathe",
+    "bricker": "brick",
+    "brickest": "brick",
+    "bridges": "bridge",
+    "bridging": "bridge",
+    "brieves": "brief",
+    "briefer": "brief",
+    "briefest": "brief",
+    "brings": "bring",
+    "bringing": "bring",
+    "bringer": "bring",
+    "bringest": "bring",
+    "childer": "child",
+    "childest": "child",
+    "bigger": "big",
+    "biggest": "big",
+    "booster": "boost",
+    "boostest": "boost",
+    "broader": "broad",
+    "broadest": "broad",
+    "broadcasts": "broadcast",
+    "broadcasting": "broadcast",
+    "brochures": "brochure",
+    "browner": "brown",
+    "brownest": "brown",
+    "brushes": "brush",
+    "brushing": "brush",
+    "brusher": "brush",
+    "brushest": "brush",
+    "builds": "build",
+    "builder": "build",
+    "buildest": "build",
+    "buncher": "bunch",
+    "bunchest": "bunch",
+    "burns": "burn",
+    "burning": "burn",
+    "burner": "burn",
+    "burnest": "burn",
+    "buries": "bury",
+    "burying": "bury",
+    "burier": "bury",
+    "buriest": "bury",
+    "busser": "bus",
+    "bussest": "bus",
+    "businesses": "business",
+    "busier": "busy",
+    "busiest": "busy",
+    "buys": "buy",
+    "buyying": "buy",
+    "buyyer": "buy",
+    "buyyest": "buy",
+    "civilisations": "civilisation",
+    "confucianisms": "confucianism",
+    "beaten": "beat",
+    "become": "become",
+    "begun": "begin",
+    "bitten": "bite",
+    "blown": "blow",
+    "born": "bear",
+    "borne": "bear",
+    "broken": "break",
+    "cast": "cast",
+    "chosen": "choose",
+    "come": "come",
+    "cost": "cost",
+    "cut": "cut",
+    "abandoning": "abandon",
+    "abandonned": "abandon",
+    "abroaded": "abroad",
+    "absolutelied": "absolutely",
+    "absorbed": "absorb",
+    "abused": "abuse",
+    "accepted": "accept",
+    "accessed": "access",
+    "accounted": "account",
+    "achieved": "achieve",
+    "acknowledged": "acknowledge",
+    "acquired": "acquire",
+    "acted": "act",
+    "actuallied": "actually",
+    "adapted": "adapt",
+    "added": "add",
+    "addicted": "addict",
+    "addressed": "address",
+    "adjusted": "adjust",
+    "admired": "admire",
+    "admitted": "admit",
+    "adopted": "adopt",
+    "advanced": "advance",
+    "advertised": "advertise",
+    "advised": "advise",
+    "advocated": "advocate",
+    "affected": "affect",
+    "afforded": "afford",
+    "afterwarded": "afterward",
+    "agained": "again",
+    "aged": "age",
+    "agoed": "ago",
+    "agreed": "agree",
+    "aheaded": "ahead",
+    "aided": "aid",
+    "aimed": "aim",
+    "aired": "air",
+    "alarmed": "alarm",
+    "allowed": "allow",
+    "almosted": "almost",
+    "aloned": "alone",
+    "alouded": "aloud",
+    "alreadied": "already",
+    "alsoed": "also",
+    "altogetherred": "altogether",
+    "alwaysed": "always",
+    "amounted": "amount",
+    "amused": "amuse",
+    "analyzed": "analyze",
+    "angerred": "anger",
+    "announced": "announce",
+    "annoyed": "annoy",
+    "answerred": "answer",
+    "anticipated": "anticipate",
+    "anyhowed": "anyhow",
+    "anywayed": "anyway",
+    "anywhered": "anywhere",
+    "aparted": "apart",
+    "apparentlied": "apparently",
+    "appealed": "appeal",
+    "appeared": "appear",
+    "applauded": "applaud",
+    "applied": "apply",
+    "appreciated": "appreciate",
+    "approved": "approve",
+    "argued": "argue",
+    "arrested": "arrest",
+    "arrived": "arrive",
+    "asided": "aside",
+    "asked": "ask",
+    "assessed": "assess",
+    "assigned": "assign",
+    "assumed": "assume",
+    "astonished": "astonish",
+    "attached": "attach",
+    "attacked": "attack",
+    "attained": "attain",
+    "attempted": "attempt",
+    "attended": "attend",
+    "attracted": "attract",
+    "avoided": "avoid",
+    "awarded": "award",
+    "awayed": "away",
+    "backed": "back",
+    "backwarded": "backward",
+    "balanced": "balance",
+    "banned": "ban",
+    "barelied": "barely",
+    "barked": "bark",
+    "behaved": "behave",
+    "believed": "believe",
+    "belonged": "belong",
+    "benefitted": "benefit",
+    "betted": "bet",
+    "bitted": "bit",
+    "blamed": "blame",
+    "blessed": "bless",
+    "boarded": "board",
+    "boiled": "boil",
+    "booked": "book",
+    "borrowed": "borrow",
+    "botherred": "bother",
+    "breathed": "breathe",
+    "bridged": "bridge",
+    "broadcasted": "broadcast",
+    "brushed": "brush",
+    "buried": "bury",
+    "calculated": "calculate",
+    "called": "call",
+    "camped": "camp",
+    "canceled": "cancel",
+    "cared": "care",
+    "carried": "carry",
+    "carved": "carve",
+    "celebrated": "celebrate",
+    "certainlied": "certainly",
+    "challenged": "challenge",
+    "changed": "change",
+    "charged": "charge",
+    "chatted": "chat",
+    "cheated": "cheat",
+    "checked": "check",
+    "cheered": "cheer",
+    "chewed": "chew",
+    "choked": "choke",
+    "chorused": "chorus",
+    "cited": "cite",
+    "clapped": "clap",
+    "clarified": "clarify",
+    "clicked": "click",
+    "climbed": "climb",
+    "cloned": "clone",
+    "closed": "close",
+    "collapsed": "collapse",
+    "collected": "collect",
+    "combined": "combine",
+    "committed": "commit",
+    "communicated": "communicate",
+    "compared": "compare",
+    "competed": "compete",
+    "complained": "complain",
+    "completed": "complete",
+    "composed": "compose",
+    "comprised": "comprise",
+    "concentrated": "concentrate",
+    "concluded": "conclude",
+    "confirmed": "confirm",
+    "connected": "connect",
+    "considerred": "consider",
+    "consisted": "consist",
+    "consumed": "consume",
+    "contained": "contain",
+    "continued": "continue",
+    "controled": "control",
+    "convinced": "convince",
+    "cooked": "cook",
+    "cooperated": "cooperate",
+    "copied": "copy",
+    "corresponded": "correspond",
+    "coughed": "cough",
+    "counted": "count",
+    "coverred": "cover",
+    "crashed": "crash",
+    "created": "create",
+    "criticized": "criticize",
+    "crossed": "cross",
+    "cried": "cry",
+    "cured": "cure",
+    "abandoned": "abandon",
+    "answered": "answer",
+    "benefited": "benefit",
+    "bothered": "bother",
+    "broadcast": "broadcast",
+    "considered": "consider",
+    "controlled": "control",
+    "covered": "cover",
+    "apologizes": "apologize",
+    "appoints": "appoint",
+    "approaching": "approach",
+    "arguing": "argue",
+    "arranging": "arrange",
+    "assisting": "assist",
+    "analyzes": "analyze",
+    "blooms": "bloom",
+    "binding": "bind",
+    "claimed": "claim",
+    "causing": "cause",
+    "amazes": "amaze",
+    "assures": "assure",
+    "coaches": "coach",
+    "criticizes": "criticize",
+    "accomplished": "accomplish",
+    "bounced": "bounce",
+    "bowed": "bow",
+    "bothering": "bother",
+    "chasing": "chase",
+    "cleaning": "clean",
+    "circling": "circle",
+    "altered": "alter",
+    "accompanied": "accompany",
+    "accused": "accuse",
+    "ached": "ache",
+    "angled": "angle",
+    "approached": "approach",
+    "arched": "arch",
+    "armed": "arm",
+    "based": "base",
+    "blocked": "block",
+    "caused": "cause",
+    "ceased": "cease"
+  },
+  "DICT": {
+    "abandon": "v. 放弃，抛弃",
+    "ability": "n. 能力",
+    "able": "adj. 能够的，有能力的",
+    "abnormal": "adj. 不正常的，反常的",
+    "aboard": "adv./prep. 在（船、飞机、火车等）上",
+    "abroad": "adv. 在国外，到国外",
+    "absence": "n. 缺席，不在",
+    "absent": "adj. 缺席的，不在的",
+    "absolutely": "adv. 完全地，绝对地",
+    "absorb": "v. 吸收，吸取",
+    "abstract": "adj. 抽象的 / n. 摘要，抽象概念",
+    "abuse": "v. 滥用，虐待 / n. 滥用，虐待",
+    "academic": "adj. 学术的",
+    "accent": "n. 口音，腔调",
+    "accept": "v. 接受，同意",
+    "access": "n. 进入权，通道 / v. 访问，进入",
+    "accident": "n. 事故，意外",
+    "accommodation": "n. 住宿，住处",
+    "accompany": "v. 陪伴，陪同",
+    "account": "n. 账户，描述 / v. 解释，占（比例）",
+    "accurate": "adj. 准确的，精确的",
+    "accuse": "v. 指控，指责",
+    "ache": "v. 疼痛 / n. 疼痛",
+    "achieve": "v. 达到，实现",
+    "achievement": "n. 成就，成绩",
+    "acid": "n. 酸",
+    "acknowledge": "v. 承认，致谢",
+    "acquire": "v. 获得，习得",
+    "act": "v. 表演；行动 / n. 行为；法案",
+    "action": "n. 行动，行为",
+    "active": "adj. 活跃的，积极的",
+    "activity": "n. 活动",
+    "actor": "n. 男演员",
+    "actress": "n. 女演员",
+    "actually": "adv. 实际上，事实上",
+    "adapt": "v. 适应，改编",
+    "adaptation": "n. 适应，改编本",
+    "add": "v. 添加，增加",
+    "addict": "n. 上瘾者 / v. 使上瘾",
+    "addition": "n. 增加，加法",
+    "address": "n. 地址，演讲 / v. 处理，发表演讲",
+    "adjust": "v. 调整，适应",
+    "administration": "n. 管理，行政部门",
+    "admire": "v. 钦佩，赞赏",
+    "admit": "v. 承认，准许进入",
+    "adopt": "v. 采纳，收养",
+    "adorable": "adj. 可爱的，讨人喜欢的",
+    "adult": "n. 成年人 / adj. 成年的，成熟的",
+    "advance": "v. 前进，推进 / n. 进展，预付款",
+    "advantage": "n. 优势，好处",
+    "adventure": "n. 冒险，奇遇",
+    "advertise": "v. 做广告，宣传",
+    "advice": "n. 建议，劝告",
+    "advise": "v. 劝告；建议",
+    "advocate": "v. 提倡；主张 / n. 拥护者；提倡者",
+    "affair": "n. 公共事务；事件；事情",
+    "affect": "v. 影响 / n. 情感",
+    "afford": "v. 买得起；承担得起；提供",
+    "afraid": "adj. 害怕的；担心的",
+    "afternoon": "n. 下午",
+    "afterward": "adv. 后来；以后",
+    "again": "adv. 再一次；又一次",
+    "age": "n. 年龄；时代；年龄段 / v. 变老；使显老",
+    "agency": "n. 代理行；经销机构；（政府的）专门机构",
+    "agenda": "n. 议程表；日程表",
+    "ago": "adv. 以前",
+    "agree": "v. 同意；赞成；一致",
+    "agreement": "n. 协定；协议；同意",
+    "agriculture": "n. 农业；农学",
+    "ahead": "adv. 向前；在前面；提前",
+    "aid": "n. 援助；救助；辅助设备 / v. 援助；帮助",
+    "aim": "n. 目标；目的 / v. 力求达到；瞄准",
+    "air": "n. 空气；天空；神态 / v. 晾晒；使通风",
+    "airline": "n. 航空公司",
+    "airport": "n. 航空站；飞机场",
+    "alarm": "n. 警报；警报器；惊慌 / v. 使惊恐；使担心",
+    "alcohol": "n. 酒；酒精",
+    "alive": "adj. 活着的；有活力的",
+    "allow": "v. 允许；准许；给予",
+    "almost": "adv. 几乎；差不多",
+    "alone": "adj. 单独的；孤独的 / adv. 独自地；仅仅",
+    "aloud": "adv. 大声地；出声地",
+    "already": "adv. 已经；早已",
+    "also": "adv. 而且；也",
+    "alternative": "adj. 可供选择的；非传统的 / n. 可供选择的事物",
+    "altogether": "adv. 完全；总共；总之",
+    "always": "adv. 总是；一直；永远",
+    "amateur": "n. 业余爱好者；外行 / adj. 业余的；外行的",
+    "amazing": "adj. 令人大为惊奇的",
+    "ambition": "n. 抱负；雄心；野心",
+    "ambitious": "adj. 有雄心的；有野心的；费力的",
+    "ambulance": "n. 救护车",
+    "amount": "n. 金额；数量 / v. 合计；等于",
+    "amuse": "v. 逗乐；娱乐",
+    "analyse": "v. 分析",
+    "ancestor": "n. 祖先；祖宗；先驱",
+    "ancient": "adj. 古代的，古老的",
+    "anger": "n. 愤怒，怒气 / v. 使发怒",
+    "angle": "n. 角，角度 / v. 斜移，斜置",
+    "angry": "adj. 生气的，愤怒的",
+    "animal": "n. 动物",
+    "ankle": "n. 脚踝",
+    "announce": "v. 宣布，宣告",
+    "annoy": "v. 使烦恼，使生气",
+    "annual": "adj. 每年的，年度的 / n. 年刊，年鉴",
+    "answer": "n. 回答，答案 / v. 回答，答复",
+    "ant": "n. 蚂蚁",
+    "anticipate": "v. 预期，预料",
+    "antique": "adj. 古老的，古董的 / n. 古董，古玩",
+    "anxiety": "n. 焦虑，忧虑",
+    "anxious": "adj. 焦虑的，忧虑的",
+    "anyhow": "adv. 无论如何，不管怎样",
+    "anyway": "adv. 无论如何，不管怎样；总之",
+    "anywhere": "adv. 任何地方",
+    "apart": "adv. 相隔，分开",
+    "apartment": "n. 公寓，房间",
+    "apparently": "adv. 显然，似乎",
+    "appeal": "n. 吸引力，呼吁 / v. 吸引，呼吁，上诉",
+    "appear": "v. 出现，显得，似乎",
+    "appetite": "n. 食欲，胃口",
+    "applaud": "v. 鼓掌，称赞",
+    "apple": "n. 苹果",
+    "applicant": "n. 申请人",
+    "application": "n. 申请，应用",
+    "apply": "v. 申请，应用",
+    "appointment": "n. 约会，预约，任命",
+    "appreciate": "v. 欣赏，感激",
+    "approach": "n. 方法，途径 / v. 接近，靠近",
+    "appropriate": "adj. 适当的，恰当的",
+    "approve": "v. 赞成，同意，批准",
+    "arch": "n. 拱门，弓形 / v. 使成弓形",
+    "architect": "n. 建筑师",
+    "area": "n. 地区，区域，面积",
+    "argue": "v. 争论，辩论，主张",
+    "arise": "v. 出现，产生，起身",
+    "arm": "n. 手臂，上肢 / v. 武装，装备",
+    "army": "n. 军队，陆军",
+    "arrangement": "n. 安排，布置",
+    "arrest": "n. 逮捕，拘留 / v. 逮捕，拘留",
+    "arrive": "v. 到达，抵达",
+    "arrow": "n. 箭，箭头",
+    "art": "n. 艺术，美术",
+    "article": "n. 文章，物品，冠词",
+    "artificial": "adj. 人造的，人工的",
+    "artist": "n. 艺术家",
+    "ashamed": "adj. 惭愧的，羞耻的",
+    "aside": "adv. 在旁边，到一边 / n. 旁白，离题的话",
+    "ask": "v. 问，请求",
+    "asleep": "adj. 睡着的",
+    "aspect": "n. 方面，层面",
+    "assess": "v. 评估，评定",
+    "assign": "v. 分配，指派",
+    "assistant": "n. 助手，助理",
+    "association": "n. 协会，联系",
+    "assume": "v. 假设，认为",
+    "assumption": "n. 假设，假定",
+    "astonish": "v. 使惊讶",
+    "astronaut": "n. 宇航员",
+    "astronomer": "n. 天文学家",
+    "athlete": "n. 运动员",
+    "atmosphere": "n. 大气，气氛",
+    "attach": "v. 附上，系上",
+    "attack": "v. 攻击 / n. 攻击",
+    "attain": "v. 达到，获得",
+    "attempt": "v. 尝试，企图 / n. 尝试，企图",
+    "attend": "v. 参加，出席",
+    "attention": "n. 注意，注意力",
+    "attitude": "n. 态度，看法",
+    "attract": "v. 吸引",
+    "audience": "n. 观众，听众",
+    "aunt": "n. 姑妈，伯母，阿姨",
+    "author": "n. 作者",
+    "authority": "n. 权威，当局",
+    "automatic": "adj. 自动的",
+    "autonomous": "adj. 自治的，自主的",
+    "autumn": "n. 秋天，秋季",
+    "available": "adj. 可获得的，有空的",
+    "average": "adj. 平均的，普通的 / n. 平均数 / v. 平均为",
+    "avoid": "v. 避免，避开",
+    "awake": "adj. 醒着的 / v. 唤醒，觉醒",
+    "award": "n. 奖，奖品 / v. 授予，奖励",
+    "aware": "adj. 意识到的，知道的",
+    "away": "adv. 离开，远离",
+    "awesome": "adj. 令人惊叹的，很棒的",
+    "awful": "adj. 糟糕的，可怕的",
+    "awkward": "adj. 尴尬的，笨拙的",
+    "cabbage": "n. 卷心菜",
+    "café": "n. 咖啡馆",
+    "cage": "n. 笼子",
+    "cake": "n. 蛋糕",
+    "calculate": "v. 计算",
+    "calendar": "n. 日历",
+    "call": "v. 呼叫",
+    "calm": "adj. 平静的",
+    "camera": "n. 相机",
+    "camp": "n. 露营",
+    "campaign": "n. 运动",
+    "campus": "n. 校园",
+    "cancel": "v. 取消",
+    "cancer": "n. 癌症",
+    "candidate": "n. 候选人",
+    "candle": "n. 蜡烛",
+    "candy": "n. 糖果",
+    "cap": "n. 帽子",
+    "capable": "adj. 有能力的",
+    "capacity": "n. 容量",
+    "capital": "n. 首都；资本",
+    "captain": "n. 船长",
+    "car": "n. 汽车",
+    "carbon": "n. 碳",
+    "card": "n. 卡片",
+    "care": "v. 关心",
+    "career": "n. 职业",
+    "careful": "adj. 小心的",
+    "careless": "adj. 粗心的",
+    "carpet": "n. 地毯",
+    "carrot": "n. 胡萝卜",
+    "carry": "v. 携带",
+    "cartoon": "n. 卡通",
+    "case": "n. 案例",
+    "cash": "n. 现金",
+    "castle": "n. 城堡",
+    "cat": "n. 猫",
+    "catch": "v. 抓住",
+    "category": "n. 类别",
+    "cattle": "n. 牛",
+    "cause": "n. 原因",
+    "cave": "n. 洞穴",
+    "ceiling": "n. 天花板",
+    "celebrate": "v. 庆祝",
+    "celebrity": "n. 名人",
+    "cell": "n. 细胞",
+    "central": "adj. 中心的",
+    "century": "n. 世纪",
+    "certain": "adj. 确定的",
+    "certificate": "n. 证书",
+    "chain": "n. 链条",
+    "chair": "n. 椅子",
+    "chairman": "n. 主席",
+    "challenge": "n./v. 挑战",
+    "champion": "n. 冠军",
+    "chance": "n. 机会",
+    "change": "v. 改变",
+    "channel": "n. 频道",
+    "chaos": "n. 混乱",
+    "chapter": "n. 章节",
+    "character": "n. 性格；角色",
+    "characteristic": "n. 特征",
+    "charge": "v. 收费；指控",
+    "charity": "n. 慈善",
+    "chart": "n. 图表",
+    "chat": "v. 聊天",
+    "cheap": "adj. 便宜的",
+    "cheat": "v. 欺骗",
+    "check": "v. 检查",
+    "cheek": "n. 脸颊",
+    "cheer": "v. 欢呼",
+    "cheese": "n. 奶酪",
+    "chef": "n. 厨师",
+    "chemical": "adj. 化学的",
+    "chemist": "n. 化学家",
+    "chemistry": "n. 化学",
+    "chess": "n. 国际象棋",
+    "chest": "n. 胸部",
+    "chicken": "n. 鸡",
+    "chief": "adj. 主要的",
+    "child (pl. children)": "n. 孩子",
+    "chocolate": "n. 巧克力",
+    "choice": "n. 选择",
+    "choose": "v. 选择",
+    "chopsticks": "n. 筷子",
+    "church": "n. 教堂",
+    "cigarette": "n. 香烟",
+    "cinema": "n. 电影院",
+    "circle": "n. 圆圈",
+    "circuit": "n. 电路",
+    "circumstance": "n. 环境",
+    "circus": "n. 马戏团",
+    "cite": "v. 引用",
+    "citizen": "n. 公民",
+    "city": "n. 城市",
+    "civil": "adj. 公民的",
+    "civilian": "n. 平民",
+    "civilisation (civilization)": "n. 文明",
+    "claim": "v. 声称",
+    "clap": "v. 鼓掌",
+    "clarify": "v. 澄清",
+    "class": "n. 班级",
+    "classic": "adj. 经典的",
+    "classmate": "n. 同学",
+    "classroom": "n. 教室",
+    "clean": "adj. 干净的",
+    "clear": "adj. 清楚的",
+    "clerk": "n. 职员",
+    "clever": "adj. 聪明的",
+    "click": "v. 点击",
+    "client": "n. 客户",
+    "climate": "n. 气候",
+    "climb": "v. 爬",
+    "clinic": "n. 诊所",
+    "clock": "n. 时钟",
+    "close": "v. 关闭",
+    "cloth": "n. 布",
+    "clothes": "n. 衣服",
+    "cloud": "n. 云",
+    "cloudy": "adj. 多云的",
+    "club": "n. 俱乐部",
+    "clue": "n. 线索",
+    "coach": "n. 教练",
+    "coal": "n. 煤",
+    "coast": "n. 海岸",
+    "coat": "n. 外套",
+    "coffee": "n. 咖啡",
+    "coin": "n. 硬币",
+    "cold": "adj. 冷的",
+    "collapse": "v. 倒塌",
+    "collar": "n. 衣领",
+    "collect": "v. 收集",
+    "collection": "n. 收集",
+    "college": "n. 大学",
+    "column": "n. 专栏",
+    "combine": "v. 结合",
+    "come": "v. 来",
+    "comedy": "n. 喜剧",
+    "comfort": "n. 舒适",
+    "comfortable": "adj. 舒适的",
+    "comic": "n. 漫画",
+    "comment": "n. 评论",
+    "commercial": "adj. 商业的",
+    "commit": "v. 承诺",
+    "commitment": "n. 承诺",
+    "committee": "n. 委员会",
+    "common": "adj. 普通的",
+    "communicate": "v. 交流",
+    "communication": "n. 通信",
+    "communist": "n. 共产主义者",
+    "community": "n. 社区",
+    "company": "n. 公司",
+    "compare": "v. 比较",
+    "competition": "n. 比赛",
+    "complain": "v. 抱怨",
+    "complete": "v. 完成",
+    "complex": "adj. 复杂的",
+    "component": "n. 组成部分",
+    "compose": "v. 组成",
+    "composition": "n. 作文",
+    "comprehension": "n. 理解",
+    "computer": "n. 计算机",
+    "concentrate": "v. 集中",
+    "concept": "n. 概念",
+    "concern": "n. 关心",
+    "concert": "n. 音乐会",
+    "conclude": "v. 结论",
+    "conclusion": "n. 结论",
+    "concrete": "adj. 具体的",
+    "condition": "n. 条件",
+    "conduct": "n. 行为",
+    "conference": "n. 会议",
+    "confidence": "n. 信心",
+    "confirm": "v. 确认",
+    "conflict": "n. 冲突",
+    "confused": "adj. 困惑的",
+    "congratulation": "n. 祝贺",
+    "connect": "v. 连接",
+    "consequence": "n. 结果",
+    "conservation": "n. 保护",
+    "consider": "v. 考虑",
+    "consistent": "adj. 一致的",
+    "constant": "adj. 恒定的",
+    "constitution": "n. 宪法",
+    "construction": "n. 建设",
+    "consultant": "n. 顾问",
+    "consultation": "n. 咨询",
+    "consume": "v. 消费",
+    "consumption": "n. 消费",
+    "contact": "n. 联系",
+    "contain": "v. 包含",
+    "contemporary": "adj. 当代的",
+    "content": "n. 内容",
+    "contest": "n. 比赛",
+    "context": "n. 上下文",
+    "continent": "n. 大陆",
+    "continue": "v. 继续",
+    "contract": "n. 合同",
+    "contradictory": "adj. 矛盾的",
+    "contrary": "adj. 相反的",
+    "contrast": "n. 对比",
+    "contribution": "n. 贡献",
+    "control": "v. 控制",
+    "convenient": "adj. 方便的",
+    "conventional": "adj. 传统的",
+    "conversation": "n. 对话",
+    "convince": "v. 说服",
+    "cook": "v. 烹饪",
+    "cookie": "n. 饼干",
+    "cool": "adj. 凉爽的",
+    "cooperate": "v. 合作",
+    "copy": "v. 复制",
+    "core": "n. 核心",
+    "corn": "n. 玉米",
+    "corner": "n. 角落",
+    "corporate": "adj. 公司的",
+    "correct": "adj. 正确的",
+    "correspond": "v. 对应",
+    "cost": "n. 成本",
+    "costume": "n. 服装",
+    "cottage": "n. 小屋",
+    "cotton": "n. 棉花",
+    "cough": "v. 咳嗽",
+    "could": "aux. 能够",
+    "council": "n. 委员会",
+    "count": "v. 计数",
+    "country": "n. 国家",
+    "countryside": "n. 乡村",
+    "county": "n. 县",
+    "couple": "n. 一对",
+    "courage": "n. 勇气",
+    "course": "n. 课程",
+    "court": "n. 法庭",
+    "cousin": "n. 堂兄",
+    "cover": "v. 覆盖",
+    "coverage": "n. 覆盖",
+    "cow": "n. 牛",
+    "crash": "v. 碰撞",
+    "crayon": "n. 蜡笔",
+    "crazy": "adj. 疯狂的",
+    "cream": "n. 奶油",
+    "create": "v. 创造",
+    "creative": "adj. 有创造力的",
+    "creature": "n. 生物",
+    "credit": "n. 信用",
+    "crew": "n. 船员",
+    "crime": "n. 犯罪",
+    "crisis": "n. 危机",
+    "criterion (pl. criteria)": "n. 标准",
+    "critical": "adj. 批评的",
+    "criticise (criticize)": "v. 批评",
+    "crop": "n. 作物",
+    "cross": "v. 交叉",
+    "crowd": "n. 人群",
+    "crucial": "adj. 关键的",
+    "cruel": "adj. 残忍的",
+    "cry": "v. 哭",
+    "cuisine": "n. 烹饪",
+    "culture": "n. 文化",
+    "cup": "n. 杯子",
+    "cupboard": "n. 橱柜",
+    "cure": "v. 治愈",
+    "curious": "adj. 好奇的",
+    "current": "adj. 当前的",
+    "curtain": "n. 窗帘",
+    "custom": "n. 习俗",
+    "customer": "n. 顾客",
+    "cut": "v. 切割",
+    "cute": "adj. 可爱的",
+    "cycle": "n. 周期",
+    "baby": "n. 婴儿；宝贝",
+    "back": "n. 背部；后面 / adv. 向后；回来",
+    "background": "n. 背景；经历",
+    "backward": "adj. 向后的；倒退的 / adv. 向后",
+    "bacon": "n. 培根；熏猪肉",
+    "bad": "adj. 坏的；不好的；严重的",
+    "badminton": "n. 羽毛球",
+    "bag": "n. 袋子；包；书包",
+    "bakery": "n. 面包店；烘焙坊",
+    "balance": "n. 平衡；余额 / v. 使平衡",
+    "ball": "n. 球；舞会",
+    "ballet": "n. 芭蕾舞",
+    "balloon": "n. 气球",
+    "bamboo": "n. 竹子",
+    "ban": "v. 禁止 / n. 禁令",
+    "banana": "n. 香蕉",
+    "band": "n. 乐队；带；条纹",
+    "bank": "n. 银行；岸；堤",
+    "bar": "n. 酒吧；条；棒；障碍",
+    "barbecue": "n. 烧烤；烤肉",
+    "barely": "adv. 仅仅；几乎不；勉强",
+    "bark": "v. 吠叫 / n. 树皮",
+    "barrier": "n. 障碍；屏障；栏杆",
+    "base": "n. 基础；基地 / v. 以……为基础",
+    "baseball": "n. 棒球",
+    "basic": "adj. 基本的；基础的",
+    "basin": "n. 盆；盆地；流域",
+    "basis": "n. 基础；根据；原则",
+    "basket": "n. 篮子；筐",
+    "basketball": "n. 篮球",
+    "bat": "n. 球棒；蝙蝠",
+    "bath": "n. 洗澡；浴缸；浴室",
+    "bathroom": "n. 浴室；卫生间",
+    "battery": "n. 电池",
+    "battle": "n. 战斗；战役；斗争",
+    "bay": "n. 海湾；湾",
+    "beach": "n. 海滩；沙滩",
+    "bean": "n. 豆子",
+    "bear": "n. 熊 / v. 忍受",
+    "beard": "n. 胡须",
+    "beat": "v. 打败；敲打 / n. 节拍",
+    "beauty": "n. 美；美人",
+    "become": "v. 变成；成为",
+    "bed": "n. 床",
+    "bedroom": "n. 卧室",
+    "beef": "n. 牛肉",
+    "beer": "n. 啤酒",
+    "begin": "v. 开始",
+    "behalf": "n. 代表；利益",
+    "behave": "v. 表现；举止",
+    "behaviour": "n. 行为；举止",
+    "belief": "n. 信念；信仰",
+    "believe": "v. 相信",
+    "bell": "n. 铃；钟",
+    "belong": "v. 属于",
+    "belt": "n. 腰带；皮带",
+    "bend": "v. 弯曲；弯腰",
+    "benefit": "n. 益处 / v. 受益",
+    "best": "adj. 最好的",
+    "bet": "v. 打赌",
+    "better": "adj. 更好的",
+    "bike": "n. 自行车",
+    "bill": "n. 账单；法案",
+    "billion": "num. 十亿",
+    "biology": "n. 生物学",
+    "bird": "n. 鸟",
+    "birth": "n. 出生",
+    "birthday": "n. 生日",
+    "biscuit": "n. 饼干",
+    "bit": "n. 一点，少量",
+    "bite": "v. 咬 / n. 一口",
+    "bitter": "adj. 苦的；痛苦的",
+    "black": "adj. 黑色的",
+    "blackboard": "n. 黑板",
+    "blame": "v. 责备；责怪",
+    "blank": "adj. 空白的 / n. 空白处",
+    "blanket": "n. 毯子",
+    "bleed": "v. 流血",
+    "bless": "v. 祝福；保佑",
+    "blind": "adj. 失明的；盲的",
+    "block": "n. 街区；大块 / v. 阻挡",
+    "blog": "n. 博客",
+    "blood": "n. 血液",
+    "blouse": "n. 女式衬衫",
+    "blow": "v. 吹 / n. 打击",
+    "blue": "adj. 蓝色的",
+    "board": "n. 板；木板；委员会 / v. 上（船、飞机等）",
+    "boat": "n. 小船",
+    "body": "n. 身体；躯体",
+    "boil": "v. 沸腾；煮沸",
+    "bomb": "n. 炸弹",
+    "bond": "n. 纽带；联系；债券",
+    "bone": "n. 骨头",
+    "bonus": "n. 奖金；红利",
+    "book": "n. 书 / v. 预订",
+    "boot": "n. 靴子",
+    "border": "n. 边界；边境",
+    "bored": "adj. 感到无聊的；感到厌烦的",
+    "boring": "adj. 令人厌烦的；无聊的",
+    "born": "adj. 出生的；天生的",
+    "borrow": "v. 借入；借用",
+    "boss": "n. 老板；上司 / v. 指挥；发号施令",
+    "botanical": "adj. 植物学的",
+    "bother": "v. 打扰；烦扰；费心 / n. 麻烦；烦恼",
+    "bottle": "n. 瓶子 / v. 装瓶",
+    "bottom": "n. 底部；末端 / adj. 底部的",
+    "bounce": "v. 弹跳；反弹 / n. 弹跳",
+    "bound": "v. 跳跃 / adj. 有义务的；受约束的；必然的；准备前往的",
+    "boundary": "n. 边界；分界线",
+    "bow": "v. 鞠躬；弯腰 / n. 弓；蝴蝶结",
+    "bowl": "n. 碗；碗状物",
+    "bowling": "n. 保龄球；滚木球",
+    "box": "n. 盒子；箱子 / v. 拳击；装箱",
+    "boxing": "n. 拳击",
+    "boy": "n. 男孩；儿子",
+    "brain": "n. 大脑；头脑；智力",
+    "branch": "n. 树枝；分支；分店；部门 / v. 分岔",
+    "brave": "adj. 勇敢的；英勇的 / v. 勇敢面对",
+    "bread": "n. 面包；生计",
+    "break": "v. 打破；弄坏；违反 / n. 休息；中断；破裂",
+    "breast": "n. 乳房；胸部；胸怀",
+    "breath": "n. 呼吸；气息",
+    "breathe": "v. 呼吸",
+    "brick": "n. 砖；砖块",
+    "bridge": "n. 桥；桥梁；纽带 / v. 架桥；弥合",
+    "brief": "adj. 简短的；简洁的 / n. 摘要 / v. 向…简要介绍",
+    "bright": "adj. 明亮的；聪明的；鲜艳的；欢快的",
+    "brilliant": "adj. 杰出的；才华横溢的；明亮的；精彩的",
+    "bring": "v. 带来；拿来；引起",
+    "cafeteria": "n. 自助餐厅",
+    "calligraphy": "n. 书法",
+    "calorie": "n. 卡路里（热量单位）",
+    "camel": "n. 骆驼",
+    "canal": "n. 运河，水道，沟渠",
+    "canteen": "n. 食堂，餐厅",
+    "capsule": "n. 胶囊，太空舱",
+    "carve": "v. 雕刻，切割",
+    "cast": "v. 投，扔；选派演员；铸造",
+    "cent": "n. 分（货币单位）",
+    "centre": "n. 中心，中央",
+    "chalk": "n. 粉笔",
+    "chew": "v. 咀嚼；嚼碎",
+    "child": "n. 孩子；儿童",
+    "choke": "v. 窒息；呛住 / n. 阻塞",
+    "chorus": "n. 合唱；合唱队；齐声 v. 合唱；齐声说",
+    "clay": "n. 黏土；陶土",
+    "clone": "n. 克隆；复制品 v. 克隆；复制",
+    "colour": "n. 颜色；肤色；特色 v. 给……着色（英式）",
+    "compete": "v. 竞争；比赛",
+    "competence": "n. 能力；胜任",
+    "comprehensive": "adj. 全面的；综合的；详尽的",
+    "consist": "v. 由……组成，在于",
+    "beautiful": "adj. 美丽的；漂亮的",
+    "big": "adj. 大的",
+    "boost": "v. 促进；提高；增强",
+    "breakfast": "n. 早餐",
+    "broad": "adj. 宽阔的；广泛的",
+    "broadcast": "n. 广播；播送",
+    "brochure": "n. 小册子；手册",
+    "brother": "n. 兄弟",
+    "brown": "adj. 棕色的；褐色",
+    "brush": "n. 刷子；画笔 / v. 刷",
+    "budget": "n. 预算",
+    "buffet": "n. 自助餐 / v. 打击",
+    "build": "v. 建造；建设",
+    "building": "n. 建筑物；楼房",
+    "bunch": "n. 一束；一群；大量",
+    "burn": "v. 燃烧；烧毁 / n. 烧伤",
+    "bury": "v. 埋葬；掩埋",
+    "bus": "n. 公共汽车",
+    "business": "n. 商业；生意；事务",
+    "busy": "adj. 忙碌的；繁忙的",
+    "butcher": "n. 屠夫；肉贩",
+    "butter": "n. 黄油；奶油",
+    "button": "n. 按钮；纽扣",
+    "buy": "v. 购买；买",
+    "cease": "v. 停止；终止",
+    "certainly": "adv. 当然；肯定地",
+    "comparison": "n. 比较；对照",
+    "complicated": "adj. 复杂的；难懂的",
+    "comprise": "v. 包含；由……组成",
+    "confucianism": "n. 儒家思想；儒学",
+    "confucius": "n. 孔子",
+    "criterion": "n. 标准；准则；尺度",
+    "criticise": "v. 批评；评论；挑剔",
+    "civilization": "n. 文明；文明社会",
+    "centimeter": "n. 厘米"
+  },
+  "POS": {
+    "abandon": [
+      "v"
+    ],
+    "ability": [
+      "n"
+    ],
+    "able": [
+      "adj"
+    ],
+    "abnormal": [
+      "adj"
+    ],
+    "aboard": [
+      "adv",
+      "prep"
+    ],
+    "abroad": [
+      "adv"
+    ],
+    "absence": [
+      "n"
+    ],
+    "absent": [
+      "adj"
+    ],
+    "absolutely": [
+      "adv"
+    ],
+    "absorb": [
+      "v"
+    ],
+    "abstract": [
+      "adj",
+      "n"
+    ],
+    "abuse": [
+      "v",
+      "n"
+    ],
+    "academic": [
+      "adj"
+    ],
+    "accent": [
+      "n"
+    ],
+    "accept": [
+      "v"
+    ],
+    "access": [
+      "n",
+      "v"
+    ],
+    "accident": [
+      "n"
+    ],
+    "accommodation": [
+      "n"
+    ],
+    "accompany": [
+      "v"
+    ],
+    "account": [
+      "n",
+      "v"
+    ],
+    "accurate": [
+      "adj"
+    ],
+    "accuse": [
+      "v"
+    ],
+    "ache": [
+      "v",
+      "n"
+    ],
+    "achieve": [
+      "v"
+    ],
+    "achievement": [
+      "n"
+    ],
+    "acid": [
+      "n"
+    ],
+    "acknowledge": [
+      "v"
+    ],
+    "acquire": [
+      "v"
+    ],
+    "act": [
+      "v",
+      "n"
+    ],
+    "action": [
+      "n"
+    ],
+    "active": [
+      "adj"
+    ],
+    "activity": [
+      "n"
+    ],
+    "actor": [
+      "n"
+    ],
+    "actress": [
+      "n"
+    ],
+    "actually": [
+      "adv"
+    ],
+    "adapt": [
+      "v"
+    ],
+    "adaptation": [
+      "n"
+    ],
+    "add": [
+      "v"
+    ],
+    "addict": [
+      "n",
+      "v"
+    ],
+    "addition": [
+      "n"
+    ],
+    "address": [
+      "n",
+      "v"
+    ],
+    "adjust": [
+      "v"
+    ],
+    "administration": [
+      "n"
+    ],
+    "admire": [
+      "v"
+    ],
+    "admit": [
+      "v"
+    ],
+    "adopt": [
+      "v"
+    ],
+    "adorable": [
+      "adj"
+    ],
+    "adult": [
+      "n",
+      "adj"
+    ],
+    "advance": [
+      "v",
+      "n"
+    ],
+    "advantage": [
+      "n"
+    ],
+    "adventure": [
+      "n"
+    ],
+    "advertise": [
+      "v"
+    ],
+    "advice": [
+      "n"
+    ],
+    "advise": [
+      "v"
+    ],
+    "advocate": [
+      "v",
+      "n"
+    ],
+    "affair": [
+      "n"
+    ],
+    "affect": [
+      "v",
+      "n"
+    ],
+    "afford": [
+      "v"
+    ],
+    "afraid": [
+      "adj"
+    ],
+    "afternoon": [
+      "n"
+    ],
+    "afterward": [
+      "adv"
+    ],
+    "again": [
+      "adv"
+    ],
+    "age": [
+      "n",
+      "v"
+    ],
+    "agency": [
+      "n"
+    ],
+    "agenda": [
+      "n"
+    ],
+    "ago": [
+      "adv"
+    ],
+    "agree": [
+      "v"
+    ],
+    "agreement": [
+      "n"
+    ],
+    "agriculture": [
+      "n"
+    ],
+    "ahead": [
+      "adv"
+    ],
+    "aid": [
+      "n",
+      "v"
+    ],
+    "aim": [
+      "n",
+      "v"
+    ],
+    "air": [
+      "n",
+      "v"
+    ],
+    "airline": [
+      "n"
+    ],
+    "airport": [
+      "n"
+    ],
+    "alarm": [
+      "n",
+      "v"
+    ],
+    "alcohol": [
+      "n"
+    ],
+    "alive": [
+      "adj"
+    ],
+    "allow": [
+      "v"
+    ],
+    "almost": [
+      "adv"
+    ],
+    "alone": [
+      "adj",
+      "adv"
+    ],
+    "aloud": [
+      "adv"
+    ],
+    "already": [
+      "adv"
+    ],
+    "also": [
+      "adv"
+    ],
+    "alternative": [
+      "adj",
+      "n"
+    ],
+    "altogether": [
+      "adv"
+    ],
+    "always": [
+      "adv"
+    ],
+    "amateur": [
+      "n",
+      "adj"
+    ],
+    "amazing": [
+      "adj"
+    ],
+    "ambition": [
+      "n"
+    ],
+    "ambitious": [
+      "adj"
+    ],
+    "ambulance": [
+      "n"
+    ],
+    "amount": [
+      "n",
+      "v"
+    ],
+    "amuse": [
+      "v"
+    ],
+    "analyse": [
+      "v"
+    ],
+    "ancestor": [
+      "n"
+    ],
+    "ancient": [
+      "adj"
+    ],
+    "anger": [
+      "n",
+      "v"
+    ],
+    "angle": [
+      "n",
+      "v"
+    ],
+    "angry": [
+      "adj"
+    ],
+    "animal": [
+      "n"
+    ],
+    "ankle": [
+      "n"
+    ],
+    "announce": [
+      "v"
+    ],
+    "annoy": [
+      "v"
+    ],
+    "annual": [
+      "adj",
+      "n"
+    ],
+    "answer": [
+      "n",
+      "v"
+    ],
+    "ant": [
+      "n"
+    ],
+    "anticipate": [
+      "v"
+    ],
+    "antique": [
+      "adj",
+      "n"
+    ],
+    "anxiety": [
+      "n"
+    ],
+    "anxious": [
+      "adj"
+    ],
+    "anyhow": [
+      "adv"
+    ],
+    "anyway": [
+      "adv"
+    ],
+    "anywhere": [
+      "adv"
+    ],
+    "apart": [
+      "adv"
+    ],
+    "apartment": [
+      "n"
+    ],
+    "apparently": [
+      "adv"
+    ],
+    "appeal": [
+      "n",
+      "v"
+    ],
+    "appear": [
+      "v"
+    ],
+    "appetite": [
+      "n"
+    ],
+    "applaud": [
+      "v"
+    ],
+    "apple": [
+      "n"
+    ],
+    "applicant": [
+      "n"
+    ],
+    "application": [
+      "n"
+    ],
+    "apply": [
+      "v"
+    ],
+    "appointment": [
+      "n"
+    ],
+    "appreciate": [
+      "v"
+    ],
+    "approach": [
+      "n",
+      "v"
+    ],
+    "appropriate": [
+      "adj"
+    ],
+    "approve": [
+      "v"
+    ],
+    "arch": [
+      "n",
+      "v"
+    ],
+    "architect": [
+      "n"
+    ],
+    "area": [
+      "n"
+    ],
+    "argue": [
+      "v"
+    ],
+    "arise": [
+      "v"
+    ],
+    "arm": [
+      "n",
+      "v"
+    ],
+    "army": [
+      "n"
+    ],
+    "arrangement": [
+      "n"
+    ],
+    "arrest": [
+      "n",
+      "v"
+    ],
+    "arrive": [
+      "v"
+    ],
+    "arrow": [
+      "n"
+    ],
+    "art": [
+      "n"
+    ],
+    "article": [
+      "n"
+    ],
+    "artificial": [
+      "adj"
+    ],
+    "artist": [
+      "n"
+    ],
+    "ashamed": [
+      "adj"
+    ],
+    "aside": [
+      "adv",
+      "n"
+    ],
+    "ask": [
+      "v"
+    ],
+    "asleep": [
+      "adj"
+    ],
+    "aspect": [
+      "n"
+    ],
+    "assess": [
+      "v"
+    ],
+    "assign": [
+      "v"
+    ],
+    "assistant": [
+      "n"
+    ],
+    "association": [
+      "n"
+    ],
+    "assume": [
+      "v"
+    ],
+    "assumption": [
+      "n"
+    ],
+    "astonish": [
+      "v"
+    ],
+    "astronaut": [
+      "n"
+    ],
+    "astronomer": [
+      "n"
+    ],
+    "athlete": [
+      "n"
+    ],
+    "atmosphere": [
+      "n"
+    ],
+    "attach": [
+      "v"
+    ],
+    "attack": [
+      "v",
+      "n"
+    ],
+    "attain": [
+      "v"
+    ],
+    "attempt": [
+      "v",
+      "n"
+    ],
+    "attend": [
+      "v"
+    ],
+    "attention": [
+      "n"
+    ],
+    "attitude": [
+      "n"
+    ],
+    "attract": [
+      "v"
+    ],
+    "audience": [
+      "n"
+    ],
+    "aunt": [
+      "n"
+    ],
+    "author": [
+      "n"
+    ],
+    "authority": [
+      "n"
+    ],
+    "automatic": [
+      "adj"
+    ],
+    "autonomous": [
+      "adj"
+    ],
+    "autumn": [
+      "n"
+    ],
+    "available": [
+      "adj"
+    ],
+    "average": [
+      "adj",
+      "n",
+      "v"
+    ],
+    "avoid": [
+      "v"
+    ],
+    "awake": [
+      "adj",
+      "v"
+    ],
+    "award": [
+      "n",
+      "v"
+    ],
+    "aware": [
+      "adj"
+    ],
+    "away": [
+      "adv"
+    ],
+    "awesome": [
+      "adj"
+    ],
+    "awful": [
+      "adj"
+    ],
+    "awkward": [
+      "adj"
+    ],
+    "cabbage": [
+      "n"
+    ],
+    "café": [
+      "n"
+    ],
+    "cage": [
+      "n"
+    ],
+    "cake": [
+      "n"
+    ],
+    "calculate": [
+      "v"
+    ],
+    "calendar": [
+      "n"
+    ],
+    "call": [
+      "v"
+    ],
+    "calm": [
+      "adj"
+    ],
+    "camera": [
+      "n"
+    ],
+    "camp": [
+      "n"
+    ],
+    "campaign": [
+      "n"
+    ],
+    "campus": [
+      "n"
+    ],
+    "cancel": [
+      "v"
+    ],
+    "cancer": [
+      "n"
+    ],
+    "candidate": [
+      "n"
+    ],
+    "candle": [
+      "n"
+    ],
+    "candy": [
+      "n"
+    ],
+    "cap": [
+      "n"
+    ],
+    "capable": [
+      "adj"
+    ],
+    "capacity": [
+      "n"
+    ],
+    "capital": [
+      "n"
+    ],
+    "captain": [
+      "n"
+    ],
+    "car": [
+      "n"
+    ],
+    "carbon": [
+      "n"
+    ],
+    "card": [
+      "n"
+    ],
+    "care": [
+      "v"
+    ],
+    "career": [
+      "n"
+    ],
+    "careful": [
+      "adj"
+    ],
+    "careless": [
+      "adj"
+    ],
+    "carpet": [
+      "n"
+    ],
+    "carrot": [
+      "n"
+    ],
+    "carry": [
+      "v"
+    ],
+    "cartoon": [
+      "n"
+    ],
+    "case": [
+      "n"
+    ],
+    "cash": [
+      "n"
+    ],
+    "castle": [
+      "n"
+    ],
+    "cat": [
+      "n"
+    ],
+    "catch": [
+      "v"
+    ],
+    "category": [
+      "n"
+    ],
+    "cattle": [
+      "n"
+    ],
+    "cause": [
+      "n"
+    ],
+    "cave": [
+      "n"
+    ],
+    "ceiling": [
+      "n"
+    ],
+    "celebrate": [
+      "v"
+    ],
+    "celebrity": [
+      "n"
+    ],
+    "cell": [
+      "n"
+    ],
+    "central": [
+      "adj"
+    ],
+    "century": [
+      "n"
+    ],
+    "certain": [
+      "adj"
+    ],
+    "certificate": [
+      "n"
+    ],
+    "chain": [
+      "n"
+    ],
+    "chair": [
+      "n"
+    ],
+    "chairman": [
+      "n"
+    ],
+    "challenge": [
+      "n",
+      "v"
+    ],
+    "champion": [
+      "n"
+    ],
+    "chance": [
+      "n"
+    ],
+    "change": [
+      "v"
+    ],
+    "channel": [
+      "n"
+    ],
+    "chaos": [
+      "n"
+    ],
+    "chapter": [
+      "n"
+    ],
+    "character": [
+      "n"
+    ],
+    "characteristic": [
+      "n"
+    ],
+    "charge": [
+      "v"
+    ],
+    "charity": [
+      "n"
+    ],
+    "chart": [
+      "n"
+    ],
+    "chat": [
+      "v"
+    ],
+    "cheap": [
+      "adj"
+    ],
+    "cheat": [
+      "v"
+    ],
+    "check": [
+      "v"
+    ],
+    "cheek": [
+      "n"
+    ],
+    "cheer": [
+      "v"
+    ],
+    "cheese": [
+      "n"
+    ],
+    "chef": [
+      "n"
+    ],
+    "chemical": [
+      "adj"
+    ],
+    "chemist": [
+      "n"
+    ],
+    "chemistry": [
+      "n"
+    ],
+    "chess": [
+      "n"
+    ],
+    "chest": [
+      "n"
+    ],
+    "chicken": [
+      "n"
+    ],
+    "chief": [
+      "adj"
+    ],
+    "child (pl. children)": [
+      "n"
+    ],
+    "chocolate": [
+      "n"
+    ],
+    "choice": [
+      "n"
+    ],
+    "choose": [
+      "v"
+    ],
+    "chopsticks": [
+      "n"
+    ],
+    "church": [
+      "n"
+    ],
+    "cigarette": [
+      "n"
+    ],
+    "cinema": [
+      "n"
+    ],
+    "circle": [
+      "n"
+    ],
+    "circuit": [
+      "n"
+    ],
+    "circumstance": [
+      "n"
+    ],
+    "circus": [
+      "n"
+    ],
+    "cite": [
+      "v"
+    ],
+    "citizen": [
+      "n"
+    ],
+    "city": [
+      "n"
+    ],
+    "civil": [
+      "adj"
+    ],
+    "civilian": [
+      "n"
+    ],
+    "civilisation (civilization)": [
+      "n"
+    ],
+    "claim": [
+      "v"
+    ],
+    "clap": [
+      "v"
+    ],
+    "clarify": [
+      "v"
+    ],
+    "class": [
+      "n"
+    ],
+    "classic": [
+      "adj"
+    ],
+    "classmate": [
+      "n"
+    ],
+    "classroom": [
+      "n"
+    ],
+    "clean": [
+      "adj"
+    ],
+    "clear": [
+      "adj"
+    ],
+    "clerk": [
+      "n"
+    ],
+    "clever": [
+      "adj"
+    ],
+    "click": [
+      "v"
+    ],
+    "client": [
+      "n"
+    ],
+    "climate": [
+      "n"
+    ],
+    "climb": [
+      "v"
+    ],
+    "clinic": [
+      "n"
+    ],
+    "clock": [
+      "n"
+    ],
+    "close": [
+      "v"
+    ],
+    "cloth": [
+      "n"
+    ],
+    "clothes": [
+      "n"
+    ],
+    "cloud": [
+      "n"
+    ],
+    "cloudy": [
+      "adj"
+    ],
+    "club": [
+      "n"
+    ],
+    "clue": [
+      "n"
+    ],
+    "coach": [
+      "n"
+    ],
+    "coal": [
+      "n"
+    ],
+    "coast": [
+      "n"
+    ],
+    "coat": [
+      "n"
+    ],
+    "coffee": [
+      "n"
+    ],
+    "coin": [
+      "n"
+    ],
+    "cold": [
+      "adj"
+    ],
+    "collapse": [
+      "v"
+    ],
+    "collar": [
+      "n"
+    ],
+    "collect": [
+      "v"
+    ],
+    "collection": [
+      "n"
+    ],
+    "college": [
+      "n"
+    ],
+    "column": [
+      "n"
+    ],
+    "combine": [
+      "v"
+    ],
+    "come": [
+      "v"
+    ],
+    "comedy": [
+      "n"
+    ],
+    "comfort": [
+      "n"
+    ],
+    "comfortable": [
+      "adj"
+    ],
+    "comic": [
+      "n"
+    ],
+    "comment": [
+      "n"
+    ],
+    "commercial": [
+      "adj"
+    ],
+    "commit": [
+      "v"
+    ],
+    "commitment": [
+      "n"
+    ],
+    "committee": [
+      "n"
+    ],
+    "common": [
+      "adj"
+    ],
+    "communicate": [
+      "v"
+    ],
+    "communication": [
+      "n"
+    ],
+    "communist": [
+      "n"
+    ],
+    "community": [
+      "n"
+    ],
+    "company": [
+      "n"
+    ],
+    "compare": [
+      "v"
+    ],
+    "competition": [
+      "n"
+    ],
+    "complain": [
+      "v"
+    ],
+    "complete": [
+      "v"
+    ],
+    "complex": [
+      "adj"
+    ],
+    "component": [
+      "n"
+    ],
+    "compose": [
+      "v"
+    ],
+    "composition": [
+      "n"
+    ],
+    "comprehension": [
+      "n"
+    ],
+    "computer": [
+      "n"
+    ],
+    "concentrate": [
+      "v"
+    ],
+    "concept": [
+      "n"
+    ],
+    "concern": [
+      "n"
+    ],
+    "concert": [
+      "n"
+    ],
+    "conclude": [
+      "v"
+    ],
+    "conclusion": [
+      "n"
+    ],
+    "concrete": [
+      "adj"
+    ],
+    "condition": [
+      "n"
+    ],
+    "conduct": [
+      "n"
+    ],
+    "conference": [
+      "n"
+    ],
+    "confidence": [
+      "n"
+    ],
+    "confirm": [
+      "v"
+    ],
+    "conflict": [
+      "n"
+    ],
+    "confused": [
+      "adj"
+    ],
+    "congratulation": [
+      "n"
+    ],
+    "connect": [
+      "v"
+    ],
+    "consequence": [
+      "n"
+    ],
+    "conservation": [
+      "n"
+    ],
+    "consider": [
+      "v"
+    ],
+    "consistent": [
+      "adj"
+    ],
+    "constant": [
+      "adj"
+    ],
+    "constitution": [
+      "n"
+    ],
+    "construction": [
+      "n"
+    ],
+    "consultant": [
+      "n"
+    ],
+    "consultation": [
+      "n"
+    ],
+    "consume": [
+      "v"
+    ],
+    "consumption": [
+      "n"
+    ],
+    "contact": [
+      "n"
+    ],
+    "contain": [
+      "v"
+    ],
+    "contemporary": [
+      "adj"
+    ],
+    "content": [
+      "n"
+    ],
+    "contest": [
+      "n"
+    ],
+    "context": [
+      "n"
+    ],
+    "continent": [
+      "n"
+    ],
+    "continue": [
+      "v"
+    ],
+    "contract": [
+      "n"
+    ],
+    "contradictory": [
+      "adj"
+    ],
+    "contrary": [
+      "adj"
+    ],
+    "contrast": [
+      "n"
+    ],
+    "contribution": [
+      "n"
+    ],
+    "control": [
+      "v"
+    ],
+    "convenient": [
+      "adj"
+    ],
+    "conventional": [
+      "adj"
+    ],
+    "conversation": [
+      "n"
+    ],
+    "convince": [
+      "v"
+    ],
+    "cook": [
+      "v"
+    ],
+    "cookie": [
+      "n"
+    ],
+    "cool": [
+      "adj"
+    ],
+    "cooperate": [
+      "v"
+    ],
+    "copy": [
+      "v"
+    ],
+    "core": [
+      "n"
+    ],
+    "corn": [
+      "n"
+    ],
+    "corner": [
+      "n"
+    ],
+    "corporate": [
+      "adj"
+    ],
+    "correct": [
+      "adj"
+    ],
+    "correspond": [
+      "v"
+    ],
+    "cost": [
+      "n"
+    ],
+    "costume": [
+      "n"
+    ],
+    "cottage": [
+      "n"
+    ],
+    "cotton": [
+      "n"
+    ],
+    "cough": [
+      "v"
+    ],
+    "could": [
+      "aux"
+    ],
+    "council": [
+      "n"
+    ],
+    "count": [
+      "v"
+    ],
+    "country": [
+      "n"
+    ],
+    "countryside": [
+      "n"
+    ],
+    "county": [
+      "n"
+    ],
+    "couple": [
+      "n"
+    ],
+    "courage": [
+      "n"
+    ],
+    "course": [
+      "n"
+    ],
+    "court": [
+      "n"
+    ],
+    "cousin": [
+      "n"
+    ],
+    "cover": [
+      "v"
+    ],
+    "coverage": [
+      "n"
+    ],
+    "cow": [
+      "n"
+    ],
+    "crash": [
+      "v"
+    ],
+    "crayon": [
+      "n"
+    ],
+    "crazy": [
+      "adj"
+    ],
+    "cream": [
+      "n"
+    ],
+    "create": [
+      "v"
+    ],
+    "creative": [
+      "adj"
+    ],
+    "creature": [
+      "n"
+    ],
+    "credit": [
+      "n"
+    ],
+    "crew": [
+      "n"
+    ],
+    "crime": [
+      "n"
+    ],
+    "crisis": [
+      "n"
+    ],
+    "criterion (pl. criteria)": [
+      "n"
+    ],
+    "critical": [
+      "adj"
+    ],
+    "criticise (criticize)": [
+      "v"
+    ],
+    "crop": [
+      "n"
+    ],
+    "cross": [
+      "v"
+    ],
+    "crowd": [
+      "n"
+    ],
+    "crucial": [
+      "adj"
+    ],
+    "cruel": [
+      "adj"
+    ],
+    "cry": [
+      "v"
+    ],
+    "cuisine": [
+      "n"
+    ],
+    "culture": [
+      "n"
+    ],
+    "cup": [
+      "n"
+    ],
+    "cupboard": [
+      "n"
+    ],
+    "cure": [
+      "v"
+    ],
+    "curious": [
+      "adj"
+    ],
+    "current": [
+      "adj"
+    ],
+    "curtain": [
+      "n"
+    ],
+    "custom": [
+      "n"
+    ],
+    "customer": [
+      "n"
+    ],
+    "cut": [
+      "v"
+    ],
+    "cute": [
+      "adj"
+    ],
+    "cycle": [
+      "n"
+    ],
+    "baby": [
+      "n"
+    ],
+    "back": [
+      "n",
+      "adv"
+    ],
+    "background": [
+      "n"
+    ],
+    "backward": [
+      "adj",
+      "adv"
+    ],
+    "bacon": [
+      "n"
+    ],
+    "bad": [
+      "adj"
+    ],
+    "badminton": [
+      "n"
+    ],
+    "bag": [
+      "n"
+    ],
+    "bakery": [
+      "n"
+    ],
+    "balance": [
+      "n",
+      "v"
+    ],
+    "ball": [
+      "n"
+    ],
+    "ballet": [
+      "n"
+    ],
+    "balloon": [
+      "n"
+    ],
+    "bamboo": [
+      "n"
+    ],
+    "ban": [
+      "v",
+      "n"
+    ],
+    "banana": [
+      "n"
+    ],
+    "band": [
+      "n"
+    ],
+    "bank": [
+      "n"
+    ],
+    "bar": [
+      "n"
+    ],
+    "barbecue": [
+      "n"
+    ],
+    "barely": [
+      "adv"
+    ],
+    "bark": [
+      "v",
+      "n"
+    ],
+    "barrier": [
+      "n"
+    ],
+    "base": [
+      "n",
+      "v"
+    ],
+    "baseball": [
+      "n"
+    ],
+    "basic": [
+      "adj"
+    ],
+    "basin": [
+      "n"
+    ],
+    "basis": [
+      "n"
+    ],
+    "basket": [
+      "n"
+    ],
+    "basketball": [
+      "n"
+    ],
+    "bat": [
+      "n"
+    ],
+    "bath": [
+      "n"
+    ],
+    "bathroom": [
+      "n"
+    ],
+    "battery": [
+      "n"
+    ],
+    "battle": [
+      "n"
+    ],
+    "bay": [
+      "n"
+    ],
+    "beach": [
+      "n"
+    ],
+    "bean": [
+      "n"
+    ],
+    "bear": [
+      "n",
+      "v"
+    ],
+    "beard": [
+      "n"
+    ],
+    "beat": [
+      "v",
+      "n"
+    ],
+    "beauty": [
+      "n"
+    ],
+    "become": [
+      "v"
+    ],
+    "bed": [
+      "n"
+    ],
+    "bedroom": [
+      "n"
+    ],
+    "beef": [
+      "n"
+    ],
+    "beer": [
+      "n"
+    ],
+    "begin": [
+      "v"
+    ],
+    "behalf": [
+      "n"
+    ],
+    "behave": [
+      "v"
+    ],
+    "behaviour": [
+      "n"
+    ],
+    "belief": [
+      "n"
+    ],
+    "believe": [
+      "v"
+    ],
+    "bell": [
+      "n"
+    ],
+    "belong": [
+      "v"
+    ],
+    "belt": [
+      "n"
+    ],
+    "bend": [
+      "v"
+    ],
+    "benefit": [
+      "n",
+      "v"
+    ],
+    "best": [
+      "adj"
+    ],
+    "bet": [
+      "v"
+    ],
+    "better": [
+      "adj"
+    ],
+    "bike": [
+      "n"
+    ],
+    "bill": [
+      "n"
+    ],
+    "billion": [
+      "num"
+    ],
+    "biology": [
+      "n"
+    ],
+    "bird": [
+      "n"
+    ],
+    "birth": [
+      "n"
+    ],
+    "birthday": [
+      "n"
+    ],
+    "biscuit": [
+      "n"
+    ],
+    "bit": [
+      "n"
+    ],
+    "bite": [
+      "v",
+      "n"
+    ],
+    "bitter": [
+      "adj"
+    ],
+    "black": [
+      "adj"
+    ],
+    "blackboard": [
+      "n"
+    ],
+    "blame": [
+      "v"
+    ],
+    "blank": [
+      "adj",
+      "n"
+    ],
+    "blanket": [
+      "n"
+    ],
+    "bleed": [
+      "v"
+    ],
+    "bless": [
+      "v"
+    ],
+    "blind": [
+      "adj"
+    ],
+    "block": [
+      "n",
+      "v"
+    ],
+    "blog": [
+      "n"
+    ],
+    "blood": [
+      "n"
+    ],
+    "blouse": [
+      "n"
+    ],
+    "blow": [
+      "v",
+      "n"
+    ],
+    "blue": [
+      "adj"
+    ],
+    "board": [
+      "n",
+      "v"
+    ],
+    "boat": [
+      "n"
+    ],
+    "body": [
+      "n"
+    ],
+    "boil": [
+      "v"
+    ],
+    "bomb": [
+      "n"
+    ],
+    "bond": [
+      "n"
+    ],
+    "bone": [
+      "n"
+    ],
+    "bonus": [
+      "n"
+    ],
+    "book": [
+      "n",
+      "v"
+    ],
+    "boot": [
+      "n"
+    ],
+    "border": [
+      "n"
+    ],
+    "bored": [
+      "adj"
+    ],
+    "boring": [
+      "adj"
+    ],
+    "born": [
+      "adj"
+    ],
+    "borrow": [
+      "v"
+    ],
+    "boss": [
+      "n",
+      "v"
+    ],
+    "botanical": [
+      "adj"
+    ],
+    "bother": [
+      "v",
+      "n"
+    ],
+    "bottle": [
+      "n",
+      "v"
+    ],
+    "bottom": [
+      "n",
+      "adj"
+    ],
+    "bounce": [
+      "v",
+      "n"
+    ],
+    "bound": [
+      "v",
+      "adj"
+    ],
+    "boundary": [
+      "n"
+    ],
+    "bow": [
+      "v",
+      "n"
+    ],
+    "bowl": [
+      "n"
+    ],
+    "bowling": [
+      "n"
+    ],
+    "box": [
+      "n",
+      "v"
+    ],
+    "boxing": [
+      "n"
+    ],
+    "boy": [
+      "n"
+    ],
+    "brain": [
+      "n"
+    ],
+    "branch": [
+      "n",
+      "v"
+    ],
+    "brave": [
+      "adj",
+      "v"
+    ],
+    "bread": [
+      "n"
+    ],
+    "break": [
+      "v",
+      "n"
+    ],
+    "breast": [
+      "n"
+    ],
+    "breath": [
+      "n"
+    ],
+    "breathe": [
+      "v"
+    ],
+    "brick": [
+      "n"
+    ],
+    "bridge": [
+      "n",
+      "v"
+    ],
+    "brief": [
+      "adj",
+      "n",
+      "v"
+    ],
+    "bright": [
+      "adj"
+    ],
+    "brilliant": [
+      "adj"
+    ],
+    "bring": [
+      "v"
+    ],
+    "cafeteria": [
+      "n"
+    ],
+    "calligraphy": [
+      "n"
+    ],
+    "calorie": [
+      "n"
+    ],
+    "camel": [
+      "n"
+    ],
+    "canal": [
+      "n"
+    ],
+    "canteen": [
+      "n"
+    ],
+    "capsule": [
+      "n"
+    ],
+    "carve": [
+      "v"
+    ],
+    "cast": [
+      "v"
+    ],
+    "cent": [
+      "n"
+    ],
+    "centre": [
+      "n"
+    ],
+    "chalk": [
+      "n"
+    ],
+    "chew": [
+      "v"
+    ],
+    "child": [
+      "n"
+    ],
+    "choke": [
+      "v",
+      "n"
+    ],
+    "chorus": [
+      "n",
+      "v"
+    ],
+    "clay": [
+      "n"
+    ],
+    "clone": [
+      "n",
+      "v"
+    ],
+    "colour": [
+      "n",
+      "v"
+    ],
+    "compete": [
+      "v"
+    ],
+    "competence": [
+      "n"
+    ],
+    "comprehensive": [
+      "adj"
+    ],
+    "consist": [
+      "v"
+    ],
+    "beautiful": [
+      "adj"
+    ],
+    "big": [
+      "adj"
+    ],
+    "boost": [
+      "v"
+    ],
+    "breakfast": [
+      "n"
+    ],
+    "broad": [
+      "adj"
+    ],
+    "broadcast": [
+      "n"
+    ],
+    "brochure": [
+      "n"
+    ],
+    "brother": [
+      "n"
+    ],
+    "brown": [
+      "adj"
+    ],
+    "brush": [
+      "n",
+      "v"
+    ],
+    "budget": [
+      "n"
+    ],
+    "buffet": [
+      "n",
+      "v"
+    ],
+    "build": [
+      "v"
+    ],
+    "building": [
+      "n"
+    ],
+    "bunch": [
+      "n"
+    ],
+    "burn": [
+      "v",
+      "n"
+    ],
+    "bury": [
+      "v"
+    ],
+    "bus": [
+      "n"
+    ],
+    "business": [
+      "n"
+    ],
+    "busy": [
+      "adj"
+    ],
+    "butcher": [
+      "n"
+    ],
+    "butter": [
+      "n"
+    ],
+    "button": [
+      "n"
+    ],
+    "buy": [
+      "v"
+    ],
+    "cease": [
+      "v"
+    ],
+    "certainly": [
+      "adv"
+    ],
+    "comparison": [
+      "n"
+    ],
+    "complicated": [
+      "adj"
+    ],
+    "comprise": [
+      "v"
+    ],
+    "confucianism": [
+      "n"
+    ],
+    "confucius": [
+      "n"
+    ],
+    "criterion": [
+      "n"
+    ],
+    "criticise": [
+      "v"
+    ],
+    "civilization": [
+      "n"
+    ],
+    "centimeter": [
+      "n"
+    ],
+    "Confucianisms": [
+      "n"
+    ],
+    "abandons": [
+      "v"
+    ],
+    "abilities": [
+      "n"
+    ],
+    "absolutelies": [
+      "adv"
+    ],
+    "absorbs": [
+      "v"
+    ],
+    "abuses": [
+      "v",
+      "n"
+    ],
+    "accepts": [
+      "v"
+    ],
+    "accesses": [
+      "n",
+      "v"
+    ],
+    "accommodations": [
+      "n"
+    ],
+    "accounts": [
+      "n",
+      "v"
+    ],
+    "achievements": [
+      "n"
+    ],
+    "achieves": [
+      "v"
+    ],
+    "acknowledges": [
+      "v"
+    ],
+    "acquires": [
+      "v"
+    ],
+    "actions": [
+      "n"
+    ],
+    "activities": [
+      "n"
+    ],
+    "acts": [
+      "v",
+      "n"
+    ],
+    "actuallies": [
+      "adv"
+    ],
+    "adaptations": [
+      "n"
+    ],
+    "adapts": [
+      "v"
+    ],
+    "addicts": [
+      "n",
+      "v"
+    ],
+    "additions": [
+      "n"
+    ],
+    "addresses": [
+      "n",
+      "v"
+    ],
+    "adds": [
+      "v"
+    ],
+    "adjusts": [
+      "v"
+    ],
+    "administrations": [
+      "n"
+    ],
+    "admires": [
+      "v"
+    ],
+    "admits": [
+      "v"
+    ],
+    "adopts": [
+      "v"
+    ],
+    "advances": [
+      "v",
+      "n"
+    ],
+    "advantages": [
+      "n"
+    ],
+    "adventures": [
+      "n"
+    ],
+    "advertises": [
+      "v"
+    ],
+    "advises": [
+      "v"
+    ],
+    "advocates": [
+      "v",
+      "n"
+    ],
+    "affects": [
+      "v",
+      "n"
+    ],
+    "affords": [
+      "v"
+    ],
+    "afterwards": [
+      "adv"
+    ],
+    "agains": [
+      "adv"
+    ],
+    "ages": [
+      "n",
+      "v"
+    ],
+    "agoes": [
+      "adv"
+    ],
+    "agreements": [
+      "n"
+    ],
+    "agrees": [
+      "v"
+    ],
+    "agricultures": [
+      "n"
+    ],
+    "aheads": [
+      "adv"
+    ],
+    "aids": [
+      "n",
+      "v"
+    ],
+    "aims": [
+      "n",
+      "v"
+    ],
+    "airs": [
+      "n",
+      "v"
+    ],
+    "alarms": [
+      "n",
+      "v"
+    ],
+    "allows": [
+      "v"
+    ],
+    "alones": [
+      "adj",
+      "adv"
+    ],
+    "alouds": [
+      "adv"
+    ],
+    "alsoes": [
+      "adv"
+    ],
+    "alwayses": [
+      "adv"
+    ],
+    "ambitions": [
+      "n"
+    ],
+    "amounts": [
+      "n",
+      "v"
+    ],
+    "amuses": [
+      "v"
+    ],
+    "angers": [
+      "n",
+      "v"
+    ],
+    "announces": [
+      "v"
+    ],
+    "annoys": [
+      "v"
+    ],
+    "answers": [
+      "n",
+      "v"
+    ],
+    "anticipates": [
+      "v"
+    ],
+    "anyhows": [
+      "adv"
+    ],
+    "anyways": [
+      "adv"
+    ],
+    "anywheres": [
+      "adv"
+    ],
+    "apartments": [
+      "n"
+    ],
+    "aparts": [
+      "adv"
+    ],
+    "appeals": [
+      "n",
+      "v"
+    ],
+    "appears": [
+      "v"
+    ],
+    "applauds": [
+      "v"
+    ],
+    "applications": [
+      "n"
+    ],
+    "applies": [
+      "v"
+    ],
+    "appointments": [
+      "n"
+    ],
+    "appreciates": [
+      "v"
+    ],
+    "approves": [
+      "v"
+    ],
+    "argues": [
+      "v"
+    ],
+    "arises": [
+      "v"
+    ],
+    "arrangements": [
+      "n"
+    ],
+    "arrests": [
+      "n",
+      "v"
+    ],
+    "arrives": [
+      "v"
+    ],
+    "artists": [
+      "n"
+    ],
+    "asides": [
+      "adv",
+      "n"
+    ],
+    "asks": [
+      "v"
+    ],
+    "assesses": [
+      "v"
+    ],
+    "assigns": [
+      "v"
+    ],
+    "associations": [
+      "n"
+    ],
+    "assumes": [
+      "v"
+    ],
+    "assumptions": [
+      "n"
+    ],
+    "astonishes": [
+      "v"
+    ],
+    "attaches": [
+      "v"
+    ],
+    "attacks": [
+      "v",
+      "n"
+    ],
+    "attains": [
+      "v"
+    ],
+    "attempts": [
+      "v",
+      "n"
+    ],
+    "attends": [
+      "v"
+    ],
+    "attentions": [
+      "n"
+    ],
+    "attracts": [
+      "v"
+    ],
+    "authorities": [
+      "n"
+    ],
+    "averages": [
+      "adj",
+      "n",
+      "v"
+    ],
+    "avoids": [
+      "v"
+    ],
+    "awakes": [
+      "adj",
+      "v"
+    ],
+    "awards": [
+      "n",
+      "v"
+    ],
+    "aways": [
+      "adv"
+    ],
+    "backs": [
+      "n",
+      "adv"
+    ],
+    "backwards": [
+      "adj",
+      "adv"
+    ],
+    "bakeries": [
+      "n"
+    ],
+    "balances": [
+      "n",
+      "v"
+    ],
+    "bamboos": [
+      "n"
+    ],
+    "bans": [
+      "v",
+      "n"
+    ],
+    "barelies": [
+      "adv"
+    ],
+    "barks": [
+      "v",
+      "n"
+    ],
+    "batteries": [
+      "n"
+    ],
+    "bears": [
+      "n",
+      "v"
+    ],
+    "beats": [
+      "v",
+      "n"
+    ],
+    "becomes": [
+      "v"
+    ],
+    "beeves": [
+      "n"
+    ],
+    "begins": [
+      "v"
+    ],
+    "behalves": [
+      "n"
+    ],
+    "behaves": [
+      "v"
+    ],
+    "believes": [
+      "v"
+    ],
+    "belongs": [
+      "v"
+    ],
+    "bends": [
+      "v"
+    ],
+    "benefits": [
+      "n",
+      "v"
+    ],
+    "bets": [
+      "v"
+    ],
+    "bits": [
+      "n"
+    ],
+    "blames": [
+      "v"
+    ],
+    "bleeds": [
+      "v"
+    ],
+    "blesses": [
+      "v"
+    ],
+    "blows": [
+      "v",
+      "n"
+    ],
+    "boards": [
+      "n",
+      "v"
+    ],
+    "boils": [
+      "v"
+    ],
+    "books": [
+      "n",
+      "v"
+    ],
+    "borrows": [
+      "v"
+    ],
+    "bothers": [
+      "v",
+      "n"
+    ],
+    "boundaries": [
+      "n"
+    ],
+    "breaks": [
+      "v",
+      "n"
+    ],
+    "breathes": [
+      "v"
+    ],
+    "bridges": [
+      "n",
+      "v"
+    ],
+    "brieves": [
+      "adj",
+      "n",
+      "v"
+    ],
+    "brings": [
+      "v"
+    ],
+    "broadcasts": [
+      "n"
+    ],
+    "brochures": [
+      "n"
+    ],
+    "brushes": [
+      "n",
+      "v"
+    ],
+    "builds": [
+      "v"
+    ],
+    "buries": [
+      "v"
+    ],
+    "burns": [
+      "v",
+      "n"
+    ],
+    "businesses": [
+      "n"
+    ],
+    "buys": [
+      "v"
+    ],
+    "cabbages": [
+      "n"
+    ],
+    "cages": [
+      "n"
+    ],
+    "calculates": [
+      "v"
+    ],
+    "calls": [
+      "v"
+    ],
+    "camps": [
+      "n"
+    ],
+    "cancels": [
+      "v"
+    ],
+    "capacities": [
+      "n"
+    ],
+    "cares": [
+      "v"
+    ],
+    "carries": [
+      "v"
+    ],
+    "carves": [
+      "v"
+    ],
+    "casts": [
+      "v"
+    ],
+    "catches": [
+      "v"
+    ],
+    "categories": [
+      "n"
+    ],
+    "celebrates": [
+      "v"
+    ],
+    "celebrities": [
+      "n"
+    ],
+    "certainlies": [
+      "adv"
+    ],
+    "challenges": [
+      "n",
+      "v"
+    ],
+    "changes": [
+      "v"
+    ],
+    "charges": [
+      "v"
+    ],
+    "charities": [
+      "n"
+    ],
+    "chats": [
+      "v"
+    ],
+    "cheats": [
+      "v"
+    ],
+    "checks": [
+      "v"
+    ],
+    "cheers": [
+      "v"
+    ],
+    "chemists": [
+      "n"
+    ],
+    "cheves": [
+      "n"
+    ],
+    "chews": [
+      "v"
+    ],
+    "chieves": [
+      "adj"
+    ],
+    "children": [
+      "n"
+    ],
+    "chokes": [
+      "v",
+      "n"
+    ],
+    "chooses": [
+      "v"
+    ],
+    "choruses": [
+      "n",
+      "v"
+    ],
+    "cites": [
+      "v"
+    ],
+    "cities": [
+      "n"
+    ],
+    "claps": [
+      "v"
+    ],
+    "clarifies": [
+      "v"
+    ],
+    "clicks": [
+      "v"
+    ],
+    "climbs": [
+      "v"
+    ],
+    "clones": [
+      "n",
+      "v"
+    ],
+    "closes": [
+      "v"
+    ],
+    "coaches": [
+      "n"
+    ],
+    "collapses": [
+      "v"
+    ],
+    "collections": [
+      "n"
+    ],
+    "collects": [
+      "v"
+    ],
+    "combines": [
+      "v"
+    ],
+    "comes": [
+      "v"
+    ],
+    "comments": [
+      "n"
+    ],
+    "commitments": [
+      "n"
+    ],
+    "commits": [
+      "v"
+    ],
+    "communicates": [
+      "v"
+    ],
+    "communications": [
+      "n"
+    ],
+    "communists": [
+      "n"
+    ],
+    "communities": [
+      "n"
+    ],
+    "compares": [
+      "v"
+    ],
+    "competes": [
+      "v"
+    ],
+    "competitions": [
+      "n"
+    ],
+    "complains": [
+      "v"
+    ],
+    "completes": [
+      "v"
+    ],
+    "composes": [
+      "v"
+    ],
+    "compositions": [
+      "n"
+    ],
+    "comprehensions": [
+      "n"
+    ],
+    "comprises": [
+      "v"
+    ],
+    "concentrates": [
+      "v"
+    ],
+    "concludes": [
+      "v"
+    ],
+    "conclusions": [
+      "n"
+    ],
+    "conditions": [
+      "n"
+    ],
+    "confirms": [
+      "v"
+    ],
+    "confucianisms": [
+      "n"
+    ],
+    "congratulations": [
+      "n"
+    ],
+    "connects": [
+      "v"
+    ],
+    "conservations": [
+      "n"
+    ],
+    "considers": [
+      "v"
+    ],
+    "consists": [
+      "v"
+    ],
+    "constitutions": [
+      "n"
+    ],
+    "constructions": [
+      "n"
+    ],
+    "consultations": [
+      "n"
+    ],
+    "consumes": [
+      "v"
+    ],
+    "consumptions": [
+      "n"
+    ],
+    "contains": [
+      "v"
+    ],
+    "contemporaries": [
+      "adj"
+    ],
+    "continues": [
+      "v"
+    ],
+    "contradictories": [
+      "adj"
+    ],
+    "contraries": [
+      "adj"
+    ],
+    "contributions": [
+      "n"
+    ],
+    "controls": [
+      "v"
+    ],
+    "conversations": [
+      "n"
+    ],
+    "convinces": [
+      "v"
+    ],
+    "cooks": [
+      "v"
+    ],
+    "cooperates": [
+      "v"
+    ],
+    "copies": [
+      "v"
+    ],
+    "corresponds": [
+      "v"
+    ],
+    "cottages": [
+      "n"
+    ],
+    "coughs": [
+      "v"
+    ],
+    "counts": [
+      "v"
+    ],
+    "courages": [
+      "n"
+    ],
+    "coverages": [
+      "n"
+    ],
+    "covers": [
+      "v"
+    ],
+    "crashes": [
+      "v"
+    ],
+    "creates": [
+      "v"
+    ],
+    "creatures": [
+      "n"
+    ],
+    "cries": [
+      "v"
+    ],
+    "crises": [
+      "n"
+    ],
+    "criteria": [
+      "n"
+    ],
+    "crosses": [
+      "v"
+    ],
+    "cultures": [
+      "n"
+    ],
+    "cures": [
+      "v"
+    ],
+    "cuts": [
+      "v"
+    ],
+    "abandoning": [
+      "v"
+    ],
+    "abroading": [
+      "adv"
+    ],
+    "absorbing": [
+      "v"
+    ],
+    "abusing": [
+      "v",
+      "n"
+    ],
+    "accepting": [
+      "v"
+    ],
+    "accessing": [
+      "n",
+      "v"
+    ],
+    "accounting": [
+      "n",
+      "v"
+    ],
+    "achieving": [
+      "v"
+    ],
+    "acknowledging": [
+      "v"
+    ],
+    "acquiring": [
+      "v"
+    ],
+    "acting": [
+      "v",
+      "n"
+    ],
+    "actuallying": [
+      "adv"
+    ],
+    "adapting": [
+      "v"
+    ],
+    "addicting": [
+      "n",
+      "v"
+    ],
+    "adding": [
+      "v"
+    ],
+    "addressing": [
+      "n",
+      "v"
+    ],
+    "adjusting": [
+      "v"
+    ],
+    "admiring": [
+      "v"
+    ],
+    "admitting": [
+      "v"
+    ],
+    "adopting": [
+      "v"
+    ],
+    "advancing": [
+      "v",
+      "n"
+    ],
+    "advertising": [
+      "v"
+    ],
+    "advising": [
+      "v"
+    ],
+    "advocating": [
+      "v",
+      "n"
+    ],
+    "affecting": [
+      "v",
+      "n"
+    ],
+    "affording": [
+      "v"
+    ],
+    "afterwarding": [
+      "adv"
+    ],
+    "againing": [
+      "adv"
+    ],
+    "agoing": [
+      "adv"
+    ],
+    "agreeing": [
+      "v"
+    ],
+    "aheading": [
+      "adv"
+    ],
+    "aiding": [
+      "n",
+      "v"
+    ],
+    "aiming": [
+      "n",
+      "v"
+    ],
+    "airing": [
+      "n",
+      "v"
+    ],
+    "alarming": [
+      "n",
+      "v"
+    ],
+    "allowing": [
+      "v"
+    ],
+    "almosting": [
+      "adv"
+    ],
+    "aloning": [
+      "adj",
+      "adv"
+    ],
+    "alouding": [
+      "adv"
+    ],
+    "alreadying": [
+      "adv"
+    ],
+    "altogetherring": [
+      "adv"
+    ],
+    "alwaysing": [
+      "adv"
+    ],
+    "amounting": [
+      "n",
+      "v"
+    ],
+    "amusing": [
+      "v"
+    ],
+    "angerring": [
+      "n",
+      "v"
+    ],
+    "announcing": [
+      "v"
+    ],
+    "annoyying": [
+      "v"
+    ],
+    "answerring": [
+      "n",
+      "v"
+    ],
+    "anticipating": [
+      "v"
+    ],
+    "anyhowing": [
+      "adv"
+    ],
+    "anywayying": [
+      "adv"
+    ],
+    "anywhering": [
+      "adv"
+    ],
+    "aparting": [
+      "adv"
+    ],
+    "appealing": [
+      "n",
+      "v"
+    ],
+    "appearing": [
+      "v"
+    ],
+    "applauding": [
+      "v"
+    ],
+    "applying": [
+      "v"
+    ],
+    "appreciating": [
+      "v"
+    ],
+    "approaching": [
+      "n",
+      "v"
+    ],
+    "approving": [
+      "v"
+    ],
+    "argueing": [
+      "v"
+    ],
+    "arguing": [
+      "v"
+    ],
+    "arising": [
+      "v"
+    ],
+    "arresting": [
+      "n",
+      "v"
+    ],
+    "arriving": [
+      "v"
+    ],
+    "asiding": [
+      "adv",
+      "n"
+    ],
+    "asking": [
+      "v"
+    ],
+    "assessing": [
+      "v"
+    ],
+    "assigning": [
+      "v"
+    ],
+    "assuming": [
+      "v"
+    ],
+    "astonishing": [
+      "v"
+    ],
+    "attaching": [
+      "v"
+    ],
+    "attacking": [
+      "v",
+      "n"
+    ],
+    "attaining": [
+      "v"
+    ],
+    "attempting": [
+      "v",
+      "n"
+    ],
+    "attending": [
+      "v"
+    ],
+    "attracting": [
+      "v"
+    ],
+    "avoiding": [
+      "v"
+    ],
+    "awaking": [
+      "adj",
+      "v"
+    ],
+    "awarding": [
+      "n",
+      "v"
+    ],
+    "awayying": [
+      "adv"
+    ],
+    "backing": [
+      "n",
+      "adv"
+    ],
+    "backwarding": [
+      "adj",
+      "adv"
+    ],
+    "balancing": [
+      "n",
+      "v"
+    ],
+    "banning": [
+      "v",
+      "n"
+    ],
+    "barelying": [
+      "adv"
+    ],
+    "barking": [
+      "v",
+      "n"
+    ],
+    "bearing": [
+      "n",
+      "v"
+    ],
+    "beating": [
+      "v",
+      "n"
+    ],
+    "becoming": [
+      "v"
+    ],
+    "beginning": [
+      "v"
+    ],
+    "behaving": [
+      "v"
+    ],
+    "believing": [
+      "v"
+    ],
+    "belonging": [
+      "v"
+    ],
+    "bending": [
+      "v"
+    ],
+    "benefitting": [
+      "n",
+      "v"
+    ],
+    "betting": [
+      "v"
+    ],
+    "bitting": [
+      "n"
+    ],
+    "blaming": [
+      "v"
+    ],
+    "bleeding": [
+      "v"
+    ],
+    "blessing": [
+      "v"
+    ],
+    "blowing": [
+      "v",
+      "n"
+    ],
+    "boarding": [
+      "n",
+      "v"
+    ],
+    "boiling": [
+      "v"
+    ],
+    "booking": [
+      "n",
+      "v"
+    ],
+    "borrowing": [
+      "v"
+    ],
+    "bothering": [
+      "v",
+      "n"
+    ],
+    "botherring": [
+      "v",
+      "n"
+    ],
+    "breaking": [
+      "v",
+      "n"
+    ],
+    "breathing": [
+      "v"
+    ],
+    "bridging": [
+      "n",
+      "v"
+    ],
+    "bringing": [
+      "v"
+    ],
+    "broadcasting": [
+      "n"
+    ],
+    "brushing": [
+      "n",
+      "v"
+    ],
+    "burning": [
+      "v",
+      "n"
+    ],
+    "burying": [
+      "v"
+    ],
+    "buyying": [
+      "v"
+    ],
+    "calculating": [
+      "v"
+    ],
+    "calling": [
+      "v"
+    ],
+    "camping": [
+      "n"
+    ],
+    "canceling": [
+      "v"
+    ],
+    "caring": [
+      "v"
+    ],
+    "carrying": [
+      "v"
+    ],
+    "carving": [
+      "v"
+    ],
+    "casting": [
+      "v"
+    ],
+    "catching": [
+      "v"
+    ],
+    "causing": [
+      "n"
+    ],
+    "celebrating": [
+      "v"
+    ],
+    "certainlying": [
+      "adv"
+    ],
+    "challenging": [
+      "n",
+      "v"
+    ],
+    "changing": [
+      "v"
+    ],
+    "charging": [
+      "v"
+    ],
+    "chatting": [
+      "v"
+    ],
+    "cheating": [
+      "v"
+    ],
+    "checking": [
+      "v"
+    ],
+    "cheering": [
+      "v"
+    ],
+    "chewing": [
+      "v"
+    ],
+    "choking": [
+      "v",
+      "n"
+    ],
+    "choosing": [
+      "v"
+    ],
+    "chorussing": [
+      "n",
+      "v"
+    ],
+    "circling": [
+      "n"
+    ],
+    "citing": [
+      "v"
+    ],
+    "clapping": [
+      "v"
+    ],
+    "clarifying": [
+      "v"
+    ],
+    "cleaning": [
+      "adj"
+    ],
+    "clicking": [
+      "v"
+    ],
+    "climbing": [
+      "v"
+    ],
+    "cloning": [
+      "n",
+      "v"
+    ],
+    "closing": [
+      "v"
+    ],
+    "collapsing": [
+      "v"
+    ],
+    "collecting": [
+      "v"
+    ],
+    "combining": [
+      "v"
+    ],
+    "coming": [
+      "v"
+    ],
+    "committing": [
+      "v"
+    ],
+    "communicating": [
+      "v"
+    ],
+    "comparing": [
+      "v"
+    ],
+    "competing": [
+      "v"
+    ],
+    "complaining": [
+      "v"
+    ],
+    "completing": [
+      "v"
+    ],
+    "composing": [
+      "v"
+    ],
+    "comprising": [
+      "v"
+    ],
+    "concentrating": [
+      "v"
+    ],
+    "concluding": [
+      "v"
+    ],
+    "confirming": [
+      "v"
+    ],
+    "connecting": [
+      "v"
+    ],
+    "considerring": [
+      "v"
+    ],
+    "consuming": [
+      "v"
+    ],
+    "containing": [
+      "v"
+    ],
+    "continueing": [
+      "v"
+    ],
+    "controlling": [
+      "v"
+    ],
+    "convincing": [
+      "v"
+    ],
+    "cooking": [
+      "v"
+    ],
+    "cooperating": [
+      "v"
+    ],
+    "copying": [
+      "v"
+    ],
+    "corresponding": [
+      "v"
+    ],
+    "coughing": [
+      "v"
+    ],
+    "counting": [
+      "v"
+    ],
+    "coverring": [
+      "v"
+    ],
+    "crashing": [
+      "v"
+    ],
+    "creating": [
+      "v"
+    ],
+    "crossing": [
+      "v"
+    ],
+    "crying": [
+      "v"
+    ],
+    "cutting": [
+      "v"
+    ],
+    "abandoned": [
+      "v"
+    ],
+    "absorbed": [
+      "v"
+    ],
+    "abused": [
+      "v",
+      "n"
+    ],
+    "accepted": [
+      "v"
+    ],
+    "accessed": [
+      "n",
+      "v"
+    ],
+    "accompanied": [
+      "v"
+    ],
+    "accounted": [
+      "n",
+      "v"
+    ],
+    "accused": [
+      "v"
+    ],
+    "ached": [
+      "v",
+      "n"
+    ],
+    "achieved": [
+      "v"
+    ],
+    "acknowledged": [
+      "v"
+    ],
+    "acquired": [
+      "v"
+    ],
+    "acted": [
+      "v",
+      "n"
+    ],
+    "adapted": [
+      "v"
+    ],
+    "added": [
+      "v"
+    ],
+    "addicted": [
+      "n",
+      "v"
+    ],
+    "addressed": [
+      "n",
+      "v"
+    ],
+    "adjusted": [
+      "v"
+    ],
+    "admired": [
+      "v"
+    ],
+    "admitted": [
+      "v"
+    ],
+    "adopted": [
+      "v"
+    ],
+    "advanced": [
+      "v",
+      "n"
+    ],
+    "advertised": [
+      "v"
+    ],
+    "advised": [
+      "v"
+    ],
+    "affected": [
+      "v",
+      "n"
+    ],
+    "afforded": [
+      "v"
+    ],
+    "agreed": [
+      "v"
+    ],
+    "alarmed": [
+      "n",
+      "v"
+    ],
+    "allowed": [
+      "v"
+    ],
+    "angled": [
+      "n",
+      "v"
+    ],
+    "announced": [
+      "v"
+    ],
+    "annoyed": [
+      "v"
+    ],
+    "answered": [
+      "n",
+      "v"
+    ],
+    "anticipated": [
+      "v"
+    ],
+    "appealed": [
+      "n",
+      "v"
+    ],
+    "appeared": [
+      "v"
+    ],
+    "applied": [
+      "v"
+    ],
+    "approached": [
+      "n",
+      "v"
+    ],
+    "approved": [
+      "v"
+    ],
+    "arched": [
+      "n",
+      "v"
+    ],
+    "argued": [
+      "v"
+    ],
+    "armed": [
+      "n",
+      "v"
+    ],
+    "arose": [
+      "v"
+    ],
+    "arrested": [
+      "n",
+      "v"
+    ],
+    "arrived": [
+      "v"
+    ],
+    "asked": [
+      "v"
+    ],
+    "assessed": [
+      "v"
+    ],
+    "assigned": [
+      "v"
+    ],
+    "assumed": [
+      "v"
+    ],
+    "attached": [
+      "v"
+    ],
+    "attacked": [
+      "v",
+      "n"
+    ],
+    "attempted": [
+      "v",
+      "n"
+    ],
+    "attended": [
+      "v"
+    ],
+    "attracted": [
+      "v"
+    ],
+    "avoided": [
+      "v"
+    ],
+    "awarded": [
+      "n",
+      "v"
+    ],
+    "awoke": [
+      "adj",
+      "v"
+    ],
+    "backed": [
+      "n",
+      "adv"
+    ],
+    "balanced": [
+      "n",
+      "v"
+    ],
+    "banned": [
+      "v",
+      "n"
+    ],
+    "barked": [
+      "v",
+      "n"
+    ],
+    "based": [
+      "n",
+      "v"
+    ],
+    "beaten": [
+      "v",
+      "n"
+    ],
+    "became": [
+      "v"
+    ],
+    "began": [
+      "v"
+    ],
+    "begun": [
+      "v"
+    ],
+    "behaved": [
+      "v"
+    ],
+    "believed": [
+      "v"
+    ],
+    "belonged": [
+      "v"
+    ],
+    "benefited": [
+      "n",
+      "v"
+    ],
+    "bent": [
+      "v"
+    ],
+    "bitten": [
+      "v",
+      "n"
+    ],
+    "blamed": [
+      "v"
+    ],
+    "bled": [
+      "v"
+    ],
+    "blessed": [
+      "v"
+    ],
+    "blew": [
+      "v",
+      "n"
+    ],
+    "blocked": [
+      "n",
+      "v"
+    ],
+    "blown": [
+      "v",
+      "n"
+    ],
+    "boarded": [
+      "n",
+      "v"
+    ],
+    "boiled": [
+      "v"
+    ],
+    "booked": [
+      "n",
+      "v"
+    ],
+    "bore": [
+      "n",
+      "v"
+    ],
+    "borne": [
+      "n",
+      "v"
+    ],
+    "borrowed": [
+      "v"
+    ],
+    "bothered": [
+      "v",
+      "n"
+    ],
+    "bought": [
+      "v"
+    ],
+    "bounced": [
+      "v",
+      "n"
+    ],
+    "bowed": [
+      "v",
+      "n"
+    ],
+    "breathed": [
+      "v"
+    ],
+    "broken": [
+      "v",
+      "n"
+    ],
+    "brought": [
+      "v"
+    ],
+    "brushed": [
+      "n",
+      "v"
+    ],
+    "built": [
+      "v"
+    ],
+    "buried": [
+      "v"
+    ],
+    "burnt": [
+      "v",
+      "n"
+    ],
+    "calculated": [
+      "v"
+    ],
+    "called": [
+      "v"
+    ],
+    "came": [
+      "v"
+    ],
+    "canceled": [
+      "v"
+    ],
+    "cared": [
+      "v"
+    ],
+    "carried": [
+      "v"
+    ],
+    "carved": [
+      "v"
+    ],
+    "caught": [
+      "v"
+    ],
+    "caused": [
+      "n"
+    ],
+    "ceased": [
+      "v"
+    ],
+    "celebrated": [
+      "v"
+    ],
+    "challenged": [
+      "n",
+      "v"
+    ],
+    "changed": [
+      "v"
+    ],
+    "charged": [
+      "v"
+    ],
+    "chatted": [
+      "v"
+    ],
+    "cheated": [
+      "v"
+    ],
+    "checked": [
+      "v"
+    ],
+    "cheered": [
+      "v"
+    ],
+    "chewed": [
+      "v"
+    ],
+    "choked": [
+      "v",
+      "n"
+    ],
+    "chose": [
+      "v"
+    ],
+    "chosen": [
+      "v"
+    ],
+    "claimed": [
+      "v"
+    ],
+    "clapped": [
+      "v"
+    ],
+    "clarified": [
+      "v"
+    ],
+    "climbed": [
+      "v"
+    ],
+    "closed": [
+      "v"
+    ],
+    "collapsed": [
+      "v"
+    ],
+    "collected": [
+      "v"
+    ],
+    "combined": [
+      "v"
+    ],
+    "committed": [
+      "v"
+    ],
+    "communicated": [
+      "v"
+    ],
+    "compared": [
+      "v"
+    ],
+    "competed": [
+      "v"
+    ],
+    "complained": [
+      "v"
+    ],
+    "completed": [
+      "v"
+    ],
+    "concentrated": [
+      "v"
+    ],
+    "concluded": [
+      "v"
+    ],
+    "confirmed": [
+      "v"
+    ],
+    "connected": [
+      "v"
+    ],
+    "considered": [
+      "v"
+    ],
+    "consisted": [
+      "v"
+    ],
+    "consumed": [
+      "v"
+    ],
+    "contained": [
+      "v"
+    ],
+    "continued": [
+      "v"
+    ],
+    "controlled": [
+      "v"
+    ],
+    "convinced": [
+      "v"
+    ],
+    "cooked": [
+      "v"
+    ],
+    "cooperated": [
+      "v"
+    ],
+    "copied": [
+      "v"
+    ],
+    "coughed": [
+      "v"
+    ],
+    "counted": [
+      "v"
+    ],
+    "covered": [
+      "v"
+    ],
+    "crashed": [
+      "v"
+    ],
+    "created": [
+      "v"
+    ],
+    "cried": [
+      "v"
+    ],
+    "crossed": [
+      "v"
+    ],
+    "cured": [
+      "v"
+    ],
+    "abler": [
+      "adj"
+    ],
+    "acher": [
+      "v",
+      "n"
+    ],
+    "acidder": [
+      "n"
+    ],
+    "acter": [
+      "v",
+      "n"
+    ],
+    "actorrer": [
+      "n"
+    ],
+    "adapter": [
+      "v"
+    ],
+    "adder": [
+      "v"
+    ],
+    "admitter": [
+      "v"
+    ],
+    "adopter": [
+      "v"
+    ],
+    "adulter": [
+      "n",
+      "adj"
+    ],
+    "againer": [
+      "adv"
+    ],
+    "ager": [
+      "n",
+      "v"
+    ],
+    "agoer": [
+      "adv"
+    ],
+    "agreer": [
+      "v"
+    ],
+    "aheader": [
+      "adv"
+    ],
+    "aider": [
+      "n",
+      "v"
+    ],
+    "aimer": [
+      "n",
+      "v"
+    ],
+    "airer": [
+      "n",
+      "v"
+    ],
+    "alarmer": [
+      "n",
+      "v"
+    ],
+    "allower": [
+      "v"
+    ],
+    "alouder": [
+      "adv"
+    ],
+    "alsoer": [
+      "adv"
+    ],
+    "angler": [
+      "n",
+      "v"
+    ],
+    "angrier": [
+      "adj"
+    ],
+    "ankler": [
+      "n"
+    ],
+    "annoyyer": [
+      "v"
+    ],
+    "anter": [
+      "n"
+    ],
+    "aparter": [
+      "adv"
+    ],
+    "appler": [
+      "n"
+    ],
+    "applier": [
+      "v"
+    ],
+    "archer": [
+      "n",
+      "v"
+    ],
+    "areaer": [
+      "n"
+    ],
+    "arguer": [
+      "v"
+    ],
+    "armer": [
+      "n",
+      "v"
+    ],
+    "armier": [
+      "n"
+    ],
+    "arrower": [
+      "n"
+    ],
+    "arter": [
+      "n"
+    ],
+    "asker": [
+      "v"
+    ],
+    "aunter": [
+      "n"
+    ],
+    "avoider": [
+      "v"
+    ],
+    "awarder": [
+      "n",
+      "v"
+    ],
+    "awayyer": [
+      "adv"
+    ],
+    "awfuller": [
+      "adj"
+    ],
+    "babier": [
+      "n"
+    ],
+    "backer": [
+      "n",
+      "adv"
+    ],
+    "baconner": [
+      "n"
+    ],
+    "bagger": [
+      "n"
+    ],
+    "baller": [
+      "n"
+    ],
+    "bander": [
+      "n"
+    ],
+    "banker": [
+      "n"
+    ],
+    "banner": [
+      "v",
+      "n"
+    ],
+    "barker": [
+      "v",
+      "n"
+    ],
+    "barrer": [
+      "n"
+    ],
+    "baser": [
+      "n",
+      "v"
+    ],
+    "basiccer": [
+      "adj"
+    ],
+    "basinner": [
+      "n"
+    ],
+    "basisser": [
+      "n"
+    ],
+    "bather": [
+      "n"
+    ],
+    "batter": [
+      "n"
+    ],
+    "bayyer": [
+      "n"
+    ],
+    "beacher": [
+      "n"
+    ],
+    "beaner": [
+      "n"
+    ],
+    "bearder": [
+      "n"
+    ],
+    "bearer": [
+      "n",
+      "v"
+    ],
+    "beater": [
+      "v",
+      "n"
+    ],
+    "bedder": [
+      "n"
+    ],
+    "beefer": [
+      "n"
+    ],
+    "beerer": [
+      "n"
+    ],
+    "beginner": [
+      "v"
+    ],
+    "beller": [
+      "n"
+    ],
+    "belter": [
+      "n"
+    ],
+    "bender": [
+      "v"
+    ],
+    "bester": [
+      "adj"
+    ],
+    "bigger": [
+      "adj"
+    ],
+    "biker": [
+      "n"
+    ],
+    "biller": [
+      "n"
+    ],
+    "birder": [
+      "n"
+    ],
+    "birther": [
+      "n"
+    ],
+    "biter": [
+      "v",
+      "n"
+    ],
+    "blacker": [
+      "adj"
+    ],
+    "blamer": [
+      "v"
+    ],
+    "blanker": [
+      "adj",
+      "n"
+    ],
+    "bleeder": [
+      "v"
+    ],
+    "blesser": [
+      "v"
+    ],
+    "blinder": [
+      "adj"
+    ],
+    "blocker": [
+      "n",
+      "v"
+    ],
+    "blogger": [
+      "n"
+    ],
+    "blooder": [
+      "n"
+    ],
+    "blower": [
+      "v",
+      "n"
+    ],
+    "bluer": [
+      "adj"
+    ],
+    "boarder": [
+      "n",
+      "v"
+    ],
+    "boater": [
+      "n"
+    ],
+    "bodier": [
+      "n"
+    ],
+    "boiler": [
+      "v"
+    ],
+    "bomber": [
+      "n"
+    ],
+    "bonder": [
+      "n"
+    ],
+    "boner": [
+      "n"
+    ],
+    "bonusser": [
+      "n"
+    ],
+    "booker": [
+      "n",
+      "v"
+    ],
+    "booster": [
+      "v"
+    ],
+    "booter": [
+      "n"
+    ],
+    "boredder": [
+      "adj"
+    ],
+    "borner": [
+      "adj"
+    ],
+    "bosser": [
+      "n",
+      "v"
+    ],
+    "bounder": [
+      "v",
+      "adj"
+    ],
+    "bower": [
+      "v",
+      "n"
+    ],
+    "bowler": [
+      "n"
+    ],
+    "boxer": [
+      "n",
+      "v"
+    ],
+    "boyyer": [
+      "n"
+    ],
+    "brainer": [
+      "n"
+    ],
+    "braver": [
+      "adj",
+      "v"
+    ],
+    "breader": [
+      "n"
+    ],
+    "breaker": [
+      "v",
+      "n"
+    ],
+    "bricker": [
+      "n"
+    ],
+    "briefer": [
+      "adj",
+      "n",
+      "v"
+    ],
+    "bringer": [
+      "v"
+    ],
+    "broader": [
+      "adj"
+    ],
+    "browner": [
+      "adj"
+    ],
+    "brusher": [
+      "n",
+      "v"
+    ],
+    "builder": [
+      "v"
+    ],
+    "buncher": [
+      "n"
+    ],
+    "burier": [
+      "v"
+    ],
+    "burner": [
+      "v",
+      "n"
+    ],
+    "busier": [
+      "adj"
+    ],
+    "busser": [
+      "n"
+    ],
+    "buyyer": [
+      "v"
+    ],
+    "caféer": [
+      "n"
+    ],
+    "cager": [
+      "n"
+    ],
+    "caker": [
+      "n"
+    ],
+    "caller": [
+      "v"
+    ],
+    "calmer": [
+      "adj"
+    ],
+    "cameller": [
+      "n"
+    ],
+    "camper": [
+      "n"
+    ],
+    "canaller": [
+      "n"
+    ],
+    "candier": [
+      "n"
+    ],
+    "capper": [
+      "n"
+    ],
+    "carder": [
+      "n"
+    ],
+    "carer": [
+      "v"
+    ],
+    "carrer": [
+      "n"
+    ],
+    "carrier": [
+      "v"
+    ],
+    "carver": [
+      "v"
+    ],
+    "caser": [
+      "n"
+    ],
+    "casher": [
+      "n"
+    ],
+    "caster": [
+      "v"
+    ],
+    "catcher": [
+      "v"
+    ],
+    "catter": [
+      "n"
+    ],
+    "causer": [
+      "n"
+    ],
+    "caver": [
+      "n"
+    ],
+    "ceaser": [
+      "v"
+    ],
+    "celler": [
+      "n"
+    ],
+    "center": [
+      "n"
+    ],
+    "chainer": [
+      "n"
+    ],
+    "chairer": [
+      "n"
+    ],
+    "chalker": [
+      "n"
+    ],
+    "chaoser": [
+      "n"
+    ],
+    "charter": [
+      "n"
+    ],
+    "chatter": [
+      "v"
+    ],
+    "cheaper": [
+      "adj"
+    ],
+    "cheater": [
+      "v"
+    ],
+    "checker": [
+      "v"
+    ],
+    "cheeker": [
+      "n"
+    ],
+    "cheffer": [
+      "n"
+    ],
+    "chesser": [
+      "n"
+    ],
+    "chewer": [
+      "v"
+    ],
+    "chiefer": [
+      "adj"
+    ],
+    "childer": [
+      "n"
+    ],
+    "choker": [
+      "v",
+      "n"
+    ],
+    "citer": [
+      "v"
+    ],
+    "civiller": [
+      "adj"
+    ],
+    "claimer": [
+      "v"
+    ],
+    "clapper": [
+      "v"
+    ],
+    "classer": [
+      "n"
+    ],
+    "clayyer": [
+      "n"
+    ],
+    "cleaner": [
+      "adj"
+    ],
+    "clearer": [
+      "adj"
+    ],
+    "clerker": [
+      "n"
+    ],
+    "clicker": [
+      "v"
+    ],
+    "climber": [
+      "v"
+    ],
+    "clocker": [
+      "n"
+    ],
+    "cloner": [
+      "n",
+      "v"
+    ],
+    "closer": [
+      "v"
+    ],
+    "clother": [
+      "n"
+    ],
+    "clouder": [
+      "n"
+    ],
+    "clubber": [
+      "n"
+    ],
+    "cluer": [
+      "n"
+    ],
+    "coacher": [
+      "n"
+    ],
+    "coaler": [
+      "n"
+    ],
+    "coaster": [
+      "n"
+    ],
+    "coater": [
+      "n"
+    ],
+    "coiner": [
+      "n"
+    ],
+    "colder": [
+      "adj"
+    ],
+    "comer": [
+      "v"
+    ],
+    "comiccer": [
+      "n"
+    ],
+    "cooker": [
+      "v"
+    ],
+    "cooler": [
+      "adj"
+    ],
+    "copier": [
+      "v"
+    ],
+    "corer": [
+      "n"
+    ],
+    "coster": [
+      "n"
+    ],
+    "cougher": [
+      "v"
+    ],
+    "coulder": [
+      "aux"
+    ],
+    "counter": [
+      "v"
+    ],
+    "courter": [
+      "n"
+    ],
+    "cower": [
+      "n"
+    ],
+    "crasher": [
+      "v"
+    ],
+    "crazier": [
+      "adj"
+    ],
+    "creamer": [
+      "n"
+    ],
+    "crewer": [
+      "n"
+    ],
+    "crier": [
+      "v"
+    ],
+    "crimer": [
+      "n"
+    ],
+    "cropper": [
+      "n"
+    ],
+    "crosser": [
+      "v"
+    ],
+    "crowder": [
+      "n"
+    ],
+    "crueler": [
+      "adj"
+    ],
+    "cupper": [
+      "n"
+    ],
+    "cuter": [
+      "adj"
+    ],
+    "cutter": [
+      "v"
+    ],
+    "cycler": [
+      "n"
+    ],
+    "ablest": [
+      "adj"
+    ],
+    "achest": [
+      "v",
+      "n"
+    ],
+    "aciddest": [
+      "n"
+    ],
+    "actest": [
+      "v",
+      "n"
+    ],
+    "actorrest": [
+      "n"
+    ],
+    "adaptest": [
+      "v"
+    ],
+    "addest": [
+      "v"
+    ],
+    "admittest": [
+      "v"
+    ],
+    "adoptest": [
+      "v"
+    ],
+    "adultest": [
+      "n",
+      "adj"
+    ],
+    "againest": [
+      "adv"
+    ],
+    "agest": [
+      "n",
+      "v"
+    ],
+    "agoest": [
+      "adv"
+    ],
+    "agreest": [
+      "v"
+    ],
+    "aheadest": [
+      "adv"
+    ],
+    "aidest": [
+      "n",
+      "v"
+    ],
+    "aimest": [
+      "n",
+      "v"
+    ],
+    "airest": [
+      "n",
+      "v"
+    ],
+    "alarmest": [
+      "n",
+      "v"
+    ],
+    "allowest": [
+      "v"
+    ],
+    "aloudest": [
+      "adv"
+    ],
+    "alsoest": [
+      "adv"
+    ],
+    "anglest": [
+      "n",
+      "v"
+    ],
+    "angriest": [
+      "adj"
+    ],
+    "anklest": [
+      "n"
+    ],
+    "annoyyest": [
+      "v"
+    ],
+    "antest": [
+      "n"
+    ],
+    "apartest": [
+      "adv"
+    ],
+    "applest": [
+      "n"
+    ],
+    "appliest": [
+      "v"
+    ],
+    "archest": [
+      "n",
+      "v"
+    ],
+    "areaest": [
+      "n"
+    ],
+    "arguest": [
+      "v"
+    ],
+    "armest": [
+      "n",
+      "v"
+    ],
+    "armiest": [
+      "n"
+    ],
+    "arrowest": [
+      "n"
+    ],
+    "artest": [
+      "n"
+    ],
+    "askest": [
+      "v"
+    ],
+    "auntest": [
+      "n"
+    ],
+    "avoidest": [
+      "v"
+    ],
+    "awardest": [
+      "n",
+      "v"
+    ],
+    "awayyest": [
+      "adv"
+    ],
+    "awfullest": [
+      "adj"
+    ],
+    "babiest": [
+      "n"
+    ],
+    "backest": [
+      "n",
+      "adv"
+    ],
+    "baconnest": [
+      "n"
+    ],
+    "baggest": [
+      "n"
+    ],
+    "ballest": [
+      "n"
+    ],
+    "bandest": [
+      "n"
+    ],
+    "bankest": [
+      "n"
+    ],
+    "bannest": [
+      "v",
+      "n"
+    ],
+    "barkest": [
+      "v",
+      "n"
+    ],
+    "barrest": [
+      "n"
+    ],
+    "basest": [
+      "n",
+      "v"
+    ],
+    "basiccest": [
+      "adj"
+    ],
+    "basinnest": [
+      "n"
+    ],
+    "basissest": [
+      "n"
+    ],
+    "bathest": [
+      "n"
+    ],
+    "battest": [
+      "n"
+    ],
+    "bayyest": [
+      "n"
+    ],
+    "beachest": [
+      "n"
+    ],
+    "beanest": [
+      "n"
+    ],
+    "beardest": [
+      "n"
+    ],
+    "bearest": [
+      "n",
+      "v"
+    ],
+    "beatest": [
+      "v",
+      "n"
+    ],
+    "beddest": [
+      "n"
+    ],
+    "beefest": [
+      "n"
+    ],
+    "beerest": [
+      "n"
+    ],
+    "beginnest": [
+      "v"
+    ],
+    "bellest": [
+      "n"
+    ],
+    "beltest": [
+      "n"
+    ],
+    "bendest": [
+      "v"
+    ],
+    "bestest": [
+      "adj"
+    ],
+    "bettest": [
+      "v"
+    ],
+    "biggest": [
+      "adj"
+    ],
+    "bikest": [
+      "n"
+    ],
+    "billest": [
+      "n"
+    ],
+    "birdest": [
+      "n"
+    ],
+    "birthest": [
+      "n"
+    ],
+    "bitest": [
+      "v",
+      "n"
+    ],
+    "bittest": [
+      "n"
+    ],
+    "blackest": [
+      "adj"
+    ],
+    "blamest": [
+      "v"
+    ],
+    "blankest": [
+      "adj",
+      "n"
+    ],
+    "bleedest": [
+      "v"
+    ],
+    "blessest": [
+      "v"
+    ],
+    "blindest": [
+      "adj"
+    ],
+    "blockest": [
+      "n",
+      "v"
+    ],
+    "bloggest": [
+      "n"
+    ],
+    "bloodest": [
+      "n"
+    ],
+    "blowest": [
+      "v",
+      "n"
+    ],
+    "bluest": [
+      "adj"
+    ],
+    "boardest": [
+      "n",
+      "v"
+    ],
+    "boatest": [
+      "n"
+    ],
+    "bodiest": [
+      "n"
+    ],
+    "boilest": [
+      "v"
+    ],
+    "bombest": [
+      "n"
+    ],
+    "bondest": [
+      "n"
+    ],
+    "bonest": [
+      "n"
+    ],
+    "bonussest": [
+      "n"
+    ],
+    "bookest": [
+      "n",
+      "v"
+    ],
+    "boostest": [
+      "v"
+    ],
+    "bootest": [
+      "n"
+    ],
+    "boreddest": [
+      "adj"
+    ],
+    "bornest": [
+      "adj"
+    ],
+    "bossest": [
+      "n",
+      "v"
+    ],
+    "boundest": [
+      "v",
+      "adj"
+    ],
+    "bowest": [
+      "v",
+      "n"
+    ],
+    "bowlest": [
+      "n"
+    ],
+    "boxest": [
+      "n",
+      "v"
+    ],
+    "boyyest": [
+      "n"
+    ],
+    "brainest": [
+      "n"
+    ],
+    "bravest": [
+      "adj",
+      "v"
+    ],
+    "breadest": [
+      "n"
+    ],
+    "breakest": [
+      "v",
+      "n"
+    ],
+    "brickest": [
+      "n"
+    ],
+    "briefest": [
+      "adj",
+      "n",
+      "v"
+    ],
+    "bringest": [
+      "v"
+    ],
+    "broadest": [
+      "adj"
+    ],
+    "brownest": [
+      "adj"
+    ],
+    "brushest": [
+      "n",
+      "v"
+    ],
+    "buildest": [
+      "v"
+    ],
+    "bunchest": [
+      "n"
+    ],
+    "buriest": [
+      "v"
+    ],
+    "burnest": [
+      "v",
+      "n"
+    ],
+    "busiest": [
+      "adj"
+    ],
+    "bussest": [
+      "n"
+    ],
+    "buyyest": [
+      "v"
+    ],
+    "caféest": [
+      "n"
+    ],
+    "cagest": [
+      "n"
+    ],
+    "cakest": [
+      "n"
+    ],
+    "callest": [
+      "v"
+    ],
+    "calmest": [
+      "adj"
+    ],
+    "camellest": [
+      "n"
+    ],
+    "campest": [
+      "n"
+    ],
+    "canallest": [
+      "n"
+    ],
+    "candiest": [
+      "n"
+    ],
+    "cappest": [
+      "n"
+    ],
+    "cardest": [
+      "n"
+    ],
+    "carest": [
+      "v"
+    ],
+    "carrest": [
+      "n"
+    ],
+    "carriest": [
+      "v"
+    ],
+    "carvest": [
+      "v"
+    ],
+    "casest": [
+      "n"
+    ],
+    "cashest": [
+      "n"
+    ],
+    "castest": [
+      "v"
+    ],
+    "catchest": [
+      "v"
+    ],
+    "cattest": [
+      "n"
+    ],
+    "causest": [
+      "n"
+    ],
+    "cavest": [
+      "n"
+    ],
+    "ceasest": [
+      "v"
+    ],
+    "cellest": [
+      "n"
+    ],
+    "centest": [
+      "n"
+    ],
+    "chainest": [
+      "n"
+    ],
+    "chairest": [
+      "n"
+    ],
+    "chalkest": [
+      "n"
+    ],
+    "chaosest": [
+      "n"
+    ],
+    "chartest": [
+      "n"
+    ],
+    "chattest": [
+      "v"
+    ],
+    "cheapest": [
+      "adj"
+    ],
+    "cheatest": [
+      "v"
+    ],
+    "checkest": [
+      "v"
+    ],
+    "cheekest": [
+      "n"
+    ],
+    "cheffest": [
+      "n"
+    ],
+    "chessest": [
+      "n"
+    ],
+    "chewest": [
+      "v"
+    ],
+    "chiefest": [
+      "adj"
+    ],
+    "childest": [
+      "n"
+    ],
+    "chokest": [
+      "v",
+      "n"
+    ],
+    "citest": [
+      "v"
+    ],
+    "civillest": [
+      "adj"
+    ],
+    "claimest": [
+      "v"
+    ],
+    "clappest": [
+      "v"
+    ],
+    "classest": [
+      "n"
+    ],
+    "clayyest": [
+      "n"
+    ],
+    "cleanest": [
+      "adj"
+    ],
+    "clearest": [
+      "adj"
+    ],
+    "clerkest": [
+      "n"
+    ],
+    "clickest": [
+      "v"
+    ],
+    "climbest": [
+      "v"
+    ],
+    "clockest": [
+      "n"
+    ],
+    "clonest": [
+      "n",
+      "v"
+    ],
+    "closest": [
+      "v"
+    ],
+    "clothest": [
+      "n"
+    ],
+    "cloudest": [
+      "n"
+    ],
+    "clubbest": [
+      "n"
+    ],
+    "cluest": [
+      "n"
+    ],
+    "coachest": [
+      "n"
+    ],
+    "coalest": [
+      "n"
+    ],
+    "coastest": [
+      "n"
+    ],
+    "coatest": [
+      "n"
+    ],
+    "coinest": [
+      "n"
+    ],
+    "coldest": [
+      "adj"
+    ],
+    "comest": [
+      "v"
+    ],
+    "comiccest": [
+      "n"
+    ],
+    "cookest": [
+      "v"
+    ],
+    "coolest": [
+      "adj"
+    ],
+    "copiest": [
+      "v"
+    ],
+    "corest": [
+      "n"
+    ],
+    "cornest": [
+      "n"
+    ],
+    "costest": [
+      "n"
+    ],
+    "coughest": [
+      "v"
+    ],
+    "couldest": [
+      "aux"
+    ],
+    "countest": [
+      "v"
+    ],
+    "courtest": [
+      "n"
+    ],
+    "cowest": [
+      "n"
+    ],
+    "crashest": [
+      "v"
+    ],
+    "craziest": [
+      "adj"
+    ],
+    "creamest": [
+      "n"
+    ],
+    "crewest": [
+      "n"
+    ],
+    "criest": [
+      "v"
+    ],
+    "crimest": [
+      "n"
+    ],
+    "croppest": [
+      "n"
+    ],
+    "crossest": [
+      "v"
+    ],
+    "crowdest": [
+      "n"
+    ],
+    "cruelest": [
+      "adj"
+    ],
+    "cuppest": [
+      "n"
+    ],
+    "cutest": [
+      "adj"
+    ],
+    "cuttest": [
+      "v"
+    ],
+    "cyclest": [
+      "n"
+    ]
+  }
+}

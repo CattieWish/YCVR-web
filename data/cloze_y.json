@@ -1,0 +1,65 @@
+[
+  {
+    "q": "The children played soccer in the back <span class='blank'>_____</span> for two hours.",
+    "answer": "yard",
+    "explain": "yard n. 院子。",
+    "translation": "孩子们在后<strong>院</strong>踢了两个小时的足球。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The school <span class='blank'>_____</span> starts in September and ends in late June.",
+    "answer": "year",
+    "explain": "year n. 年。",
+    "translation": "学<strong>年</strong>从九月开始，到六月底结束。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The color <span class='blank'>_____</span> is often used to warn people to be careful.",
+    "answer": "yellow",
+    "explain": "yellow n. 黄色。",
+    "translation": "<strong>黄色</strong>常被用来提醒人们注意安全。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The leaves turned bright <span class='blank'>_____</span> before falling to the ground in autumn.",
+    "answer": "yellow",
+    "explain": "yellow adj. 黄色的。",
+    "translation": "树叶在秋天飘落之前变成了明亮的<strong>黄色</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "<span class='blank'>_____</span> was a very busy day at the office with many meetings.",
+    "answer": "yesterday",
+    "explain": "yesterday n. 昨天。",
+    "translation": "<strong>昨天</strong>在办公室是非常忙碌的一天，有很多会议。",
+    "pool": "BASE"
+  },
+  {
+    "q": "I met an old friend <span class='blank'>_____</span> at the coffee shop near the library.",
+    "answer": "yesterday",
+    "explain": "yesterday adv. 昨天。",
+    "translation": "我<strong>昨天</strong>在图书馆附近的咖啡馆遇到了一位老朋友。",
+    "pool": "BASE"
+  },
+  {
+    "q": "I usually eat a bowl of fruit and <span class='blank'>_____</span> for breakfast in the morning.",
+    "answer": "yoghurt",
+    "explain": "yoghurt n. 酸奶。",
+    "translation": "我早上通常吃一碗水果和<strong>酸奶</strong>当早餐。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The <span class='blank'>_____</span> doctor just finished medical school last spring.",
+    "answer": "young",
+    "explain": "young adj. 年轻的。",
+    "translation": "那位<strong>年轻</strong>的医生去年春天刚从医学院毕业。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The <span class='blank'>_____</span> of today have more opportunities to study abroad than before.",
+    "answer": "youth",
+    "explain": "youth n. 青年。",
+    "translation": "今天的<strong>青年</strong>比以往有更多出国留学的机会。",
+    "pool": "BASE"
+  }
+]

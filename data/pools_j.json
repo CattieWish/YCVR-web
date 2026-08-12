@@ -1,0 +1,173 @@
+{
+  "BASE": [
+    "jacket",
+    "jam",
+    "jaw",
+    "jazz",
+    "jeans",
+    "job",
+    "jog",
+    "join",
+    "joint",
+    "joke",
+    "journal",
+    "journalist",
+    "journey",
+    "joy",
+    "judge",
+    "juice",
+    "jump",
+    "jungle",
+    "junior",
+    "justice",
+    "justify"
+  ],
+  "PLURAL": [
+    "jackets",
+    "jams",
+    "jaws",
+    "jobs",
+    "jogs",
+    "joins",
+    "joints",
+    "jokes",
+    "journals",
+    "journalists",
+    "journeys",
+    "joys",
+    "judges",
+    "juices",
+    "jumps",
+    "jungles",
+    "juniors"
+  ],
+  "THIRD": [
+    "jams",
+    "jogs",
+    "joins",
+    "jokes",
+    "journeys",
+    "judges",
+    "jumps",
+    "justifies"
+  ],
+  "ING": [
+    "jamming",
+    "jogging",
+    "joining",
+    "joking",
+    "journeying",
+    "judging",
+    "jumping",
+    "justifying"
+  ],
+  "PAST": [
+    "jammed",
+    "jogged",
+    "joined",
+    "joked",
+    "journeyed",
+    "judged",
+    "jumped",
+    "justified"
+  ],
+  "COMP": [],
+  "SUPER": [],
+  "DICT": {
+    "jacket": "n. 夹克",
+    "jam": "n. 果酱 / v. 堵塞",
+    "jaw": "n. 下巴",
+    "jazz": "n. 爵士乐",
+    "jeans": "n. 牛仔裤",
+    "job": "n. 工作",
+    "jog": "n. 慢跑 / v. 慢跑",
+    "join": "n. 连接 / v. 加入",
+    "joint": "n. 关节 / adj. 共同的",
+    "joke": "n. 笑话 / v. 开玩笑",
+    "journal": "n. 日记",
+    "journalist": "n. 记者",
+    "journey": "n. 旅行 / v. 旅行",
+    "joy": "n. 快乐",
+    "judge": "n. 法官 / v. 判断",
+    "juice": "n. 果汁",
+    "jump": "n. 跳跃 / v. 跳跃",
+    "jungle": "n. 丛林",
+    "junior": "adj. 年少的 / n. 晚辈",
+    "justice": "n. 正义",
+    "justify": "v. 证明…正当"
+  },
+  "POS": {
+    "jacket": [
+      "n"
+    ],
+    "jam": [
+      "n",
+      "v"
+    ],
+    "jaw": [
+      "n"
+    ],
+    "jazz": [
+      "n"
+    ],
+    "jeans": [
+      "n"
+    ],
+    "job": [
+      "n"
+    ],
+    "jog": [
+      "n",
+      "v"
+    ],
+    "join": [
+      "n",
+      "v"
+    ],
+    "joint": [
+      "n",
+      "adj"
+    ],
+    "joke": [
+      "n",
+      "v"
+    ],
+    "journal": [
+      "n"
+    ],
+    "journalist": [
+      "n"
+    ],
+    "journey": [
+      "n",
+      "v"
+    ],
+    "joy": [
+      "n"
+    ],
+    "judge": [
+      "n",
+      "v"
+    ],
+    "juice": [
+      "n"
+    ],
+    "jump": [
+      "n",
+      "v"
+    ],
+    "jungle": [
+      "n"
+    ],
+    "junior": [
+      "adj",
+      "n"
+    ],
+    "justice": [
+      "n"
+    ],
+    "justify": [
+      "v"
+    ]
+  }
+}

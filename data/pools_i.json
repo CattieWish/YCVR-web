@@ -1,0 +1,615 @@
+{
+  "BASE": [
+    "ice",
+    "ice-cream",
+    "idea",
+    "ideal",
+    "identical",
+    "identify",
+    "identity",
+    "idiom",
+    "ignore",
+    "ill",
+    "illegal",
+    "illness",
+    "illustrate",
+    "image",
+    "imagine",
+    "immediately",
+    "impact",
+    "imply",
+    "import",
+    "important",
+    "impossible",
+    "impress",
+    "impression",
+    "improve",
+    "inch",
+    "incident",
+    "include",
+    "income",
+    "increase",
+    "incredible",
+    "indeed",
+    "independent",
+    "indicate",
+    "individual",
+    "industry",
+    "infection",
+    "infer",
+    "influence",
+    "influential",
+    "information",
+    "initial",
+    "initiative",
+    "injury",
+    "inner",
+    "innocent",
+    "innovation",
+    "input",
+    "inquire",
+    "insect",
+    "insight",
+    "insist",
+    "inspection",
+    "inspire",
+    "instance",
+    "instant",
+    "instead",
+    "institute",
+    "institution",
+    "instruction",
+    "instrument",
+    "insurance",
+    "integrate",
+    "integrity",
+    "intelligent",
+    "intend",
+    "intense",
+    "intention",
+    "interaction",
+    "interest",
+    "interesting",
+    "internal",
+    "international",
+    "interpret",
+    "interrupt",
+    "intervention",
+    "interview",
+    "introduce",
+    "introduction",
+    "invent",
+    "invention",
+    "investigate",
+    "investment",
+    "invite",
+    "involve",
+    "iron",
+    "island",
+    "issue",
+    "item"
+  ],
+  "PLURAL": [
+    "ice-creams",
+    "ideas",
+    "ideals",
+    "identities",
+    "idioms",
+    "illnesses",
+    "images",
+    "impacts",
+    "imports",
+    "impressions",
+    "inches",
+    "incidents",
+    "incomes",
+    "increases",
+    "individuals",
+    "industries",
+    "infections",
+    "influences",
+    "initials",
+    "initiatives",
+    "injuries",
+    "innovations",
+    "inputs",
+    "insects",
+    "insights",
+    "inspections",
+    "instances",
+    "instants",
+    "institutes",
+    "institutions",
+    "instructions",
+    "instruments",
+    "insurances",
+    "intentions",
+    "interactions",
+    "interests",
+    "interventions",
+    "interviews",
+    "introductions",
+    "inventions",
+    "investments",
+    "invites",
+    "irons",
+    "islands",
+    "issues",
+    "items"
+  ],
+  "THIRD": [
+    "identifies",
+    "ignores",
+    "illustrates",
+    "imagines",
+    "impacts",
+    "implies",
+    "imports",
+    "impresses",
+    "improves",
+    "includes",
+    "increases",
+    "indicates",
+    "infers",
+    "influences",
+    "inputs",
+    "inquires",
+    "insists",
+    "inspires",
+    "institutes",
+    "integrates",
+    "intends",
+    "interests",
+    "interprets",
+    "interrupts",
+    "interviews",
+    "introduces",
+    "invents",
+    "investigates",
+    "invites",
+    "involves",
+    "irons",
+    "issues"
+  ],
+  "ING": [
+    "identifying",
+    "ignoring",
+    "illustrating",
+    "imagining",
+    "impacting",
+    "implying",
+    "importing",
+    "impressing",
+    "improving",
+    "including",
+    "increasing",
+    "indicating",
+    "inferring",
+    "influencing",
+    "inputting",
+    "inquiring",
+    "insisting",
+    "inspiring",
+    "instituting",
+    "integrating",
+    "intending",
+    "interesting",
+    "interpretting",
+    "interrupting",
+    "interviewing",
+    "introducing",
+    "inventing",
+    "investigating",
+    "inviting",
+    "involving",
+    "ironning",
+    "issueing"
+  ],
+  "PAST": [
+    "identified",
+    "ignored",
+    "illustrated",
+    "imagined",
+    "impacted",
+    "implied",
+    "imported",
+    "impressed",
+    "improved",
+    "included",
+    "increased",
+    "indicated",
+    "inferred",
+    "influenced",
+    "inputted",
+    "inquired",
+    "insisted",
+    "inspired",
+    "instituted",
+    "integrated",
+    "intended",
+    "interested",
+    "interpretted",
+    "interrupted",
+    "interviewed",
+    "introduced",
+    "invented",
+    "investigated",
+    "invited",
+    "involved",
+    "ironned",
+    "issued"
+  ],
+  "COMP": [],
+  "SUPER": [],
+  "DICT": {
+    "ice": "n. 冰",
+    "ice-cream": "n. 冰淇淋",
+    "idea": "n. 主意",
+    "ideal": "n. 理想 / adj. 理想的",
+    "identical": "adj. 相同的",
+    "identify": "v. 识别",
+    "identity": "n. 身份",
+    "idiom": "n. 习语",
+    "ignore": "v. 忽视",
+    "ill": "adj. 生病的",
+    "illegal": "adj. 非法的",
+    "illness": "n. 疾病",
+    "illustrate": "v. 说明",
+    "image": "n. 图像",
+    "imagine": "v. 想象",
+    "immediately": "adv. 立即",
+    "impact": "n. 影响 / v. 冲击",
+    "imply": "v. 暗示",
+    "import": "n. 进口 / v. 进口",
+    "important": "adj. 重要的",
+    "impossible": "adj. 不可能的",
+    "impress": "v. 使印象深刻",
+    "impression": "n. 印象",
+    "improve": "v. 改善",
+    "inch": "n. 英寸",
+    "incident": "n. 事件",
+    "include": "v. 包括",
+    "income": "n. 收入",
+    "increase": "n. 增加 / v. 增加",
+    "incredible": "adj. 难以置信的",
+    "indeed": "adv. 确实",
+    "independent": "adj. 独立的",
+    "indicate": "v. 表明",
+    "individual": "n. 个人 / adj. 个人的",
+    "industry": "n. 工业",
+    "infection": "n. 感染",
+    "infer": "v. 推断",
+    "influence": "n. 影响 / v. 影响",
+    "influential": "adj. 有影响力的",
+    "information": "n. 信息",
+    "initial": "adj. 最初的 / n. 首字母",
+    "initiative": "n. 主动性",
+    "injury": "n. 伤害",
+    "inner": "adj. 内部的",
+    "innocent": "adj. 无辜的",
+    "innovation": "n. 创新",
+    "input": "n. 输入 / v. 输入",
+    "inquire": "v. 询问",
+    "insect": "n. 昆虫",
+    "insight": "n. 洞察力",
+    "insist": "v. 坚持",
+    "inspection": "n. 检查",
+    "inspire": "v. 激励",
+    "instance": "n. 例子",
+    "instant": "adj. 立即的 / n. 瞬间",
+    "instead": "adv. 代替",
+    "institute": "n. 学院 / v. 建立",
+    "institution": "n. 机构",
+    "instruction": "n. 指示",
+    "instrument": "n. 乐器",
+    "insurance": "n. 保险",
+    "integrate": "v. 整合",
+    "integrity": "n. 正直",
+    "intelligent": "adj. 聪明的",
+    "intend": "v. 打算",
+    "intense": "adj. 强烈的",
+    "intention": "n. 意图",
+    "interaction": "n. 互动",
+    "interest": "n. 兴趣 / v. 使感兴趣",
+    "interesting": "adj. 有趣的",
+    "internal": "adj. 内部的",
+    "international": "adj. 国际的",
+    "interpret": "v. 解释",
+    "interrupt": "v. 打断",
+    "intervention": "n. 干预",
+    "interview": "n. 面试 / v. 面试",
+    "introduce": "v. 介绍",
+    "introduction": "n. 介绍",
+    "invent": "v. 发明",
+    "invention": "n. 发明",
+    "investigate": "v. 调查",
+    "investment": "n. 投资",
+    "invite": "n. 邀请 / v. 邀请",
+    "involve": "v. 涉及",
+    "iron": "n. 铁 / v. 熨烫",
+    "island": "n. 岛",
+    "issue": "n. 问题 / v. 发行",
+    "item": "n. 项目"
+  },
+  "POS": {
+    "ice": [
+      "n"
+    ],
+    "ice-cream": [
+      "n"
+    ],
+    "idea": [
+      "n"
+    ],
+    "ideal": [
+      "n",
+      "adj"
+    ],
+    "identical": [
+      "adj"
+    ],
+    "identify": [
+      "v"
+    ],
+    "identity": [
+      "n"
+    ],
+    "idiom": [
+      "n"
+    ],
+    "ignore": [
+      "v"
+    ],
+    "ill": [
+      "adj"
+    ],
+    "illegal": [
+      "adj"
+    ],
+    "illness": [
+      "n"
+    ],
+    "illustrate": [
+      "v"
+    ],
+    "image": [
+      "n"
+    ],
+    "imagine": [
+      "v"
+    ],
+    "immediately": [
+      "adv"
+    ],
+    "impact": [
+      "n",
+      "v"
+    ],
+    "imply": [
+      "v"
+    ],
+    "import": [
+      "n",
+      "v"
+    ],
+    "important": [
+      "adj"
+    ],
+    "impossible": [
+      "adj"
+    ],
+    "impress": [
+      "v"
+    ],
+    "impression": [
+      "n"
+    ],
+    "improve": [
+      "v"
+    ],
+    "inch": [
+      "n"
+    ],
+    "incident": [
+      "n"
+    ],
+    "include": [
+      "v"
+    ],
+    "income": [
+      "n"
+    ],
+    "increase": [
+      "n",
+      "v"
+    ],
+    "incredible": [
+      "adj"
+    ],
+    "indeed": [
+      "adv"
+    ],
+    "independent": [
+      "adj"
+    ],
+    "indicate": [
+      "v"
+    ],
+    "individual": [
+      "n",
+      "adj"
+    ],
+    "industry": [
+      "n"
+    ],
+    "infection": [
+      "n"
+    ],
+    "infer": [
+      "v"
+    ],
+    "influence": [
+      "n",
+      "v"
+    ],
+    "influential": [
+      "adj"
+    ],
+    "information": [
+      "n"
+    ],
+    "initial": [
+      "adj",
+      "n"
+    ],
+    "initiative": [
+      "n"
+    ],
+    "injury": [
+      "n"
+    ],
+    "inner": [
+      "adj"
+    ],
+    "innocent": [
+      "adj"
+    ],
+    "innovation": [
+      "n"
+    ],
+    "input": [
+      "n",
+      "v"
+    ],
+    "inquire": [
+      "v"
+    ],
+    "insect": [
+      "n"
+    ],
+    "insight": [
+      "n"
+    ],
+    "insist": [
+      "v"
+    ],
+    "inspection": [
+      "n"
+    ],
+    "inspire": [
+      "v"
+    ],
+    "instance": [
+      "n"
+    ],
+    "instant": [
+      "adj",
+      "n"
+    ],
+    "instead": [
+      "adv"
+    ],
+    "institute": [
+      "n",
+      "v"
+    ],
+    "institution": [
+      "n"
+    ],
+    "instruction": [
+      "n"
+    ],
+    "instrument": [
+      "n"
+    ],
+    "insurance": [
+      "n"
+    ],
+    "integrate": [
+      "v"
+    ],
+    "integrity": [
+      "n"
+    ],
+    "intelligent": [
+      "adj"
+    ],
+    "intend": [
+      "v"
+    ],
+    "intense": [
+      "adj"
+    ],
+    "intention": [
+      "n"
+    ],
+    "interaction": [
+      "n"
+    ],
+    "interest": [
+      "n",
+      "v"
+    ],
+    "interesting": [
+      "adj"
+    ],
+    "internal": [
+      "adj"
+    ],
+    "international": [
+      "adj"
+    ],
+    "interpret": [
+      "v"
+    ],
+    "interrupt": [
+      "v"
+    ],
+    "intervention": [
+      "n"
+    ],
+    "interview": [
+      "n",
+      "v"
+    ],
+    "introduce": [
+      "v"
+    ],
+    "introduction": [
+      "n"
+    ],
+    "invent": [
+      "v"
+    ],
+    "invention": [
+      "n"
+    ],
+    "investigate": [
+      "v"
+    ],
+    "investment": [
+      "n"
+    ],
+    "invite": [
+      "n",
+      "v"
+    ],
+    "involve": [
+      "v"
+    ],
+    "iron": [
+      "n",
+      "v"
+    ],
+    "island": [
+      "n"
+    ],
+    "issue": [
+      "n",
+      "v"
+    ],
+    "item": [
+      "n"
+    ]
+  }
+}

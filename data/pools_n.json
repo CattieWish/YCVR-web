@@ -1,0 +1,721 @@
+{
+  "BASE": [
+    "nail",
+    "name",
+    "narrow",
+    "nation",
+    "national",
+    "nationality",
+    "native",
+    "natural",
+    "nature",
+    "navy",
+    "near",
+    "nearby",
+    "nearly",
+    "neat",
+    "necessary",
+    "neck",
+    "need",
+    "needle",
+    "negative",
+    "negotiate",
+    "neighbour",
+    "neighbourhood",
+    "nephew",
+    "nervous",
+    "nest",
+    "net",
+    "network",
+    "never",
+    "nevertheless",
+    "new",
+    "news",
+    "newspaper",
+    "next",
+    "nice",
+    "niece",
+    "night",
+    "noble",
+    "nod",
+    "noise",
+    "noisy",
+    "noodle",
+    "noon",
+    "normal",
+    "north",
+    "northern",
+    "nose",
+    "note",
+    "notebook",
+    "notice",
+    "novel",
+    "novelist",
+    "nowadays",
+    "nowhere",
+    "nuclear",
+    "number",
+    "nurse",
+    "nut",
+    "nutrition"
+  ],
+  "PLURAL": [
+    "nails",
+    "names",
+    "nations",
+    "nationals",
+    "nationalities",
+    "natives",
+    "natures",
+    "navies",
+    "necks",
+    "needs",
+    "needles",
+    "negatives",
+    "neighbours",
+    "neighbourhoods",
+    "nephews",
+    "nests",
+    "nets",
+    "networks",
+    "newspapers",
+    "nieces",
+    "nights",
+    "nobles",
+    "normals",
+    "nods",
+    "noises",
+    "noodles",
+    "norths",
+    "noses",
+    "notes",
+    "notebooks",
+    "notices",
+    "novels",
+    "novelists",
+    "numbers",
+    "nurses",
+    "nuts"
+  ],
+  "THIRD": [
+    "nails",
+    "names",
+    "narrows",
+    "nears",
+    "necks",
+    "needs",
+    "negotiates",
+    "nests",
+    "nets",
+    "networks",
+    "nods",
+    "noses",
+    "notes",
+    "notices",
+    "numbers",
+    "nurses"
+  ],
+  "ING": [
+    "nailing",
+    "naming",
+    "narrowing",
+    "nearing",
+    "necking",
+    "needing",
+    "negotiating",
+    "nesting",
+    "netting",
+    "networking",
+    "nodding",
+    "nosing",
+    "noting",
+    "noticing",
+    "numbering",
+    "nursing"
+  ],
+  "PAST": [
+    "nailed",
+    "named",
+    "narrowed",
+    "neared",
+    "necked",
+    "needed",
+    "negotiated",
+    "nested",
+    "netted",
+    "networked",
+    "nodded",
+    "nosed",
+    "noted",
+    "noticed",
+    "numbered",
+    "nursed"
+  ],
+  "COMP": [
+    "narrower",
+    "nearer",
+    "neater",
+    "newer",
+    "nicer",
+    "nobler",
+    "noisier"
+  ],
+  "SUPER": [
+    "narrowest",
+    "nearest",
+    "neatest",
+    "newest",
+    "nicest",
+    "noblest",
+    "noisiest"
+  ],
+  "DICT": {
+    "nail": "n. 指甲 / v. 钉住",
+    "name": "n. 名字 / v. 命名",
+    "narrow": "adj. 狭窄的 / v. 使变窄",
+    "nation": "n. 国家，民族",
+    "national": "adj. 国家的，民族的 / n. 国民",
+    "nationality": "n. 国籍，民族",
+    "native": "n. 本地人 / adj. 本地的，天生的",
+    "natural": "adj. 自然的，天然的",
+    "nature": "n. 自然，本性",
+    "navy": "n. 海军",
+    "near": "adj. 近的 / adv. 在近处 / prep. 在…附近 / v. 接近",
+    "nearby": "adj. 附近的 / adv. 在附近",
+    "nearly": "adv. 几乎，差不多",
+    "neat": "adj. 整洁的，整齐的",
+    "necessary": "adj. 必要的，必需的",
+    "neck": "n. 脖子 / v. 搂着脖子亲吻",
+    "need": "n. 需要 / v. 需要",
+    "needle": "n. 针",
+    "negative": "adj. 消极的，否定的 / n. 否定，负数",
+    "negotiate": "v. 谈判，协商",
+    "neighbour": "n. 邻居",
+    "neighbourhood": "n. 街区，附近",
+    "nephew": "n. 侄子，外甥",
+    "nervous": "adj. 紧张的，焦虑的",
+    "nest": "n. 巢 / v. 筑巢",
+    "net": "n. 网 / v. 净赚",
+    "network": "n. 网络 / v. 建立网络",
+    "never": "adv. 从不，绝不",
+    "nevertheless": "adv. 然而，不过",
+    "new": "adj. 新的",
+    "news": "n. 新闻，消息",
+    "newspaper": "n. 报纸",
+    "next": "adj. 下一个的 / adv. 接下来 / prep. 靠近",
+    "nice": "adj. 好的，令人愉快的",
+    "niece": "n. 侄女，外甥女",
+    "night": "n. 夜晚",
+    "noble": "adj. 高贵的，贵族的 / n. 贵族",
+    "nod": "n. 点头 / v. 点头",
+    "noise": "n. 噪音",
+    "noisy": "adj. 吵闹的",
+    "noodle": "n. 面条",
+    "noon": "n. 中午",
+    "normal": "adj. 正常的 / n. 正常",
+    "north": "n. 北方 / adj. 北方的 / adv. 向北方",
+    "northern": "adj. 北方的",
+    "nose": "n. 鼻子 / v. 嗅，闻",
+    "note": "n. 笔记，便条 / v. 注意，记录",
+    "notebook": "n. 笔记本",
+    "notice": "n. 通知，注意 / v. 注意到",
+    "novel": "n. 小说 / adj. 新奇的",
+    "novelist": "n. 小说家",
+    "nowadays": "adv. 如今，现在",
+    "nowhere": "adv. 无处，哪里都不",
+    "nuclear": "adj. 核能的，核的",
+    "number": "n. 数字，数量 / v. 编号",
+    "nurse": "n. 护士 / v. 护理",
+    "nut": "n. 坚果",
+    "nutrition": "n. 营养"
+  },
+  "POS": {
+    "nail": [
+      "n",
+      "v"
+    ],
+    "name": [
+      "n",
+      "v"
+    ],
+    "narrow": [
+      "adj",
+      "v"
+    ],
+    "nation": [
+      "n"
+    ],
+    "national": [
+      "adj",
+      "n"
+    ],
+    "nationality": [
+      "n"
+    ],
+    "native": [
+      "n",
+      "adj"
+    ],
+    "natural": [
+      "adj"
+    ],
+    "nature": [
+      "n"
+    ],
+    "navy": [
+      "n"
+    ],
+    "near": [
+      "adj",
+      "adv",
+      "prep",
+      "v"
+    ],
+    "nearby": [
+      "adj",
+      "adv"
+    ],
+    "nearly": [
+      "adv"
+    ],
+    "neat": [
+      "adj"
+    ],
+    "necessary": [
+      "adj"
+    ],
+    "neck": [
+      "n",
+      "v"
+    ],
+    "need": [
+      "n",
+      "v"
+    ],
+    "needle": [
+      "n"
+    ],
+    "negative": [
+      "adj",
+      "n"
+    ],
+    "negotiate": [
+      "v"
+    ],
+    "neighbour": [
+      "n"
+    ],
+    "neighbourhood": [
+      "n"
+    ],
+    "nephew": [
+      "n"
+    ],
+    "nervous": [
+      "adj"
+    ],
+    "nest": [
+      "n",
+      "v"
+    ],
+    "net": [
+      "n",
+      "v"
+    ],
+    "network": [
+      "n",
+      "v"
+    ],
+    "never": [
+      "adv"
+    ],
+    "nevertheless": [
+      "adv"
+    ],
+    "new": [
+      "adj"
+    ],
+    "news": [
+      "n"
+    ],
+    "newspaper": [
+      "n"
+    ],
+    "next": [
+      "adj",
+      "adv",
+      "prep"
+    ],
+    "nice": [
+      "adj"
+    ],
+    "niece": [
+      "n"
+    ],
+    "night": [
+      "n"
+    ],
+    "noble": [
+      "adj",
+      "n"
+    ],
+    "nod": [
+      "n",
+      "v"
+    ],
+    "noise": [
+      "n"
+    ],
+    "noisy": [
+      "adj"
+    ],
+    "noodle": [
+      "n"
+    ],
+    "noon": [
+      "n"
+    ],
+    "normal": [
+      "adj",
+      "n"
+    ],
+    "north": [
+      "n",
+      "adj",
+      "adv"
+    ],
+    "northern": [
+      "adj"
+    ],
+    "nose": [
+      "n",
+      "v"
+    ],
+    "note": [
+      "n",
+      "v"
+    ],
+    "notebook": [
+      "n"
+    ],
+    "notice": [
+      "n",
+      "v"
+    ],
+    "novel": [
+      "n",
+      "adj"
+    ],
+    "novelist": [
+      "n"
+    ],
+    "nowadays": [
+      "adv"
+    ],
+    "nowhere": [
+      "adv"
+    ],
+    "nuclear": [
+      "adj"
+    ],
+    "number": [
+      "n",
+      "v"
+    ],
+    "nurse": [
+      "n",
+      "v"
+    ],
+    "nut": [
+      "n"
+    ],
+    "nutrition": [
+      "n"
+    ],
+    "noises": [
+      "n"
+    ],
+    "nationalities": [
+      "n"
+    ],
+    "most novel": [
+      "adj"
+    ],
+    "naming": [
+      "v"
+    ],
+    "more negative": [
+      "adj"
+    ],
+    "nods": [
+      "n"
+    ],
+    "novels": [
+      "n"
+    ],
+    "nearest": [
+      "adj"
+    ],
+    "nodding": [
+      "v"
+    ],
+    "nursing": [
+      "v"
+    ],
+    "noticed": [
+      "v"
+    ],
+    "nursed": [
+      "v"
+    ],
+    "necks": [
+      "n"
+    ],
+    "narrowed": [
+      "v"
+    ],
+    "nobler": [
+      "adj"
+    ],
+    "nesting": [
+      "v"
+    ],
+    "needles": [
+      "n"
+    ],
+    "noting": [
+      "v"
+    ],
+    "necked": [
+      "v"
+    ],
+    "nights": [
+      "n"
+    ],
+    "names": [
+      "n"
+    ],
+    "noodles": [
+      "n"
+    ],
+    "nails": [
+      "n"
+    ],
+    "nosing": [
+      "v"
+    ],
+    "more nervous": [
+      "adj"
+    ],
+    "nested": [
+      "v"
+    ],
+    "noticing": [
+      "v"
+    ],
+    "narrows": [
+      "v"
+    ],
+    "noisiest": [
+      "adj"
+    ],
+    "networking": [
+      "v"
+    ],
+    "nieces": [
+      "n"
+    ],
+    "needing": [
+      "v"
+    ],
+    "necking": [
+      "v"
+    ],
+    "named": [
+      "v"
+    ],
+    "nations": [
+      "n"
+    ],
+    "neighbourhoods": [
+      "n"
+    ],
+    "most normal": [
+      "adj"
+    ],
+    "nears": [
+      "v"
+    ],
+    "noisier": [
+      "adj"
+    ],
+    "narrower": [
+      "adj"
+    ],
+    "nicest": [
+      "adj"
+    ],
+    "most necessary": [
+      "adj"
+    ],
+    "negotiating": [
+      "v"
+    ],
+    "most negative": [
+      "adj"
+    ],
+    "nets": [
+      "n"
+    ],
+    "nearing": [
+      "v"
+    ],
+    "needed": [
+      "v"
+    ],
+    "nailing": [
+      "v"
+    ],
+    "norths": [
+      "n"
+    ],
+    "numbers": [
+      "n"
+    ],
+    "nuts": [
+      "n"
+    ],
+    "narrowing": [
+      "v"
+    ],
+    "notices": [
+      "n"
+    ],
+    "newer": [
+      "adj"
+    ],
+    "notebooks": [
+      "n"
+    ],
+    "noted": [
+      "v"
+    ],
+    "normals": [
+      "n"
+    ],
+    "more normal": [
+      "adj"
+    ],
+    "newest": [
+      "adj"
+    ],
+    "most nervous": [
+      "adj"
+    ],
+    "numbering": [
+      "v"
+    ],
+    "nationals": [
+      "n"
+    ],
+    "negotiated": [
+      "v"
+    ],
+    "networks": [
+      "n"
+    ],
+    "noses": [
+      "n"
+    ],
+    "neatest": [
+      "adj"
+    ],
+    "natives": [
+      "n"
+    ],
+    "neighbours": [
+      "n"
+    ],
+    "needs": [
+      "n"
+    ],
+    "nephews": [
+      "n"
+    ],
+    "newspapers": [
+      "n"
+    ],
+    "navies": [
+      "n"
+    ],
+    "nobles": [
+      "n"
+    ],
+    "novelists": [
+      "n"
+    ],
+    "narrowest": [
+      "adj"
+    ],
+    "natures": [
+      "n"
+    ],
+    "neater": [
+      "adj"
+    ],
+    "networked": [
+      "v"
+    ],
+    "netting": [
+      "v"
+    ],
+    "nests": [
+      "n"
+    ],
+    "neared": [
+      "v"
+    ],
+    "more novel": [
+      "adj"
+    ],
+    "more necessary": [
+      "adj"
+    ],
+    "negatives": [
+      "n"
+    ],
+    "nicer": [
+      "adj"
+    ],
+    "netted": [
+      "v"
+    ],
+    "notes": [
+      "n"
+    ],
+    "nailed": [
+      "v"
+    ],
+    "negotiates": [
+      "v"
+    ],
+    "nosed": [
+      "v"
+    ],
+    "numbered": [
+      "v"
+    ],
+    "nearer": [
+      "adj"
+    ],
+    "noblest": [
+      "adj"
+    ],
+    "nurses": [
+      "n"
+    ],
+    "nodded": [
+      "v"
+    ]
+  }
+}

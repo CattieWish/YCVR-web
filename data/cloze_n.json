@@ -1,0 +1,408 @@
+[
+  {
+    "q": "The old car badly <span class='blank'>_____</span> repairs before it could be driven safely on the highway.",
+    "answer": "needed",
+    "explain": "need n. 需要 / v. 需要。",
+    "translation": "这辆旧车在能安全驶上公路之前， badly <strong>需要</strong> 修理。",
+    "pool": "PAST"
+  },
+  {
+    "q": "The professor <span class='blank'>_____</span> several important details that most students had overlooked in their essays.",
+    "answer": "noted",
+    "explain": "note n. 笔记，便条 / v. 注意，记录。",
+    "translation": "教授<strong>注意到</strong>了几个重要细节，大多数学生在论文中都忽略了它们。",
+    "pool": "PAST"
+  },
+  {
+    "q": "We immediately <span class='blank'>_____</span> a strange smell coming from the kitchen after we turned on the heater.",
+    "answer": "noticed",
+    "explain": "notice n. 通知，注意 / v. 注意到。",
+    "translation": "打开暖气后，我们立即<strong>注意到</strong>厨房传来一股奇怪的气味。",
+    "pool": "PAST"
+  },
+  {
+    "q": "She gently <span class='blank'>_____</span> her sick grandmother back to health over the long winter months.",
+    "answer": "nursed",
+    "explain": "nurse n. 护士 / v. 护理。",
+    "translation": "在漫长的冬季里，她悉心<strong>护理</strong>生病的祖母，使她恢复了健康。",
+    "pool": "PAST"
+  },
+  {
+    "q": "The official report <span class='blank'>_____</span> all the volunteers who contributed to the success of the community event.",
+    "answer": "names",
+    "explain": "name n. 名字 / v. 命名。",
+    "translation": "官方报告<strong>列出</strong>了所有为社区活动成功做出贡献的志愿者。",
+    "pool": "THIRD"
+  },
+  {
+    "q": "He always <span class='blank'>_____</span> politely when greeting his neighbors early in the morning at the front door.",
+    "answer": "nods",
+    "explain": "nod n. 点头 / v. 点头。",
+    "translation": "他一大早在前门和邻居打招呼时，总是礼貌地<strong>点头</strong>示意。",
+    "pool": "THIRD"
+  },
+  {
+    "q": "The experienced fisherman <span class='blank'>_____</span> a large catch of fresh tuna before the sun rose over the horizon.",
+    "answer": "netted",
+    "explain": "net n. 网 / v. 净赚。",
+    "translation": "这位经验丰富的渔夫在太阳升起地平线之前就<strong>网住</strong>了大量新鲜金枪鱼。",
+    "pool": "PAST"
+  },
+  {
+    "q": "She used a heavy hammer to <span class='blank'>_____</span> the wooden picture frame securely to the wall.",
+    "answer": "nail",
+    "explain": "nail n. 指甲 / v. 钉住。",
+    "translation": "她用一把重锤子把木相框牢牢地<strong>钉</strong>在墙上。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The mountain road began to <span class='blank'>_____</span> dramatically as we approached the highest point of the pass.",
+    "answer": "narrow",
+    "explain": "narrow adj. 狭窄的 / v. 使变窄。",
+    "translation": "当我们接近山口最高点时，山路开始急剧<strong>变窄</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "As the holiday season <span class='blank'>_____</span>, the shopping malls became increasingly crowded with excited customers.",
+    "answer": "near",
+    "explain": "near adj. 近的 / adv. 在近处 / prep. 在…附近 / v. 接近。",
+    "translation": "随着假期<strong>临近</strong>，购物中心里越来越挤满了兴奋的顾客。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The romantic couple walked along the beach and <span class='blank'>_____</span> affectionately under the silver moonlight.",
+    "answer": "neck",
+    "explain": "neck n. 脖子 / v. 搂着脖子亲吻。",
+    "translation": "这对浪漫的情侣沿着海滩散步，在银色月光下深情地<strong>搂抱亲吻</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The union leaders met for three days to <span class='blank'>_____</span> better working conditions for all factory employees.",
+    "answer": "negotiate",
+    "explain": "negotiate v. 谈判，协商。",
+    "translation": "工会领袖们会面了三天，为所有工厂员工<strong>谈判</strong>争取更好的工作条件。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Every spring, the swallows return to <span class='blank'>_____</span> in the old barn behind my grandparents' farmhouse.",
+    "answer": "nest",
+    "explain": "nest n. 巢 / v. 筑巢。",
+    "translation": "每年春天，燕子都会回到我祖父母农舍后面的旧谷仓里<strong>筑巢</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "It is important to <span class='blank'>_____</span> with professionals in your field to find better career opportunities.",
+    "answer": "network",
+    "explain": "network n. 网络 / v. 建立网络。",
+    "translation": "与你所在领域的专业人士<strong>建立人脉</strong>对于找到更好的职业机会非常重要。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The trained dog can <span class='blank'>_____</span> out hidden drugs at the airport with remarkable accuracy.",
+    "answer": "nose",
+    "explain": "nose n. 鼻子 / v. 嗅，闻。",
+    "translation": "这只受过训练的狗能够以惊人的准确度在机场<strong>嗅出</strong>隐藏的毒品。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Please <span class='blank'>_____</span> each page of the report clearly so that readers can find sections quickly.",
+    "answer": "number",
+    "explain": "number n. 数字，数量 / v. 编号。",
+    "translation": "请清楚地给报告的每一页<strong>编号</strong>，以便读者能快速找到各章节。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The entire <span class='blank'>_____</span> celebrated with fireworks when the team won the world championship.",
+    "answer": "nation",
+    "explain": "nation n. 国家，民族。",
+    "translation": "当国家队赢得世界冠军时，整个<strong>国家</strong>都用烟花庆祝。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The Grand Canyon is considered a <span class='blank'>_____</span> treasure that belongs to all American citizens.",
+    "answer": "national",
+    "explain": "national adj. 国家的，民族的 / n. 国民。",
+    "translation": "大峡谷被认为属于所有美国公民的<strong>国家</strong>瑰宝。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Please write your <span class='blank'>_____</span> and passport number on the top of the application form.",
+    "answer": "nationality",
+    "explain": "nationality n. 国籍，民族。",
+    "translation": "请在申请表顶部填写你的<strong>国籍</strong>和护照号码。",
+    "pool": "BASE"
+  },
+  {
+    "q": "She returned to her <span class='blank'>_____</span> country after living and working abroad for more than fifteen years.",
+    "answer": "native",
+    "explain": "native n. 本地人 / adj. 本地的，天生的。",
+    "translation": "在国外生活和工作了十五年后，她回到了自己的<strong>祖国</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The disaster caused severe damage to the <span class='blank'>_____</span> environment and wildlife in the coastal region.",
+    "answer": "natural",
+    "explain": "natural adj. 自然的，天然的。",
+    "translation": "这场灾难对沿海地区的<strong>自然</strong>环境和野生动物造成了严重破坏。",
+    "pool": "BASE"
+  },
+  {
+    "q": "We spent the entire weekend enjoying the beauty of <span class='blank'>_____</span> in the peaceful mountain valley.",
+    "answer": "nature",
+    "explain": "nature n. 自然，本性。",
+    "translation": "我们整个周末都在宁静的山谷中享受<strong>大自然</strong>的美景。",
+    "pool": "BASE"
+  },
+  {
+    "q": "He joined the <span class='blank'>_____</span> immediately after graduating from the military academy with honors.",
+    "answer": "navy",
+    "explain": "navy n. 海军。",
+    "translation": "他以优异的成绩从军事学院毕业后立即加入了<strong>海军</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "We found a lovely Italian restaurant <span class='blank'>_____</span> where we could sit and enjoy a relaxing dinner.",
+    "answer": "nearby",
+    "explain": "nearby adj. 附近的 / adv. 在附近。",
+    "translation": "我们在<strong>附近</strong>找到一家可爱的意大利餐厅，可以坐下来享受轻松的晚餐。",
+    "pool": "BASE"
+  },
+  {
+    "q": "It took us <span class='blank'>_____</span> three hours to finish cleaning the entire house from top to bottom.",
+    "answer": "nearly",
+    "explain": "nearly adv. 几乎，差不多。",
+    "translation": "我们花了<strong>将近</strong>三个小时才把整栋房子从上到下打扫干净。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Her office desk was always <span class='blank'>_____</span> and organized, with every document in its proper place.",
+    "answer": "neat",
+    "explain": "neat adj. 整洁的，整齐的。",
+    "translation": "她的办公桌总是<strong>整洁</strong>有序，每份文件都在恰当的位置。",
+    "pool": "BASE"
+  },
+  {
+    "q": "It is absolutely <span class='blank'>_____</span> to bring a valid identification card to enter the government building.",
+    "answer": "necessary",
+    "explain": "necessary adj. 必要的，必需的。",
+    "translation": "进入政府大楼时携带有效的身份证明是绝对<strong>必要</strong>的。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The doctor used a very thin <span class='blank'>_____</span> to draw blood from the patient's arm gently.",
+    "answer": "needle",
+    "explain": "needle n. 针。",
+    "translation": "医生用一根很细的<strong>针</strong>轻轻从病人手臂上抽血。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The test results came back completely <span class='blank'>_____</span>, which was a huge relief for the worried family.",
+    "answer": "negative",
+    "explain": "negative adj. 消极的，否定的 / n. 否定，负数。",
+    "translation": "检测结果完全呈<strong>阴性</strong>，这让担忧的家人大大松了一口气。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Our friendly <span class='blank'>_____</span> often brings us fresh vegetables from his beautiful garden in the summer.",
+    "answer": "neighbour",
+    "explain": "neighbour n. 邻居。",
+    "translation": "夏天，我们友好的<strong>邻居</strong>经常从他那美丽的花园里给我们带来新鲜蔬菜。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The children feel very safe playing outside in this quiet and peaceful residential <span class='blank'>_____</span>.",
+    "answer": "neighbourhood",
+    "explain": "neighbourhood n. 街区，附近。",
+    "translation": "孩子们在这个安静祥和的住宅<strong>街区</strong>外面玩耍时感到非常安全。",
+    "pool": "BASE"
+  },
+  {
+    "q": "My <span class='blank'>_____</span> just started his first year studying engineering at a top university in Boston.",
+    "answer": "nephew",
+    "explain": "nephew n. 侄子，外甥。",
+    "translation": "我的<strong>侄子</strong>刚开始在波士顿一所顶尖大学学习工程学的第一年。",
+    "pool": "BASE"
+  },
+  {
+    "q": "She felt extremely <span class='blank'>_____</span> before her very first job interview in the big city.",
+    "answer": "nervous",
+    "explain": "nervous adj. 紧张的，焦虑的。",
+    "translation": "在大城市第一次工作面试前，她感到极度<strong>紧张</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "I have <span class='blank'>_____</span> seen such a spectacular sunset over the ocean in my entire life.",
+    "answer": "never",
+    "explain": "never adv. 从不，绝不。",
+    "translation": "我一生中<strong>从未</strong>见过如此壮观的海上日落。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The weather forecast was terrible for the outdoor concert; <span class='blank'>_____</span>, thousands of fans still attended.",
+    "answer": "nevertheless",
+    "explain": "nevertheless adv. 然而，不过。",
+    "translation": "天气预报说户外音乐会天气很糟糕，<strong>尽管如此</strong>，成千上万的歌迷仍然前来参加。",
+    "pool": "BASE"
+  },
+  {
+    "q": "We recently moved into a brand <span class='blank'>_____</span> apartment with a wonderful view of the river.",
+    "answer": "new",
+    "explain": "new adj. 新的。",
+    "translation": "我们最近搬进了一套<strong>全新</strong>的公寓，可以欣赏到河流的美妙景色。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The breaking <span class='blank'>_____</span> about the earthquake spread rapidly across all social media platforms.",
+    "answer": "news",
+    "explain": "news n. 新闻，消息。",
+    "translation": "关于地震的突发<strong>新闻</strong>迅速在所有社交媒体平台上传播开来。",
+    "pool": "BASE"
+  },
+  {
+    "q": "I still enjoy reading the morning <span class='blank'>_____</span> while drinking a hot cup of coffee at breakfast.",
+    "answer": "newspaper",
+    "explain": "newspaper n. 报纸。",
+    "translation": "我仍然喜欢在早餐时喝着热咖啡阅读早报<strong>报纸</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The <span class='blank'>_____</span> train to London is scheduled to depart from platform three in approximately fifteen minutes.",
+    "answer": "next",
+    "explain": "next adj. 下一个的 / adv. 接下来 / prep. 靠近。",
+    "translation": "<strong>下一班</strong>开往伦敦的列车大约十五分钟后从三号站台出发。",
+    "pool": "BASE"
+  },
+  {
+    "q": "It was very <span class='blank'>_____</span> of you to help me carry all these heavy shopping bags upstairs.",
+    "answer": "nice",
+    "explain": "nice adj. 好的，令人愉快的。",
+    "translation": "你帮我提这些沉重的购物袋上楼，真是太<strong>好</strong>了。",
+    "pool": "BASE"
+  },
+  {
+    "q": "My <span class='blank'>_____</span> baked a delicious chocolate cake for my birthday party last weekend.",
+    "answer": "niece",
+    "explain": "niece n. 侄女，外甥女。",
+    "translation": "我的<strong>侄女</strong>上周末为我的生日派对烤了一个美味的巧克力蛋糕。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The city is absolutely beautiful at <span class='blank'>_____</span> when all the street lights are turned on.",
+    "answer": "night",
+    "explain": "night n. 夜晚。",
+    "translation": "当所有街灯亮起时，这座城市在<strong>夜晚</strong>绝对美丽。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The king rewarded the brave knight with a <span class='blank'>_____</span> title and a large piece of fertile land.",
+    "answer": "noble",
+    "explain": "noble adj. 高贵的，贵族的 / n. 贵族。",
+    "translation": "国王授予这位勇敢的骑士一个<strong>高贵的</strong>头衔和一大片肥沃的土地。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The loud construction <span class='blank'>_____</span> from next door disturbed the entire neighborhood early this morning.",
+    "answer": "noise",
+    "explain": "noise n. 噪音。",
+    "translation": "今天早上，隔壁传来的嘈杂施工<strong>噪音</strong>打扰了整个街区。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The restaurant was so <span class='blank'>_____</span> that we could barely hear each other across the small table.",
+    "answer": "noisy",
+    "explain": "noisy adj. 吵闹的。",
+    "translation": "餐厅里太<strong>吵</strong>了，我们在小桌子对面几乎听不见彼此说话。",
+    "pool": "BASE"
+  },
+  {
+    "q": "I cooked some instant <span class='blank'>_____</span> for lunch because I was in a hurry to finish my work.",
+    "answer": "noodle",
+    "explain": "noodle n. 面条。",
+    "translation": "我煮了一些速食<strong>面条</strong>当午餐，因为我急着完成工作。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The important board meeting is scheduled to begin at <span class='blank'>_____</span> and should last about two full hours.",
+    "answer": "noon",
+    "explain": "noon n. 中午。",
+    "translation": "重要的董事会会议定于<strong>中午</strong>开始，预计持续约两个小时。",
+    "pool": "BASE"
+  },
+  {
+    "q": "It is completely <span class='blank'>_____</span> to feel a little anxious before such an important presentation at work.",
+    "answer": "normal",
+    "explain": "normal adj. 正常的 / n. 正常。",
+    "translation": "在如此重要的工作演讲前感到有点焦虑是完全<strong>正常</strong>的。",
+    "pool": "BASE"
+  },
+  {
+    "q": "We drove steadily <span class='blank'>_____</span> for almost three hours to reach the beautiful coastal town.",
+    "answer": "north",
+    "explain": "north n. 北方 / adj. 北方的 / adv. 向北方。",
+    "translation": "我们稳定地向<strong>北</strong>行驶了近三个小时才到达那座美丽的海滨小镇。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The <span class='blank'>_____</span> part of the country receives much more rainfall during the summer months.",
+    "answer": "northern",
+    "explain": "northern adj. 北方的。",
+    "translation": "这个国家的<strong>北部</strong>地区在夏季降雨量要多得多。",
+    "pool": "BASE"
+  },
+  {
+    "q": "I wrote down all the important lecture notes carefully in my new <span class='blank'>_____</span>.",
+    "answer": "notebook",
+    "explain": "notebook n. 笔记本。",
+    "translation": "我认真地把所有重要的课堂笔记写在新<strong>笔记本</strong>上。",
+    "pool": "BASE"
+  },
+  {
+    "q": "She spent the entire rainy weekend reading a fascinating historical <span class='blank'>_____</span> set in ancient Rome.",
+    "answer": "novel",
+    "explain": "novel n. 小说 / adj. 新奇的。",
+    "translation": "她整个下雨的周末都在读一本以古罗马为背景的引人入胜的历史<strong>小说</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The famous <span class='blank'>_____</span> will be signing copies of his latest book at the local library tomorrow.",
+    "answer": "novelist",
+    "explain": "novelist n. 小说家。",
+    "translation": "这位著名的<strong>小说家</strong>明天将在当地图书馆签售他的最新作品。",
+    "pool": "BASE"
+  },
+  {
+    "q": "<span class='blank'>_____</span>, most young people prefer to shop online rather than visit traditional stores.",
+    "answer": "nowadays",
+    "explain": "nowadays adv. 如今，现在。",
+    "translation": "<strong>如今</strong>，大多数年轻人更喜欢网购，而不是去传统商店。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The keys were <span class='blank'>_____</span> to be found, so I had no choice but to call a professional locksmith.",
+    "answer": "nowhere",
+    "explain": "nowhere adv. 无处，哪里都不。",
+    "translation": "钥匙<strong>到处</strong>都找不到，所以我别无选择，只能叫专业锁匠。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Many countries are still debating the future of <span class='blank'>_____</span> energy in their climate policy plans.",
+    "answer": "nuclear",
+    "explain": "nuclear adj. 核能的，核的。",
+    "translation": "许多国家仍在争论<strong>核</strong>能在其气候政策计划中的未来。",
+    "pool": "BASE"
+  },
+  {
+    "q": "A small squirrel carefully hid a single <span class='blank'>_____</span> in the ground to save it for the cold winter.",
+    "answer": "nut",
+    "explain": "nut n. 坚果。",
+    "translation": "一只小松鼠小心翼翼地把一颗<strong>坚果</strong>埋藏在地下，为寒冷的冬天储备食物。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Good <span class='blank'>_____</span> is absolutely essential for children to grow and develop in a healthy way.",
+    "answer": "nutrition",
+    "explain": "nutrition n. 营养。",
+    "translation": "良好的<strong>营养</strong>对于儿童健康成长和发育绝对是至关重要的。",
+    "pool": "BASE"
+  }
+]

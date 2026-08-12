@@ -1,0 +1,188 @@
+{
+  "BASE": [
+    "kangaroo",
+    "keep",
+    "kettle",
+    "key",
+    "keyboard",
+    "kick",
+    "kid",
+    "kill",
+    "kilo",
+    "kilometre",
+    "kind",
+    "kindergarten",
+    "king",
+    "kingdom",
+    "kiss",
+    "kit",
+    "kitchen",
+    "kite",
+    "knee",
+    "knife",
+    "knock",
+    "know",
+    "knowledge"
+  ],
+  "PLURAL": [
+    "kangaroos",
+    "kettles",
+    "keys",
+    "keyboards",
+    "kicks",
+    "kids",
+    "kilos",
+    "kilometres",
+    "kinds",
+    "kindergartens",
+    "kings",
+    "kingdoms",
+    "kisses",
+    "kits",
+    "kitchens",
+    "kites",
+    "knees",
+    "knives",
+    "knocks"
+  ],
+  "THIRD": [
+    "keeps",
+    "keys",
+    "kicks",
+    "kids",
+    "kills",
+    "kisses",
+    "knocks",
+    "knows"
+  ],
+  "ING": [
+    "keeping",
+    "keying",
+    "kicking",
+    "kidding",
+    "killing",
+    "kissing",
+    "knocking",
+    "knowing"
+  ],
+  "PAST": [
+    "kept",
+    "keyed",
+    "kicked",
+    "kidded",
+    "killed",
+    "kissed",
+    "knocked",
+    "knew",
+    "known"
+  ],
+  "COMP": [
+    "kinder"
+  ],
+  "SUPER": [
+    "kindest"
+  ],
+  "DICT": {
+    "kangaroo": "n. 袋鼠",
+    "keep": "v. 保持",
+    "kettle": "n. 水壶",
+    "key": "n. 钥匙 / adj. 关键的 / v. 键入",
+    "keyboard": "n. 键盘",
+    "kick": "n. 踢 / v. 踢",
+    "kid": "n. 小孩 / v. 开玩笑",
+    "kill": "v. 杀死",
+    "kilo": "n. 千克",
+    "kilometre": "n. 千米",
+    "kind": "adj. 善良的 / n. 种类",
+    "kindergarten": "n. 幼儿园",
+    "king": "n. 国王",
+    "kingdom": "n. 王国",
+    "kiss": "n. 吻 / v. 吻",
+    "kit": "n. 工具包",
+    "kitchen": "n. 厨房",
+    "kite": "n. 风筝",
+    "knee": "n. 膝盖",
+    "knife": "n. 刀",
+    "knock": "n. 敲击 / v. 敲",
+    "know": "v. 知道",
+    "knowledge": "n. 知识"
+  },
+  "POS": {
+    "kangaroo": [
+      "n"
+    ],
+    "keep": [
+      "v"
+    ],
+    "kettle": [
+      "n"
+    ],
+    "key": [
+      "n",
+      "adj",
+      "v"
+    ],
+    "keyboard": [
+      "n"
+    ],
+    "kick": [
+      "n",
+      "v"
+    ],
+    "kid": [
+      "n",
+      "v"
+    ],
+    "kill": [
+      "v"
+    ],
+    "kilo": [
+      "n"
+    ],
+    "kilometre": [
+      "n"
+    ],
+    "kind": [
+      "adj",
+      "n"
+    ],
+    "kindergarten": [
+      "n"
+    ],
+    "king": [
+      "n"
+    ],
+    "kingdom": [
+      "n"
+    ],
+    "kiss": [
+      "n",
+      "v"
+    ],
+    "kit": [
+      "n"
+    ],
+    "kitchen": [
+      "n"
+    ],
+    "kite": [
+      "n"
+    ],
+    "knee": [
+      "n"
+    ],
+    "knife": [
+      "n"
+    ],
+    "knock": [
+      "n",
+      "v"
+    ],
+    "know": [
+      "v"
+    ],
+    "knowledge": [
+      "n"
+    ]
+  }
+}

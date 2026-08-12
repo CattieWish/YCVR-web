@@ -1,0 +1,29 @@
+{
+  "BASE": [
+    "X-ray"
+  ],
+  "PLURAL": [
+    "X-rays"
+  ],
+  "THIRD": [
+    "X-rays"
+  ],
+  "ING": [
+    "X-raying"
+  ],
+  "PAST": [
+    "X-rayed",
+    "x-rayed"
+  ],
+  "COMP": [],
+  "SUPER": [],
+  "DICT": {
+    "X-ray": "n. X光 / v. 用X光检查"
+  },
+  "POS": {
+    "X-ray": [
+      "n",
+      "v"
+    ]
+  }
+}

@@ -1,0 +1,589 @@
+{
+  "BASE": [
+    "gain",
+    "gallery",
+    "game",
+    "gap",
+    "garbage",
+    "garden",
+    "garlic",
+    "gas",
+    "gate",
+    "gather",
+    "gender",
+    "general",
+    "generate",
+    "generation",
+    "generous",
+    "genius",
+    "gentle",
+    "gentleman",
+    "genuine",
+    "geography",
+    "geometry",
+    "get",
+    "gift",
+    "gifted",
+    "giraffe",
+    "girl",
+    "give",
+    "glad",
+    "glass",
+    "global",
+    "globe",
+    "glove",
+    "glue",
+    "go",
+    "goal",
+    "goat",
+    "gold",
+    "golf",
+    "good",
+    "goodbye",
+    "goods",
+    "government",
+    "grab",
+    "grade",
+    "gradually",
+    "graduate",
+    "grain",
+    "gram",
+    "grammar",
+    "grand",
+    "granddaughter",
+    "grandfather",
+    "grandmother",
+    "grandparent",
+    "grandson",
+    "grape",
+    "grasp",
+    "grass",
+    "grateful",
+    "gravity",
+    "gray",
+    "great",
+    "greedy",
+    "green",
+    "greenhouse",
+    "greet",
+    "grocery",
+    "ground",
+    "group",
+    "grow",
+    "guarantee",
+    "guard",
+    "guess",
+    "guest",
+    "guidance",
+    "guide",
+    "guideline",
+    "guilty",
+    "guitar",
+    "gun",
+    "guy",
+    "gym",
+    "gymnastics"
+  ],
+  "PLURAL": [
+    "gains",
+    "galleries",
+    "games",
+    "gaps",
+    "gardens",
+    "gases",
+    "gates",
+    "genders",
+    "generals",
+    "generations",
+    "geniuses",
+    "gentlemen",
+    "gifts",
+    "giraffes",
+    "girls",
+    "glasses",
+    "globes",
+    "gloves",
+    "glues",
+    "goals",
+    "goats",
+    "goodbyes",
+    "governments",
+    "grabs",
+    "grades",
+    "graduates",
+    "grains",
+    "grammars",
+    "grams",
+    "granddaughters",
+    "grandfathers",
+    "grandmothers",
+    "grandparents",
+    "grandsons",
+    "grapes",
+    "grasps",
+    "grasses",
+    "gravities",
+    "grays",
+    "greenhouses",
+    "greens",
+    "groceries",
+    "grounds",
+    "groups",
+    "guarantees",
+    "guards",
+    "guesses",
+    "guests",
+    "guidelines",
+    "guides",
+    "guitars",
+    "guns",
+    "guys",
+    "gyms"
+  ],
+  "THIRD": [
+    "gains",
+    "gardens",
+    "gathers",
+    "generates",
+    "gets",
+    "gifts",
+    "gives",
+    "glues",
+    "goes",
+    "grabs",
+    "grades",
+    "graduates",
+    "grasps",
+    "greets",
+    "grounds",
+    "groups",
+    "grows",
+    "guarantees",
+    "guards",
+    "guesses",
+    "guides"
+  ],
+  "ING": [
+    "gaining",
+    "gardening",
+    "gathering",
+    "generating",
+    "getting",
+    "gifting",
+    "giving",
+    "gluing",
+    "going",
+    "grabbing",
+    "grading",
+    "graduating",
+    "grasping",
+    "greeting",
+    "grounding",
+    "grouping",
+    "growing",
+    "guaranteeing",
+    "guarding",
+    "guessing",
+    "guiding"
+  ],
+  "PAST": [
+    "gained",
+    "gardened",
+    "gathered",
+    "gave",
+    "generated",
+    "gifted",
+    "given",
+    "glued",
+    "gone",
+    "got",
+    "gotten",
+    "grabbed",
+    "graded",
+    "graduated",
+    "grasped",
+    "greeted",
+    "grew",
+    "grounded",
+    "grouped",
+    "grown",
+    "guaranteed",
+    "guarded",
+    "guessed",
+    "guided"
+  ],
+  "COMP": [
+    "gentler",
+    "gladder",
+    "grander",
+    "grayer",
+    "greater",
+    "greedier",
+    "greener",
+    "guiltier"
+  ],
+  "SUPER": [
+    "gentlest",
+    "gladdest",
+    "grandest",
+    "grayest",
+    "greatest",
+    "greediest",
+    "greenest",
+    "guiltiest"
+  ],
+  "DICT": {
+    "gain": "v. 获得，赢得；增加 / n. 收益，利润；增长",
+    "gallery": "n. 画廊，美术馆；走廊",
+    "game": "n. 游戏，运动；比赛",
+    "gap": "n. 缺口，裂口；差距，分歧",
+    "garbage": "n. 垃圾，废物",
+    "garden": "n. 花园，果园 / v. 从事园艺",
+    "garlic": "n. 大蒜",
+    "gas": "n. 气体；汽油；瓦斯",
+    "gate": "n. 大门，入口",
+    "gather": "v. 收集，聚集；集合",
+    "gender": "n. 性别",
+    "general": "adj. 一般的，普遍的；大体的 / n. 将军",
+    "generate": "v. 产生，引起；发电",
+    "generation": "n. 一代人，世代；产生",
+    "generous": "adj. 慷慨的，大方的",
+    "genius": "n. 天才，天赋；天才人物",
+    "gentle": "adj. 温柔的，温和的；轻声的",
+    "gentleman": "n. 绅士，君子；先生",
+    "genuine": "adj. 真正的，真实的；真诚的",
+    "geography": "n. 地理（学）",
+    "geometry": "n. 几何（学）",
+    "get": "v. 得到，收到；变得；到达",
+    "gift": "n. 礼物，赠品；天赋 / v. 赠送",
+    "gifted": "adj. 有天赋的，有才华的",
+    "giraffe": "n. 长颈鹿",
+    "girl": "n. 女孩，姑娘",
+    "give": "v. 给，给予；提供",
+    "glad": "adj. 高兴的，乐意的",
+    "glass": "n. 玻璃；玻璃杯；眼镜",
+    "global": "adj. 全球的，全世界的",
+    "globe": "n. 地球；地球仪；球体",
+    "glove": "n. （分手指的）手套",
+    "glue": "n. 胶水，胶 / v. 粘合，粘贴",
+    "go": "v. 去，走；进行；变得",
+    "goal": "n. 目标，目的；进球，得分",
+    "goat": "n. 山羊",
+    "gold": "n. 黄金；金色 / adj. 金制的，金色的",
+    "golf": "n. 高尔夫球（运动）",
+    "good": "adj. 好的，优秀的；善良的",
+    "goodbye": "n. 再见，告别",
+    "goods": "n. 商品，货物",
+    "government": "n. 政府，内阁；治理",
+    "grab": "v. 抓住，攫取；吸引 / n. 攫取，抓",
+    "grade": "n. 年级；成绩；等级 / v. 评分，分等级",
+    "gradually": "adv. 逐渐地，渐渐地",
+    "graduate": "v. 毕业；获得学位 / n. 毕业生",
+    "grain": "n. 谷物，粮食；颗粒",
+    "grammar": "n. 语法，文法",
+    "gram": "n. 克（重量单位）",
+    "grand": "adj. 宏伟的，壮丽的；总的",
+    "granddaughter": "n. （外）孙女",
+    "grandfather": "n. （外）祖父",
+    "grandmother": "n. （外）祖母",
+    "grandparent": "n. （外）祖父（母）",
+    "grandson": "n. （外）孙子",
+    "grape": "n. 葡萄",
+    "grasp": "v. 抓紧；理解 / n. 紧握；理解",
+    "grass": "n. 草，草地",
+    "grateful": "adj. 感激的，感谢的",
+    "gravity": "n. 重力，引力；严重性",
+    "great": "adj. 伟大的，杰出的；极大的",
+    "greedy": "adj. 贪婪的，贪心的",
+    "green": "adj. 绿色的；环保的 / n. 绿色",
+    "greenhouse": "n. 温室，暖房",
+    "greet": "v. 问候，迎接；对……作出反应",
+    "gray": "adj. 灰色的，灰白的 / n. 灰色",
+    "grocery": "n. 杂货店；食品杂货",
+    "ground": "n. 地面；场地；理由 / v. 使停飞；以……为根据",
+    "group": "n. 组，群；团体 / v. 分组，归类",
+    "grow": "v. 生长，成长；种植；变得",
+    "guarantee": "v. 保证，担保 / n. 保证，保修单",
+    "guard": "n. 卫兵，警卫；守卫 / v. 保卫，看守",
+    "guess": "v. 猜测，推测 / n. 猜测，推测",
+    "guest": "n. 客人，宾客；特邀嘉宾",
+    "guidance": "n. 指导，引导；咨询",
+    "guide": "n. 向导，导游；指南 / v. 带领，引导",
+    "guideline": "n. 指导方针，准则",
+    "guilty": "adj. 内疚的；有罪的，犯罪的",
+    "guitar": "n. 吉他，六弦琴",
+    "gun": "n. 枪，炮",
+    "guy": "n. 家伙，男人；人（复数）",
+    "gym": "n. 体育馆，健身房",
+    "gymnastics": "n. 体操，体操训练"
+  },
+  "POS": {
+    "gain": [
+      "v",
+      "n"
+    ],
+    "gallery": [
+      "n"
+    ],
+    "game": [
+      "n"
+    ],
+    "gap": [
+      "n"
+    ],
+    "garbage": [
+      "n"
+    ],
+    "garden": [
+      "n",
+      "v"
+    ],
+    "garlic": [
+      "n"
+    ],
+    "gas": [
+      "n"
+    ],
+    "gate": [
+      "n"
+    ],
+    "gather": [
+      "v"
+    ],
+    "gender": [
+      "n"
+    ],
+    "general": [
+      "adj",
+      "n"
+    ],
+    "generate": [
+      "v"
+    ],
+    "generation": [
+      "n"
+    ],
+    "generous": [
+      "adj"
+    ],
+    "genius": [
+      "n"
+    ],
+    "gentle": [
+      "adj"
+    ],
+    "gentleman": [
+      "n"
+    ],
+    "genuine": [
+      "adj"
+    ],
+    "geography": [
+      "n"
+    ],
+    "geometry": [
+      "n"
+    ],
+    "get": [
+      "v"
+    ],
+    "gift": [
+      "n",
+      "v"
+    ],
+    "gifted": [
+      "adj"
+    ],
+    "giraffe": [
+      "n"
+    ],
+    "girl": [
+      "n"
+    ],
+    "give": [
+      "v"
+    ],
+    "glad": [
+      "adj"
+    ],
+    "glass": [
+      "n"
+    ],
+    "global": [
+      "adj"
+    ],
+    "globe": [
+      "n"
+    ],
+    "glove": [
+      "n"
+    ],
+    "glue": [
+      "n",
+      "v"
+    ],
+    "go": [
+      "v"
+    ],
+    "goal": [
+      "n"
+    ],
+    "goat": [
+      "n"
+    ],
+    "gold": [
+      "n",
+      "adj"
+    ],
+    "golf": [
+      "n"
+    ],
+    "good": [
+      "adj"
+    ],
+    "goodbye": [
+      "n"
+    ],
+    "goods": [
+      "n"
+    ],
+    "government": [
+      "n"
+    ],
+    "grab": [
+      "v",
+      "n"
+    ],
+    "grade": [
+      "n",
+      "v"
+    ],
+    "gradually": [
+      "adv"
+    ],
+    "graduate": [
+      "v",
+      "n"
+    ],
+    "grain": [
+      "n"
+    ],
+    "grammar": [
+      "n"
+    ],
+    "gram": [
+      "n"
+    ],
+    "grand": [
+      "adj"
+    ],
+    "granddaughter": [
+      "n"
+    ],
+    "grandfather": [
+      "n"
+    ],
+    "grandmother": [
+      "n"
+    ],
+    "grandparent": [
+      "n"
+    ],
+    "grandson": [
+      "n"
+    ],
+    "grape": [
+      "n"
+    ],
+    "grasp": [
+      "v",
+      "n"
+    ],
+    "grass": [
+      "n"
+    ],
+    "grateful": [
+      "adj"
+    ],
+    "gravity": [
+      "n"
+    ],
+    "great": [
+      "adj"
+    ],
+    "greedy": [
+      "adj"
+    ],
+    "green": [
+      "adj",
+      "n"
+    ],
+    "greenhouse": [
+      "n"
+    ],
+    "greet": [
+      "v"
+    ],
+    "gray": [
+      "adj",
+      "n"
+    ],
+    "grocery": [
+      "n"
+    ],
+    "ground": [
+      "n",
+      "v"
+    ],
+    "group": [
+      "n",
+      "v"
+    ],
+    "grow": [
+      "v"
+    ],
+    "guarantee": [
+      "v",
+      "n"
+    ],
+    "guard": [
+      "n",
+      "v"
+    ],
+    "guess": [
+      "v",
+      "n"
+    ],
+    "guest": [
+      "n"
+    ],
+    "guidance": [
+      "n"
+    ],
+    "guide": [
+      "n",
+      "v"
+    ],
+    "guideline": [
+      "n"
+    ],
+    "guilty": [
+      "adj"
+    ],
+    "guitar": [
+      "n"
+    ],
+    "gun": [
+      "n"
+    ],
+    "guy": [
+      "n"
+    ],
+    "gym": [
+      "n"
+    ],
+    "gymnastics": [
+      "n"
+    ]
+  }
+}

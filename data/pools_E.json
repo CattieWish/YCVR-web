@@ -1,0 +1,940 @@
+{
+  "BASE": [
+    "eager",
+    "eagle",
+    "ear",
+    "early",
+    "earn",
+    "earth",
+    "earthquake",
+    "ease",
+    "east",
+    "eastern",
+    "easy",
+    "eat",
+    "ecology",
+    "economic",
+    "edge",
+    "editor",
+    "education",
+    "educator",
+    "effect",
+    "efficient",
+    "effort",
+    "egg",
+    "elder",
+    "elderly",
+    "election",
+    "electricity",
+    "electronic",
+    "elegant",
+    "element",
+    "elephant",
+    "else",
+    "elsewhere",
+    "email",
+    "embarrass",
+    "embarrassed",
+    "emerge",
+    "emergency",
+    "emotion",
+    "emperor",
+    "emphasis",
+    "employ",
+    "empty",
+    "enable",
+    "encounter",
+    "encourage",
+    "end",
+    "enemy",
+    "energetic",
+    "energy",
+    "engage",
+    "engine",
+    "engineer",
+    "enhance",
+    "enjoy",
+    "enormous",
+    "enough",
+    "ensure",
+    "enter",
+    "enterprise",
+    "entertainment",
+    "enthusiastic",
+    "entirely",
+    "entitle",
+    "entrance",
+    "entry",
+    "envelope",
+    "environment",
+    "envy",
+    "episode",
+    "equal",
+    "equator",
+    "equipment",
+    "era",
+    "eraser",
+    "error",
+    "erupt",
+    "escape",
+    "especially",
+    "essay",
+    "essential",
+    "establish",
+    "estate",
+    "estimate",
+    "evaluate",
+    "eve",
+    "even",
+    "evening",
+    "event",
+    "eventually",
+    "ever",
+    "everyday",
+    "everywhere",
+    "evidence",
+    "exactly",
+    "exam",
+    "examine",
+    "example",
+    "excellent",
+    "exceptional",
+    "exchange",
+    "excite",
+    "excited",
+    "exciting",
+    "excuse",
+    "exercise",
+    "exhibition",
+    "exist",
+    "exit",
+    "expand",
+    "expansion",
+    "expect",
+    "expectation",
+    "expense",
+    "expensive",
+    "experience",
+    "experiment",
+    "expert",
+    "explain",
+    "explode",
+    "explore",
+    "export",
+    "expose",
+    "exposure",
+    "express",
+    "extend",
+    "extension",
+    "extent",
+    "external",
+    "extinction",
+    "extra",
+    "extraordinary",
+    "extremely",
+    "eye"
+  ],
+  "PLURAL": [
+    "eagles",
+    "ears",
+    "earthquakes",
+    "earths",
+    "easts",
+    "edges",
+    "editors",
+    "educators",
+    "effects",
+    "efforts",
+    "eggs",
+    "elders",
+    "elections",
+    "elements",
+    "elephants",
+    "emails",
+    "emergencies",
+    "emotions",
+    "emperors",
+    "employs",
+    "encounters",
+    "ends",
+    "enemies",
+    "engineers",
+    "enterprises",
+    "entrances",
+    "entries",
+    "envelopes",
+    "envies",
+    "environments",
+    "episodes",
+    "equals",
+    "equators",
+    "eras",
+    "erasers",
+    "errors",
+    "essays",
+    "essentials",
+    "estimates",
+    "evenings",
+    "events",
+    "eves",
+    "examples",
+    "exams",
+    "exchanges",
+    "excuses",
+    "exercises",
+    "exhibitions",
+    "exits",
+    "expectations",
+    "expenses",
+    "experiments",
+    "experts",
+    "exports",
+    "expresses",
+    "extensions",
+    "extents",
+    "extras",
+    "eyes"
+  ],
+  "THIRD": [
+    "earns",
+    "eases",
+    "eats",
+    "edges",
+    "effects",
+    "emails",
+    "embarrasses",
+    "emerges",
+    "employs",
+    "empties",
+    "enables",
+    "encounters",
+    "encourages",
+    "ends",
+    "engages",
+    "engineers",
+    "enhances",
+    "enjoys",
+    "ensures",
+    "enters",
+    "entitles",
+    "entrances",
+    "envies",
+    "equals",
+    "erupts",
+    "escapes",
+    "essays",
+    "establishes",
+    "estimates",
+    "evaluates",
+    "evidences",
+    "examines",
+    "exchanges",
+    "excites",
+    "excuses",
+    "exercises",
+    "exists",
+    "exits",
+    "expands",
+    "expects",
+    "experiences",
+    "experiments",
+    "explains",
+    "explodes",
+    "explores",
+    "exports",
+    "exposes",
+    "expresses",
+    "extends",
+    "eyes"
+  ],
+  "ING": [
+    "earning",
+    "easing",
+    "eating",
+    "edging",
+    "effecting",
+    "emailing",
+    "embarrassing",
+    "emerging",
+    "employing",
+    "emptying",
+    "enabling",
+    "encountering",
+    "encouraging",
+    "ending",
+    "engaging",
+    "engineering",
+    "enhancing",
+    "enjoying",
+    "ensuring",
+    "entering",
+    "entitling",
+    "entrancing",
+    "envying",
+    "equaling",
+    "erupting",
+    "escaping",
+    "essaying",
+    "establishing",
+    "estimating",
+    "evaluating",
+    "evidencing",
+    "examining",
+    "exchanging",
+    "exciting",
+    "excusing",
+    "exercising",
+    "existing",
+    "exiting",
+    "expanding",
+    "expecting",
+    "experiencing",
+    "experimenting",
+    "explaining",
+    "exploding",
+    "exploring",
+    "exporting",
+    "exposing",
+    "expressing",
+    "extending",
+    "eyeing"
+  ],
+  "PAST": [
+    "earned",
+    "eased",
+    "edged",
+    "effected",
+    "emailed",
+    "embarrassed",
+    "emerged",
+    "employed",
+    "emptied",
+    "enabled",
+    "encountered",
+    "encouraged",
+    "ended",
+    "engaged",
+    "engineered",
+    "enhanced",
+    "enjoyed",
+    "ensured",
+    "entered",
+    "entitled",
+    "entranced",
+    "envied",
+    "equaled",
+    "erupted",
+    "escaped",
+    "essayed",
+    "established",
+    "estimated",
+    "evaluated",
+    "evidenced",
+    "examined",
+    "exchanged",
+    "excited",
+    "excused",
+    "exercised",
+    "existed",
+    "exited",
+    "expanded",
+    "expected",
+    "experienced",
+    "experimented",
+    "explained",
+    "exploded",
+    "explored",
+    "exported",
+    "exposed",
+    "expressed",
+    "extended",
+    "eyed"
+  ],
+  "COMP": [
+    "earlier",
+    "easier",
+    "elder",
+    "emptier"
+  ],
+  "SUPER": [
+    "earliest",
+    "easiest",
+    "eldest",
+    "emptiest"
+  ],
+  "DICT": {
+    "eager": "adj. 渴望的，热切的",
+    "eagle": "n. 鹰",
+    "ear": "n. 耳朵",
+    "early": "adj. 早的 / adv. 早地",
+    "earn": "v. 挣得，赢得",
+    "earth": "n. 地球，大地",
+    "earthquake": "n. 地震",
+    "ease": "n. 舒适，容易 / v. 减轻，缓和",
+    "east": "n. 东方 / adj. 东方的 / adv. 向东方",
+    "eastern": "adj. 东方的，东部的",
+    "easy": "adj. 容易的 / adv. 轻松地",
+    "eat": "v. 吃",
+    "ecology": "n. 生态学",
+    "economic": "adj. 经济的，经济学的",
+    "edge": "n. 边缘，刀刃 / v. 给...加边，缓慢移动",
+    "editor": "n. 编辑，编者",
+    "education": "n. 教育",
+    "educator": "n. 教育工作者",
+    "effect": "n. 影响，效果 / v. 实现，引起",
+    "efficient": "adj. 高效的，有效率的",
+    "effort": "n. 努力，尝试",
+    "egg": "n. 蛋，鸡蛋",
+    "elder": "adj. 年长的 / n. 长者",
+    "elderly": "adj. 上了年纪的",
+    "election": "n. 选举",
+    "electricity": "n. 电，电力",
+    "electronic": "adj. 电子的",
+    "elegant": "adj. 优雅的，高雅的",
+    "element": "n. 元素，要素",
+    "elephant": "n. 大象",
+    "else": "adv. 其他，另外",
+    "elsewhere": "adv. 在别处，到别处",
+    "email": "n. 电子邮件 / v. 发电子邮件",
+    "embarrass": "v. 使尴尬，使难堪",
+    "embarrassed": "adj. 尴尬的，难为情的",
+    "emerge": "v. 出现，浮现",
+    "emergency": "n. 紧急情况，突发事件",
+    "emotion": "n. 情感，情绪",
+    "emperor": "n. 皇帝",
+    "emphasis": "n. 强调，重点",
+    "employ": "v. 雇用，使用 / n. 雇用",
+    "empty": "adj. 空的 / v. 倒空，使变空",
+    "enable": "v. 使能够，使可能",
+    "encounter": "v. 遇到，遭遇 / n. 相遇，遭遇",
+    "encourage": "v. 鼓励，激励",
+    "end": "n. 末尾，结束 / v. 结束，终止",
+    "enemy": "n. 敌人，敌军",
+    "energetic": "adj. 精力充沛的",
+    "energy": "n. 能量，精力",
+    "engage": "v. 参与，吸引，雇用",
+    "engine": "n. 引擎，发动机",
+    "engineer": "n. 工程师 / v. 设计，策划",
+    "enhance": "v. 提高，增强",
+    "enjoy": "v. 享受，喜爱",
+    "enormous": "adj. 巨大的，庞大的",
+    "enough": "adj. 足够的 / adv. 足够地 / n. 足够",
+    "ensure": "v. 确保，保证",
+    "enter": "v. 进入，参加",
+    "enterprise": "n. 企业，事业",
+    "entertainment": "n. 娱乐，消遣",
+    "enthusiastic": "adj. 热情的，热心的",
+    "entirely": "adv. 完全地，全部地",
+    "entitle": "v. 给予...权利，给...命名",
+    "entrance": "n. 入口，进入 / v. 使狂喜",
+    "entry": "n. 进入，入口，条目",
+    "envelope": "n. 信封",
+    "environment": "n. 环境",
+    "envy": "n. 羡慕，嫉妒 / v. 羡慕，嫉妒",
+    "episode": "n. 插曲，一集",
+    "equal": "adj. 相等的 / v. 等于 / n. 同等的人",
+    "equator": "n. 赤道",
+    "equipment": "n. 设备，器材",
+    "era": "n. 时代，年代",
+    "eraser": "n. 橡皮擦",
+    "error": "n. 错误，差错",
+    "erupt": "v. 爆发，喷发",
+    "especially": "adv. 尤其，特别",
+    "essay": "n. 文章，散文 / v. 试图",
+    "essential": "adj. 必不可少的 / n. 必需品",
+    "establish": "v. 建立，设立，证实",
+    "estate": "n. 地产，庄园，遗产",
+    "estimate": "v. 估计，估算 / n. 估计",
+    "evaluate": "v. 评价，评估",
+    "eve": "n. 前夕，前夜",
+    "even": "adv. 甚至 / adj. 平坦的",
+    "evening": "n. 傍晚，晚上",
+    "event": "n. 事件，活动",
+    "eventually": "adv. 最终，终于",
+    "ever": "adv. 曾经，在任何时候",
+    "everyday": "adj. 每天的，日常的",
+    "everywhere": "adv. 到处，处处",
+    "evidence": "n. 证据，证明 / v. 证明",
+    "exactly": "adv. 精确地，恰好",
+    "exam": "n. 考试，检查",
+    "examine": "v. 检查，审查，考查",
+    "example": "n. 例子，榜样",
+    "excellent": "adj. 优秀的，杰出的",
+    "exceptional": "adj. 杰出的，例外的",
+    "exchange": "v. 交换，兑换 / n. 交换，交易所",
+    "excite": "v. 使兴奋，使激动",
+    "excited": "adj. 兴奋的，激动的",
+    "exciting": "adj. 令人兴奋的",
+    "excuse": "n. 借口，理由 / v. 原谅，宽恕",
+    "exercise": "n. 运动，练习 / v. 锻炼，运用",
+    "exhibition": "n. 展览，展览会",
+    "exist": "v. 存在，生存",
+    "exit": "n. 出口，离开 / v. 退出，离开",
+    "expand": "v. 扩大，扩展",
+    "expansion": "n. 扩大，扩张",
+    "expect": "v. 期望，预料",
+    "expectation": "n. 期望，预期",
+    "expense": "n. 费用，开支",
+    "expensive": "adj. 昂贵的",
+    "experience": "n. 经验，经历 / v. 经历，体验",
+    "experiment": "n. 实验，试验 / v. 做实验",
+    "expert": "n. 专家 / adj. 熟练的",
+    "explain": "v. 解释，说明",
+    "explode": "v. 爆炸，爆发",
+    "explore": "v. 探索，探险",
+    "export": "v. 出口 / n. 出口，出口商品",
+    "expose": "v. 暴露，揭露",
+    "exposure": "n. 暴露，揭露，接触",
+    "express": "v. 表达 / n. 快车，快递 / adj. 快速的",
+    "extend": "v. 延伸，扩展，给予",
+    "extension": "n. 延伸，扩建，电话分机",
+    "extent": "n. 程度，范围",
+    "external": "adj. 外部的，外面的",
+    "extinction": "n. 灭绝，消亡",
+    "extra": "adj. 额外的 / n. 额外的事物 / adv. 额外地",
+    "extraordinary": "adj. 非凡的，特别的",
+    "extremely": "adv. 极其，非常",
+    "eye": "n. 眼睛 / v. 注视，看",
+    "escape": "v. 逃跑，逃避，逃脱"
+  },
+  "POS": {
+    "eager": [
+      "adj"
+    ],
+    "eagle": [
+      "n"
+    ],
+    "ear": [
+      "n"
+    ],
+    "early": [
+      "adj",
+      "adv"
+    ],
+    "earn": [
+      "v"
+    ],
+    "earth": [
+      "n"
+    ],
+    "earthquake": [
+      "n"
+    ],
+    "ease": [
+      "n",
+      "v"
+    ],
+    "east": [
+      "n",
+      "adj",
+      "adv"
+    ],
+    "eastern": [
+      "adj"
+    ],
+    "easy": [
+      "adj",
+      "adv"
+    ],
+    "eat": [
+      "v"
+    ],
+    "ecology": [
+      "n"
+    ],
+    "economic": [
+      "adj"
+    ],
+    "edge": [
+      "n",
+      "v"
+    ],
+    "editor": [
+      "n"
+    ],
+    "education": [
+      "n"
+    ],
+    "educator": [
+      "n"
+    ],
+    "effect": [
+      "n",
+      "v"
+    ],
+    "efficient": [
+      "adj"
+    ],
+    "effort": [
+      "n"
+    ],
+    "egg": [
+      "n"
+    ],
+    "elder": [
+      "adj",
+      "n"
+    ],
+    "elderly": [
+      "adj"
+    ],
+    "election": [
+      "n"
+    ],
+    "electricity": [
+      "n"
+    ],
+    "electronic": [
+      "adj"
+    ],
+    "elegant": [
+      "adj"
+    ],
+    "element": [
+      "n"
+    ],
+    "elephant": [
+      "n"
+    ],
+    "else": [
+      "adv"
+    ],
+    "elsewhere": [
+      "adv"
+    ],
+    "email": [
+      "n",
+      "v"
+    ],
+    "embarrass": [
+      "v"
+    ],
+    "embarrassed": [
+      "adj"
+    ],
+    "emerge": [
+      "v"
+    ],
+    "emergency": [
+      "n"
+    ],
+    "emotion": [
+      "n"
+    ],
+    "emperor": [
+      "n"
+    ],
+    "emphasis": [
+      "n"
+    ],
+    "employ": [
+      "v",
+      "n"
+    ],
+    "empty": [
+      "adj",
+      "v"
+    ],
+    "enable": [
+      "v"
+    ],
+    "encounter": [
+      "v",
+      "n"
+    ],
+    "encourage": [
+      "v"
+    ],
+    "end": [
+      "n",
+      "v"
+    ],
+    "enemy": [
+      "n"
+    ],
+    "energetic": [
+      "adj"
+    ],
+    "energy": [
+      "n"
+    ],
+    "engage": [
+      "v"
+    ],
+    "engine": [
+      "n"
+    ],
+    "engineer": [
+      "n",
+      "v"
+    ],
+    "enhance": [
+      "v"
+    ],
+    "enjoy": [
+      "v"
+    ],
+    "enormous": [
+      "adj"
+    ],
+    "enough": [
+      "adj",
+      "adv",
+      "n"
+    ],
+    "ensure": [
+      "v"
+    ],
+    "enter": [
+      "v"
+    ],
+    "enterprise": [
+      "n"
+    ],
+    "entertainment": [
+      "n"
+    ],
+    "enthusiastic": [
+      "adj"
+    ],
+    "entirely": [
+      "adv"
+    ],
+    "entitle": [
+      "v"
+    ],
+    "entrance": [
+      "n",
+      "v"
+    ],
+    "entry": [
+      "n"
+    ],
+    "envelope": [
+      "n"
+    ],
+    "environment": [
+      "n"
+    ],
+    "envy": [
+      "n",
+      "v"
+    ],
+    "episode": [
+      "n"
+    ],
+    "equal": [
+      "adj",
+      "v",
+      "n"
+    ],
+    "equator": [
+      "n"
+    ],
+    "equipment": [
+      "n"
+    ],
+    "era": [
+      "n"
+    ],
+    "eraser": [
+      "n"
+    ],
+    "error": [
+      "n"
+    ],
+    "erupt": [
+      "v"
+    ],
+    "especially": [
+      "adv"
+    ],
+    "essay": [
+      "n",
+      "v"
+    ],
+    "essential": [
+      "adj",
+      "n"
+    ],
+    "establish": [
+      "v"
+    ],
+    "estate": [
+      "n"
+    ],
+    "estimate": [
+      "v",
+      "n"
+    ],
+    "evaluate": [
+      "v"
+    ],
+    "eve": [
+      "n"
+    ],
+    "even": [
+      "adv",
+      "adj"
+    ],
+    "evening": [
+      "n"
+    ],
+    "event": [
+      "n"
+    ],
+    "eventually": [
+      "adv"
+    ],
+    "ever": [
+      "adv"
+    ],
+    "everyday": [
+      "adj"
+    ],
+    "everywhere": [
+      "adv"
+    ],
+    "evidence": [
+      "n",
+      "v"
+    ],
+    "exactly": [
+      "adv"
+    ],
+    "exam": [
+      "n"
+    ],
+    "examine": [
+      "v"
+    ],
+    "example": [
+      "n"
+    ],
+    "excellent": [
+      "adj"
+    ],
+    "exceptional": [
+      "adj"
+    ],
+    "exchange": [
+      "v",
+      "n"
+    ],
+    "excite": [
+      "v"
+    ],
+    "excited": [
+      "adj"
+    ],
+    "exciting": [
+      "adj"
+    ],
+    "excuse": [
+      "n",
+      "v"
+    ],
+    "exercise": [
+      "n",
+      "v"
+    ],
+    "exhibition": [
+      "n"
+    ],
+    "exist": [
+      "v"
+    ],
+    "exit": [
+      "n",
+      "v"
+    ],
+    "expand": [
+      "v"
+    ],
+    "expansion": [
+      "n"
+    ],
+    "expect": [
+      "v"
+    ],
+    "expectation": [
+      "n"
+    ],
+    "expense": [
+      "n"
+    ],
+    "expensive": [
+      "adj"
+    ],
+    "experience": [
+      "n",
+      "v"
+    ],
+    "experiment": [
+      "n",
+      "v"
+    ],
+    "expert": [
+      "n",
+      "adj"
+    ],
+    "explain": [
+      "v"
+    ],
+    "explode": [
+      "v"
+    ],
+    "explore": [
+      "v"
+    ],
+    "export": [
+      "v",
+      "n"
+    ],
+    "expose": [
+      "v"
+    ],
+    "exposure": [
+      "n"
+    ],
+    "express": [
+      "v",
+      "n",
+      "adj"
+    ],
+    "extend": [
+      "v"
+    ],
+    "extension": [
+      "n"
+    ],
+    "extent": [
+      "n"
+    ],
+    "external": [
+      "adj"
+    ],
+    "extinction": [
+      "n"
+    ],
+    "extra": [
+      "adj",
+      "n",
+      "adv"
+    ],
+    "extraordinary": [
+      "adj"
+    ],
+    "extremely": [
+      "adv"
+    ],
+    "eye": [
+      "n",
+      "v"
+    ],
+    "escape": [
+      "v",
+      "n"
+    ]
+  }
+}

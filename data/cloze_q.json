@@ -1,0 +1,107 @@
+[
+  {
+    "q": "Getting a teaching <span class='blank'>_____</span> requires at least four years of college study.",
+    "answer": "qualification",
+    "explain": "qualification n. 资格，资历；限定条件。",
+    "translation": "取得教师<strong>资格</strong>至少需要四年的大学学习。",
+    "pool": "BASE"
+  },
+  {
+    "q": "She <span class='blank'>_____</span> for the national team after winning the local competition.",
+    "answer": "qualified",
+    "explain": "qualify v. （使）具有资格；取得资格。",
+    "translation": "在赢得当地比赛后，她成功<strong>入选</strong>了国家队。",
+    "pool": "PAST"
+  },
+  {
+    "q": "The <span class='blank'>_____</span> of the air in the city has improved greatly this year.",
+    "answer": "quality",
+    "explain": "quality n. 质量；品质，素质。",
+    "translation": "今年这个城市的空气<strong>质量</strong>有了很大改善。",
+    "pool": "BASE"
+  },
+  {
+    "q": "A large <span class='blank'>_____</span> of rain fell on the region during the storm last night.",
+    "answer": "quantity",
+    "explain": "quantity n. 数量，量。",
+    "translation": "昨晚的暴风雨给这个地区带来了大<strong>量</strong>的降雨。",
+    "pool": "BASE"
+  },
+  {
+    "q": "A <span class='blank'>_____</span> of the students in the class were absent because of the flu.",
+    "answer": "quarter",
+    "explain": "quarter n. 四分之一；一刻钟；季度。",
+    "translation": "班上<strong>四分之一</strong>的学生因为流感缺席了。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The teacher asked a difficult <span class='blank'>_____</span> about the causes of World War Two.",
+    "answer": "question",
+    "explain": "question n. 问题 / v. 询问，质疑。",
+    "translation": "老师提出了一个关于二战起因的艰深<strong>问题</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The police <span class='blank'>_____</span> the witness for more than two hours at the station.",
+    "answer": "questioned",
+    "explain": "question n. 问题 / v. 询问，质疑。",
+    "translation": "警察在警局<strong>询问</strong>了目击者两个多小时。",
+    "pool": "PAST"
+  },
+  {
+    "q": "We need to find a <span class='blank'>_____</span> solution to this problem before it gets worse.",
+    "answer": "quick",
+    "explain": "quick adj. 快的，迅速的。",
+    "translation": "我们需要在问题恶化之前找到一个<strong>快速的</strong>解决办法。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The library is a <span class='blank'>_____</span> place where students can focus on their work.",
+    "answer": "quiet",
+    "explain": "quiet adj. 安静的 / n. 宁静 / v. 使安静。",
+    "translation": "图书馆是一个<strong>安静的</strong>地方，学生可以专心学习。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The <span class='blank'>_____</span> of the countryside helps me relax after a busy week in the city.",
+    "answer": "quiet",
+    "explain": "quiet adj. 安静的 / n. 宁静 / v. 使安静。",
+    "translation": "在城市里忙碌了一周后，乡村的<strong>宁静</strong>帮助我放松下来。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The mother <span class='blank'>_____</span> the baby by singing a soft song before bedtime.",
+    "answer": "quieted",
+    "explain": "quiet adj. 安静的 / n. 宁静 / v. 使安静。",
+    "translation": "妈妈在睡前唱了一首轻柔的歌，让宝宝<strong>安静下来</strong>。",
+    "pool": "PAST"
+  },
+  {
+    "q": "He is <span class='blank'>_____</span> his job to start his own business next month.",
+    "answer": "quitting",
+    "explain": "quit v. 停止；辞职，放弃。",
+    "translation": "他打算下个月<strong>辞去</strong>工作，开始自己创业。",
+    "pool": "ING"
+  },
+  {
+    "q": "The movie was <span class='blank'>_____</span> good, though it was a little longer than expected.",
+    "answer": "quite",
+    "explain": "quite adv. 相当，很，十分。",
+    "translation": "这部电影<strong>相当</strong>不错，只是比预期的长了一点。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The writer began her article with a famous <span class='blank'>_____</span> about the power of imagination.",
+    "answer": "quote",
+    "explain": "quote n. 引文，引语 / v. 引用，引述。",
+    "translation": "这位作家以一句关于想象力力量的著名<strong>引语</strong>开始了她的文章。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The newspaper <span class='blank'>_____</span> the official saying that the project would continue.",
+    "answer": "quoted",
+    "explain": "quote n. 引文，引语 / v. 引用，引述。",
+    "translation": "报纸<strong>援引</strong>那位官员的话说，这个项目将会继续。",
+    "pool": "PAST"
+  }
+]

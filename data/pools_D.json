@@ -1,0 +1,1204 @@
+{
+  "BASE": [
+    "daily",
+    "damage",
+    "damp",
+    "dance",
+    "danger",
+    "dangerous",
+    "dare",
+    "dark",
+    "data",
+    "database",
+    "date",
+    "daughter",
+    "day",
+    "dead",
+    "deadline",
+    "deaf",
+    "deal",
+    "dear",
+    "death",
+    "debate",
+    "debt",
+    "decade",
+    "decent",
+    "decide",
+    "decision",
+    "declare",
+    "decline",
+    "decorate",
+    "decrease",
+    "deep",
+    "deer",
+    "defeat",
+    "defend",
+    "defense",
+    "definitely",
+    "definition",
+    "degree",
+    "delay",
+    "delete",
+    "delicate",
+    "delicious",
+    "deliver",
+    "demand",
+    "demonstrate",
+    "dentist",
+    "deny",
+    "department",
+    "departure",
+    "depend",
+    "depress",
+    "depth",
+    "describe",
+    "description",
+    "desert",
+    "deserve",
+    "design",
+    "desire",
+    "desk",
+    "desperate",
+    "dessert",
+    "destination",
+    "destroy",
+    "detail",
+    "detect",
+    "detective",
+    "determine",
+    "develop",
+    "development",
+    "device",
+    "devote",
+    "diagram",
+    "dialog",
+    "diamond",
+    "diary",
+    "die",
+    "diet",
+    "differ",
+    "difference",
+    "different",
+    "difficult",
+    "difficulty",
+    "dig",
+    "digest",
+    "digital",
+    "dignity",
+    "dimension",
+    "dining",
+    "dinner",
+    "dinosaur",
+    "direct",
+    "directly",
+    "direction",
+    "director",
+    "directory",
+    "dirty",
+    "disability",
+    "disabled",
+    "disappear",
+    "disappointed",
+    "disaster",
+    "disc",
+    "discipline",
+    "discount",
+    "discover",
+    "discovery",
+    "discrimination",
+    "discuss",
+    "discussion",
+    "disease",
+    "dish",
+    "dismiss",
+    "display",
+    "distance",
+    "distant",
+    "distinct",
+    "distinguish",
+    "distribution",
+    "district",
+    "disturb",
+    "dive",
+    "diverse",
+    "divide",
+    "division",
+    "dizzy",
+    "do",
+    "doctor",
+    "document",
+    "dog",
+    "dollar",
+    "dolphin",
+    "domain",
+    "domestic",
+    "dominate",
+    "donate",
+    "door",
+    "dormitory",
+    "double",
+    "doubt",
+    "down",
+    "download",
+    "downstairs",
+    "downtown",
+    "dozen",
+    "draft",
+    "drag",
+    "dragon",
+    "drama",
+    "dramatic",
+    "draw",
+    "drawer",
+    "dream",
+    "dress",
+    "drill",
+    "drink",
+    "drive",
+    "driver",
+    "drop",
+    "drought",
+    "drug",
+    "dry",
+    "duck",
+    "dumpling",
+    "duration",
+    "dust",
+    "duty",
+    "dynamic",
+    "dynasty"
+  ],
+  "PLURAL": [
+    "data",
+    "daughters",
+    "days",
+    "debates",
+    "decades",
+    "decisions",
+    "deer",
+    "definitions",
+    "degrees",
+    "dentists",
+    "departments",
+    "departures",
+    "depths",
+    "descriptions",
+    "designs",
+    "desks",
+    "desserts",
+    "destinations",
+    "details",
+    "detectives",
+    "developments",
+    "devices",
+    "diagrams",
+    "diamonds",
+    "diaries",
+    "diets",
+    "differences",
+    "difficulties",
+    "dimensions",
+    "dinners",
+    "dinosaurs",
+    "directions",
+    "directories",
+    "directors",
+    "disabilities",
+    "disasters",
+    "discoveries",
+    "discs",
+    "discussions",
+    "diseases",
+    "dishes",
+    "displays",
+    "distances",
+    "distributions",
+    "districts",
+    "divisions",
+    "doctors",
+    "documents",
+    "dogs",
+    "dollars",
+    "dolphins",
+    "domains",
+    "doors",
+    "dormitories",
+    "doubts",
+    "drafts",
+    "dragons",
+    "drags",
+    "dramas",
+    "drawers",
+    "dresses",
+    "drills",
+    "drivers",
+    "drops",
+    "droughts",
+    "drugs",
+    "ducks",
+    "dumplings",
+    "durations",
+    "duties",
+    "dynasties"
+  ],
+  "THIRD": [
+    "dances",
+    "dares",
+    "dates",
+    "deals",
+    "decides",
+    "declares",
+    "declines",
+    "decorates",
+    "decreases",
+    "defeats",
+    "defends",
+    "delays",
+    "deletes",
+    "delivers",
+    "demands",
+    "demonstrates",
+    "denies",
+    "depends",
+    "depresses",
+    "describes",
+    "deserts",
+    "deserves",
+    "designs",
+    "desires",
+    "destroys",
+    "details",
+    "detects",
+    "determines",
+    "develops",
+    "devotes",
+    "dies",
+    "differs",
+    "digests",
+    "digs",
+    "directs",
+    "dirties",
+    "disappears",
+    "disciplines",
+    "discounts",
+    "discovers",
+    "discusses",
+    "dismisses",
+    "displays",
+    "distinguishes",
+    "disturbs",
+    "dives",
+    "divides",
+    "doctors",
+    "documents",
+    "does",
+    "dogs",
+    "dominates",
+    "donates",
+    "doubles",
+    "doubts",
+    "downloads",
+    "downs",
+    "drafts",
+    "drags",
+    "draws",
+    "dreams",
+    "dresses",
+    "dries",
+    "drills",
+    "drinks",
+    "drives",
+    "drops",
+    "drugs",
+    "ducks",
+    "dusts"
+  ],
+  "ING": [
+    "dancing",
+    "daring",
+    "dating",
+    "dealing",
+    "deciding",
+    "declaring",
+    "declining",
+    "decorating",
+    "decreasing",
+    "defeating",
+    "defending",
+    "delaying",
+    "deleting",
+    "delivering",
+    "demanding",
+    "demonstrating",
+    "denying",
+    "depending",
+    "depressing",
+    "describing",
+    "deserting",
+    "deserving",
+    "designing",
+    "desiring",
+    "destroying",
+    "detailing",
+    "detecting",
+    "determining",
+    "developing",
+    "devoting",
+    "digesting",
+    "digging",
+    "directing",
+    "dirtying",
+    "disappearing",
+    "disciplining",
+    "discounting",
+    "discovering",
+    "discussing",
+    "dismissing",
+    "displaying",
+    "distinguishing",
+    "disturbing",
+    "dividing",
+    "diving",
+    "doctoring",
+    "documenting",
+    "dogging",
+    "doing",
+    "dominating",
+    "donating",
+    "doubling",
+    "doubting",
+    "downing",
+    "downloading",
+    "drafting",
+    "dragging",
+    "drawing",
+    "dreaming",
+    "dressing",
+    "drilling",
+    "drinking",
+    "driving",
+    "dropping",
+    "drugging",
+    "drying",
+    "ducking",
+    "dusting",
+    "dying"
+  ],
+  "PAST": [
+    "damaged",
+    "danced",
+    "dared",
+    "dated",
+    "dealt",
+    "decided",
+    "declared",
+    "declined",
+    "decorated",
+    "decreased",
+    "defeated",
+    "defended",
+    "delayed",
+    "deleted",
+    "delivered",
+    "demanded",
+    "demonstrated",
+    "denied",
+    "depended",
+    "depressed",
+    "described",
+    "deserted",
+    "deserved",
+    "designed",
+    "desired",
+    "destroyed",
+    "detailed",
+    "detected",
+    "determined",
+    "developed",
+    "devoted",
+    "did",
+    "died",
+    "digested",
+    "directed",
+    "dirtied",
+    "disappeared",
+    "disciplined",
+    "discounted",
+    "discovered",
+    "discussed",
+    "dismissed",
+    "displayed",
+    "distinguished",
+    "disturbed",
+    "dived",
+    "divided",
+    "doctored",
+    "documented",
+    "dogged",
+    "dominated",
+    "donated",
+    "done",
+    "doubled",
+    "doubted",
+    "dove",
+    "downed",
+    "downloaded",
+    "drafted",
+    "dragged",
+    "drank",
+    "drawn",
+    "dreamed",
+    "dreamt",
+    "dressed",
+    "drew",
+    "dried",
+    "drilled",
+    "driven",
+    "dropped",
+    "drove",
+    "drugged",
+    "drunk",
+    "ducked",
+    "dug",
+    "dusted"
+  ],
+  "COMP": [
+    "deeper"
+  ],
+  "SUPER": [
+    "deepest"
+  ],
+  "DICT": {
+    "daily": "adj. 每日的 / adv. 每天",
+    "damage": "n. 损害，伤害 / v. 损害，毁坏",
+    "damp": "adj. 潮湿的 / n. 潮湿",
+    "dance": "v. 跳舞 / n. 舞蹈",
+    "danger": "n. 危险",
+    "dangerous": "adj. 危险的",
+    "dare": "v. 敢于 / n. 挑战",
+    "dark": "adj. 黑暗的 / n. 黑暗",
+    "data": "n. 数据（复数形式，常作不可数）",
+    "database": "n. 数据库",
+    "date": "n. 日期；约会 / v. 约会；确定日期",
+    "daughter": "n. 女儿",
+    "day": "n. 天，日子",
+    "dead": "adj. 死的 / adv. 完全地",
+    "deadline": "n. 截止日期",
+    "deaf": "adj. 聋的",
+    "deal": "v. 处理；交易 / n. 交易，协议",
+    "dear": "adj. 亲爱的；昂贵的 / n. 亲爱的人",
+    "death": "n. 死亡",
+    "debate": "n. 辩论 / v. 辩论，讨论",
+    "debt": "n. 债务，欠款",
+    "decade": "n. 十年",
+    "decent": "adj. 像样的，体面的",
+    "decide": "v. 决定",
+    "decision": "n. 决定",
+    "declare": "v. 宣布，声明",
+    "decline": "v. 下降；拒绝 / n. 下降",
+    "decorate": "v. 装饰，装修",
+    "decrease": "v. 减少 / n. 减少",
+    "deep": "adj. 深的 / adv. 深深地 / n. 深处",
+    "deer": "n. 鹿（单复数同形）",
+    "defeat": "v. 击败 / n. 失败，击败",
+    "defend": "v. 保卫，辩护",
+    "defense": "n. 防御，辩护",
+    "definitely": "adv. 肯定地，当然",
+    "definition": "n. 定义",
+    "degree": "n. 度；程度；学位",
+    "delay": "v. 延迟 / n. 延迟",
+    "delete": "v. 删除",
+    "delicate": "adj. 精致的；脆弱的；微妙的",
+    "delicious": "adj. 美味的",
+    "deliver": "v. 递送；发表；接生",
+    "demand": "v. 要求；需求 / n. 要求；需求",
+    "demonstrate": "v. 证明；示范；示威",
+    "dentist": "n. 牙医",
+    "deny": "v. 否认，拒绝",
+    "department": "n. 部门，系",
+    "departure": "n. 离开，出发",
+    "depend": "v. 依靠，取决于",
+    "depress": "v. 使沮丧，使萧条",
+    "depth": "n. 深度",
+    "describe": "v. 描述",
+    "description": "n. 描述，描写",
+    "desert": "n. 沙漠 / v. 抛弃，离弃",
+    "deserve": "v. 应得，值得",
+    "design": "v. 设计 / n. 设计，图案",
+    "desire": "v. 渴望 / n. 愿望，欲望",
+    "desk": "n. 书桌",
+    "desperate": "adj. 绝望的，拼命的",
+    "dessert": "n. 甜点",
+    "destination": "n. 目的地",
+    "destroy": "v. 破坏，毁灭",
+    "detail": "n. 细节 / v. 详述",
+    "detect": "v. 察觉，探测",
+    "detective": "n. 侦探",
+    "determine": "v. 决定，确定",
+    "develop": "v. 发展，开发，养成",
+    "development": "n. 发展，开发",
+    "device": "n. 装置，设备",
+    "devote": "v. 致力于，奉献",
+    "diagram": "n. 图表，图解",
+    "dialog": "n. 对话，对白",
+    "diamond": "n. 钻石，菱形",
+    "diary": "n. 日记，日程簿",
+    "die": "v. 死亡，消亡",
+    "diet": "n. 饮食；节食 / v. 节食",
+    "differ": "v. 不同，相异",
+    "difference": "n. 差别，差异",
+    "different": "adj. 不同的",
+    "difficult": "adj. 困难的",
+    "difficulty": "n. 困难，难题",
+    "dig": "v. 挖，掘 / n. 挖，戳",
+    "digest": "v. 消化；领会 / n. 摘要，文摘",
+    "digital": "adj. 数字的",
+    "dignity": "n. 尊严，高贵",
+    "dimension": "n. 维度，尺寸",
+    "dining": "n. 吃饭，进餐",
+    "dinner": "n. 晚餐，正餐",
+    "dinosaur": "n. 恐龙",
+    "direct": "v. 指导；导演 / adj. 直接的 / adv. 直接地",
+    "directly": "adv. 直接地",
+    "direction": "n. 方向，指导",
+    "director": "n. 导演，主管，董事",
+    "directory": "n. 目录，指南",
+    "dirty": "adj. 脏的 / v. 弄脏",
+    "disability": "n. 残疾，无能",
+    "disabled": "adj. 残疾的",
+    "disappear": "v. 消失",
+    "disappointed": "adj. 失望的",
+    "disaster": "n. 灾难",
+    "disc": "n. 圆盘，磁盘",
+    "discipline": "n. 纪律；学科 / v. 训练，惩罚",
+    "discount": "n. 折扣 / v. 打折，不重视",
+    "discover": "v. 发现",
+    "discovery": "n. 发现",
+    "discrimination": "n. 歧视，辨别",
+    "discuss": "v. 讨论",
+    "discussion": "n. 讨论",
+    "disease": "n. 疾病",
+    "dish": "n. 菜肴，盘子",
+    "dismiss": "v. 解雇，驳回，不予考虑",
+    "display": "v. 展示，显示 / n. 展示，显示屏",
+    "distance": "n. 距离",
+    "distant": "adj. 遥远的，疏远的",
+    "distinct": "adj. 明显的，不同的",
+    "distinguish": "v. 区分，辨别",
+    "distribution": "n. 分配，分布",
+    "district": "n. 地区，区域",
+    "disturb": "v. 打扰，扰乱",
+    "dive": "v. 潜水，俯冲 / n. 跳水，潜水",
+    "diverse": "adj. 多样的，不同的",
+    "divide": "v. 分割，除 / n. 分歧，分界线",
+    "division": "n. 分割，部门，除法",
+    "dizzy": "adj. 头晕的",
+    "do": "v. 做，干",
+    "doctor": "n. 医生，博士 / v. 篡改，修理",
+    "document": "n. 文件，文档 / v. 记录，证明",
+    "dog": "n. 狗 / v. 跟踪，困扰",
+    "dollar": "n. 美元",
+    "dolphin": "n. 海豚",
+    "domain": "n. 领域，范围，域名",
+    "domestic": "adj. 国内的；家庭的；驯养的",
+    "dominate": "v. 支配，控制，统治",
+    "donate": "v. 捐赠，捐献",
+    "door": "n. 门",
+    "dormitory": "n. 宿舍",
+    "double": "adj. 双倍的 / v. 使加倍 / n. 两倍",
+    "doubt": "n. 怀疑 / v. 怀疑",
+    "down": "adv. 向下 / prep. 沿着 / adj. 沮丧的 / v. 喝下，击倒",
+    "download": "v. 下载 / n. 下载",
+    "downstairs": "adv. 在楼下 / adj. 楼下的 / n. 楼下",
+    "downtown": "adv. 在市中心 / adj. 市中心的 / n. 市中心",
+    "dozen": "n. 十二个，一打",
+    "draft": "n. 草稿，草案 / v. 起草",
+    "drag": "v. 拖，拉 / n. 拖累，阻力",
+    "dragon": "n. 龙",
+    "drama": "n. 戏剧，戏剧性事件",
+    "dramatic": "adj. 戏剧性的，引人注目的",
+    "draw": "v. 画，拉，吸引 / n. 平局，抽签",
+    "drawer": "n. 抽屉",
+    "dream": "v. 做梦，梦想 / n. 梦，梦想",
+    "dress": "n. 连衣裙，服装 / v. 穿衣服，打扮",
+    "drill": "n. 钻头，训练 / v. 钻孔，训练",
+    "drink": "v. 喝，饮 / n. 饮料，酒",
+    "drive": "v. 驾驶，驱赶 / n. 驾驶，车道",
+    "driver": "n. 司机，驾驶员",
+    "drop": "v. 掉落，放弃 / n. 滴，下降",
+    "drought": "n. 干旱",
+    "drug": "n. 药物，毒品 / v. 使服麻醉药",
+    "dry": "adj. 干的 / v. 使干燥",
+    "duck": "n. 鸭，鸭肉 / v. 低头，躲避",
+    "dumpling": "n. 饺子，面团",
+    "duration": "n. 持续时间",
+    "dust": "n. 灰尘 / v. 拂去灰尘",
+    "duty": "n. 责任，义务，关税",
+    "dynamic": "adj. 动态的，有活力的 / n. 动力，力学",
+    "dynasty": "n. 朝代，王朝"
+  },
+  "POS": {
+    "daily": [
+      "adj",
+      "adv"
+    ],
+    "damage": [
+      "n",
+      "v"
+    ],
+    "damp": [
+      "adj",
+      "n"
+    ],
+    "dance": [
+      "v",
+      "n"
+    ],
+    "danger": [
+      "n"
+    ],
+    "dangerous": [
+      "adj"
+    ],
+    "dare": [
+      "v",
+      "n"
+    ],
+    "dark": [
+      "adj",
+      "n"
+    ],
+    "data": [
+      "n"
+    ],
+    "database": [
+      "n"
+    ],
+    "date": [
+      "n",
+      "v"
+    ],
+    "daughter": [
+      "n"
+    ],
+    "day": [
+      "n"
+    ],
+    "dead": [
+      "adj",
+      "adv"
+    ],
+    "deadline": [
+      "n"
+    ],
+    "deaf": [
+      "adj"
+    ],
+    "deal": [
+      "v",
+      "n"
+    ],
+    "dear": [
+      "adj",
+      "n"
+    ],
+    "death": [
+      "n"
+    ],
+    "debate": [
+      "n",
+      "v"
+    ],
+    "debt": [
+      "n"
+    ],
+    "decade": [
+      "n"
+    ],
+    "decent": [
+      "adj"
+    ],
+    "decide": [
+      "v"
+    ],
+    "decision": [
+      "n"
+    ],
+    "declare": [
+      "v"
+    ],
+    "decline": [
+      "v",
+      "n"
+    ],
+    "decorate": [
+      "v"
+    ],
+    "decrease": [
+      "v",
+      "n"
+    ],
+    "deep": [
+      "adj",
+      "adv",
+      "n"
+    ],
+    "deer": [
+      "n"
+    ],
+    "defeat": [
+      "v",
+      "n"
+    ],
+    "defend": [
+      "v"
+    ],
+    "defense": [
+      "n"
+    ],
+    "definitely": [
+      "adv"
+    ],
+    "definition": [
+      "n"
+    ],
+    "degree": [
+      "n"
+    ],
+    "delay": [
+      "v",
+      "n"
+    ],
+    "delete": [
+      "v"
+    ],
+    "delicate": [
+      "adj"
+    ],
+    "delicious": [
+      "adj"
+    ],
+    "deliver": [
+      "v"
+    ],
+    "demand": [
+      "v",
+      "n"
+    ],
+    "demonstrate": [
+      "v"
+    ],
+    "dentist": [
+      "n"
+    ],
+    "deny": [
+      "v"
+    ],
+    "department": [
+      "n"
+    ],
+    "departure": [
+      "n"
+    ],
+    "depend": [
+      "v"
+    ],
+    "depress": [
+      "v"
+    ],
+    "depth": [
+      "n"
+    ],
+    "describe": [
+      "v"
+    ],
+    "description": [
+      "n"
+    ],
+    "desert": [
+      "n",
+      "v"
+    ],
+    "deserve": [
+      "v"
+    ],
+    "design": [
+      "v",
+      "n"
+    ],
+    "desire": [
+      "v",
+      "n"
+    ],
+    "desk": [
+      "n"
+    ],
+    "desperate": [
+      "adj"
+    ],
+    "dessert": [
+      "n"
+    ],
+    "destination": [
+      "n"
+    ],
+    "destroy": [
+      "v"
+    ],
+    "detail": [
+      "n",
+      "v"
+    ],
+    "detect": [
+      "v"
+    ],
+    "detective": [
+      "n"
+    ],
+    "determine": [
+      "v"
+    ],
+    "develop": [
+      "v"
+    ],
+    "development": [
+      "n"
+    ],
+    "device": [
+      "n"
+    ],
+    "devote": [
+      "v"
+    ],
+    "diagram": [
+      "n"
+    ],
+    "dialog": [
+      "n"
+    ],
+    "diamond": [
+      "n"
+    ],
+    "diary": [
+      "n"
+    ],
+    "die": [
+      "v"
+    ],
+    "diet": [
+      "n",
+      "v"
+    ],
+    "differ": [
+      "v"
+    ],
+    "difference": [
+      "n"
+    ],
+    "different": [
+      "adj"
+    ],
+    "difficult": [
+      "adj"
+    ],
+    "difficulty": [
+      "n"
+    ],
+    "dig": [
+      "v",
+      "n"
+    ],
+    "digest": [
+      "v",
+      "n"
+    ],
+    "digital": [
+      "adj"
+    ],
+    "dignity": [
+      "n"
+    ],
+    "dimension": [
+      "n"
+    ],
+    "dining": [
+      "n"
+    ],
+    "dinner": [
+      "n"
+    ],
+    "dinosaur": [
+      "n"
+    ],
+    "direct": [
+      "v",
+      "adj",
+      "adv"
+    ],
+    "directly": [
+      "adv"
+    ],
+    "direction": [
+      "n"
+    ],
+    "director": [
+      "n"
+    ],
+    "directory": [
+      "n"
+    ],
+    "dirty": [
+      "adj",
+      "v"
+    ],
+    "disability": [
+      "n"
+    ],
+    "disabled": [
+      "adj"
+    ],
+    "disappear": [
+      "v"
+    ],
+    "disappointed": [
+      "adj"
+    ],
+    "disaster": [
+      "n"
+    ],
+    "disc": [
+      "n"
+    ],
+    "discipline": [
+      "n",
+      "v"
+    ],
+    "discount": [
+      "n",
+      "v"
+    ],
+    "discover": [
+      "v"
+    ],
+    "discovery": [
+      "n"
+    ],
+    "discrimination": [
+      "n"
+    ],
+    "discuss": [
+      "v"
+    ],
+    "discussion": [
+      "n"
+    ],
+    "disease": [
+      "n"
+    ],
+    "dish": [
+      "n"
+    ],
+    "dismiss": [
+      "v"
+    ],
+    "display": [
+      "v",
+      "n"
+    ],
+    "distance": [
+      "n"
+    ],
+    "distant": [
+      "adj"
+    ],
+    "distinct": [
+      "adj"
+    ],
+    "distinguish": [
+      "v"
+    ],
+    "distribution": [
+      "n"
+    ],
+    "district": [
+      "n"
+    ],
+    "disturb": [
+      "v"
+    ],
+    "dive": [
+      "v",
+      "n"
+    ],
+    "diverse": [
+      "adj"
+    ],
+    "divide": [
+      "v",
+      "n"
+    ],
+    "division": [
+      "n"
+    ],
+    "dizzy": [
+      "adj"
+    ],
+    "do": [
+      "v"
+    ],
+    "doctor": [
+      "n",
+      "v"
+    ],
+    "document": [
+      "n",
+      "v"
+    ],
+    "dog": [
+      "n",
+      "v"
+    ],
+    "dollar": [
+      "n"
+    ],
+    "dolphin": [
+      "n"
+    ],
+    "domain": [
+      "n"
+    ],
+    "domestic": [
+      "adj"
+    ],
+    "dominate": [
+      "v"
+    ],
+    "donate": [
+      "v"
+    ],
+    "door": [
+      "n"
+    ],
+    "dormitory": [
+      "n"
+    ],
+    "double": [
+      "adj",
+      "v",
+      "n"
+    ],
+    "doubt": [
+      "n",
+      "v"
+    ],
+    "down": [
+      "adv",
+      "prep",
+      "adj",
+      "v"
+    ],
+    "download": [
+      "v",
+      "n"
+    ],
+    "downstairs": [
+      "adv",
+      "adj",
+      "n"
+    ],
+    "downtown": [
+      "adv",
+      "adj",
+      "n"
+    ],
+    "dozen": [
+      "n"
+    ],
+    "draft": [
+      "n",
+      "v"
+    ],
+    "drag": [
+      "v",
+      "n"
+    ],
+    "dragon": [
+      "n"
+    ],
+    "drama": [
+      "n"
+    ],
+    "dramatic": [
+      "adj"
+    ],
+    "draw": [
+      "v",
+      "n"
+    ],
+    "drawer": [
+      "n"
+    ],
+    "dream": [
+      "v",
+      "n"
+    ],
+    "dress": [
+      "n",
+      "v"
+    ],
+    "drill": [
+      "n",
+      "v"
+    ],
+    "drink": [
+      "v",
+      "n"
+    ],
+    "drive": [
+      "v",
+      "n"
+    ],
+    "driver": [
+      "n"
+    ],
+    "drop": [
+      "v",
+      "n"
+    ],
+    "drought": [
+      "n"
+    ],
+    "drug": [
+      "n",
+      "v"
+    ],
+    "dry": [
+      "adj",
+      "v"
+    ],
+    "duck": [
+      "n",
+      "v"
+    ],
+    "dumpling": [
+      "n"
+    ],
+    "duration": [
+      "n"
+    ],
+    "dust": [
+      "n",
+      "v"
+    ],
+    "duty": [
+      "n"
+    ],
+    "dynamic": [
+      "adj",
+      "n"
+    ],
+    "dynasty": [
+      "n"
+    ]
+  }
+}

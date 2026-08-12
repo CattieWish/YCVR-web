@@ -1,0 +1,26 @@
+{
+  "BASE": [
+    "zero",
+    "zone",
+    "zoo"
+  ],
+  "PLURAL": [
+    "zones",
+    "zoos"
+  ],
+  "THIRD": [],
+  "ING": [],
+  "PAST": [],
+  "COMP": [],
+  "SUPER": [],
+  "DICT": {
+    "zero": "n. 零",
+    "zone": "n. 区域",
+    "zoo": "n. 动物园"
+  },
+  "POS": {
+    "zero": ["n"],
+    "zone": ["n"],
+    "zoo": ["n"]
+  }
+}

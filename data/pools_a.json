@@ -1,0 +1,2216 @@
+{
+  "BASE": [
+    "abandon",
+    "ability",
+    "able",
+    "abnormal",
+    "aboard",
+    "abroad",
+    "absence",
+    "absent",
+    "absolutely",
+    "absorb",
+    "abstract",
+    "abuse",
+    "academic",
+    "accent",
+    "accept",
+    "access",
+    "accident",
+    "accommodation",
+    "accompany",
+    "account",
+    "accurate",
+    "accuse",
+    "ache",
+    "achieve",
+    "achievement",
+    "acid",
+    "acknowledge",
+    "acquire",
+    "act",
+    "action",
+    "active",
+    "activity",
+    "actor",
+    "actress",
+    "actually",
+    "adapt",
+    "adaptation",
+    "add",
+    "addict",
+    "addition",
+    "address",
+    "adjust",
+    "administration",
+    "admire",
+    "admit",
+    "adopt",
+    "adorable",
+    "adult",
+    "advance",
+    "advantage",
+    "adventure",
+    "advertise",
+    "advice",
+    "advise",
+    "advocate",
+    "affair",
+    "affect",
+    "afford",
+    "afraid",
+    "afternoon",
+    "afterward",
+    "again",
+    "age",
+    "agency",
+    "agenda",
+    "ago",
+    "agree",
+    "agreement",
+    "agriculture",
+    "ahead",
+    "aid",
+    "aim",
+    "air",
+    "airline",
+    "airport",
+    "alarm",
+    "alcohol",
+    "alive",
+    "allow",
+    "almost",
+    "alone",
+    "aloud",
+    "already",
+    "also",
+    "alter",
+    "alternative",
+    "altogether",
+    "always",
+    "amateur",
+    "amazing",
+    "ambition",
+    "ambitious",
+    "ambulance",
+    "amount",
+    "amuse",
+    "analyze",
+    "ancestor",
+    "ancient",
+    "anger",
+    "angle",
+    "angry",
+    "animal",
+    "ankle",
+    "announce",
+    "annoy",
+    "annual",
+    "answer",
+    "ant",
+    "anticipate",
+    "antique",
+    "anxiety",
+    "anxious",
+    "anyhow",
+    "anyway",
+    "anywhere",
+    "apart",
+    "apartment",
+    "apparently",
+    "appeal",
+    "appear",
+    "appetite",
+    "applaud",
+    "apple",
+    "applicant",
+    "application",
+    "apply",
+    "appointment",
+    "appreciate",
+    "approach",
+    "appropriate",
+    "approve",
+    "arch",
+    "architect",
+    "area",
+    "argue",
+    "arise",
+    "arm",
+    "army",
+    "arrangement",
+    "arrest",
+    "arrive",
+    "arrow",
+    "art",
+    "article",
+    "artificial",
+    "artist",
+    "ashamed",
+    "aside",
+    "ask",
+    "asleep",
+    "aspect",
+    "assess",
+    "assign",
+    "assistant",
+    "association",
+    "assume",
+    "assumption",
+    "astonish",
+    "astronaut",
+    "astronomer",
+    "athlete",
+    "atmosphere",
+    "attach",
+    "attack",
+    "attain",
+    "attempt",
+    "attend",
+    "attention",
+    "attitude",
+    "attract",
+    "audience",
+    "aunt",
+    "author",
+    "authority",
+    "automatic",
+    "autonomous",
+    "autumn",
+    "available",
+    "average",
+    "avoid",
+    "awake",
+    "award",
+    "aware",
+    "away",
+    "awesome",
+    "awful",
+    "awkward"
+  ],
+  "PLURAL": [
+    "abilities",
+    "abstracts",
+    "abuses",
+    "accents",
+    "accesses",
+    "accidents",
+    "accommodations",
+    "accounts",
+    "aches",
+    "achievements",
+    "acids",
+    "actions",
+    "activities",
+    "actors",
+    "actresses",
+    "acts",
+    "adaptations",
+    "addicts",
+    "additions",
+    "addresses",
+    "administrations",
+    "adults",
+    "advances",
+    "advantages",
+    "adventures",
+    "advocates",
+    "affairs",
+    "afternoons",
+    "agencies",
+    "agendas",
+    "ages",
+    "agreements",
+    "aids",
+    "aims",
+    "airlines",
+    "airports",
+    "airs",
+    "alarms",
+    "alternatives",
+    "alumni",
+    "amateurs",
+    "ambitions",
+    "ambulances",
+    "amounts",
+    "analyses",
+    "ancestors",
+    "angles",
+    "animals",
+    "ankles",
+    "annuals",
+    "answers",
+    "antiques",
+    "ants",
+    "anxieties",
+    "apartments",
+    "appeals",
+    "appendices",
+    "appetites",
+    "apples",
+    "applicants",
+    "applications",
+    "appointments",
+    "approaches",
+    "arches",
+    "architects",
+    "areas",
+    "armies",
+    "arms",
+    "arrangements",
+    "arrests",
+    "arrows",
+    "articles",
+    "artists",
+    "arts",
+    "asides",
+    "aspects",
+    "assistants",
+    "associations",
+    "assumptions",
+    "astronauts",
+    "astronomers",
+    "athletes",
+    "atmospheres",
+    "attacks",
+    "attempts",
+    "attitudes",
+    "audiences",
+    "aunts",
+    "authorities",
+    "authors",
+    "averages",
+    "awards"
+  ],
+  "THIRD": [
+    "abandons",
+    "absorbs",
+    "abuses",
+    "accepts",
+    "accesses",
+    "accounts",
+    "achieves",
+    "acknowledges",
+    "acquires",
+    "acts",
+    "adapts",
+    "addicts",
+    "addresses",
+    "adds",
+    "adjusts",
+    "admires",
+    "admits",
+    "adopts",
+    "advances",
+    "advertises",
+    "advises",
+    "advocates",
+    "affects",
+    "affords",
+    "agrees",
+    "aids",
+    "aims",
+    "airs",
+    "alarms",
+    "allows",
+    "amazes",
+    "amounts",
+    "amuses",
+    "analyzes",
+    "angers",
+    "announces",
+    "annoys",
+    "answers",
+    "anticipates",
+    "apologizes",
+    "appeals",
+    "appears",
+    "applauds",
+    "applies",
+    "appoints",
+    "appreciates",
+    "approves",
+    "argues",
+    "arises",
+    "arrests",
+    "arrives",
+    "asks",
+    "assesses",
+    "assigns",
+    "assumes",
+    "assures",
+    "astonishes",
+    "attaches",
+    "attacks",
+    "attains",
+    "attempts",
+    "attends",
+    "attracts",
+    "avoids",
+    "awards"
+  ],
+  "ING": [
+    "abandoning",
+    "absorbing",
+    "abusing",
+    "accepting",
+    "accessing",
+    "accounting",
+    "achieving",
+    "acknowledging",
+    "acquiring",
+    "acting",
+    "adapting",
+    "addicting",
+    "adding",
+    "addressing",
+    "adjusting",
+    "admiring",
+    "admitting",
+    "adopting",
+    "advancing",
+    "advertising",
+    "advising",
+    "advocating",
+    "affecting",
+    "affording",
+    "agreeing",
+    "aiding",
+    "aiming",
+    "airing",
+    "alarming",
+    "allowing",
+    "amounting",
+    "amusing",
+    "angering",
+    "announcing",
+    "annoying",
+    "answering",
+    "anticipating",
+    "appealing",
+    "appearing",
+    "applauding",
+    "applying",
+    "appreciating",
+    "approaching",
+    "approving",
+    "arguing",
+    "arising",
+    "arranging",
+    "arresting",
+    "arriving",
+    "asking",
+    "assessing",
+    "assigning",
+    "assisting",
+    "assuming",
+    "astonishing",
+    "attaching",
+    "attacking",
+    "attaining",
+    "attempting",
+    "attending",
+    "attracting",
+    "avoiding",
+    "awaking",
+    "awarding"
+  ],
+  "PAST": [
+    "abandoned",
+    "absorbed",
+    "abused",
+    "accepted",
+    "accessed",
+    "accompanied",
+    "accounted",
+    "accused",
+    "ached",
+    "achieved",
+    "acknowledged",
+    "acquired",
+    "acted",
+    "adapted",
+    "added",
+    "addicted",
+    "addressed",
+    "adjusted",
+    "admired",
+    "admitted",
+    "adopted",
+    "advanced",
+    "advertised",
+    "advised",
+    "affected",
+    "afforded",
+    "agreed",
+    "alarmed",
+    "allowed",
+    "altered",
+    "analyzed",
+    "angled",
+    "announced",
+    "annoyed",
+    "answered",
+    "anticipated",
+    "appealed",
+    "appeared",
+    "applied",
+    "approached",
+    "approved",
+    "arched",
+    "argued",
+    "armed",
+    "arose",
+    "arrested",
+    "arrived",
+    "asked",
+    "assessed",
+    "assigned",
+    "assumed",
+    "ate",
+    "attached",
+    "attacked",
+    "attempted",
+    "attended",
+    "attracted",
+    "avoided",
+    "awarded",
+    "awoke"
+  ],
+  "COMP": [
+    "abler",
+    "angrier",
+    "awfuller"
+  ],
+  "SUPER": [
+    "ablest",
+    "angriest",
+    "awfullest"
+  ],
+  "DICT": {
+    "abandon": "v. 放弃，抛弃",
+    "ability": "n. 能力",
+    "able": "adj. 能够的，有能力的",
+    "abnormal": "adj. 不正常的，反常的",
+    "aboard": "adv./prep. 在（船、飞机、火车等）上",
+    "abroad": "adv. 在国外，到国外",
+    "absence": "n. 缺席，不在",
+    "absent": "adj. 缺席的，不在的",
+    "absolutely": "adv. 完全地，绝对地",
+    "absorb": "v. 吸收，吸取",
+    "abstract": "adj. 抽象的 / n. 摘要，抽象概念",
+    "abuse": "v. 滥用，虐待 / n. 滥用，虐待",
+    "academic": "adj. 学术的",
+    "accent": "n. 口音，腔调",
+    "accept": "v. 接受，同意",
+    "access": "n. 进入权，通道 / v. 访问，进入",
+    "accident": "n. 事故，意外",
+    "accommodation": "n. 住宿，住处",
+    "accompany": "v. 陪伴，陪同",
+    "account": "n. 账户，描述 / v. 解释，占（比例）",
+    "accurate": "adj. 准确的，精确的",
+    "accuse": "v. 指控，指责",
+    "ache": "v. 疼痛 / n. 疼痛",
+    "achieve": "v. 达到，实现",
+    "achievement": "n. 成就，成绩",
+    "acid": "n. 酸",
+    "acknowledge": "v. 承认，致谢",
+    "acquire": "v. 获得，习得",
+    "act": "v. 表演；行动 / n. 行为；法案",
+    "action": "n. 行动，行为",
+    "active": "adj. 活跃的，积极的",
+    "activity": "n. 活动",
+    "actor": "n. 男演员",
+    "actress": "n. 女演员",
+    "actually": "adv. 实际上，事实上",
+    "adapt": "v. 适应，改编",
+    "adaptation": "n. 适应，改编本",
+    "add": "v. 添加，增加",
+    "addict": "n. 上瘾者 / v. 使上瘾",
+    "addition": "n. 增加，加法",
+    "address": "n. 地址，演讲 / v. 处理，发表演讲",
+    "adjust": "v. 调整，适应",
+    "administration": "n. 管理，行政部门",
+    "admire": "v. 钦佩，赞赏",
+    "admit": "v. 承认，准许进入",
+    "adopt": "v. 采纳，收养",
+    "adorable": "adj. 可爱的，讨人喜欢的",
+    "adult": "n. 成年人 / adj. 成年的，成熟的",
+    "advance": "v. 前进，推进 / n. 进展，预付款",
+    "advantage": "n. 优势，好处",
+    "adventure": "n. 冒险，奇遇",
+    "advertise": "v. 做广告，宣传",
+    "advice": "n. 建议，劝告",
+    "advise": "v. 劝告；建议",
+    "advocate": "v. 提倡；主张 / n. 拥护者；提倡者",
+    "affair": "n. 公共事务；事件；事情",
+    "affect": "v. 影响 / n. 情感",
+    "afford": "v. 买得起；承担得起；提供",
+    "afraid": "adj. 害怕的；担心的",
+    "afternoon": "n. 下午",
+    "afterward": "adv. 后来；以后",
+    "again": "adv. 再一次；又一次",
+    "age": "n. 年龄；时代；年龄段 / v. 变老；使显老",
+    "agency": "n. 代理行；经销机构；（政府的）专门机构",
+    "agenda": "n. 议程表；日程表",
+    "ago": "adv. 以前",
+    "agree": "v. 同意；赞成；一致",
+    "agreement": "n. 协定；协议；同意",
+    "agriculture": "n. 农业；农学",
+    "ahead": "adv. 向前；在前面；提前",
+    "aid": "n. 援助；救助；辅助设备 / v. 援助；帮助",
+    "aim": "n. 目标；目的 / v. 力求达到；瞄准",
+    "air": "n. 空气；天空；神态 / v. 晾晒；使通风",
+    "airline": "n. 航空公司",
+    "airport": "n. 航空站；飞机场",
+    "alarm": "n. 警报；警报器；惊慌 / v. 使惊恐；使担心",
+    "alcohol": "n. 酒；酒精",
+    "alive": "adj. 活着的；有活力的",
+    "allow": "v. 允许；准许；给予",
+    "almost": "adv. 几乎；差不多",
+    "alone": "adj. 单独的；孤独的 / adv. 独自地；仅仅",
+    "aloud": "adv. 大声地；出声地",
+    "already": "adv. 已经；早已",
+    "also": "adv. 而且；也",
+    "alternative": "adj. 可供选择的；非传统的 / n. 可供选择的事物",
+    "altogether": "adv. 完全；总共；总之",
+    "always": "adv. 总是；一直；永远",
+    "amateur": "n. 业余爱好者；外行 / adj. 业余的；外行的",
+    "amazing": "adj. 令人大为惊奇的",
+    "ambition": "n. 抱负；雄心；野心",
+    "ambitious": "adj. 有雄心的；有野心的；费力的",
+    "ambulance": "n. 救护车",
+    "amount": "n. 金额；数量 / v. 合计；等于",
+    "amuse": "v. 逗乐；娱乐",
+    "ancestor": "n. 祖先；祖宗；先驱",
+    "ancient": "adj. 古代的，古老的",
+    "anger": "n. 愤怒，怒气 / v. 使发怒",
+    "angle": "n. 角，角度 / v. 斜移，斜置",
+    "angry": "adj. 生气的，愤怒的",
+    "animal": "n. 动物",
+    "ankle": "n. 脚踝",
+    "announce": "v. 宣布，宣告",
+    "annoy": "v. 使烦恼，使生气",
+    "annual": "adj. 每年的，年度的 / n. 年刊，年鉴",
+    "answer": "n. 回答，答案 / v. 回答，答复",
+    "ant": "n. 蚂蚁",
+    "anticipate": "v. 预期，预料",
+    "antique": "adj. 古老的，古董的 / n. 古董，古玩",
+    "anxiety": "n. 焦虑，忧虑",
+    "anxious": "adj. 焦虑的，忧虑的",
+    "anyhow": "adv. 无论如何，不管怎样",
+    "anyway": "adv. 无论如何，不管怎样；总之",
+    "anywhere": "adv. 任何地方",
+    "apart": "adv. 相隔，分开",
+    "apartment": "n. 公寓，房间",
+    "apparently": "adv. 显然，似乎",
+    "appeal": "n. 吸引力，呼吁 / v. 吸引，呼吁，上诉",
+    "appear": "v. 出现，显得，似乎",
+    "appetite": "n. 食欲，胃口",
+    "applaud": "v. 鼓掌，称赞",
+    "apple": "n. 苹果",
+    "applicant": "n. 申请人",
+    "application": "n. 申请，应用",
+    "apply": "v. 申请，应用",
+    "appointment": "n. 约会，预约，任命",
+    "appreciate": "v. 欣赏，感激",
+    "approach": "n. 方法，途径 / v. 接近，靠近",
+    "appropriate": "adj. 适当的，恰当的",
+    "approve": "v. 赞成，同意，批准",
+    "arch": "n. 拱门，弓形 / v. 使成弓形",
+    "architect": "n. 建筑师",
+    "area": "n. 地区，区域，面积",
+    "argue": "v. 争论，辩论，主张",
+    "arise": "v. 出现，产生，起身",
+    "arm": "n. 手臂，上肢 / v. 武装，装备",
+    "army": "n. 军队，陆军",
+    "arrangement": "n. 安排，布置",
+    "arrest": "n. 逮捕，拘留 / v. 逮捕，拘留",
+    "arrive": "v. 到达，抵达",
+    "arrow": "n. 箭，箭头",
+    "art": "n. 艺术，美术",
+    "article": "n. 文章，物品，冠词",
+    "artificial": "adj. 人造的，人工的",
+    "artist": "n. 艺术家",
+    "ashamed": "adj. 惭愧的，羞耻的",
+    "aside": "adv. 在旁边，到一边 / n. 旁白，离题的话",
+    "ask": "v. 问，请求",
+    "asleep": "adj. 睡着的",
+    "aspect": "n. 方面，层面",
+    "assess": "v. 评估，评定",
+    "assign": "v. 分配，指派",
+    "assistant": "n. 助手，助理",
+    "association": "n. 协会，联系",
+    "assume": "v. 假设，认为",
+    "assumption": "n. 假设，假定",
+    "astonish": "v. 使惊讶",
+    "astronaut": "n. 宇航员",
+    "astronomer": "n. 天文学家",
+    "athlete": "n. 运动员",
+    "atmosphere": "n. 大气，气氛",
+    "attach": "v. 附上，系上",
+    "attack": "v. 攻击 / n. 攻击",
+    "attain": "v. 达到，获得",
+    "attempt": "v. 尝试，企图 / n. 尝试，企图",
+    "attend": "v. 参加，出席",
+    "attention": "n. 注意，注意力",
+    "attitude": "n. 态度，看法",
+    "attract": "v. 吸引",
+    "audience": "n. 观众，听众",
+    "aunt": "n. 姑妈，伯母，阿姨",
+    "author": "n. 作者",
+    "authority": "n. 权威，当局",
+    "automatic": "adj. 自动的",
+    "autonomous": "adj. 自治的，自主的",
+    "autumn": "n. 秋天，秋季",
+    "available": "adj. 可获得的，有空的",
+    "average": "adj. 平均的，普通的 / n. 平均数 / v. 平均为",
+    "avoid": "v. 避免，避开",
+    "awake": "adj. 醒着的 / v. 唤醒，觉醒",
+    "award": "n. 奖，奖品 / v. 授予，奖励",
+    "aware": "adj. 意识到的，知道的",
+    "away": "adv. 离开，远离",
+    "awesome": "adj. 令人惊叹的，很棒的",
+    "awful": "adj. 糟糕的，可怕的",
+    "awkward": "adj. 尴尬的，笨拙的"
+  },
+  "POS": {
+    "abandon": [
+      "v"
+    ],
+    "ability": [
+      "n"
+    ],
+    "able": [
+      "adj"
+    ],
+    "abnormal": [
+      "adj"
+    ],
+    "aboard": [
+      "adv",
+      "prep"
+    ],
+    "abroad": [
+      "adv"
+    ],
+    "absence": [
+      "n"
+    ],
+    "absent": [
+      "adj"
+    ],
+    "absolutely": [
+      "adv"
+    ],
+    "absorb": [
+      "v"
+    ],
+    "abstract": [
+      "adj",
+      "n"
+    ],
+    "abuse": [
+      "v",
+      "n"
+    ],
+    "academic": [
+      "adj"
+    ],
+    "accent": [
+      "n"
+    ],
+    "accept": [
+      "v"
+    ],
+    "access": [
+      "n",
+      "v"
+    ],
+    "accident": [
+      "n"
+    ],
+    "accommodation": [
+      "n"
+    ],
+    "accompany": [
+      "v"
+    ],
+    "account": [
+      "n",
+      "v"
+    ],
+    "accurate": [
+      "adj"
+    ],
+    "accuse": [
+      "v"
+    ],
+    "ache": [
+      "v",
+      "n"
+    ],
+    "achieve": [
+      "v"
+    ],
+    "achievement": [
+      "n"
+    ],
+    "acid": [
+      "n"
+    ],
+    "acknowledge": [
+      "v"
+    ],
+    "acquire": [
+      "v"
+    ],
+    "act": [
+      "v",
+      "n"
+    ],
+    "action": [
+      "n"
+    ],
+    "active": [
+      "adj"
+    ],
+    "activity": [
+      "n"
+    ],
+    "actor": [
+      "n"
+    ],
+    "actress": [
+      "n"
+    ],
+    "actually": [
+      "adv"
+    ],
+    "adapt": [
+      "v"
+    ],
+    "adaptation": [
+      "n"
+    ],
+    "add": [
+      "v"
+    ],
+    "addict": [
+      "n",
+      "v"
+    ],
+    "addition": [
+      "n"
+    ],
+    "address": [
+      "n",
+      "v"
+    ],
+    "adjust": [
+      "v"
+    ],
+    "administration": [
+      "n"
+    ],
+    "admire": [
+      "v"
+    ],
+    "admit": [
+      "v"
+    ],
+    "adopt": [
+      "v"
+    ],
+    "adorable": [
+      "adj"
+    ],
+    "adult": [
+      "n",
+      "adj"
+    ],
+    "advance": [
+      "v",
+      "n"
+    ],
+    "advantage": [
+      "n"
+    ],
+    "adventure": [
+      "n"
+    ],
+    "advertise": [
+      "v"
+    ],
+    "advice": [
+      "n"
+    ],
+    "advise": [
+      "v"
+    ],
+    "advocate": [
+      "v",
+      "n"
+    ],
+    "affair": [
+      "n"
+    ],
+    "affect": [
+      "v",
+      "n"
+    ],
+    "afford": [
+      "v"
+    ],
+    "afraid": [
+      "adj"
+    ],
+    "afternoon": [
+      "n"
+    ],
+    "afterward": [
+      "adv"
+    ],
+    "again": [
+      "adv"
+    ],
+    "age": [
+      "n",
+      "v"
+    ],
+    "agency": [
+      "n"
+    ],
+    "agenda": [
+      "n"
+    ],
+    "ago": [
+      "adv"
+    ],
+    "agree": [
+      "v"
+    ],
+    "agreement": [
+      "n"
+    ],
+    "agriculture": [
+      "n"
+    ],
+    "ahead": [
+      "adv"
+    ],
+    "aid": [
+      "n",
+      "v"
+    ],
+    "aim": [
+      "n",
+      "v"
+    ],
+    "air": [
+      "n",
+      "v"
+    ],
+    "airline": [
+      "n"
+    ],
+    "airport": [
+      "n"
+    ],
+    "alarm": [
+      "n",
+      "v"
+    ],
+    "alcohol": [
+      "n"
+    ],
+    "alive": [
+      "adj"
+    ],
+    "allow": [
+      "v"
+    ],
+    "almost": [
+      "adv"
+    ],
+    "alone": [
+      "adj",
+      "adv"
+    ],
+    "aloud": [
+      "adv"
+    ],
+    "already": [
+      "adv"
+    ],
+    "also": [
+      "adv"
+    ],
+    "alternative": [
+      "adj",
+      "n"
+    ],
+    "altogether": [
+      "adv"
+    ],
+    "always": [
+      "adv"
+    ],
+    "amateur": [
+      "n",
+      "adj"
+    ],
+    "amazing": [
+      "adj"
+    ],
+    "ambition": [
+      "n"
+    ],
+    "ambitious": [
+      "adj"
+    ],
+    "ambulance": [
+      "n"
+    ],
+    "amount": [
+      "n",
+      "v"
+    ],
+    "amuse": [
+      "v"
+    ],
+    "analyse": [
+      "v"
+    ],
+    "ancestor": [
+      "n"
+    ],
+    "ancient": [
+      "adj"
+    ],
+    "anger": [
+      "n",
+      "v"
+    ],
+    "angle": [
+      "n",
+      "v"
+    ],
+    "angry": [
+      "adj"
+    ],
+    "animal": [
+      "n"
+    ],
+    "ankle": [
+      "n"
+    ],
+    "announce": [
+      "v"
+    ],
+    "annoy": [
+      "v"
+    ],
+    "annual": [
+      "adj",
+      "n"
+    ],
+    "answer": [
+      "n",
+      "v"
+    ],
+    "ant": [
+      "n"
+    ],
+    "anticipate": [
+      "v"
+    ],
+    "antique": [
+      "adj",
+      "n"
+    ],
+    "anxiety": [
+      "n"
+    ],
+    "anxious": [
+      "adj"
+    ],
+    "anyhow": [
+      "adv"
+    ],
+    "anyway": [
+      "adv"
+    ],
+    "anywhere": [
+      "adv"
+    ],
+    "apart": [
+      "adv"
+    ],
+    "apartment": [
+      "n"
+    ],
+    "apparently": [
+      "adv"
+    ],
+    "appeal": [
+      "n",
+      "v"
+    ],
+    "appear": [
+      "v"
+    ],
+    "appetite": [
+      "n"
+    ],
+    "applaud": [
+      "v"
+    ],
+    "apple": [
+      "n"
+    ],
+    "applicant": [
+      "n"
+    ],
+    "application": [
+      "n"
+    ],
+    "apply": [
+      "v"
+    ],
+    "appointment": [
+      "n"
+    ],
+    "appreciate": [
+      "v"
+    ],
+    "approach": [
+      "n",
+      "v"
+    ],
+    "appropriate": [
+      "adj"
+    ],
+    "approve": [
+      "v"
+    ],
+    "arch": [
+      "n",
+      "v"
+    ],
+    "architect": [
+      "n"
+    ],
+    "area": [
+      "n"
+    ],
+    "argue": [
+      "v"
+    ],
+    "arise": [
+      "v"
+    ],
+    "arm": [
+      "n",
+      "v"
+    ],
+    "army": [
+      "n"
+    ],
+    "arrangement": [
+      "n"
+    ],
+    "arrest": [
+      "n",
+      "v"
+    ],
+    "arrive": [
+      "v"
+    ],
+    "arrow": [
+      "n"
+    ],
+    "art": [
+      "n"
+    ],
+    "article": [
+      "n"
+    ],
+    "artificial": [
+      "adj"
+    ],
+    "artist": [
+      "n"
+    ],
+    "ashamed": [
+      "adj"
+    ],
+    "aside": [
+      "adv",
+      "n"
+    ],
+    "ask": [
+      "v"
+    ],
+    "asleep": [
+      "adj"
+    ],
+    "aspect": [
+      "n"
+    ],
+    "assess": [
+      "v"
+    ],
+    "assign": [
+      "v"
+    ],
+    "assistant": [
+      "n"
+    ],
+    "association": [
+      "n"
+    ],
+    "assume": [
+      "v"
+    ],
+    "assumption": [
+      "n"
+    ],
+    "astonish": [
+      "v"
+    ],
+    "astronaut": [
+      "n"
+    ],
+    "astronomer": [
+      "n"
+    ],
+    "athlete": [
+      "n"
+    ],
+    "atmosphere": [
+      "n"
+    ],
+    "attach": [
+      "v"
+    ],
+    "attack": [
+      "v",
+      "n"
+    ],
+    "attain": [
+      "v"
+    ],
+    "attempt": [
+      "v",
+      "n"
+    ],
+    "attend": [
+      "v"
+    ],
+    "attention": [
+      "n"
+    ],
+    "attitude": [
+      "n"
+    ],
+    "attract": [
+      "v"
+    ],
+    "audience": [
+      "n"
+    ],
+    "aunt": [
+      "n"
+    ],
+    "author": [
+      "n"
+    ],
+    "authority": [
+      "n"
+    ],
+    "automatic": [
+      "adj"
+    ],
+    "autonomous": [
+      "adj"
+    ],
+    "autumn": [
+      "n"
+    ],
+    "available": [
+      "adj"
+    ],
+    "average": [
+      "adj",
+      "n",
+      "v"
+    ],
+    "avoid": [
+      "v"
+    ],
+    "awake": [
+      "adj",
+      "v"
+    ],
+    "award": [
+      "n",
+      "v"
+    ],
+    "aware": [
+      "adj"
+    ],
+    "away": [
+      "adv"
+    ],
+    "awesome": [
+      "adj"
+    ],
+    "awful": [
+      "adj"
+    ],
+    "awkward": [
+      "adj"
+    ],
+    "abandons": [
+      "v"
+    ],
+    "abilities": [
+      "n"
+    ],
+    "absolutelies": [
+      "adv"
+    ],
+    "absorbs": [
+      "v"
+    ],
+    "abuses": [
+      "v",
+      "n"
+    ],
+    "accepts": [
+      "v"
+    ],
+    "accesses": [
+      "n",
+      "v"
+    ],
+    "accommodations": [
+      "n"
+    ],
+    "accounts": [
+      "n",
+      "v"
+    ],
+    "achievements": [
+      "n"
+    ],
+    "achieves": [
+      "v"
+    ],
+    "acknowledges": [
+      "v"
+    ],
+    "acquires": [
+      "v"
+    ],
+    "actions": [
+      "n"
+    ],
+    "activities": [
+      "n"
+    ],
+    "acts": [
+      "v",
+      "n"
+    ],
+    "actuallies": [
+      "adv"
+    ],
+    "adaptations": [
+      "n"
+    ],
+    "adapts": [
+      "v"
+    ],
+    "addicts": [
+      "n",
+      "v"
+    ],
+    "additions": [
+      "n"
+    ],
+    "addresses": [
+      "n",
+      "v"
+    ],
+    "adds": [
+      "v"
+    ],
+    "adjusts": [
+      "v"
+    ],
+    "administrations": [
+      "n"
+    ],
+    "admires": [
+      "v"
+    ],
+    "admits": [
+      "v"
+    ],
+    "adopts": [
+      "v"
+    ],
+    "advances": [
+      "v",
+      "n"
+    ],
+    "advantages": [
+      "n"
+    ],
+    "adventures": [
+      "n"
+    ],
+    "advertises": [
+      "v"
+    ],
+    "advises": [
+      "v"
+    ],
+    "advocates": [
+      "v",
+      "n"
+    ],
+    "affords": [
+      "v"
+    ],
+    "afterwards": [
+      "adv"
+    ],
+    "agains": [
+      "adv"
+    ],
+    "ages": [
+      "n",
+      "v"
+    ],
+    "agoes": [
+      "adv"
+    ],
+    "agreements": [
+      "n"
+    ],
+    "agrees": [
+      "v"
+    ],
+    "aheads": [
+      "adv"
+    ],
+    "aids": [
+      "n",
+      "v"
+    ],
+    "aims": [
+      "n",
+      "v"
+    ],
+    "airs": [
+      "n",
+      "v"
+    ],
+    "alarms": [
+      "n",
+      "v"
+    ],
+    "allows": [
+      "v"
+    ],
+    "alones": [
+      "adj",
+      "adv"
+    ],
+    "alouds": [
+      "adv"
+    ],
+    "alsoes": [
+      "adv"
+    ],
+    "alwayses": [
+      "adv"
+    ],
+    "ambitions": [
+      "n"
+    ],
+    "amounts": [
+      "n",
+      "v"
+    ],
+    "amuses": [
+      "v"
+    ],
+    "announces": [
+      "v"
+    ],
+    "annoys": [
+      "v"
+    ],
+    "answers": [
+      "n",
+      "v"
+    ],
+    "anticipates": [
+      "v"
+    ],
+    "anyhows": [
+      "adv"
+    ],
+    "anyways": [
+      "adv"
+    ],
+    "anywheres": [
+      "adv"
+    ],
+    "apartments": [
+      "n"
+    ],
+    "aparts": [
+      "adv"
+    ],
+    "appeals": [
+      "n",
+      "v"
+    ],
+    "appears": [
+      "v"
+    ],
+    "applauds": [
+      "v"
+    ],
+    "applications": [
+      "n"
+    ],
+    "applies": [
+      "v"
+    ],
+    "appointments": [
+      "n"
+    ],
+    "appreciates": [
+      "v"
+    ],
+    "approves": [
+      "v"
+    ],
+    "argues": [
+      "v"
+    ],
+    "arises": [
+      "v"
+    ],
+    "arrangements": [
+      "n"
+    ],
+    "arrests": [
+      "n",
+      "v"
+    ],
+    "arrives": [
+      "v"
+    ],
+    "artists": [
+      "n"
+    ],
+    "asides": [
+      "adv",
+      "n"
+    ],
+    "asks": [
+      "v"
+    ],
+    "assesses": [
+      "v"
+    ],
+    "assigns": [
+      "v"
+    ],
+    "associations": [
+      "n"
+    ],
+    "assumes": [
+      "v"
+    ],
+    "assumptions": [
+      "n"
+    ],
+    "astonishes": [
+      "v"
+    ],
+    "attaches": [
+      "v"
+    ],
+    "attacks": [
+      "v",
+      "n"
+    ],
+    "attains": [
+      "v"
+    ],
+    "attempts": [
+      "v",
+      "n"
+    ],
+    "attends": [
+      "v"
+    ],
+    "attracts": [
+      "v"
+    ],
+    "authorities": [
+      "n"
+    ],
+    "averages": [
+      "adj",
+      "n",
+      "v"
+    ],
+    "avoids": [
+      "v"
+    ],
+    "awards": [
+      "n",
+      "v"
+    ],
+    "aways": [
+      "adv"
+    ],
+    "abandoning": [
+      "v"
+    ],
+    "absorbing": [
+      "v"
+    ],
+    "abusing": [
+      "v",
+      "n"
+    ],
+    "accepting": [
+      "v"
+    ],
+    "accessing": [
+      "n",
+      "v"
+    ],
+    "accounting": [
+      "n",
+      "v"
+    ],
+    "achieving": [
+      "v"
+    ],
+    "acknowledging": [
+      "v"
+    ],
+    "acquiring": [
+      "v"
+    ],
+    "acting": [
+      "v",
+      "n"
+    ],
+    "adapting": [
+      "v"
+    ],
+    "addicting": [
+      "n",
+      "v"
+    ],
+    "adding": [
+      "v"
+    ],
+    "addressing": [
+      "n",
+      "v"
+    ],
+    "adjusting": [
+      "v"
+    ],
+    "admiring": [
+      "v"
+    ],
+    "admitting": [
+      "v"
+    ],
+    "adopting": [
+      "v"
+    ],
+    "advancing": [
+      "v",
+      "n"
+    ],
+    "advertising": [
+      "v"
+    ],
+    "advising": [
+      "v"
+    ],
+    "advocating": [
+      "v",
+      "n"
+    ],
+    "affecting": [
+      "v",
+      "n"
+    ],
+    "affording": [
+      "v"
+    ],
+    "agreeing": [
+      "v"
+    ],
+    "aiding": [
+      "n",
+      "v"
+    ],
+    "aiming": [
+      "n",
+      "v"
+    ],
+    "airing": [
+      "n",
+      "v"
+    ],
+    "alarming": [
+      "n",
+      "v"
+    ],
+    "allowing": [
+      "v"
+    ],
+    "amounting": [
+      "n",
+      "v"
+    ],
+    "amusing": [
+      "v"
+    ],
+    "announcing": [
+      "v"
+    ],
+    "anticipating": [
+      "v"
+    ],
+    "appealing": [
+      "n",
+      "v"
+    ],
+    "appearing": [
+      "v"
+    ],
+    "applauding": [
+      "v"
+    ],
+    "applying": [
+      "v"
+    ],
+    "appreciating": [
+      "v"
+    ],
+    "approaching": [
+      "n",
+      "v"
+    ],
+    "approving": [
+      "v"
+    ],
+    "arguing": [
+      "v"
+    ],
+    "arising": [
+      "v"
+    ],
+    "arresting": [
+      "n",
+      "v"
+    ],
+    "arriving": [
+      "v"
+    ],
+    "asking": [
+      "v"
+    ],
+    "assessing": [
+      "v"
+    ],
+    "assigning": [
+      "v"
+    ],
+    "assuming": [
+      "v"
+    ],
+    "astonishing": [
+      "v"
+    ],
+    "attaching": [
+      "v"
+    ],
+    "attacking": [
+      "v",
+      "n"
+    ],
+    "attaining": [
+      "v"
+    ],
+    "attempting": [
+      "v",
+      "n"
+    ],
+    "attending": [
+      "v"
+    ],
+    "attracting": [
+      "v"
+    ],
+    "avoiding": [
+      "v"
+    ],
+    "awaking": [
+      "adj",
+      "v"
+    ],
+    "awarding": [
+      "n",
+      "v"
+    ],
+    "abandoned": [
+      "v"
+    ],
+    "absorbed": [
+      "v"
+    ],
+    "abused": [
+      "v",
+      "n"
+    ],
+    "accepted": [
+      "v"
+    ],
+    "accessed": [
+      "n",
+      "v"
+    ],
+    "accompanied": [
+      "v"
+    ],
+    "accounted": [
+      "n",
+      "v"
+    ],
+    "accused": [
+      "v"
+    ],
+    "ached": [
+      "v",
+      "n"
+    ],
+    "achieved": [
+      "v"
+    ],
+    "acknowledged": [
+      "v"
+    ],
+    "acquired": [
+      "v"
+    ],
+    "acted": [
+      "v",
+      "n"
+    ],
+    "adapted": [
+      "v"
+    ],
+    "added": [
+      "v"
+    ],
+    "addicted": [
+      "n",
+      "v"
+    ],
+    "addressed": [
+      "n",
+      "v"
+    ],
+    "adjusted": [
+      "v"
+    ],
+    "admired": [
+      "v"
+    ],
+    "admitted": [
+      "v"
+    ],
+    "adopted": [
+      "v"
+    ],
+    "advanced": [
+      "v",
+      "n"
+    ],
+    "advertised": [
+      "v"
+    ],
+    "advised": [
+      "v"
+    ],
+    "affected": [
+      "v",
+      "n"
+    ],
+    "afforded": [
+      "v"
+    ],
+    "agreed": [
+      "v"
+    ],
+    "alarmed": [
+      "n",
+      "v"
+    ],
+    "allowed": [
+      "v"
+    ],
+    "angled": [
+      "n",
+      "v"
+    ],
+    "announced": [
+      "v"
+    ],
+    "annoyed": [
+      "v"
+    ],
+    "answered": [
+      "n",
+      "v"
+    ],
+    "anticipated": [
+      "v"
+    ],
+    "appealed": [
+      "n",
+      "v"
+    ],
+    "appeared": [
+      "v"
+    ],
+    "applied": [
+      "v"
+    ],
+    "approached": [
+      "n",
+      "v"
+    ],
+    "approved": [
+      "v"
+    ],
+    "arched": [
+      "n",
+      "v"
+    ],
+    "argued": [
+      "v"
+    ],
+    "armed": [
+      "n",
+      "v"
+    ],
+    "arose": [
+      "v"
+    ],
+    "arrested": [
+      "n",
+      "v"
+    ],
+    "arrived": [
+      "v"
+    ],
+    "asked": [
+      "v"
+    ],
+    "assessed": [
+      "v"
+    ],
+    "assigned": [
+      "v"
+    ],
+    "assumed": [
+      "v"
+    ],
+    "attached": [
+      "v"
+    ],
+    "attacked": [
+      "v",
+      "n"
+    ],
+    "attempted": [
+      "v",
+      "n"
+    ],
+    "attended": [
+      "v"
+    ],
+    "attracted": [
+      "v"
+    ],
+    "avoided": [
+      "v"
+    ],
+    "awarded": [
+      "n",
+      "v"
+    ],
+    "awoke": [
+      "adj",
+      "v"
+    ],
+    "abler": [
+      "adj"
+    ],
+    "acher": [
+      "v",
+      "n"
+    ],
+    "acidder": [
+      "n"
+    ],
+    "acter": [
+      "v",
+      "n"
+    ],
+    "actorrer": [
+      "n"
+    ],
+    "adapter": [
+      "v"
+    ],
+    "adder": [
+      "v"
+    ],
+    "admitter": [
+      "v"
+    ],
+    "adopter": [
+      "v"
+    ],
+    "ager": [
+      "n",
+      "v"
+    ],
+    "agreer": [
+      "v"
+    ],
+    "aider": [
+      "n",
+      "v"
+    ],
+    "aimer": [
+      "n",
+      "v"
+    ],
+    "airer": [
+      "n",
+      "v"
+    ],
+    "alarmer": [
+      "n",
+      "v"
+    ],
+    "allower": [
+      "v"
+    ],
+    "angler": [
+      "n",
+      "v"
+    ],
+    "angrier": [
+      "adj"
+    ],
+    "ankler": [
+      "n"
+    ],
+    "annoyyer": [
+      "v"
+    ],
+    "anter": [
+      "n"
+    ],
+    "appler": [
+      "n"
+    ],
+    "applier": [
+      "v"
+    ],
+    "archer": [
+      "n",
+      "v"
+    ],
+    "areaer": [
+      "n"
+    ],
+    "arguer": [
+      "v"
+    ],
+    "armer": [
+      "n",
+      "v"
+    ],
+    "armier": [
+      "n"
+    ],
+    "arrower": [
+      "n"
+    ],
+    "arter": [
+      "n"
+    ],
+    "asker": [
+      "v"
+    ],
+    "aunter": [
+      "n"
+    ],
+    "avoider": [
+      "v"
+    ],
+    "awarder": [
+      "n",
+      "v"
+    ],
+    "awayyer": [
+      "adv"
+    ],
+    "awfuller": [
+      "adj"
+    ],
+    "ablest": [
+      "adj"
+    ],
+    "achest": [
+      "v",
+      "n"
+    ],
+    "aciddest": [
+      "n"
+    ],
+    "actest": [
+      "v",
+      "n"
+    ],
+    "actorrest": [
+      "n"
+    ],
+    "adaptest": [
+      "v"
+    ],
+    "addest": [
+      "v"
+    ],
+    "admittest": [
+      "v"
+    ],
+    "adoptest": [
+      "v"
+    ],
+    "agest": [
+      "n",
+      "v"
+    ],
+    "agreest": [
+      "v"
+    ],
+    "aidest": [
+      "n",
+      "v"
+    ],
+    "aimest": [
+      "n",
+      "v"
+    ],
+    "airest": [
+      "n",
+      "v"
+    ],
+    "alarmest": [
+      "n",
+      "v"
+    ],
+    "allowest": [
+      "v"
+    ],
+    "anglest": [
+      "n",
+      "v"
+    ],
+    "angriest": [
+      "adj"
+    ],
+    "anklest": [
+      "n"
+    ],
+    "annoyyest": [
+      "v"
+    ],
+    "antest": [
+      "n"
+    ],
+    "applest": [
+      "n"
+    ],
+    "appliest": [
+      "v"
+    ],
+    "archest": [
+      "n",
+      "v"
+    ],
+    "areaest": [
+      "n"
+    ],
+    "arguest": [
+      "v"
+    ],
+    "armest": [
+      "n",
+      "v"
+    ],
+    "armiest": [
+      "n"
+    ],
+    "arrowest": [
+      "n"
+    ],
+    "artest": [
+      "n"
+    ],
+    "askest": [
+      "v"
+    ],
+    "auntest": [
+      "n"
+    ],
+    "avoidest": [
+      "v"
+    ],
+    "awardest": [
+      "n",
+      "v"
+    ],
+    "awayyest": [
+      "adv"
+    ],
+    "awfullest": [
+      "adj"
+    ]
+  }
+}

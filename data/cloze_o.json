@@ -1,0 +1,513 @@
+[
+  {
+    "q": "The main <span class='blank'>_____</span> of today's meeting is to discuss the budget for next year.",
+    "answer": "object",
+    "explain": "object n. 物体；目标；对象 / v. 反对。",
+    "translation": "今天会议的主要<strong>目标</strong>是讨论明年的预算。",
+    "pool": "BASE"
+  },
+  {
+    "q": "No one dared to <span class='blank'>_____</span> when the manager announced the new strict rules.",
+    "answer": "object",
+    "explain": "object n. 物体；目标；对象 / v. 反对。",
+    "translation": "经理宣布新的严格规定时，没有人敢<strong>反对</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Our main <span class='blank'>_____</span> is to finish the project before the winter holiday begins.",
+    "answer": "objective",
+    "explain": "objective n. 目标，目的 / adj. 客观的。",
+    "translation": "我们的主要<strong>目标</strong>是在寒假开始前完成这个项目。",
+    "pool": "BASE"
+  },
+  {
+    "q": "We need to take an <span class='blank'>_____</span> look at the problem without personal feelings.",
+    "answer": "objective",
+    "explain": "objective n. 目标，目的 / adj. 客观的。",
+    "translation": "我们需要不带个人感情地<strong>客观地</strong>看待这个问题。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The scientist carefully <span class='blank'>_____</span> the behavior of the wild birds for several weeks.",
+    "answer": "observed",
+    "explain": "observe v. 观察；遵守；庆祝。",
+    "translation": "这位科学家花了几个星期仔细<strong>观察</strong>野生鸟类的行为。",
+    "pool": "PAST"
+  },
+  {
+    "q": "He finally <span class='blank'>_____</span> his driver's license after failing the test twice.",
+    "answer": "obtained",
+    "explain": "obtain v. 获得，得到。",
+    "translation": "在两次考试失败后，他终于<strong>获得</strong>了驾照。",
+    "pool": "PAST"
+  },
+  {
+    "q": "<span class='blank'>_____</span>, she was very tired after working for twelve hours straight.",
+    "answer": "obviously",
+    "explain": "obviously adv. 明显地，显然。",
+    "translation": "<strong>显然</strong>，连续工作十二个小时后她非常疲惫。",
+    "pool": "BASE"
+  },
+  {
+    "q": "This ceremony marks a very special <span class='blank'>_____</span> in the history of our school.",
+    "answer": "occasion",
+    "explain": "occasion n. 场合，时机；重大活动。",
+    "translation": "这次典礼标志着我们学校历史上一个非常特殊的<strong>时刻</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "What is your father's <span class='blank'>_____</span>? He works as a software engineer.",
+    "answer": "occupation",
+    "explain": "occupation n. 职业；占领；消遣。",
+    "translation": "你父亲的<strong>职业</strong>是什么？他是一名软件工程师。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The protesters <span class='blank'>_____</span> the city square for three whole days.",
+    "answer": "occupied",
+    "explain": "occupy v. 占据，占用；使忙于。",
+    "translation": "抗议者<strong>占领</strong>了城市广场整整三天。",
+    "pool": "PAST"
+  },
+  {
+    "q": "The accident <span class='blank'>_____</span> at the busy intersection during the morning rush hour.",
+    "answer": "occurred",
+    "explain": "occur v. 发生，出现；存在。",
+    "translation": "事故发生在早高峰时段那个繁忙的十字路口。",
+    "pool": "PAST"
+  },
+  {
+    "q": "The warm water of the <span class='blank'>_____</span> attracted many swimmers last summer.",
+    "answer": "ocean",
+    "explain": "ocean n. 海洋。",
+    "translation": "去年夏天，<strong>海洋</strong>的温暖海水吸引了许多游泳者。",
+    "pool": "BASE"
+  },
+  {
+    "q": "It is <span class='blank'>_____</span> that he did not show up for such an important meeting.",
+    "answer": "odd",
+    "explain": "odd adj. 奇怪的；奇数的；临时的。",
+    "translation": "他没有出席如此重要的会议，这很<strong>奇怪</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The company decided to <span class='blank'>_____</span> free training to all new employees.",
+    "answer": "offer",
+    "explain": "offer n. 提议，报价 / v. 提供，提议。",
+    "translation": "公司决定为所有新员工<strong>提供</strong>免费培训。",
+    "pool": "BASE"
+  },
+  {
+    "q": "She accepted the job <span class='blank'>_____</span> without any hesitation.",
+    "answer": "offer",
+    "explain": "offer n. 提议，报价 / v. 提供，提议。",
+    "translation": "她毫不犹豫地接受了这份工作的<strong>录用通知</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Please send the documents to my <span class='blank'>_____</span> before the end of the day.",
+    "answer": "office",
+    "explain": "office n. 办公室；办事处。",
+    "translation": "请在今天下班前把文件送到我的<strong>办公室</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The police <span class='blank'>_____</span> asked to see my driver's license and registration.",
+    "answer": "officer",
+    "explain": "officer n. 军官，警官；官员。",
+    "translation": "那位警官要求查看我的驾照和车辆登记证。",
+    "pool": "BASE"
+  },
+  {
+    "q": "We are still waiting for the <span class='blank'>_____</span> announcement from the government.",
+    "answer": "official",
+    "explain": "official adj. 官方的，正式的 / n. 官员",
+    "translation": "我们仍在等待政府的<strong>官方</strong>公告。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The <span class='blank'>_____</span> in charge of the event welcomed all the guests warmly.",
+    "answer": "official",
+    "explain": "official n. 官员 / adj. 官方的，正式的",
+    "translation": "负责这次活动的<strong>官员</strong>热情地欢迎了所有来宾。",
+    "pool": "BASE"
+  },
+  {
+    "q": "How <span class='blank'>_____</span> do you exercise? I try to run three times a week.",
+    "answer": "often",
+    "explain": "often adv. 经常，常常。",
+    "translation": "你<strong>多久</strong>锻炼一次？我尽量每周跑步三次。",
+    "pool": "BASE"
+  },
+  {
+    "q": "You need to add some <span class='blank'>_____</span> to the engine to keep it running smoothly.",
+    "answer": "oil",
+    "explain": "oil n. 油，石油 / v. 给…加油；涂油。",
+    "translation": "你需要给发动机加一些<strong>油</strong>，让它平稳运转。",
+    "pool": "BASE"
+  },
+  {
+    "q": "She needs to <span class='blank'>_____</span> the door hinges to stop them from squeaking.",
+    "answer": "oil",
+    "explain": "oil n. 油，石油 / v. 给…加油；涂油。",
+    "translation": "她需要给门铰链<strong>上油</strong>，以停止吱吱作响。",
+    "pool": "BASE"
+  },
+  {
+    "q": "My grandfather is eighty years <span class='blank'>_____</span>, but he still looks very healthy.",
+    "answer": "old",
+    "explain": "old adj. 老的；旧的；…岁的。",
+    "translation": "我的祖父八十<strong>岁</strong>了，但看起来仍然很健康。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Chop one <span class='blank'>_____</span> finely and add it to the frying pan.",
+    "answer": "onion",
+    "explain": "onion n. 洋葱。",
+    "translation": "把一颗<strong>洋葱</strong>切碎，然后放进煎锅里。",
+    "pool": "BASE"
+  },
+  {
+    "q": "More and more people prefer <span class='blank'>_____</span> shopping because it saves time.",
+    "answer": "online",
+    "explain": "online adj. 在线的 / adv. 在线地。",
+    "translation": "越来越多的人喜欢<strong>在线</strong>购物，因为这样可以节省时间。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The course is designed to help students study <span class='blank'>_____</span> at their own pace.",
+    "answer": "online",
+    "explain": "online adj. 在线的 / adv. 在线地。",
+    "translation": "这门课程旨在帮助学生按照自己的节奏<strong>在线</strong>学习。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The <span class='blank'>_____</span> problem is that we do not have enough money for the trip.",
+    "answer": "only",
+    "explain": "only adj. 唯一的 / adv. 仅仅，只。",
+    "translation": "<strong>唯一的</strong>问题是我们没有足够的钱去旅行。",
+    "pool": "BASE"
+  },
+  {
+    "q": "This ticket is valid <span class='blank'>_____</span> for travel on weekdays.",
+    "answer": "only",
+    "explain": "only adj. 唯一的 / adv. 仅仅，只。",
+    "translation": "这张车票<strong>只</strong>在工作日旅行时有效。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Please leave the door <span class='blank'>_____</span> so that the fresh air can come in.",
+    "answer": "open",
+    "explain": "open adj. 开着的；开放的 / v. 打开。",
+    "translation": "请把门<strong>开</strong>着，让新鲜空气进来。",
+    "pool": "BASE"
+  },
+  {
+    "q": "She <span class='blank'>_____</span> the window and let the cool breeze enter the room.",
+    "answer": "opened",
+    "explain": "open adj. 开着的；开放的 / v. 打开。",
+    "translation": "她<strong>打开</strong>窗户，让凉爽的微风吹进房间。",
+    "pool": "PAST"
+  },
+  {
+    "q": "We went to the <span class='blank'>_____</span> house to watch a famous Italian performance.",
+    "answer": "opera",
+    "explain": "opera n. 歌剧。",
+    "translation": "我们去<strong>歌剧</strong>院观看了一场著名的意大利演出。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The doctor performed a difficult heart <span class='blank'>_____</span> on the young patient.",
+    "answer": "operation",
+    "explain": "operation n. 手术；操作；经营。",
+    "translation": "医生给这位年轻病人做了一次困难的心脏<strong>手术</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The machine <span class='blank'>_____</span> noticed the warning light and stopped the production line.",
+    "answer": "operator",
+    "explain": "operator n. 操作员；接线员。",
+    "translation": "机器<strong>操作员</strong>注意到警示灯，停下了生产线。",
+    "pool": "BASE"
+  },
+  {
+    "q": "In my <span class='blank'>_____</span>, this is the best solution to the problem.",
+    "answer": "opinion",
+    "explain": "opinion n. 意见，看法。",
+    "translation": "依我<strong>看</strong>，这是解决这个问题的最佳方案。",
+    "pool": "BASE"
+  },
+  {
+    "q": "His political <span class='blank'>_____</span> promised to reduce taxes if elected.",
+    "answer": "opponent",
+    "explain": "opponent n. 对手，反对者。",
+    "translation": "他的政治<strong>对手</strong>承诺如果当选就减税。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Do not miss this golden <span class='blank'>_____</span> to study abroad.",
+    "answer": "opportunity",
+    "explain": "opportunity n. 机会，时机。",
+    "translation": "不要错过这个出国留学的黄金<strong>机会</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Many local residents <span class='blank'>_____</span> the plan to build a highway through the park.",
+    "answer": "opposed",
+    "explain": "oppose v. 反对，反抗。",
+    "translation": "许多当地居民<strong>反对</strong>穿过公园修建高速公路的计划。",
+    "pool": "PAST"
+  },
+  {
+    "q": "Hot and cold are complete <span class='blank'>_____</span> when we talk about temperature.",
+    "answer": "opposites",
+    "explain": "opposite n. 相反的事物 / adj. 相反的 / prep. 在…对面。",
+    "translation": "谈到温度时，热和冷是完全的<strong>对立面</strong>。",
+    "pool": "PLURAL"
+  },
+  {
+    "q": "The bank is on the <span class='blank'>_____</span> side of the street from the supermarket.",
+    "answer": "opposite",
+    "explain": "opposite n. 相反的事物 / adj. 相反的 / prep. 在…对面。",
+    "translation": "银行在超市那条街的<strong>对面</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "She remains <span class='blank'>_____</span> about finding a good job after graduation.",
+    "answer": "optimistic",
+    "explain": "optimistic adj. 乐观的。",
+    "translation": "她对毕业后找到一份好工作仍然保持<strong>乐观</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "We have the <span class='blank'>_____</span> to work from home two days a week.",
+    "answer": "option",
+    "explain": "option n. 选择，选项。",
+    "translation": "我们有每周在家工作两天的<strong>选择</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "I drank a glass of fresh <span class='blank'>_____</span> juice for breakfast this morning.",
+    "answer": "orange",
+    "explain": "orange n. 橙子；橙色 / adj. 橙色的。",
+    "translation": "今天早上我喝了一杯新鲜的<strong>橙子</strong>汁当早餐。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The sky turned a beautiful <span class='blank'>_____</span> color as the sun began to set.",
+    "answer": "orange",
+    "explain": "orange n. 橙子；橙色 / adj. 橙色的。",
+    "translation": "太阳开始落山时，天空变成了美丽的<strong>橙色</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The moon travels in <span class='blank'>_____</span> around the Earth once every month.",
+    "answer": "orbit",
+    "explain": "orbit n. 轨道 / v. 环绕…运行。",
+    "translation": "月球每月绕地球<strong>轨道</strong>运行一周。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The satellite was designed to <span class='blank'>_____</span> the Earth for at least ten years.",
+    "answer": "orbit",
+    "explain": "orbit n. 轨道 / v. 环绕…运行。",
+    "translation": "这颗卫星被设计用来<strong>环绕</strong>地球运行至少十年。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Please place your <span class='blank'>_____</span> at the counter, and we will bring the food to you.",
+    "answer": "order",
+    "explain": "order n. 顺序；订单；命令 / v. 订购；命令。",
+    "translation": "请在柜台<strong>点</strong>餐，我们会把食物端给你。",
+    "pool": "BASE"
+  },
+  {
+    "q": "She <span class='blank'>_____</span> a cup of coffee and a sandwich at the small café.",
+    "answer": "ordered",
+    "explain": "order n. 顺序；订单；命令 / v. 订购；命令。",
+    "translation": "她在那家小咖啡馆<strong>点了</strong>一杯咖啡和一个三明治。",
+    "pool": "PAST"
+  },
+  {
+    "q": "It was just an <span class='blank'>_____</span> day at school, with nothing special happening.",
+    "answer": "ordinary",
+    "explain": "ordinary adj. 普通的，平常的。",
+    "translation": "这只是学校里的一个<strong>普通</strong>日子，没有什么特别的事情发生。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The heart is the most important <span class='blank'>_____</span> in the human body.",
+    "answer": "organ",
+    "explain": "organ n. 器官；机构；风琴。",
+    "translation": "心脏是人体最重要的<strong>器官</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Many people prefer to buy <span class='blank'>_____</span> vegetables because they contain fewer chemicals.",
+    "answer": "organic",
+    "explain": "organic adj. 有机的；器官的。",
+    "translation": "许多人喜欢买<strong>有机</strong>蔬菜，因为它们含有的化学物质更少。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The charity <span class='blank'>_____</span> was founded to help homeless people in the city.",
+    "answer": "organization",
+    "explain": "organization n. 组织，机构。",
+    "translation": "这家慈善<strong>组织</strong>成立的目的是帮助城里的无家可归者。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The <span class='blank'>_____</span> of this tradition can be traced back to ancient Rome.",
+    "answer": "origin",
+    "explain": "origin n. 起源，出身；来源。",
+    "translation": "这一传统的<strong>起源</strong>可以追溯到古罗马。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The <span class='blank'>_____</span> plan was too expensive, so we had to make some changes.",
+    "answer": "original",
+    "explain": "original adj. 原始的，最初的 / n. 原作，原稿。",
+    "translation": "<strong>最初的</strong>计划太贵了，所以我们不得不做一些修改。",
+    "pool": "BASE"
+  },
+  {
+    "q": "This painting is an <span class='blank'>_____</span>, not a copy, and it is worth a lot of money.",
+    "answer": "original",
+    "explain": "original adj. 原始的，最初的 / n. 原作，原稿。",
+    "translation": "这幅画是<strong>原作</strong>，不是复制品，值很多钱。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Do you have any <span class='blank'>_____</span> questions before we finish the class?",
+    "answer": "other",
+    "explain": "other adj./pron. 其他的，另外的。",
+    "translation": "下课前你们还有<strong>其他</strong>问题吗？",
+    "pool": "BASE"
+  },
+  {
+    "q": "The <span class='blank'>_____</span> of the election surprised many political experts.",
+    "answer": "outcome",
+    "explain": "outcome n. 结果，成果。",
+    "translation": "选举的<strong>结果</strong>让许多政治专家感到惊讶。",
+    "pool": "BASE"
+  },
+  {
+    "q": "She is very <span class='blank'>_____</span> and makes friends easily wherever she goes.",
+    "answer": "outgoing",
+    "explain": "outgoing adj. 外向的；即将离任的。",
+    "translation": "她很<strong>外向</strong>，无论到哪里都很容易交到朋友。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Before writing the essay, please prepare a clear <span class='blank'>_____</span> of your main ideas.",
+    "answer": "outline",
+    "explain": "outline n. 大纲，轮廓 / v. 概述，勾勒。",
+    "translation": "写作文之前，请先为你的主要观点准备一个清晰的<strong>大纲</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The manager will <span class='blank'>_____</span> the new plan at tomorrow's meeting.",
+    "answer": "outline",
+    "explain": "outline n. 大纲，轮廓 / v. 概述，勾勒。",
+    "translation": "经理将在明天的会议上<strong>概述</strong>新计划。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The factory has increased its daily <span class='blank'>_____</span> by twenty percent this year.",
+    "answer": "output",
+    "explain": "output n. 产量，输出 / v. 输出。",
+    "translation": "这家工厂今年的日<strong>产量</strong>提高了百分之二十。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The machine <span class='blank'>_____</span> high-quality products at a steady speed.",
+    "answer": "outputs",
+    "explain": "output n. 产量，输出 / v. 输出。",
+    "translation": "这台机器以稳定的速度<strong>输出</strong>高质量产品。",
+    "pool": "THIRD"
+  },
+  {
+    "q": "The children love to play <span class='blank'>_____</span> in the garden after school.",
+    "answer": "outside",
+    "explain": "outside n. 外部 / adj. 外面的 / adv. 在外面 / prep. 在…外面。",
+    "translation": "孩子们放学后喜欢在花园<strong>外面</strong>玩。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The <span class='blank'>_____</span> walls of the old house need to be repainted soon.",
+    "answer": "outside",
+    "explain": "outside n. 外部 / adj. 外面的 / adv. 在外面 / prep. 在…外面。",
+    "translation": "这座老房子的<strong>外墙</strong>很快需要重新粉刷。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The student received an <span class='blank'>_____</span> award for his excellent academic performance.",
+    "answer": "outstanding",
+    "explain": "outstanding adj. 杰出的；未解决的。",
+    "translation": "这名学生因优异的学业表现获得了一项<strong>杰出</strong>奖。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The <span class='blank'>_____</span> result of the project was better than we had expected.",
+    "answer": "overall",
+    "explain": "overall adj. 总体的 / adv. 总的来说 / n. 工作服。",
+    "translation": "这个项目的<strong>总体</strong>结果比我们预期的要好。",
+    "pool": "BASE"
+  },
+  {
+    "q": "<span class='blank'>_____</span>, I think the conference was a great success.",
+    "answer": "overall",
+    "explain": "overall adj. 总体的 / adv. 总的来说 / n. 工作服。",
+    "translation": "<strong>总的来说</strong>，我认为这次会议非常成功。",
+    "pool": "BASE"
+  },
+  {
+    "q": "She finally <span class='blank'>_____</span> her fear of public speaking after years of practice.",
+    "answer": "overcame",
+    "explain": "overcome v. 克服，战胜。",
+    "translation": "经过多年的练习，她终于<strong>克服</strong>了公开演讲的恐惧。",
+    "pool": "PAST"
+  },
+  {
+    "q": "Many students dream of getting an <span class='blank'>_____</span> education at a famous university.",
+    "answer": "overseas",
+    "explain": "overseas adj. 海外的 / adv. 在海外。",
+    "translation": "许多学生梦想在一所著名大学接受<strong>海外</strong>教育。",
+    "pool": "BASE"
+  },
+  {
+    "q": "After graduation, he decided to work <span class='blank'>_____</span> for a few years.",
+    "answer": "overseas",
+    "explain": "overseas adj. 海外的 / adv. 在海外。",
+    "translation": "毕业后，他决定<strong>去海外</strong>工作几年。",
+    "pool": "BASE"
+  },
+  {
+    "q": "He <span class='blank'>_____</span> me fifty dollars because I paid for his lunch last week.",
+    "answer": "owes",
+    "explain": "owe v. 欠；归功于。",
+    "translation": "他<strong>欠</strong>我五十美元，因为上周我替他付了午餐钱。",
+    "pool": "THIRD"
+  },
+  {
+    "q": "I would like to have my <span class='blank'>_____</span> room so that I can study in peace.",
+    "answer": "own",
+    "explain": "own adj. 自己的 / v. 拥有。",
+    "translation": "我想有一间<strong>自己的</strong>房间，这样我可以安静地学习。",
+    "pool": "BASE"
+  },
+  {
+    "q": "She wants to <span class='blank'>_____</span> her own business one day.",
+    "answer": "own",
+    "explain": "own adj. 自己的 / v. 拥有。",
+    "translation": "她希望有一天能<strong>拥有</strong>自己的生意。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Fish cannot live without <span class='blank'>_____</span> in the water.",
+    "answer": "oxygen",
+    "explain": "oxygen n. 氧气。",
+    "translation": "水里没有<strong>氧气</strong>，鱼就无法生存。",
+    "pool": "BASE"
+  }
+]

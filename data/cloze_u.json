@@ -1,0 +1,205 @@
+[
+  {
+    "q": "The old building was so <span class='blank'>_____</span> that nobody wanted to buy it.",
+    "answer": "ugly",
+    "explain": "ugly adj. 丑陋的。",
+    "translation": "那栋旧楼太<strong>丑</strong>了，没人想买。",
+    "pool": "BASE"
+  },
+  {
+    "q": "<span class='blank'>_____</span>, the success of the plan depends on everyone's cooperation.",
+    "answer": "Ultimately",
+    "explain": "ultimately adv. 最终。",
+    "translation": "<strong>最终</strong>，计划的成功取决于每个人的合作。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Do not forget to bring an <span class='blank'>_____</span> in case it starts to rain.",
+    "answer": "umbrella",
+    "explain": "umbrella n. 雨伞。",
+    "translation": "别忘了带<strong>雨伞</strong>，以防下雨。",
+    "pool": "BASE"
+  },
+  {
+    "q": "My <span class='blank'>_____</span> taught me how to ride a bike when I was five years old.",
+    "answer": "uncle",
+    "explain": "uncle n. 叔叔；舅舅。",
+    "translation": "我<strong>叔叔</strong>在我五岁时教会了我骑自行车。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The city has an extensive <span class='blank'>_____</span> railway system.",
+    "answer": "underground",
+    "explain": "underground adj. 地下的。",
+    "translation": "这座城市有庞大的<strong>地下</strong>铁路系统。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The animals dug <span class='blank'>_____</span> to escape the cold winter weather.",
+    "answer": "underground",
+    "explain": "underground adv. 在地下。",
+    "translation": "动物们挖到<strong>地下</strong>以躲避寒冷的冬季。",
+    "pool": "BASE"
+  },
+  {
+    "q": "His instructions were clear and easily <span class='blank'>_____</span> by all the new staff.",
+    "answer": "understood",
+    "explain": "understand v. 理解。过去式 understood。",
+    "translation": "他的指示很清晰，所有新员工都能轻松<strong>理解</strong>。",
+    "pool": "PAST"
+  },
+  {
+    "q": "All students must wear a school <span class='blank'>_____</span> during weekday classes.",
+    "answer": "uniform",
+    "explain": "uniform n. 制服。",
+    "translation": "所有学生在上课日必须穿<strong>校服</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The walls were painted a <span class='blank'>_____</span> color throughout the entire building.",
+    "answer": "uniform",
+    "explain": "uniform adj. 统一的。",
+    "translation": "整栋楼的墙壁都漆成了<strong>统一的</strong>颜色。",
+    "pool": "BASE"
+  },
+  {
+    "q": "Each person's fingerprints are <span class='blank'>_____</span> and cannot be copied exactly.",
+    "answer": "unique",
+    "explain": "unique adj. 独特的。",
+    "translation": "每个人的指纹都是<strong>独特的</strong>，无法被精确复制。",
+    "pool": "BASE"
+  },
+  {
+    "q": "We are studying the basic <span class='blank'>_____</span> of weight in our science class.",
+    "answer": "unit",
+    "explain": "unit n. 单位。",
+    "translation": "我们在科学课上学习重量的基本<strong>单位</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The <span class='blank'>_____</span> is believed to be about fourteen billion years old.",
+    "answer": "universe",
+    "explain": "universe n. 宇宙。",
+    "translation": "据信<strong>宇宙</strong>大约有140亿年的历史。",
+    "pool": "BASE"
+  },
+  {
+    "q": "She hopes to attend a top <span class='blank'>_____</span> to study medicine next autumn.",
+    "answer": "university",
+    "explain": "university n. 大学。",
+    "translation": "她希望明年秋天进入一所顶尖<strong>大学</strong>学习医学。",
+    "pool": "BASE"
+  },
+  {
+    "q": "It is <span class='blank'>_____</span> for snow to fall in this warm coastal region.",
+    "answer": "unusual",
+    "explain": "unusual adj. 不寻常的。",
+    "translation": "在这个温暖的沿海地区下雪是很<strong>不寻常的</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The latest software <span class='blank'>_____</span> fixed several security problems.",
+    "answer": "update",
+    "explain": "update n. 更新。",
+    "translation": "最新的软件<strong>更新</strong>修复了几个安全问题。",
+    "pool": "BASE"
+  },
+  {
+    "q": "She <span class='blank'>_____</span> her resume before applying for the new position.",
+    "answer": "updated",
+    "explain": "update v. 更新。过去式 updated。",
+    "translation": "她在申请新职位前<strong>更新了</strong>简历。",
+    "pool": "PAST"
+  },
+  {
+    "q": "The <span class='blank'>_____</span> floor of the building has a beautiful view of the park.",
+    "answer": "upper",
+    "explain": "upper adj. 上层的。",
+    "translation": "这栋楼的<strong>上层</strong>可以看到公园的美景。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The child was very <span class='blank'>_____</span> when his favorite toy broke into pieces.",
+    "answer": "upset",
+    "explain": "upset adj. 难过的。",
+    "translation": "当最喜欢的玩具摔碎时，孩子非常<strong>难过</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "It is <span class='blank'>_____</span> to see so much good food thrown away every day.",
+    "answer": "upsetting",
+    "explain": "upset v. 使难过。现在分词 upsetting。",
+    "translation": "看到每天有这么多好的食物被扔掉真是令人<strong>难过</strong>。",
+    "pool": "ING"
+  },
+  {
+    "q": "<span class='blank'>_____</span> areas usually have more job opportunities than rural regions.",
+    "answer": "Urban",
+    "explain": "urban adj. 城市的。",
+    "translation": "<strong>城市</strong>地区通常比农村地区有更多的就业机会。",
+    "pool": "BASE"
+  },
+  {
+    "q": "I felt a sudden <span class='blank'>_____</span> to call my parents after hearing the good news.",
+    "answer": "urge",
+    "explain": "urge n. 冲动。",
+    "translation": "听到好消息后，我突然有一种给父母打电话的<strong>冲动</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The coach <span class='blank'>_____</span> the team to practice harder before the final game.",
+    "answer": "urged",
+    "explain": "urge v. 敦促。过去式 urged。",
+    "translation": "教练<strong>敦促</strong>队员们在决赛前更加努力训练。",
+    "pool": "PAST"
+  },
+  {
+    "q": "This is an <span class='blank'>_____</span> matter that requires immediate attention today.",
+    "answer": "urgent",
+    "explain": "urgent adj. 紧急的。",
+    "translation": "这是一件<strong>紧急的</strong>事情，需要今天立即处理。",
+    "pool": "BASE"
+  },
+  {
+    "q": "The <span class='blank'>_____</span> of mobile phones is not allowed during the examination.",
+    "answer": "use",
+    "explain": "use n. 使用。",
+    "translation": "考试期间不允许<strong>使用</strong>手机。",
+    "pool": "BASE"
+  },
+  {
+    "q": "She is <span class='blank'>_____</span> a new method to teach children how to read.",
+    "answer": "using",
+    "explain": "use v. 使用。现在分词 using。",
+    "translation": "她正在<strong>使用</strong>一种新方法教孩子们阅读。",
+    "pool": "ING"
+  },
+  {
+    "q": "He bought a <span class='blank'>_____</span> car because a new one was too expensive.",
+    "answer": "used",
+    "explain": "used adj. 二手的。",
+    "translation": "他买了一辆<strong>二手</strong>车，因为新车太贵了。",
+    "pool": "BASE"
+  },
+  {
+    "q": "This app is very <span class='blank'>_____</span> for learning English vocabulary every day.",
+    "answer": "useful",
+    "explain": "useful adj. 有用的。",
+    "translation": "这个应用对每天学习英语词汇非常<strong>有用</strong>。",
+    "pool": "BASE"
+  },
+  {
+    "q": "I went to my <span class='blank'>_____</span> coffee shop and ordered a hot latte.",
+    "answer": "usual",
+    "explain": "usual adj. 通常的。",
+    "translation": "我去了我<strong>常去的</strong>咖啡店，点了一杯热拿铁。",
+    "pool": "BASE"
+  },
+  {
+    "q": "I <span class='blank'>_____</span> walk to school, but today I took the bus instead.",
+    "answer": "usually",
+    "explain": "usually adv. 通常。",
+    "translation": "我<strong>通常</strong>走路去学校，但今天我坐了公交车。",
+    "pool": "BASE"
+  }
+]
