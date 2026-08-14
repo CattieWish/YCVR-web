@@ -302,6 +302,14 @@
   .option.selected .option-letter { background: var(--accent); color: var(--bg); border-color: var(--accent); }
   .option.correct .option-letter { background: var(--success); color: var(--bg); border-color: var(--success); }
   .option.wrong .option-letter { background: var(--error); color: var(--bg); border-color: var(--error); }
+  /* 提交后选项右侧的释义 */
+  .option-meaning {
+    margin-left: auto;
+    padding-left: 12px;
+    font-size: .8rem;
+    color: var(--text-secondary);
+    text-align: right;
+  }
   .btn-primary {
     background: linear-gradient(120deg, var(--accent), #8b5cf6);
     color: #14101f;
@@ -1240,7 +1248,7 @@ function setPageMode(id) {
   document.body.classList.toggle('mode-challenge', isChallenge);
 }
 
-function goTo(id, skipPush) {
+function goTo(id, skipPush, replace) {
   const activePage = document.querySelector('.page.active');
   const fromId = activePage ? activePage.id : null;
   document.querySelectorAll('.page').forEach(p => p.classList.remove('active'));
@@ -1251,8 +1259,10 @@ function goTo(id, skipPush) {
   if (bar) bar.style.display = id === 'page-quiz' ? 'block' : 'none';
   if (id === 'page-quiz') updateQuizProgress();
   // 写入浏览器历史，让返回键在站内逐页回退；连续切换到同一页不重复入栈
+  // replace=true 时用新页面替换当前历史记录（如随机挑战交卷后，结果页顶替答题页，防止回退改答案）
   if (!skipPush && fromId && fromId !== id) {
-    history.pushState({ page: id }, '', '#' + id);
+    if (replace) history.replaceState({ page: id }, '', '#' + id);
+    else history.pushState({ page: id }, '', '#' + id);
   }
 }
 
@@ -1334,6 +1344,24 @@ function getWeeklyPos(word) {
   const base = window.POOLS_WEEKLY.VARIANTS && window.POOLS_WEEKLY.VARIANTS[w];
   if (base && window.POOLS_WEEKLY.POS[base]) return window.POOLS_WEEKLY.POS[base];
   return null;
+}
+
+// 提交复盘时选项旁的释义：变体还原原形后查 DICT；weekly 题优先本周词库、回退 3K，3K 题反之亦然
+function getOptionMeaning(word, scope) {
+  if (!word) return '';
+  const w = word.toLowerCase();
+  const weekly = window.POOLS_WEEKLY || {};
+  const dict3k = window.POOLS_3K ? window.POOLS_3K.DICT : null;
+  const maps = scope === 'weekly'
+    ? [[weekly.DICT, weekly.VARIANTS], [dict3k, null]]
+    : [[dict3k, null], [weekly.DICT, weekly.VARIANTS]];
+  for (const [dict, variants] of maps) {
+    if (!dict) continue;
+    if (dict[w]) return dict[w];
+    const base = (variants && variants[w]) || (window.VARIANT_MAP && window.VARIANT_MAP[w]);
+    if (base && dict[base]) return dict[base];
+  }
+  return '';
 }
 
 function generateQuizSet(rawData, type, scope) {
@@ -1621,6 +1649,12 @@ function renderQuiz() {
       html += '<div class="' + cls + '" onclick="selectOption(' + idx + ', ' + oidx + ')" id="opt-' + idx + '-' + oidx + '">';
       html += '<span class="option-letter">' + String.fromCharCode(65+oidx) + '</span>';
       html += '<span>' + opt + '</span>';
+      // 提交后 cloze 题在选项右侧显示释义（词义匹配选项本身即释义，不追加）
+      const isCloze = item.type === 'cloze' || (currentType === 'cloze' && !item.type);
+      if (submitted && isCloze) {
+        const meaning = getOptionMeaning(opt, item.scope || currentScope);
+        if (meaning) html += '<span class="option-meaning">' + meaning + '</span>';
+      }
       html += '</div>';
     });
     html += '</div>';
@@ -1704,7 +1738,7 @@ function submitQuiz() {
       document.getElementById('reward-box').style.display = 'none';
       document.getElementById('retry-box').style.display = 'block';
     }
-    goTo('page-result');
+    goTo('page-result', false, true);
   } else {
     renderQuiz();
   }
