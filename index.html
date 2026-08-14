@@ -536,6 +536,20 @@
   .status-box.loading { border-color: var(--accent); color: var(--text); }
   .status-box.error { border-color: var(--error); color: var(--error); }
   .status-box.empty { border-color: var(--warning); color: var(--warning); }
+  /* 加载中点点点动画 */
+  .loading-dots { display: inline-flex; gap: 4px; margin-left: 6px; vertical-align: baseline; }
+  .loading-dots i {
+    width: 5px; height: 5px;
+    border-radius: 50%;
+    background: currentColor;
+    animation: dotPulse 1.2s ease-in-out infinite;
+  }
+  .loading-dots i:nth-child(2) { animation-delay: .2s; }
+  .loading-dots i:nth-child(3) { animation-delay: .4s; }
+  @keyframes dotPulse {
+    0%, 60%, 100% { opacity: .25; transform: translateY(0); }
+    30% { opacity: 1; transform: translateY(-2px); }
+  }
   /* 字母选择页：键盘按键风格 */
   .letter-grid {
     display: grid;
@@ -1226,7 +1240,9 @@ function setPageMode(id) {
   document.body.classList.toggle('mode-challenge', isChallenge);
 }
 
-function goTo(id) {
+function goTo(id, skipPush) {
+  const activePage = document.querySelector('.page.active');
+  const fromId = activePage ? activePage.id : null;
   document.querySelectorAll('.page').forEach(p => p.classList.remove('active'));
   document.getElementById(id).classList.add('active');
   setPageMode(id);
@@ -1234,6 +1250,10 @@ function goTo(id) {
   const bar = document.getElementById('quiz-progress');
   if (bar) bar.style.display = id === 'page-quiz' ? 'block' : 'none';
   if (id === 'page-quiz') updateQuizProgress();
+  // 写入浏览器历史，让返回键在站内逐页回退；连续切换到同一页不重复入栈
+  if (!skipPush && fromId && fromId !== id) {
+    history.pushState({ page: id }, '', '#' + id);
+  }
 }
 
 function setQuizStatus(message, type) {
@@ -1246,7 +1266,11 @@ function setQuizStatus(message, type) {
     return;
   }
   el.className = 'status-box' + (type ? ' ' + type : '');
-  el.textContent = message;
+  if (type === 'loading') {
+    el.innerHTML = message + '<span class="loading-dots"><i></i><i></i><i></i></span>';
+  } else {
+    el.textContent = message;
+  }
   el.style.display = 'block';
 }
 
@@ -1504,7 +1528,7 @@ async function startQuiz(type, scope, mode, letters) {
   submitted = false;
   stopTimer();
   goTo('page-quiz');
-  setQuizStatus('正在加载题目…', 'loading');
+  setQuizStatus('正在加载题目', 'loading');
   document.getElementById('quiz-container').innerHTML = '';
 
   try {
@@ -1842,7 +1866,7 @@ async function showWeekMaterial(weekId, cardEl) {
   document.querySelectorAll('#material-grid .card').forEach(c => c.classList.remove('selected'));
   if (cardEl) cardEl.classList.add('selected');
   const box = document.getElementById('material-content');
-  box.innerHTML = '<div class="status-box loading">正在加载材料…</div>';
+  box.innerHTML = '<div class="status-box loading">正在加载材料<span class="loading-dots"><i></i><i></i><i></i></span></div>';
   try {
     const res = await fetch('data/' + week.material);
     if (!res.ok) throw new Error('加载失败: data/' + week.material + ' (' + res.status + ')');
@@ -1927,7 +1951,7 @@ async function startRandom(scope) {
     submitted = false;
     stopTimer();
     goTo('page-quiz');
-    setQuizStatus('正在准备随机挑战…', 'loading');
+    setQuizStatus('正在准备随机挑战', 'loading');
     document.getElementById('quiz-container').innerHTML = '';
 
     const use3k = currentRandomScope === '3k' || currentRandomScope === 'all';
@@ -2038,8 +2062,26 @@ setInterval(() => {
   setTimeout(() => { el.textContent = TAGLINES[taglineIdx]; el.style.opacity = 1; }, 400);
 }, 5000);
 
+// ===== 浏览器前进/后退：站内页面切换 =====
+window.addEventListener('popstate', function(e) {
+  const hashId = location.hash ? location.hash.slice(1) : 'page-home';
+  const id = (e.state && e.state.page) || hashId;
+  const el = document.getElementById(id);
+  const target = (el && el.classList.contains('page')) ? id : 'page-home';
+  const activePage = document.querySelector('.page.active');
+  // 答题中途按返回键离开，停止计时
+  if (activePage && activePage.id === 'page-quiz' && target !== 'page-quiz') stopTimer();
+  goTo(target, true);
+});
+
 // ===== 初始化 =====
 document.addEventListener('DOMContentLoaded', async function() {
+  // 根据 URL hash 恢复页面（刷新后停留在原页），并写入栈底历史记录
+  const hashId = location.hash ? location.hash.slice(1) : 'page-home';
+  const hashEl = document.getElementById(hashId);
+  const initial = (hashEl && hashEl.classList.contains('page')) ? hashId : 'page-home';
+  history.replaceState({ page: initial }, '', '#' + initial);
+  if (initial !== 'page-home') goTo(initial, true);
   try {
     await loadData('pools_index');
   } catch (e) {
