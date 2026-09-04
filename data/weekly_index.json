@@ -7,6 +7,14 @@
       "pools": "pools_weekly_202608",
       "cloze": "cloze_weekly_202608",
       "material": "weekly_202608.md"
+    },
+    {
+      "id": "202609",
+      "title": "学期第 1 周词汇",
+      "subtitle": "2026 秋季学期 · 第 2 期",
+      "pools": "pools_weekly_202609",
+      "cloze": "cloze_weekly_202609",
+      "material": "weekly_202609.md"
     }
   ]
 }
