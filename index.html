@@ -1001,7 +1001,7 @@
     </div>
     <button class="back-btn" onclick="goTo('page-weekly')">← 返回</button>
   </div>
-  <div class="card-grid" id="week-grid" style="margin-top:32px;"></div>
+  <div class="letter-grid" id="week-grid" style="margin-top:32px;"></div>
   <div style="text-align:center; margin-top:32px;">
     <button class="btn-primary" id="start-week-directed-btn" onclick="startWeekDirectedQuiz()" disabled>开始出题</button>
     <p id="week-hint" style="color:var(--text-secondary); margin-top:12px; font-size:.85rem;">请至少选择1期材料</p>
@@ -1017,7 +1017,7 @@
     </div>
     <button class="back-btn" onclick="goTo('page-weekly')">← 返回</button>
   </div>
-  <div class="card-grid" id="material-grid" style="margin-top:32px;"></div>
+  <div class="letter-grid" id="material-grid" style="margin-top:32px;"></div>
   <div id="material-content" style="margin-top:24px;"></div>
 </div>
 
@@ -1836,10 +1836,9 @@ function renderWeekGrid() {
   const weeks = window.WEEKLY_INDEX || [];
   let html = '';
   weeks.forEach(w => {
-    const cls = 'card' + (selectedWeeks.includes(w.id) ? ' selected' : '');
-    html += '<div class="' + cls + '" onclick="toggleWeek(\'' + w.id + '\')">' +
-      '<div class="card-title">' + w.title + '</div>' +
-      '<div class="card-desc">' + (w.subtitle || '') + '</div></div>';
+    const cls = 'letter-btn' + (selectedWeeks.includes(w.id) ? ' selected' : '');
+    html += '<div class="' + cls + '" title="' + w.title + '" onclick="toggleWeek(\'' + w.id + '\')">' +
+      (w.short || w.title) + '</div>';
   });
   grid.innerHTML = html;
   updateWeekHint();
@@ -1880,9 +1879,8 @@ async function goToMaterialSelect() {
     const grid = document.getElementById('material-grid');
     let html = '';
     (window.WEEKLY_INDEX || []).forEach(w => {
-      html += '<div class="card" onclick="showWeekMaterial(\'' + w.id + '\', this)">' +
-        '<div class="card-title">' + w.title + '</div>' +
-        '<div class="card-desc">' + (w.subtitle || '') + '</div></div>';
+      html += '<div class="letter-btn" title="' + w.title + '" onclick="showWeekMaterial(\'' + w.id + '\', this)">' +
+        (w.short || w.title) + '</div>';
     });
     grid.innerHTML = html;
     document.getElementById('material-content').innerHTML = '';
@@ -1897,7 +1895,7 @@ async function goToMaterialSelect() {
 async function showWeekMaterial(weekId, cardEl) {
   const week = (window.WEEKLY_INDEX || []).find(w => w.id === weekId);
   if (!week) return;
-  document.querySelectorAll('#material-grid .card').forEach(c => c.classList.remove('selected'));
+  document.querySelectorAll('#material-grid .letter-btn').forEach(c => c.classList.remove('selected'));
   if (cardEl) cardEl.classList.add('selected');
   const box = document.getElementById('material-content');
   box.innerHTML = '<div class="status-box loading">正在加载材料<span class="loading-dots"><i></i><i></i><i></i></span></div>';

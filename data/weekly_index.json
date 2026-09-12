@@ -2,6 +2,7 @@
   "weeks": [
     {
       "id": "202608",
+      "short": "S",
       "title": "暑假词汇复习",
       "subtitle": "2026 秋季学期 · 第 1 期",
       "pools": "pools_weekly_202608",
@@ -10,11 +11,21 @@
     },
     {
       "id": "202609",
+      "short": "W1",
       "title": "学期第 1 周词汇",
       "subtitle": "2026 秋季学期 · 第 2 期",
       "pools": "pools_weekly_202609",
       "cloze": "cloze_weekly_202609",
       "material": "weekly_202609.md"
+    },
+    {
+      "id": "202610",
+      "short": "W2",
+      "title": "学期第 2 周词汇",
+      "subtitle": "2026 秋季学期 · 第 3 期",
+      "pools": "pools_weekly_202610",
+      "cloze": "cloze_weekly_202610",
+      "material": "weekly_202610.md"
     }
   ]
 }
