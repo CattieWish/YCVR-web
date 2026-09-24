@@ -35,6 +35,15 @@
       "pools": "pools_weekly_202611",
       "cloze": "cloze_weekly_202611",
       "material": "weekly_202611.md"
+    },
+    {
+      "id": "202612",
+      "short": "W4",
+      "title": "学期第 4 周词汇",
+      "subtitle": "2026 秋季学期 · 第 5 期",
+      "pools": "pools_weekly_202612",
+      "cloze": "cloze_weekly_202612",
+      "material": "weekly_202612.md"
     }
   ]
 }
