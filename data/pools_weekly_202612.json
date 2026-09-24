@@ -2,8 +2,9 @@
   "BASE": [
     "absorb", "access", "advance", "affect", "aroma", "average", "bear",
     "border", "chance", "character", "commitment", "counter", "critical",
-    "cure", "deadly", "delicate", "delight", "emerge", "enforce",
-    "enforcement", "experience", "extra", "faint", "feature", "frontier",
+    "cure", "deadly", "delicate", "delight", "despite", "during",
+    "emerge", "enforce", "enforcement", "experience", "extra", "faint",
+    "feature", "frontier",
     "ground", "hand", "handful", "help", "infect", "infection",
     "institution", "lash", "launch", "literature", "loyal", "maintain",
     "mature", "necessarily", "occur", "optimistic", "outdo", "outnumber",
@@ -11,7 +12,8 @@
     "pessimistic", "power", "practice", "prolong", "regain", "remarkable",
     "remedy", "renew", "resign", "resist", "resistant", "shade", "shift",
     "signal", "still", "streaming", "subscribe", "subscription", "succeed",
-    "successive", "successively", "tariff", "unaffected", "victim"
+    "successive", "successively", "tariff", "toward", "unaffected",
+    "upon", "victim"
   ],
   "PLURAL": [
     "advances", "characters", "extras", "institutions", "victims"
@@ -59,6 +61,8 @@
     "deadly": "adj. 致命的 / adv. 极其、非常",
     "delicate": "adj. 精致的、精巧的 / 微妙的、需要谨慎处理的 / 脆弱的 / 微小的、细微的",
     "delight": "n. 高兴、愉快 / v. 使高兴、使快乐",
+    "despite": "prep. 尽管、即使",
+    "during": "prep. 在……期间",
     "emerge": "v. 出现、浮现 / 显露、暴露",
     "enforce": "v. 执行、实施 / 强制、迫使",
     "enforcement": "n. 执行、实施",
@@ -113,7 +117,9 @@
     "successive": "adj. 连续的、接连的",
     "successively": "adv. 连续地、依次地",
     "tariff": "n. 关税、税率",
+    "toward": "prep. 向、朝、对于",
     "unaffected": "adj. 未受影响的、不受影响的 / 不矫揉造作的、自然的",
+    "upon": "prep. 一……就…… / 在……上",
     "victim": "n. 受害者、牺牲品"
   },
   "POS": {
@@ -123,7 +129,8 @@
     "character": ["n"], "commitment": ["n"],
     "counter": ["v", "n", "adj", "adv"], "critical": ["adj"],
     "cure": ["n", "v"], "deadly": ["adj", "adv"], "delicate": ["adj"],
-    "delight": ["n", "v"], "emerge": ["v"], "enforce": ["v"],
+    "delight": ["n", "v"], "despite": ["prep"], "during": ["prep"],
+    "emerge": ["v"], "enforce": ["v"],
     "enforcement": ["n"], "experience": ["n", "v"],
     "extra": ["adj", "n", "adv"], "faint": ["adj", "v", "n"],
     "feature": ["n", "v"], "frontier": ["n"], "ground": ["n", "v"],
@@ -142,6 +149,7 @@
     "signal": ["n", "v", "adj"], "still": ["adv", "adj", "n"],
     "streaming": ["n", "adj"], "subscribe": ["v"], "subscription": ["n"],
     "succeed": ["v"], "successive": ["adj"], "successively": ["adv"],
-    "tariff": ["n"], "unaffected": ["adj"], "victim": ["n"]
+    "tariff": ["n"], "toward": ["prep"], "unaffected": ["adj"],
+    "upon": ["prep"], "victim": ["n"]
   }
 }
