@@ -1,5 +1,6 @@
 {
   "BASE": [
+    "Confucianism",
     "cabbage",
     "cafeteria",
     "café",
@@ -133,6 +134,7 @@
     "client",
     "climate",
     "climb",
+    "cling",
     "clinic",
     "clock",
     "clone",
@@ -204,7 +206,6 @@
     "confirm",
     "conflict",
     "confucianism",
-    "Confucianism",
     "confused",
     "congratulation",
     "connect",
@@ -276,6 +277,7 @@
     "creative",
     "creature",
     "credit",
+    "creep",
     "crew",
     "crime",
     "crisis",
@@ -516,6 +518,7 @@
     "clarifies",
     "clicks",
     "climbs",
+    "clings",
     "clones",
     "closes",
     "coaches",
@@ -549,6 +552,7 @@
     "covers",
     "crashes",
     "creates",
+    "creeps",
     "cries",
     "criticizes",
     "crosses",
@@ -584,6 +588,7 @@
     "cleaning",
     "clicking",
     "climbing",
+    "clinging",
     "cloning",
     "closing",
     "collapsing",
@@ -617,6 +622,7 @@
     "covering",
     "crashing",
     "creating",
+    "creeping",
     "crossing",
     "crying"
   ],
@@ -649,6 +655,7 @@
     "clarified",
     "climbed",
     "closed",
+    "clung",
     "collapsed",
     "collected",
     "combined",
@@ -679,6 +686,7 @@
     "covered",
     "crashed",
     "created",
+    "crept",
     "cried",
     "criticized",
     "crossed",
@@ -1007,7 +1015,9 @@
     "criticize": "v. 批评；评论；挑剔",
     "civilization": "n. 文明；文明社会",
     "centimeter": "n. 厘米",
-    "Confucianism": "n. 儒家思想，儒家学说"
+    "Confucianism": "n. 儒家思想，儒家学说",
+    "cling": "v. 紧贴，附着；坚持",
+    "creep": "v. 爬行，悄悄移动"
   },
   "POS": {
     "cabbage": [
@@ -3138,6 +3148,12 @@
     ],
     "Confucianism": [
       "n"
+    ],
+    "cling": [
+      "v"
+    ],
+    "creep": [
+      "v"
     ]
   }
 }

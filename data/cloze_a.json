@@ -1876,7 +1876,7 @@
     "pool": "THIRD"
   },
   {
-    "q": "She finally _____ her goal of learning three languages.",
+    "q": "She finally <span class='blank'>_____</span> her goal of learning three languages.",
     "answer": "accomplished",
     "explain": "accomplish v. 完成，实现",
     "translation": "她终于完成了学习三门语言的目标。",

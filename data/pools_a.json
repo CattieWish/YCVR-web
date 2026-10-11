@@ -19,6 +19,7 @@
     "accident",
     "accommodation",
     "accompany",
+    "accomplish",
     "account",
     "accurate",
     "accuse",
@@ -288,6 +289,7 @@
     "abuses",
     "accepts",
     "accesses",
+    "accomplishes",
     "accounts",
     "achieves",
     "acknowledges",
@@ -355,6 +357,7 @@
     "abusing",
     "accepting",
     "accessing",
+    "accomplishing",
     "accounting",
     "achieving",
     "acknowledging",
@@ -422,6 +425,7 @@
     "accepted",
     "accessed",
     "accompanied",
+    "accomplished",
     "accounted",
     "accused",
     "ached",
@@ -672,7 +676,8 @@
     "away": "adv. 离开，远离",
     "awesome": "adj. 令人惊叹的，很棒的",
     "awful": "adj. 糟糕的，可怕的",
-    "awkward": "adj. 尴尬的，笨拙的"
+    "awkward": "adj. 尴尬的，笨拙的",
+    "accomplish": "v. 完成，实现"
   },
   "POS": {
     "abandon": [
@@ -2211,6 +2216,9 @@
     ],
     "awfullest": [
       "adj"
+    ],
+    "accomplish": [
+      "v"
     ]
   }
 }

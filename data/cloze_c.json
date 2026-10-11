@@ -442,7 +442,7 @@
   },
   {
     "q": "The ruler shows that this line is exactly ten <span class='blank'>_____</span> long.",
-    "answer": "centimetres",
+    "answer": "centimeters",
     "explain": "centimeters n. 厘米。",
     "translation": "尺子显示这条线正好10<strong>厘米</strong>长。",
     "pool": "PLURAL"
@@ -897,7 +897,7 @@
   },
   {
     "q": "Ancient Egypt was one of the earliest <span class='blank'>_____</span> in human history.",
-    "answer": "civilisations",
+    "answer": "civilizations",
     "explain": "civilization n. 文明；文明社会。",
     "translation": "古埃及是人类历史上最早的<strong>文明</strong>之一。",
     "pool": "PLURAL"

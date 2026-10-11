@@ -1,0 +1,1407 @@
+{
+  "BASE": [
+    "accomplishment",
+    "adolescent",
+    "alert",
+    "amazed",
+    "amid",
+    "anchor",
+    "anniversary",
+    "app",
+    "appliance",
+    "arouse",
+    "ash",
+    "basement",
+    "beg",
+    "besides",
+    "bin",
+    "bind",
+    "blossom",
+    "boom",
+    "burst",
+    "bush",
+    "capture",
+    "casual",
+    "catalog",
+    "ceremony",
+    "charm",
+    "chase",
+    "chip",
+    "classify",
+    "code",
+    "command",
+    "compound",
+    "conquer",
+    "conserve",
+    "controversial",
+    "convey",
+    "counter",
+    "craft",
+    "crawl",
+    "dawn",
+    "dedicate",
+    "deed",
+    "delight",
+    "diagnose",
+    "distracting",
+    "distressing",
+    "dot",
+    "drown",
+    "duly",
+    "enclose",
+    "endurance",
+    "equivalent",
+    "evolve",
+    "exhaust",
+    "exploitation",
+    "fade",
+    "faint",
+    "fake",
+    "fare",
+    "farewell",
+    "fascinating",
+    "fertilizer",
+    "fierce",
+    "flame",
+    "flesh",
+    "float",
+    "foolish",
+    "freshman",
+    "frustrate",
+    "fulfill",
+    "funeral",
+    "furthermore",
+    "gesture",
+    "giant",
+    "glance",
+    "gossip",
+    "graceful",
+    "gratitude",
+    "grave",
+    "hardware",
+    "harsh",
+    "hazardous",
+    "highway",
+    "hint",
+    "hook",
+    "hop",
+    "horizon",
+    "horn",
+    "imitation",
+    "inevitably",
+    "inform",
+    "ink",
+    "insert",
+    "install",
+    "instinct",
+    "interval",
+    "isolated",
+    "jewelry",
+    "kidnap",
+    "knit",
+    "ladder",
+    "latest",
+    "laundry",
+    "lawn",
+    "layer",
+    "lean",
+    "leap",
+    "locker",
+    "luggage",
+    "manual",
+    "marine",
+    "marvel",
+    "mask",
+    "masterpiece",
+    "mayor",
+    "meanwhile",
+    "melt",
+    "miserable",
+    "moderate",
+    "modest",
+    "monument",
+    "mutual",
+    "mysterious",
+    "nap",
+    "nasty",
+    "neutral",
+    "nickname",
+    "nonsense",
+    "obstacle",
+    "oral",
+    "outlook",
+    "pajamas",
+    "pants",
+    "parade",
+    "pat",
+    "patriotic",
+    "pause",
+    "pave",
+    "perseverance",
+    "persist",
+    "perspective",
+    "pile",
+    "pin",
+    "pizza",
+    "portion",
+    "proportion",
+    "publication",
+    "puppy",
+    "puzzle",
+    "regulate",
+    "reluctant",
+    "reverse",
+    "rhythm",
+    "ritual",
+    "robber",
+    "rough",
+    "rub",
+    "sacred",
+    "sacrifice",
+    "sauce",
+    "scale",
+    "scan",
+    "seal",
+    "shrug",
+    "sidewalk",
+    "sigh",
+    "slight",
+    "slope",
+    "smash",
+    "soap",
+    "souvenir",
+    "spill",
+    "spit",
+    "stationery",
+    "status",
+    "steadily",
+    "stock",
+    "strand",
+    "supervisor",
+    "swallow",
+    "tap",
+    "teen",
+    "tempt",
+    "tent",
+    "thread",
+    "throat",
+    "tide",
+    "tongue",
+    "trace",
+    "tragic",
+    "transition",
+    "tremendous",
+    "triangle",
+    "tribe",
+    "tunnel",
+    "undergo",
+    "underlie",
+    "vocation",
+    "voyage",
+    "wilderness",
+    "willingly"
+  ],
+  "PLURAL": [
+    "accomplishments",
+    "adolescents",
+    "anchors",
+    "anniversaries",
+    "appliances",
+    "apps",
+    "ashes",
+    "basements",
+    "bins",
+    "booms",
+    "bushes",
+    "catalogs",
+    "ceremonies",
+    "charms",
+    "chips",
+    "codes",
+    "commands",
+    "compounds",
+    "counters",
+    "crafts",
+    "deeds",
+    "delights",
+    "dots",
+    "fares",
+    "farewells",
+    "fertilizers",
+    "flames",
+    "freshmen",
+    "funerals",
+    "gestures",
+    "giants",
+    "glances",
+    "graves",
+    "highways",
+    "hints",
+    "hooks",
+    "horizons",
+    "horns",
+    "imitations",
+    "instincts",
+    "intervals",
+    "ladders",
+    "lawns",
+    "layers",
+    "leaps",
+    "lockers",
+    "manuals",
+    "marvels",
+    "masks",
+    "masterpieces",
+    "mayors",
+    "monuments",
+    "naps",
+    "nicknames",
+    "obstacles",
+    "outlooks",
+    "parades",
+    "perspectives",
+    "piles",
+    "pins",
+    "pizzas",
+    "portions",
+    "proportions",
+    "publications",
+    "puppies",
+    "puzzles",
+    "rhythms",
+    "rituals",
+    "robbers",
+    "sacrifices",
+    "sauces",
+    "scales",
+    "seals",
+    "sidewalks",
+    "slopes",
+    "souvenirs",
+    "statuses",
+    "stocks",
+    "supervisors",
+    "swallows",
+    "taps",
+    "teens",
+    "tents",
+    "threads",
+    "throats",
+    "tides",
+    "tongues",
+    "traces",
+    "transitions",
+    "triangles",
+    "tribes",
+    "tunnels",
+    "vocations",
+    "voyages"
+  ],
+  "THIRD": [
+    "alerts",
+    "anchors",
+    "arouses",
+    "begs",
+    "binds",
+    "blossoms",
+    "booms",
+    "bursts",
+    "captures",
+    "catalogs",
+    "charms",
+    "chases",
+    "chips",
+    "classifies",
+    "codes",
+    "commands",
+    "conquers",
+    "conserves",
+    "conveys",
+    "counters",
+    "crafts",
+    "crawls",
+    "dawns",
+    "dedicates",
+    "diagnoses",
+    "dots",
+    "drowns",
+    "encloses",
+    "evolves",
+    "exhausts",
+    "fades",
+    "faints",
+    "fakes",
+    "fares",
+    "floats",
+    "frustrates",
+    "fulfills",
+    "glances",
+    "gossips",
+    "hints",
+    "hooks",
+    "hops",
+    "informs",
+    "inserts",
+    "installs",
+    "kidnaps",
+    "knits",
+    "leans",
+    "leaps",
+    "marvels",
+    "masks",
+    "melts",
+    "moderates",
+    "pats",
+    "pauses",
+    "paves",
+    "persists",
+    "pins",
+    "puzzles",
+    "regulates",
+    "reverses",
+    "rubs",
+    "sacrifices",
+    "scales",
+    "scans",
+    "seals",
+    "shrugs",
+    "sighs",
+    "smashes",
+    "spills",
+    "spits",
+    "strands",
+    "swallows",
+    "taps",
+    "tempts",
+    "threads",
+    "traces",
+    "undergoes",
+    "underlies"
+  ],
+  "ING": [
+    "alerting",
+    "anchoring",
+    "arousing",
+    "begging",
+    "binding",
+    "blossoming",
+    "booming",
+    "bursting",
+    "capturing",
+    "cataloging",
+    "charming",
+    "chasing",
+    "chipping",
+    "classifying",
+    "coding",
+    "commanding",
+    "conquering",
+    "conserving",
+    "conveying",
+    "countering",
+    "crafting",
+    "crawling",
+    "dawning",
+    "dedicating",
+    "diagnosing",
+    "dotting",
+    "drowning",
+    "enclosing",
+    "evolving",
+    "exhausting",
+    "fading",
+    "fainting",
+    "faking",
+    "faring",
+    "floating",
+    "frustrating",
+    "fulfilling",
+    "glancing",
+    "gossiping",
+    "hinting",
+    "hooking",
+    "hopping",
+    "informing",
+    "inserting",
+    "installing",
+    "kidnapping",
+    "knitting",
+    "leaning",
+    "leaping",
+    "marveling",
+    "masking",
+    "melting",
+    "moderating",
+    "patting",
+    "pausing",
+    "paving",
+    "persisting",
+    "pinning",
+    "puzzling",
+    "regulating",
+    "reversing",
+    "rubbing",
+    "sacrificing",
+    "scaling",
+    "scanning",
+    "sealing",
+    "shrugging",
+    "sighing",
+    "smashing",
+    "spilling",
+    "spitting",
+    "stranding",
+    "swallowing",
+    "tapping",
+    "tempting",
+    "threading",
+    "tracing",
+    "undergoing",
+    "underlying"
+  ],
+  "PAST": [
+    "alerted",
+    "anchored",
+    "aroused",
+    "begged",
+    "blossomed",
+    "boomed",
+    "bound",
+    "burst",
+    "captured",
+    "cataloged",
+    "charmed",
+    "chased",
+    "chipped",
+    "classified",
+    "coded",
+    "commanded",
+    "conquered",
+    "conserved",
+    "conveyed",
+    "countered",
+    "crafted",
+    "crawled",
+    "dawned",
+    "dedicated",
+    "diagnosed",
+    "dotted",
+    "drowned",
+    "enclosed",
+    "evolved",
+    "exhausted",
+    "faded",
+    "fainted",
+    "faked",
+    "fared",
+    "floated",
+    "frustrated",
+    "fulfilled",
+    "glanced",
+    "gossiped",
+    "hinted",
+    "hooked",
+    "hopped",
+    "informed",
+    "inserted",
+    "installed",
+    "kidnapped",
+    "knitted",
+    "leaned",
+    "leaped",
+    "marveled",
+    "masked",
+    "melted",
+    "moderated",
+    "patted",
+    "paused",
+    "paved",
+    "persisted",
+    "pinned",
+    "puzzled",
+    "regulated",
+    "reversed",
+    "rubbed",
+    "sacrificed",
+    "scaled",
+    "scanned",
+    "sealed",
+    "shrugged",
+    "sighed",
+    "smashed",
+    "spat",
+    "spilled",
+    "stranded",
+    "swallowed",
+    "tapped",
+    "tempted",
+    "threaded",
+    "traced",
+    "undergone",
+    "underlain",
+    "underlay",
+    "underwent"
+  ],
+  "COMP": [
+    "fainter",
+    "fiercer",
+    "graver",
+    "harsher",
+    "leaner",
+    "nastier",
+    "rougher",
+    "slighter"
+  ],
+  "SUPER": [
+    "faintest",
+    "fiercest",
+    "gravest",
+    "harshest",
+    "leanest",
+    "nastiest",
+    "roughest",
+    "slightest"
+  ],
+  "DICT": {
+    "accomplishment": "n. 成就；才艺",
+    "adolescent": "n. 青少年",
+    "alert": "v. 向…报警；使警觉 / adj. 警觉的；警惕的",
+    "amazed": "adj. 大为惊奇",
+    "amid": "prep. 在…之中；在…期间",
+    "anchor": "v. 抛锚；使固定 / n. 锚；支柱",
+    "anniversary": "n. 周年纪念日",
+    "app": "n. 应用程序",
+    "appliance": "n. 家用电器；器具",
+    "arouse": "v. 引起；激起",
+    "ash": "n. 灰；灰烬",
+    "basement": "n. 地下室",
+    "beg": "v. 恳求；乞求",
+    "besides": "prep. 除…之外（还有） / adv. 此外；而且",
+    "bin": "n. 垃圾箱",
+    "bind": "v. 捆绑；使结合",
+    "blossom": "v. 开花；成长",
+    "boom": "n. 繁荣；激增 / v. 繁荣；激增",
+    "burst": "v. 爆裂；突然发作",
+    "bush": "n. 灌木；灌木丛",
+    "capture": "v. 俘获；捕捉",
+    "casual": "adj. 随意的；非正式的",
+    "catalog": "n. 目录 / v. 编入目录；分类",
+    "ceremony": "n. 仪式；典礼",
+    "charm": "n. 魅力；吸引力 / v. 吸引；迷住",
+    "chase": "v. 追逐；追赶",
+    "chip": "v. 弄缺；削下 / n. 芯片；碎片",
+    "classify": "v. 分类；归类",
+    "code": "n. 密码；准则 / v. 编码；编程序",
+    "command": "n. 命令；指挥 / v. 命令；指挥",
+    "compound": "n. 化合物；复合物",
+    "conquer": "v. 征服；克服",
+    "conserve": "v. 节约；保护",
+    "controversial": "adj. 有争议的",
+    "convey": "v. 传达；运输",
+    "counter": "n. 柜台 / v. 反驳；对抗",
+    "craft": "n. 工艺；手艺 / v. 精心制作",
+    "crawl": "v. 爬行；缓慢行进",
+    "dawn": "n. 黎明；开端 / v. 破晓；开始明白",
+    "dedicate": "v. 奉献；致力于",
+    "deed": "n. 行为；事迹",
+    "delight": "n. 高兴；愉快",
+    "diagnose": "v. 诊断",
+    "distracting": "adj. 分散注意力的",
+    "distressing": "adj. 令人痛苦的",
+    "dot": "n. 点；小圆点 / v. 加点；散布于",
+    "drown": "v. 淹死；淹没",
+    "duly": "adv. 按时地；适当地",
+    "enclose": "v. 围住；附上",
+    "endurance": "n. 忍耐力；耐久力",
+    "equivalent": "adj. 相等的；等同的",
+    "evolve": "v. 演变；进化",
+    "exhaust": "v. 使精疲力尽；耗尽 / n. 废气；排气管",
+    "exploitation": "n. 剥削；开发",
+    "fade": "v. 褪色；逐渐消失",
+    "faint": "adj. 微弱的；模糊的 / v. 昏厥；晕倒",
+    "fake": "adj. 假的；伪造的 / v. 伪造；假装",
+    "fare": "n. 车费；票价 / v. 进展；表现",
+    "farewell": "n. 告别；辞行",
+    "fascinating": "adj. 极有吸引力的；迷人的",
+    "fertilizer": "n. 肥料；化肥",
+    "fierce": "adj. 凶猛的；激烈的",
+    "flame": "n. 火焰",
+    "flesh": "n. 肉；肉体",
+    "float": "v. 漂浮；飘动",
+    "foolish": "adj. 愚蠢的",
+    "freshman": "n. 大一新生",
+    "frustrate": "v. 使沮丧；挫败",
+    "fulfill": "v. 实现；履行",
+    "funeral": "n. 葬礼",
+    "furthermore": "adv. 此外；而且",
+    "gesture": "n. 手势；姿态",
+    "giant": "n. 巨人；巨头 / adj. 巨大的",
+    "glance": "v. 瞥一眼；匆匆一看 / n. 一瞥；扫视",
+    "gossip": "n. 流言蜚语；闲话 / v. 说闲话；闲聊",
+    "graceful": "adj. 优雅的；优美的",
+    "gratitude": "n. 感激；感谢",
+    "grave": "n. 坟墓 / adj. 严重的；严肃的",
+    "hardware": "n. 硬件；五金器具",
+    "harsh": "adj. 严厉的；恶劣的",
+    "hazardous": "adj. 危险的；有害的",
+    "highway": "n. 公路；干道",
+    "hint": "n. 暗示；提示 / v. 暗示；示意",
+    "hook": "n. 钩子 / v. 钩住；挂上",
+    "hop": "v. 单脚跳；跳跃",
+    "horizon": "n. 地平线；眼界",
+    "horn": "n. 喇叭；角",
+    "imitation": "n. 模仿；仿制品",
+    "inevitably": "adv. 不可避免地",
+    "inform": "v. 通知；告知",
+    "ink": "n. 墨水；油墨",
+    "insert": "v. 插入；放入",
+    "install": "v. 安装；任命",
+    "instinct": "n. 本能；直觉",
+    "interval": "n. 间隔；幕间休息",
+    "isolated": "adj. 孤独的；偏远的",
+    "jewelry": "n. 珠宝；首饰",
+    "kidnap": "v. 绑架；劫持",
+    "knit": "v. 编织；使结合",
+    "ladder": "n. 梯子；阶梯",
+    "latest": "adj. 最新的",
+    "laundry": "n. 要洗的衣物；洗衣房",
+    "lawn": "n. 草坪；草地",
+    "layer": "n. 层；层次",
+    "lean": "v. 倚靠；倾斜 / adj. 瘦的；精简的",
+    "leap": "v. 跳跃；跃过 / n. 跳跃；飞跃",
+    "locker": "n. 储物柜",
+    "luggage": "n. 行李",
+    "manual": "n. 手册；说明书 / adj. 手工的；体力的",
+    "marine": "adj. 海洋的；海生的",
+    "marvel": "v. 感到惊奇；惊叹 / n. 令人惊奇的事物；奇迹",
+    "mask": "n. 面具；面罩 / v. 掩饰；掩盖",
+    "masterpiece": "n. 杰作；代表作",
+    "mayor": "n. 市长",
+    "meanwhile": "adv. 与此同时；在此期间",
+    "melt": "v. 融化；熔化",
+    "miserable": "adj. 痛苦的；悲惨的",
+    "moderate": "adj. 中等的；适度的 / v. 缓和；减轻",
+    "modest": "adj. 谦虚的；适度的",
+    "monument": "n. 纪念碑；丰碑",
+    "mutual": "adj. 相互的；共同的",
+    "mysterious": "adj. 神秘的；难以解释的",
+    "nap": "n. 小睡；打盹",
+    "nasty": "adj. 令人厌恶的；恶劣的",
+    "neutral": "adj. 中立的；中性的",
+    "nickname": "n. 绰号；昵称",
+    "nonsense": "n. 胡说；废话",
+    "obstacle": "n. 障碍；阻碍",
+    "oral": "adj. 口头的；口部的",
+    "outlook": "n. 观点；前景",
+    "pajamas": "n. 睡衣",
+    "pants": "n. 裤子",
+    "parade": "n. 游行；阅兵",
+    "pat": "v. 轻拍；抚摸",
+    "patriotic": "adj. 爱国的",
+    "pause": "v. 暂停；停顿",
+    "pave": "v. 铺路；为…铺平道路",
+    "perseverance": "n. 毅力；坚持不懈",
+    "persist": "v. 坚持；持续",
+    "perspective": "n. 观点；视角",
+    "pile": "n. 堆；摞",
+    "pin": "n. 别针；大头针 / v. 固定；钉住",
+    "pizza": "n. 比萨饼",
+    "portion": "n. 部分；一份",
+    "proportion": "n. 比例；部分",
+    "publication": "n. 出版物；出版",
+    "puppy": "n. 小狗；幼犬",
+    "puzzle": "n. 谜；难题 / v. 使困惑；使迷惑",
+    "regulate": "v. 管理；控制",
+    "reluctant": "adj. 不情愿的；勉强的",
+    "reverse": "v. 颠倒；逆转",
+    "rhythm": "n. 节奏；韵律",
+    "ritual": "n. 仪式；例行公事",
+    "robber": "n. 强盗；抢劫者",
+    "rough": "adj. 粗糙的；粗暴的",
+    "rub": "v. 摩擦；揉",
+    "sacred": "adj. 神圣的",
+    "sacrifice": "v. 牺牲；献出 / n. 牺牲；祭品",
+    "sauce": "n. 酱汁；调味汁",
+    "scale": "n. 规模；等级 / v. 攀登；按比例调整",
+    "scan": "v. 扫描；浏览",
+    "seal": "v. 密封；封上 / n. 印章；海豹",
+    "shrug": "v. 耸肩",
+    "sidewalk": "n. 人行道",
+    "sigh": "v. 叹气；叹息",
+    "slight": "adj. 轻微的；微小的",
+    "slope": "n. 斜坡；坡度",
+    "smash": "v. 打碎；粉碎",
+    "soap": "n. 肥皂",
+    "souvenir": "n. 纪念品",
+    "spill": "v. 洒出；溢出",
+    "spit": "v. 吐唾沫；吐出",
+    "stationery": "n. 文具",
+    "status": "n. 地位；状态",
+    "steadily": "adv. 稳定地；逐步地",
+    "stock": "n. 库存；股票",
+    "strand": "v. 使滞留；使搁浅",
+    "supervisor": "n. 主管；监督者",
+    "swallow": "v. 吞下；咽下 / n. 燕子",
+    "tap": "v. 轻敲；轻拍 / n. 水龙头",
+    "teen": "n. 青少年",
+    "tempt": "v. 引诱；吸引",
+    "tent": "n. 帐篷",
+    "thread": "n. 线；线索 / v. 穿线；穿过",
+    "throat": "n. 喉咙；嗓子",
+    "tide": "n. 潮汐；趋势",
+    "tongue": "n. 舌头；语言",
+    "trace": "v. 追踪；追溯 / n. 痕迹；踪迹",
+    "tragic": "adj. 悲剧的；悲惨的",
+    "transition": "n. 过渡；转变",
+    "tremendous": "adj. 巨大的；极好的",
+    "triangle": "n. 三角形",
+    "tribe": "n. 部落",
+    "tunnel": "n. 隧道；地道",
+    "undergo": "v. 经历；接受",
+    "underlie": "v. 构成…的基础；位于…之下",
+    "vocation": "n. 职业；使命感",
+    "voyage": "n. 航行；航海",
+    "wilderness": "n. 荒野；荒地",
+    "willingly": "adv. 愿意地；乐意地"
+  },
+  "POS": {
+    "accomplishment": [
+      "n"
+    ],
+    "adolescent": [
+      "n"
+    ],
+    "alert": [
+      "v",
+      "adj"
+    ],
+    "amazed": [
+      "adj"
+    ],
+    "amid": [
+      "prep"
+    ],
+    "anchor": [
+      "v",
+      "n"
+    ],
+    "anniversary": [
+      "n"
+    ],
+    "app": [
+      "n"
+    ],
+    "appliance": [
+      "n"
+    ],
+    "arouse": [
+      "v"
+    ],
+    "ash": [
+      "n"
+    ],
+    "basement": [
+      "n"
+    ],
+    "beg": [
+      "v"
+    ],
+    "besides": [
+      "prep",
+      "adv"
+    ],
+    "bin": [
+      "n"
+    ],
+    "bind": [
+      "v"
+    ],
+    "blossom": [
+      "v"
+    ],
+    "boom": [
+      "n",
+      "v"
+    ],
+    "burst": [
+      "v"
+    ],
+    "bush": [
+      "n"
+    ],
+    "capture": [
+      "v"
+    ],
+    "casual": [
+      "adj"
+    ],
+    "catalog": [
+      "n",
+      "v"
+    ],
+    "ceremony": [
+      "n"
+    ],
+    "charm": [
+      "n",
+      "v"
+    ],
+    "chase": [
+      "v"
+    ],
+    "chip": [
+      "v",
+      "n"
+    ],
+    "classify": [
+      "v"
+    ],
+    "code": [
+      "n",
+      "v"
+    ],
+    "command": [
+      "n",
+      "v"
+    ],
+    "compound": [
+      "n"
+    ],
+    "conquer": [
+      "v"
+    ],
+    "conserve": [
+      "v"
+    ],
+    "controversial": [
+      "adj"
+    ],
+    "convey": [
+      "v"
+    ],
+    "counter": [
+      "n",
+      "v"
+    ],
+    "craft": [
+      "n",
+      "v"
+    ],
+    "crawl": [
+      "v"
+    ],
+    "dawn": [
+      "n",
+      "v"
+    ],
+    "dedicate": [
+      "v"
+    ],
+    "deed": [
+      "n"
+    ],
+    "delight": [
+      "n"
+    ],
+    "diagnose": [
+      "v"
+    ],
+    "distracting": [
+      "adj"
+    ],
+    "distressing": [
+      "adj"
+    ],
+    "dot": [
+      "n",
+      "v"
+    ],
+    "drown": [
+      "v"
+    ],
+    "duly": [
+      "adv"
+    ],
+    "enclose": [
+      "v"
+    ],
+    "endurance": [
+      "n"
+    ],
+    "equivalent": [
+      "adj"
+    ],
+    "evolve": [
+      "v"
+    ],
+    "exhaust": [
+      "v",
+      "n"
+    ],
+    "exploitation": [
+      "n"
+    ],
+    "fade": [
+      "v"
+    ],
+    "faint": [
+      "adj",
+      "v"
+    ],
+    "fake": [
+      "adj",
+      "v"
+    ],
+    "fare": [
+      "n",
+      "v"
+    ],
+    "farewell": [
+      "n"
+    ],
+    "fascinating": [
+      "adj"
+    ],
+    "fertilizer": [
+      "n"
+    ],
+    "fierce": [
+      "adj"
+    ],
+    "flame": [
+      "n"
+    ],
+    "flesh": [
+      "n"
+    ],
+    "float": [
+      "v"
+    ],
+    "foolish": [
+      "adj"
+    ],
+    "freshman": [
+      "n"
+    ],
+    "frustrate": [
+      "v"
+    ],
+    "fulfill": [
+      "v"
+    ],
+    "funeral": [
+      "n"
+    ],
+    "furthermore": [
+      "adv"
+    ],
+    "gesture": [
+      "n"
+    ],
+    "giant": [
+      "n",
+      "adj"
+    ],
+    "glance": [
+      "v",
+      "n"
+    ],
+    "gossip": [
+      "n",
+      "v"
+    ],
+    "graceful": [
+      "adj"
+    ],
+    "gratitude": [
+      "n"
+    ],
+    "grave": [
+      "n",
+      "adj"
+    ],
+    "hardware": [
+      "n"
+    ],
+    "harsh": [
+      "adj"
+    ],
+    "hazardous": [
+      "adj"
+    ],
+    "highway": [
+      "n"
+    ],
+    "hint": [
+      "n",
+      "v"
+    ],
+    "hook": [
+      "n",
+      "v"
+    ],
+    "hop": [
+      "v"
+    ],
+    "horizon": [
+      "n"
+    ],
+    "horn": [
+      "n"
+    ],
+    "imitation": [
+      "n"
+    ],
+    "inevitably": [
+      "adv"
+    ],
+    "inform": [
+      "v"
+    ],
+    "ink": [
+      "n"
+    ],
+    "insert": [
+      "v"
+    ],
+    "install": [
+      "v"
+    ],
+    "instinct": [
+      "n"
+    ],
+    "interval": [
+      "n"
+    ],
+    "isolated": [
+      "adj"
+    ],
+    "jewelry": [
+      "n"
+    ],
+    "kidnap": [
+      "v"
+    ],
+    "knit": [
+      "v"
+    ],
+    "ladder": [
+      "n"
+    ],
+    "latest": [
+      "adj"
+    ],
+    "laundry": [
+      "n"
+    ],
+    "lawn": [
+      "n"
+    ],
+    "layer": [
+      "n"
+    ],
+    "lean": [
+      "v",
+      "adj"
+    ],
+    "leap": [
+      "v",
+      "n"
+    ],
+    "locker": [
+      "n"
+    ],
+    "luggage": [
+      "n"
+    ],
+    "manual": [
+      "n",
+      "adj"
+    ],
+    "marine": [
+      "adj"
+    ],
+    "marvel": [
+      "v",
+      "n"
+    ],
+    "mask": [
+      "n",
+      "v"
+    ],
+    "masterpiece": [
+      "n"
+    ],
+    "mayor": [
+      "n"
+    ],
+    "meanwhile": [
+      "adv"
+    ],
+    "melt": [
+      "v"
+    ],
+    "miserable": [
+      "adj"
+    ],
+    "moderate": [
+      "adj",
+      "v"
+    ],
+    "modest": [
+      "adj"
+    ],
+    "monument": [
+      "n"
+    ],
+    "mutual": [
+      "adj"
+    ],
+    "mysterious": [
+      "adj"
+    ],
+    "nap": [
+      "n"
+    ],
+    "nasty": [
+      "adj"
+    ],
+    "neutral": [
+      "adj"
+    ],
+    "nickname": [
+      "n"
+    ],
+    "nonsense": [
+      "n"
+    ],
+    "obstacle": [
+      "n"
+    ],
+    "oral": [
+      "adj"
+    ],
+    "outlook": [
+      "n"
+    ],
+    "pajamas": [
+      "n"
+    ],
+    "pants": [
+      "n"
+    ],
+    "parade": [
+      "n"
+    ],
+    "pat": [
+      "v"
+    ],
+    "patriotic": [
+      "adj"
+    ],
+    "pause": [
+      "v"
+    ],
+    "pave": [
+      "v"
+    ],
+    "perseverance": [
+      "n"
+    ],
+    "persist": [
+      "v"
+    ],
+    "perspective": [
+      "n"
+    ],
+    "pile": [
+      "n"
+    ],
+    "pin": [
+      "n",
+      "v"
+    ],
+    "pizza": [
+      "n"
+    ],
+    "portion": [
+      "n"
+    ],
+    "proportion": [
+      "n"
+    ],
+    "publication": [
+      "n"
+    ],
+    "puppy": [
+      "n"
+    ],
+    "puzzle": [
+      "n",
+      "v"
+    ],
+    "regulate": [
+      "v"
+    ],
+    "reluctant": [
+      "adj"
+    ],
+    "reverse": [
+      "v"
+    ],
+    "rhythm": [
+      "n"
+    ],
+    "ritual": [
+      "n"
+    ],
+    "robber": [
+      "n"
+    ],
+    "rough": [
+      "adj"
+    ],
+    "rub": [
+      "v"
+    ],
+    "sacred": [
+      "adj"
+    ],
+    "sacrifice": [
+      "v",
+      "n"
+    ],
+    "sauce": [
+      "n"
+    ],
+    "scale": [
+      "n",
+      "v"
+    ],
+    "scan": [
+      "v"
+    ],
+    "seal": [
+      "v",
+      "n"
+    ],
+    "shrug": [
+      "v"
+    ],
+    "sidewalk": [
+      "n"
+    ],
+    "sigh": [
+      "v"
+    ],
+    "slight": [
+      "adj"
+    ],
+    "slope": [
+      "n"
+    ],
+    "smash": [
+      "v"
+    ],
+    "soap": [
+      "n"
+    ],
+    "souvenir": [
+      "n"
+    ],
+    "spill": [
+      "v"
+    ],
+    "spit": [
+      "v"
+    ],
+    "stationery": [
+      "n"
+    ],
+    "status": [
+      "n"
+    ],
+    "steadily": [
+      "adv"
+    ],
+    "stock": [
+      "n"
+    ],
+    "strand": [
+      "v"
+    ],
+    "supervisor": [
+      "n"
+    ],
+    "swallow": [
+      "v",
+      "n"
+    ],
+    "tap": [
+      "v",
+      "n"
+    ],
+    "teen": [
+      "n"
+    ],
+    "tempt": [
+      "v"
+    ],
+    "tent": [
+      "n"
+    ],
+    "thread": [
+      "n",
+      "v"
+    ],
+    "throat": [
+      "n"
+    ],
+    "tide": [
+      "n"
+    ],
+    "tongue": [
+      "n"
+    ],
+    "trace": [
+      "v",
+      "n"
+    ],
+    "tragic": [
+      "adj"
+    ],
+    "transition": [
+      "n"
+    ],
+    "tremendous": [
+      "adj"
+    ],
+    "triangle": [
+      "n"
+    ],
+    "tribe": [
+      "n"
+    ],
+    "tunnel": [
+      "n"
+    ],
+    "undergo": [
+      "v"
+    ],
+    "underlie": [
+      "v"
+    ],
+    "vocation": [
+      "n"
+    ],
+    "voyage": [
+      "n"
+    ],
+    "wilderness": [
+      "n"
+    ],
+    "willingly": [
+      "adv"
+    ]
+  }
+}

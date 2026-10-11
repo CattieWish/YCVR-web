@@ -65,6 +65,7 @@
     "big",
     "bike",
     "bill",
+    "bind",
     "biology",
     "bird",
     "birth",
@@ -84,6 +85,7 @@
     "block",
     "blog",
     "blood",
+    "bloom",
     "blouse",
     "blow",
     "blue",
@@ -267,9 +269,11 @@
     "bends",
     "benefits",
     "bets",
+    "binds",
     "blames",
     "bleeds",
     "blesses",
+    "blooms",
     "blows",
     "boards",
     "boils",
@@ -300,9 +304,11 @@
     "bending",
     "benefitting",
     "betting",
+    "binding",
     "blaming",
     "bleeding",
     "blessing",
+    "blooming",
     "blowing",
     "boarding",
     "boiling",
@@ -341,6 +347,7 @@
     "blessed",
     "blew",
     "blocked",
+    "bloomed",
     "blown",
     "boarded",
     "boiled",
@@ -351,6 +358,7 @@
     "bothered",
     "bought",
     "bounced",
+    "bound",
     "bowed",
     "breathed",
     "broken",
@@ -536,7 +544,9 @@
     "butcher": "n. 屠夫；肉贩",
     "butter": "n. 黄油；奶油",
     "button": "n. 按钮；纽扣",
-    "buy": "v. 购买；买"
+    "buy": "v. 购买；买",
+    "bloom": "v. 开花，盛开",
+    "bind": "v. 捆绑，束缚"
   },
   "POS": {
     "baby": [
@@ -1497,6 +1507,12 @@
       "n"
     ],
     "buyyest": [
+      "v"
+    ],
+    "bloom": [
+      "v"
+    ],
+    "bind": [
       "v"
     ]
   }

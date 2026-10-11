@@ -1,0 +1,310 @@
+{
+  "BASE": [
+    "account",
+    "add",
+    "appeal",
+    "asymmetrical",
+    "authentic",
+    "authenticity",
+    "back",
+    "backfire",
+    "bond",
+    "catch",
+    "caution",
+    "charge",
+    "cost",
+    "date",
+    "detect",
+    "dismiss",
+    "dismissal",
+    "distinguish",
+    "due",
+    "exchange",
+    "experience",
+    "flee",
+    "geometrical",
+    "geometry",
+    "hit",
+    "identify",
+    "indicate",
+    "indicator",
+    "infant",
+    "infantile",
+    "infantilize",
+    "infantilized",
+    "inform",
+    "informed",
+    "lockdown",
+    "needless",
+    "pay",
+    "payoff",
+    "recognition",
+    "spirit",
+    "spiritual",
+    "strike",
+    "surpass",
+    "symmetrical",
+    "thrive",
+    "tie",
+    "train",
+    "weight"
+  ],
+  "PLURAL": [],
+  "THIRD": [
+    "charges"
+  ],
+  "ING": [],
+  "PAST": [
+    "added",
+    "appealed",
+    "backed",
+    "backfired",
+    "cautioned",
+    "dismissed",
+    "informed",
+    "paid",
+    "spirited",
+    "struck",
+    "surpassed",
+    "tied",
+    "trained",
+    "weighted"
+  ],
+  "COMP": [],
+  "SUPER": [],
+  "VARIANTS": {
+    "added": "add",
+    "appealed": "appeal",
+    "backed": "back",
+    "backfired": "backfire",
+    "cautioned": "caution",
+    "charges": "charge",
+    "dismissed": "dismiss",
+    "informed": "inform",
+    "paid": "pay",
+    "spirited": "spirit",
+    "struck": "strike",
+    "surpassed": "surpass",
+    "tied": "tie",
+    "trained": "train",
+    "weighted": "weight"
+  },
+  "DICT": {
+    "account": "n. 账户 / v. 解释、说明",
+    "add": "v. 增加、加剧",
+    "appeal": "v. 呼吁、恳求 / n. 呼吁、恳求",
+    "asymmetrical": "adj. 不对称的",
+    "authentic": "adj. 真实的、真品的",
+    "authenticity": "n. 真实性",
+    "back": "adv. 向后、回 / n. 背部 / v. 支持 / adj. 后面的",
+    "backfire": "v. 事与愿违、产生反效果",
+    "bond": "n. 纽带、联系 / v. 建立亲密关系",
+    "catch": "v. 抓住、接住、赶上 / n. 隐藏的问题、圈套",
+    "caution": "n. 谨慎、小心 / v. 警告、提醒",
+    "charge": "n. 负责、掌管 / v. 收费",
+    "cost": "n. 费用、成本 / v. 花费、使付出代价",
+    "date": "n. 日期 / v. 追溯至、始于",
+    "detect": "v. 察觉、探测",
+    "dismiss": "v. 对……不予考虑、把……当作……而不屑一顾",
+    "dismissal": "n. 解雇、开除",
+    "distinguish": "v. 区分、辨别",
+    "due": "adj. 适当的 / n. 应得的东西",
+    "exchange": "v. 交换、交流 / n. 交换、交流",
+    "experience": "n. 经验 / v. 经历、体验",
+    "flee": "v. 逃离、逃跑",
+    "geometrical": "adj. 几何的、几何形状的",
+    "geometry": "n. 几何学",
+    "hit": "v. 去（某地）、达到理想效果 / n. 成功而风行一时的事物",
+    "identify": "v. 认同、理解",
+    "indicate": "v. 表明、显示",
+    "indicator": "n. 指示物、指标",
+    "infant": "n. 婴儿 / adj. 婴儿的",
+    "infantilize": "v. 使……幼稚化、像对待小孩一样对待……",
+    "infantile": "adj. 幼稚的、婴儿的",
+    "infantilized": "adj. 被幼稚化对待的",
+    "inform": "v. 通知、告知",
+    "informed": "adj. 有根据的、了解情况的",
+    "lockdown": "n. 封锁、居家令",
+    "needless": "adj. 不必要的",
+    "pay": "v. 成功、带来好结果 / n. 工资、报酬",
+    "payoff": "n. 回报、收益",
+    "recognition": "n. 认可、赏识",
+    "spirit": "n. 精神、意志 / v. 偷偷带走、绑架",
+    "spiritual": "adj. 精神的、心灵的",
+    "strike": "v. 打、撞击 / n. 罢工",
+    "surpass": "v. 超过、胜过",
+    "symmetrical": "adj. 对称的",
+    "thrive": "v. 茁壮成长、兴旺",
+    "tie": "v. 系、捆绑 / n. 领带",
+    "train": "n. 火车 / v. 把……对准",
+    "weight": "n. 分量、重要性 / v. 使……有分量、偏重"
+  },
+  "POS": {
+    "account": [
+      "n",
+      "v"
+    ],
+    "add": [
+      "v"
+    ],
+    "appeal": [
+      "v",
+      "n"
+    ],
+    "asymmetrical": [
+      "adj"
+    ],
+    "authentic": [
+      "adj"
+    ],
+    "authenticity": [
+      "n"
+    ],
+    "back": [
+      "adv",
+      "n",
+      "v",
+      "adj"
+    ],
+    "backfire": [
+      "v"
+    ],
+    "bond": [
+      "n",
+      "v"
+    ],
+    "catch": [
+      "v",
+      "n"
+    ],
+    "caution": [
+      "n",
+      "v"
+    ],
+    "charge": [
+      "n",
+      "v"
+    ],
+    "cost": [
+      "n",
+      "v"
+    ],
+    "date": [
+      "n",
+      "v"
+    ],
+    "detect": [
+      "v"
+    ],
+    "dismiss": [
+      "v"
+    ],
+    "dismissal": [
+      "n"
+    ],
+    "distinguish": [
+      "v"
+    ],
+    "due": [
+      "adj",
+      "n"
+    ],
+    "exchange": [
+      "v",
+      "n"
+    ],
+    "experience": [
+      "n",
+      "v"
+    ],
+    "flee": [
+      "v"
+    ],
+    "geometrical": [
+      "adj"
+    ],
+    "geometry": [
+      "n"
+    ],
+    "hit": [
+      "v",
+      "n"
+    ],
+    "identify": [
+      "v"
+    ],
+    "indicate": [
+      "v"
+    ],
+    "indicator": [
+      "n"
+    ],
+    "infant": [
+      "n",
+      "adj"
+    ],
+    "infantilize": [
+      "v"
+    ],
+    "infantile": [
+      "adj"
+    ],
+    "infantilized": [
+      "adj"
+    ],
+    "inform": [
+      "v"
+    ],
+    "informed": [
+      "adj"
+    ],
+    "lockdown": [
+      "n"
+    ],
+    "needless": [
+      "adj"
+    ],
+    "pay": [
+      "v",
+      "n"
+    ],
+    "payoff": [
+      "n"
+    ],
+    "recognition": [
+      "n"
+    ],
+    "spirit": [
+      "n",
+      "v"
+    ],
+    "spiritual": [
+      "adj"
+    ],
+    "strike": [
+      "v",
+      "n"
+    ],
+    "surpass": [
+      "v"
+    ],
+    "symmetrical": [
+      "adj"
+    ],
+    "thrive": [
+      "v"
+    ],
+    "tie": [
+      "v",
+      "n"
+    ],
+    "train": [
+      "n",
+      "v"
+    ],
+    "weight": [
+      "n",
+      "v"
+    ]
+  }
+}

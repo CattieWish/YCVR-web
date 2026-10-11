@@ -951,6 +951,17 @@
       <div class="card-title">词义匹配 · 定向随机</div>
       <div class="card-desc">先选择首字母，再按范围出题</div>
     </div>
+    <div class="card-full-width" style="color:var(--text-secondary); font-size:.85rem; letter-spacing:1px; padding:4px 2px 0;">3K Extra · 上海高考补充词汇（两版教材选取，已并入上方 3K 随机）</div>
+    <div class="card" onclick="startQuiz('cloze','extra','random')">
+      <span class="card-count">10题</span>
+      <div class="card-title">选词填空 · 3K Extra</div>
+      <div class="card-desc">从上海高考补充词汇中随机出题</div>
+    </div>
+    <div class="card" onclick="startQuiz('match','extra','random')">
+      <span class="card-count">10题</span>
+      <div class="card-title">词义匹配 · 3K Extra</div>
+      <div class="card-desc">从上海高考补充词汇中随机出题</div>
+    </div>
   </div>
 </div>
 
@@ -1375,7 +1386,7 @@ function generateQuizSet(rawData, type, scope) {
     'SUPER': window.POOLS_3K ? window.POOLS_3K.SUPER : []
   };
 
-  if (type === 'match' && scope === '3k') {
+  if (type === 'match' && scope !== 'weekly') {
     const baseDictEntries = getBaseDictEntries();
     const allWords = baseDictEntries.map(([word]) => word);
     const shuffledWords = shuffle(allWords).slice(0, 10);
@@ -1560,17 +1571,29 @@ async function startQuiz(type, scope, mode, letters) {
   document.getElementById('quiz-container').innerHTML = '';
 
   try {
-  if (scope === '3k') {
+  if (scope === '3k' || scope === 'extra') {
     window.POOLS_3K = { BASE: [], PLURAL: [], THIRD: [], ING: [], PAST: [], COMP: [], SUPER: [], DICT: {}, POS: {} };
     window.CLOZE_3K_RAW = [];
     await loadData('pools_index');
+    if (scope === 'extra') {
+      // 3K Extra：上海高考补充词汇，单文件词库
+      const extraLoads = [loadData('pools_extra')];
+      if (type === 'cloze') extraLoads.push(loadData('cloze_extra'));
+      await Promise.all(extraLoads);
+    } else {
     const lettersToLoad = mode === 'random' ? POOLS_INDEX_LETTERS : (letters || []);
     const loads = [];
     for (const letter of lettersToLoad) {
       loads.push(loadData(`pools_${letter}`));
       if (type === 'cloze') loads.push(loadData(`cloze_${letter}`));
     }
+    // 3K随机纳入 3K Extra 词库题库（定向模式仍按字母文件出题）
+    if (mode === 'random') {
+      loads.push(loadData('pools_extra'));
+      if (type === 'cloze') loads.push(loadData('cloze_extra'));
+    }
     await Promise.all(loads);
+    }
   } else {
     // 每周积累：加载周索引与所选周的词库/题库，并加载 3K 词库作干扰项兜底
     await loadData('weekly_index');
@@ -1586,11 +1609,11 @@ async function startQuiz(type, scope, mode, letters) {
     }
     window.POOLS_3K = { BASE: [], PLURAL: [], THIRD: [], ING: [], PAST: [], COMP: [], SUPER: [], DICT: {}, POS: {} };
     await loadData('pools_index');
-    await Promise.all(weekLoads.concat(POOLS_INDEX_LETTERS.map(letter => loadData(`pools_${letter}`))));
+    await Promise.all(weekLoads.concat(POOLS_INDEX_LETTERS.map(letter => loadData(`pools_${letter}`)), [loadData('pools_extra')]));
   }
 
   let rawData;
-  if (type === 'cloze' && scope === '3k') rawData = CLOZE_3K_RAW;
+  if (type === 'cloze' && (scope === '3k' || scope === 'extra')) rawData = CLOZE_3K_RAW;
   else if (type === 'cloze' && scope === 'weekly') rawData = CLOZE_WEEKLY_RAW;
 
   if (type === 'match') {
@@ -1607,7 +1630,7 @@ async function startQuiz(type, scope, mode, letters) {
   }
 
   document.getElementById('quiz-title').textContent =
-    (type === 'cloze' ? '选词填空' : '词义匹配') + ' · ' + (scope === '3k' ? '课标 3K' : '周周积累') + (mode === 'directed' ? ' · 定向' : '');
+    (type === 'cloze' ? '选词填空' : '词义匹配') + ' · ' + ({'3k':'课标 3K','extra':'课标 3K Extra','weekly':'周周积累'}[scope]) + (mode === 'directed' ? ' · 定向' : '');
   document.getElementById('quiz-sub').textContent = '共 ' + currentQuiz.length + ' 题';
 
   const hint = document.getElementById('sort-hint');
@@ -2000,6 +2023,7 @@ async function startRandom(scope) {
       randomLoads.push(loadData(`pools_${letter}`));
       if (use3k) randomLoads.push(loadData(`cloze_${letter}`));
     }
+    if (use3k) randomLoads.push(loadData('pools_extra'), loadData('cloze_extra'));
     if (useWeekly) {
       await loadData('weekly_index');
       for (const week of WEEKLY_INDEX) {
