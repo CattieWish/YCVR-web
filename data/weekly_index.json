@@ -62,6 +62,15 @@
       "pools": "pools_weekly_202614",
       "cloze": "cloze_weekly_202614",
       "material": "weekly_202614.md"
+    },
+    {
+      "id": "202615",
+      "short": "W7",
+      "title": "学期第 7 周词汇",
+      "subtitle": "2026 秋季学期 · 第 8 期",
+      "pools": "pools_weekly_202615",
+      "cloze": "cloze_weekly_202615",
+      "material": "weekly_202615.md"
     }
   ]
 }
