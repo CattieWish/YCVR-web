@@ -1,0 +1,486 @@
+{
+  "BASE": [
+    "arise",
+    "bear",
+    "catch",
+    "challenge",
+    "channel",
+    "closure",
+    "compete",
+    "competition",
+    "competitor",
+    "corner",
+    "cost-effective",
+    "costly",
+    "deactivate",
+    "deforest",
+    "disclose",
+    "disclosure",
+    "discourage",
+    "eco-tourism",
+    "end",
+    "engage",
+    "engagement",
+    "ever-expanding",
+    "expertise",
+    "family-friendly",
+    "favor",
+    "fearful",
+    "fearless",
+    "flexibility",
+    "flexible",
+    "force",
+    "friendly",
+    "implicate",
+    "implication",
+    "invest",
+    "kick",
+    "light",
+    "line",
+    "longevity",
+    "new",
+    "orderly",
+    "outperform",
+    "overshadow",
+    "ownership",
+    "painstaking",
+    "plastic",
+    "plasticity",
+    "plug",
+    "power",
+    "raise",
+    "recovery",
+    "rediscover",
+    "restoration",
+    "restore",
+    "reverse",
+    "revitalize",
+    "rigid",
+    "rise",
+    "scholar",
+    "scholarly",
+    "signature",
+    "single",
+    "stretch",
+    "technical",
+    "technique",
+    "technology",
+    "time-effective",
+    "timely",
+    "tourist-friendly",
+    "trade",
+    "user-friendly",
+    "variety",
+    "visible",
+    "wall",
+    "wear",
+    "wind",
+    "winding",
+    "workshop"
+  ],
+  "PLURAL": [
+    "competitors",
+    "corners",
+    "implications"
+  ],
+  "THIRD": [
+    "winds"
+  ],
+  "ING": [
+    "outperforming",
+    "winding"
+  ],
+  "PAST": [
+    "arisen",
+    "arose",
+    "challenged",
+    "channeled",
+    "cornered",
+    "deactivated",
+    "deforested",
+    "disclosed",
+    "discouraged",
+    "ended",
+    "forced",
+    "invested",
+    "kicked",
+    "lit",
+    "overshadowed",
+    "plugged",
+    "rediscovered",
+    "rose",
+    "singled",
+    "stretched",
+    "traded",
+    "walled",
+    "worn"
+  ],
+  "COMP": [],
+  "SUPER": [],
+  "VARIANTS": {
+    "arisen": "arise",
+    "arose": "arise",
+    "challenged": "challenge",
+    "channeled": "channel",
+    "competitors": "competitor",
+    "cornered": "corner",
+    "corners": "corner",
+    "deactivated": "deactivate",
+    "deforested": "deforest",
+    "disclosed": "disclose",
+    "discouraged": "discourage",
+    "ended": "end",
+    "forced": "force",
+    "implications": "implication",
+    "invested": "invest",
+    "kicked": "kick",
+    "lit": "light",
+    "outperforming": "outperform",
+    "overshadowed": "overshadow",
+    "plugged": "plug",
+    "rediscovered": "rediscover",
+    "rose": "rise",
+    "singled": "single",
+    "stretched": "stretch",
+    "traded": "trade",
+    "walled": "wall",
+    "winding": "wind",
+    "winds": "wind",
+    "worn": "wear"
+  },
+  "DICT": {
+    "arise": "v. 发生；出现",
+    "bear": "v. 记住，考虑（bear in mind）",
+    "catch": "v. 赶上，追上（catch up） / n. 捕获量；接球",
+    "challenge": "n. 挑战 / v. 激励，促使（某人）努力",
+    "channel": "n. 频道 / v. 引导，输送",
+    "closure": "n. 关闭，倒闭",
+    "compete": "v. 竞争，角逐",
+    "competition": "n. 竞争",
+    "competitor": "n. 竞争对手",
+    "corner": "n. 角落（cut corners：偷工减料） / v. 把……逼入角落",
+    "cost-effective": "adj. 成本效益高的；划算的",
+    "costly": "adj. 昂贵的；代价高的",
+    "deactivate": "v. 使失效，停用",
+    "deforest": "v. 砍伐森林，毁林",
+    "disclose": "v. 披露，透露",
+    "disclosure": "n. 披露，公开",
+    "discourage": "v. 劝阻，使不敢",
+    "eco-tourism": "n. 生态旅游",
+    "end": "n. 结尾，末端 / v. 最终成为，结果是（end up）",
+    "engage": "v. 吸引；使参与",
+    "engagement": "n. 参与；投入",
+    "ever-expanding": "adj. 不断扩大的",
+    "expertise": "n. 专门知识，专长",
+    "family-friendly": "adj. 适合家庭的，对家庭友好的",
+    "favor": "n. 赞同，支持（in favor of） / v. 偏爱，支持",
+    "fearful": "adj. 害怕的，担心的",
+    "fearless": "adj. 无畏的，大胆的",
+    "flexibility": "n. 灵活性，弹性",
+    "flexible": "adj. 灵活的，可变通的",
+    "force": "n. 效力；实施 / v. 迫使，强迫",
+    "friendly": "adj. 友好的，友善的",
+    "implicate": "v. 牵连，表明与（犯罪或坏事）有关",
+    "implication": "n. 可能的影响，含义",
+    "invest": "v. 投资；投入",
+    "kick": "v. 随意讨论（kick around） / n. 踢",
+    "light": "n. 光；在 in light of 中表示鉴于，考虑到 / adj. 轻的 / v. 点燃，照亮",
+    "line": "n. 线，线条 / v. 与……一致；排成一行（line up with）",
+    "longevity": "n. 长寿；持久",
+    "new": "adj. 新来的；不熟悉的（new to sth.）",
+    "orderly": "adj. 整齐的，有秩序的",
+    "outperform": "v. 表现优于，胜过",
+    "overshadow": "v. 使黯然失色，使显得不那么重要",
+    "ownership": "n. 所有权",
+    "painstaking": "adj. 费尽心思的，一丝不苟的",
+    "plastic": "n. 塑料 / adj. 塑料制的",
+    "plasticity": "n. 可塑性",
+    "plug": "n. 插头；塞子（pull the plug：终止） / v. 插入，接上电源",
+    "power": "n. 权力；控制力",
+    "raise": "v. 提高，增加 / n. 加薪",
+    "recovery": "n. 恢复，康复",
+    "rediscover": "v. 重新发现，再次找到",
+    "restoration": "n. 修复；恢复",
+    "restore": "v. 恢复；使复原",
+    "reverse": "v. 扭转，逆转",
+    "revitalize": "v. 使恢复活力，振兴",
+    "rigid": "adj. 僵硬的，死板的",
+    "rise": "v. 上升，升起 / n. 上升，增长",
+    "scholar": "n. 学者",
+    "scholarly": "adj. 学术的；博学的",
+    "signature": "n. 签名 / adj. 标志性的，招牌的",
+    "single": "adj. 单一的，仅一个的 / n. 单曲 / v. 挑选出，单独对待（single out）",
+    "stretch": "v. 拉长；伸展 / n. 连续的一段时间",
+    "technical": "adj. 技术的，技术性的",
+    "technique": "n. 技术，方法，技巧",
+    "technology": "n. 技术，科技",
+    "time-effective": "adj. 省时的；时间效率高的",
+    "timely": "adj. 及时的，适时的",
+    "tourist-friendly": "adj. 对游客友好的，便于游客的",
+    "trade": "n. 贸易；买卖 / v. 交换；做买卖",
+    "user-friendly": "adj. 易于使用的，方便用户的",
+    "variety": "n. 多样，种类",
+    "visible": "adj. 显著的，明显的",
+    "wall": "n. 墙（hit the wall：精疲力竭） / v. 用墙围住",
+    "wear": "v. 磨损；使疲惫（wear down）",
+    "wind": "v. 蜿蜒；卷绕 / n. 风",
+    "winding": "adj. 蜿蜒的，曲折的 / n. 卷绕；上发条",
+    "workshop": "n. 研讨会；工作坊"
+  },
+  "POS": {
+    "arise": [
+      "v"
+    ],
+    "bear": [
+      "v"
+    ],
+    "catch": [
+      "v",
+      "n"
+    ],
+    "challenge": [
+      "n",
+      "v"
+    ],
+    "channel": [
+      "n",
+      "v"
+    ],
+    "closure": [
+      "n"
+    ],
+    "compete": [
+      "v"
+    ],
+    "competition": [
+      "n"
+    ],
+    "competitor": [
+      "n"
+    ],
+    "corner": [
+      "n",
+      "v"
+    ],
+    "cost-effective": [
+      "adj"
+    ],
+    "costly": [
+      "adj"
+    ],
+    "deactivate": [
+      "v"
+    ],
+    "deforest": [
+      "v"
+    ],
+    "disclose": [
+      "v"
+    ],
+    "disclosure": [
+      "n"
+    ],
+    "discourage": [
+      "v"
+    ],
+    "eco-tourism": [
+      "n"
+    ],
+    "end": [
+      "n",
+      "v"
+    ],
+    "engage": [
+      "v"
+    ],
+    "engagement": [
+      "n"
+    ],
+    "ever-expanding": [
+      "adj"
+    ],
+    "expertise": [
+      "n"
+    ],
+    "family-friendly": [
+      "adj"
+    ],
+    "favor": [
+      "n",
+      "v"
+    ],
+    "fearful": [
+      "adj"
+    ],
+    "fearless": [
+      "adj"
+    ],
+    "flexibility": [
+      "n"
+    ],
+    "flexible": [
+      "adj"
+    ],
+    "force": [
+      "n",
+      "v"
+    ],
+    "friendly": [
+      "adj"
+    ],
+    "implicate": [
+      "v"
+    ],
+    "implication": [
+      "n"
+    ],
+    "invest": [
+      "v"
+    ],
+    "kick": [
+      "v",
+      "n"
+    ],
+    "light": [
+      "n",
+      "adj",
+      "v"
+    ],
+    "line": [
+      "n",
+      "v"
+    ],
+    "longevity": [
+      "n"
+    ],
+    "new": [
+      "adj"
+    ],
+    "orderly": [
+      "adj"
+    ],
+    "outperform": [
+      "v"
+    ],
+    "overshadow": [
+      "v"
+    ],
+    "ownership": [
+      "n"
+    ],
+    "painstaking": [
+      "adj"
+    ],
+    "plastic": [
+      "n",
+      "adj"
+    ],
+    "plasticity": [
+      "n"
+    ],
+    "plug": [
+      "n",
+      "v"
+    ],
+    "power": [
+      "n"
+    ],
+    "raise": [
+      "v",
+      "n"
+    ],
+    "recovery": [
+      "n"
+    ],
+    "rediscover": [
+      "v"
+    ],
+    "restoration": [
+      "n"
+    ],
+    "restore": [
+      "v"
+    ],
+    "reverse": [
+      "v"
+    ],
+    "revitalize": [
+      "v"
+    ],
+    "rigid": [
+      "adj"
+    ],
+    "rise": [
+      "v",
+      "n"
+    ],
+    "scholar": [
+      "n"
+    ],
+    "scholarly": [
+      "adj"
+    ],
+    "signature": [
+      "n",
+      "adj"
+    ],
+    "single": [
+      "adj",
+      "n",
+      "v"
+    ],
+    "stretch": [
+      "v",
+      "n"
+    ],
+    "technical": [
+      "adj"
+    ],
+    "technique": [
+      "n"
+    ],
+    "technology": [
+      "n"
+    ],
+    "time-effective": [
+      "adj"
+    ],
+    "timely": [
+      "adj"
+    ],
+    "tourist-friendly": [
+      "adj"
+    ],
+    "trade": [
+      "n",
+      "v"
+    ],
+    "user-friendly": [
+      "adj"
+    ],
+    "variety": [
+      "n"
+    ],
+    "visible": [
+      "adj"
+    ],
+    "wall": [
+      "n",
+      "v"
+    ],
+    "wear": [
+      "v"
+    ],
+    "wind": [
+      "v",
+      "n"
+    ],
+    "winding": [
+      "adj",
+      "n"
+    ],
+    "workshop": [
+      "n"
+    ]
+  }
+}
