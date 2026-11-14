@@ -1,0 +1,374 @@
+{
+  "BASE": [
+    "alert",
+    "amount",
+    "anticipate",
+    "anticipation",
+    "autonomy",
+    "coincident",
+    "coincidentally",
+    "consistent",
+    "consistently",
+    "constructive",
+    "constructively",
+    "contain",
+    "cue",
+    "damp",
+    "dampen",
+    "dominant",
+    "draw",
+    "edge",
+    "equivalent",
+    "function",
+    "functioning",
+    "guilt",
+    "guilty",
+    "impact",
+    "inconsistent",
+    "intend",
+    "intended",
+    "justify",
+    "landmark",
+    "level",
+    "literacy",
+    "literal",
+    "literary",
+    "literature",
+    "locate",
+    "malfunction",
+    "malware",
+    "measure",
+    "obsessed",
+    "obsession",
+    "obsessive",
+    "opposite",
+    "prior",
+    "priority",
+    "qualification",
+    "qualified",
+    "qualify",
+    "receipt",
+    "refill",
+    "regulate",
+    "relevant",
+    "reserve",
+    "resolution",
+    "resolve",
+    "serve",
+    "sharp",
+    "snowball",
+    "solidify",
+    "sustain",
+    "sustained",
+    "tag",
+    "thrive",
+    "unintended"
+  ],
+  "PLURAL": [
+    "measures",
+    "reserves"
+  ],
+  "THIRD": [
+    "measures"
+  ],
+  "ING": [
+    "drawing"
+  ],
+  "PAST": [
+    "alerted",
+    "edged",
+    "impacted",
+    "intended",
+    "justified",
+    "malfunctioned",
+    "refilled",
+    "snowballed"
+  ],
+  "COMP": [],
+  "SUPER": [],
+  "DICT": {
+    "alert": "adj. 警觉的；机敏的 / n. 警报 / v. 提醒；使警觉",
+    "amount": "v. 总计，等于（amount to）",
+    "anticipate": "v. 预期；预料",
+    "anticipation": "n. 预期；预料；期待",
+    "autonomy": "n. 自主权，自治",
+    "coincident": "adj. 同时发生的，一致的",
+    "coincidentally": "adv. 碰巧地，巧合地",
+    "consistent": "adj. 一致的；相符的；始终如一的",
+    "consistently": "adv. 一贯地；始终如一地",
+    "constructive": "adj. 建设性的；有助益的",
+    "constructively": "adv. 建设性地；以有助益的方式",
+    "contain": "v. 控制；防止…蔓延",
+    "cue": "n. 提示，暗示",
+    "damp": "adj. 潮湿的",
+    "dampen": "v. 使减弱，抑制；弄湿",
+    "dominant": "adj. 占主导地位的，支配的",
+    "draw": "v. 接近；靠近（draw close）",
+    "edge": "n. 优势；有利条件 / v. 缓慢移动",
+    "equivalent": "n. 等同物，对应物",
+    "function": "n. 功能；作用 / v. 正常运转；起作用",
+    "functioning": "n. 运作；运行 / adj. 正常工作的",
+    "guilt": "n. 内疚，罪恶感；罪行",
+    "guilty": "adj. 内疚的；有罪的",
+    "impact": "n. 影响，冲击 / v. 影响，对……产生冲击",
+    "inconsistent": "adj. 不一致的，前后矛盾的",
+    "intend": "v. 打算；意图",
+    "intended": "adj. 预期的；打算中的",
+    "justify": "v. 证明……正当；为……辩解",
+    "landmark": "n. 地标；里程碑",
+    "level": "n. 水平；程度；数量 / adj. 平的；水平的 / v. 使平坦",
+    "literacy": "n. 读写能力",
+    "literal": "adj. 字面的；本义的",
+    "literary": "adj. 文学的；文学语言的",
+    "literature": "n. 文学；文学作品",
+    "locate": "v. 找出…的准确位置；确定…的位置",
+    "malfunction": "n. 故障，失灵 / v. 发生故障，失灵",
+    "malware": "n. 恶意软件",
+    "measure": "v. 测量出来是（某尺寸、长度、数量等） / n. 措施",
+    "obsessed": "adj. 着迷的，迷恋的",
+    "obsession": "n. 痴迷，困扰",
+    "obsessive": "adj. 过分痴迷的，执着的",
+    "opposite": "n. 相反的人或事物 / adj. 相反的；对立的",
+    "prior": "adj. 先前的；事先的",
+    "priority": "n. 优先事项；首要任务",
+    "qualification": "n. 资格；资质",
+    "qualified": "adj. 合格的；有资格的",
+    "qualify": "v. 取得资格；有资格",
+    "receipt": "n. 收据；发票",
+    "refill": "v. 重新装满；再填满",
+    "regulate": "v. 管理，控制，调节",
+    "relevant": "adj. 相关的，切题的",
+    "reserve": "v. 预订，保留 / n. 储备，储藏",
+    "resolution": "n. 决心；决定",
+    "resolve": "v. 解决；化解 / n. 决心；坚定的意志",
+    "serve": "v. 作为；起…作用 / n. 发球",
+    "sharp": "adj. 锋利的；尖锐的 / adv. 准时地；整 / n. 升号",
+    "snowball": "v. 迅速扩大，滚雪球般增长",
+    "solidify": "v. 巩固，使凝固",
+    "sustain": "v. 维持，支撑",
+    "sustained": "adj. 持续的，持久的",
+    "tag": "n. 标签（price tag：价格标签；代价）",
+    "thrive": "v. 茁壮成长，兴旺",
+    "unintended": "adj. 非计划中的；意想不到的"
+  },
+  "POS": {
+    "alert": [
+      "adj",
+      "n",
+      "v"
+    ],
+    "amount": [
+      "v"
+    ],
+    "anticipate": [
+      "v"
+    ],
+    "anticipation": [
+      "n"
+    ],
+    "autonomy": [
+      "n"
+    ],
+    "coincident": [
+      "adj"
+    ],
+    "coincidentally": [
+      "adv"
+    ],
+    "consistent": [
+      "adj"
+    ],
+    "consistently": [
+      "adv"
+    ],
+    "constructive": [
+      "adj"
+    ],
+    "constructively": [
+      "adv"
+    ],
+    "contain": [
+      "v"
+    ],
+    "cue": [
+      "n"
+    ],
+    "damp": [
+      "adj"
+    ],
+    "dampen": [
+      "v"
+    ],
+    "dominant": [
+      "adj"
+    ],
+    "draw": [
+      "v"
+    ],
+    "edge": [
+      "n",
+      "v"
+    ],
+    "equivalent": [
+      "n"
+    ],
+    "function": [
+      "n",
+      "v"
+    ],
+    "functioning": [
+      "n",
+      "adj"
+    ],
+    "guilt": [
+      "n"
+    ],
+    "guilty": [
+      "adj"
+    ],
+    "impact": [
+      "n",
+      "v"
+    ],
+    "inconsistent": [
+      "adj"
+    ],
+    "intend": [
+      "v"
+    ],
+    "intended": [
+      "adj"
+    ],
+    "justify": [
+      "v"
+    ],
+    "landmark": [
+      "n"
+    ],
+    "level": [
+      "n",
+      "adj",
+      "v"
+    ],
+    "literacy": [
+      "n"
+    ],
+    "literal": [
+      "adj"
+    ],
+    "literary": [
+      "adj"
+    ],
+    "literature": [
+      "n"
+    ],
+    "locate": [
+      "v"
+    ],
+    "malfunction": [
+      "n",
+      "v"
+    ],
+    "malware": [
+      "n"
+    ],
+    "measure": [
+      "v",
+      "n"
+    ],
+    "obsessed": [
+      "adj"
+    ],
+    "obsession": [
+      "n"
+    ],
+    "obsessive": [
+      "adj"
+    ],
+    "opposite": [
+      "n",
+      "adj"
+    ],
+    "prior": [
+      "adj"
+    ],
+    "priority": [
+      "n"
+    ],
+    "qualification": [
+      "n"
+    ],
+    "qualified": [
+      "adj"
+    ],
+    "qualify": [
+      "v"
+    ],
+    "receipt": [
+      "n"
+    ],
+    "refill": [
+      "v"
+    ],
+    "regulate": [
+      "v"
+    ],
+    "relevant": [
+      "adj"
+    ],
+    "reserve": [
+      "v",
+      "n"
+    ],
+    "resolution": [
+      "n"
+    ],
+    "resolve": [
+      "v",
+      "n"
+    ],
+    "serve": [
+      "v",
+      "n"
+    ],
+    "sharp": [
+      "adj",
+      "adv",
+      "n"
+    ],
+    "snowball": [
+      "v"
+    ],
+    "solidify": [
+      "v"
+    ],
+    "sustain": [
+      "v"
+    ],
+    "sustained": [
+      "adj"
+    ],
+    "tag": [
+      "n"
+    ],
+    "thrive": [
+      "v"
+    ],
+    "unintended": [
+      "adj"
+    ]
+  },
+  "VARIANTS": {
+    "alerted": "alert",
+    "drawing": "draw",
+    "edged": "edge",
+    "impacted": "impact",
+    "intended": "intend",
+    "justified": "justify",
+    "malfunctioned": "malfunction",
+    "measures": "measure",
+    "refilled": "refill",
+    "reserves": "reserve",
+    "snowballed": "snowball"
+  }
+}
