@@ -1,0 +1,377 @@
+{
+  "BASE": [
+    "accumulate",
+    "accumulation",
+    "apply",
+    "awake",
+    "awaken",
+    "bend",
+    "build",
+    "capacity",
+    "chance",
+    "choice",
+    "continuity",
+    "credible",
+    "credit",
+    "depict",
+    "digest",
+    "drone",
+    "enrich",
+    "enriched",
+    "enriching",
+    "factor",
+    "feed",
+    "formerly",
+    "ground",
+    "grounded",
+    "in-depth",
+    "incredible",
+    "informed",
+    "inseparable",
+    "matter",
+    "moderate",
+    "moderation",
+    "place",
+    "practical",
+    "practically",
+    "practice",
+    "purpose",
+    "reassure",
+    "recreation",
+    "recreational",
+    "refresh",
+    "refreshed",
+    "refreshing",
+    "reject",
+    "rejection",
+    "resistant",
+    "schedule",
+    "spill",
+    "stagger",
+    "state",
+    "statement",
+    "strike",
+    "strive",
+    "sustain",
+    "sustainability",
+    "sustainable",
+    "symptom",
+    "theoretical",
+    "theoretically",
+    "theory"
+  ],
+  "PLURAL": [
+    "matters"
+  ],
+  "THIRD": [
+    "applies"
+  ],
+  "ING": [
+    "accumulating",
+    "droning"
+  ],
+  "PAST": [
+    "awakened",
+    "awoke",
+    "bent",
+    "built",
+    "credited",
+    "depicted",
+    "enriched",
+    "fed",
+    "grounded",
+    "placed",
+    "practiced",
+    "refreshed",
+    "rejected",
+    "scheduled",
+    "spilled",
+    "staggered",
+    "stated",
+    "struck",
+    "sustained"
+  ],
+  "COMP": [],
+  "SUPER": [],
+  "DICT": {
+    "reject": "v. 拒绝；否决",
+    "rejection": "n. 拒绝；否决",
+    "choice": "n. 选择",
+    "chance": "n. 偶然；意外",
+    "feed": "n. （信息或新闻的）推送流 / v. 喂养；给…食物",
+    "in-depth": "adj. 深入的；详尽的",
+    "statement": "n. 声明；陈述",
+    "state": "n. 状态；状况 / v. 陈述；说明 / adj. 州的；国家的",
+    "symptom": "n. 症状；征兆",
+    "build": "v. 积聚；逐步增强（build up） / n. 体格；身材",
+    "spill": "v. 溢出；洒出（spill out）",
+    "accumulation": "n. 积累；堆积",
+    "accumulate": "v. 积累；积聚",
+    "moderation": "n. 适度；节制",
+    "moderate": "adj. 中等的；适度的 / v. 缓和；减轻",
+    "apply": "v. 适用；适用于（apply to）",
+    "enrich": "v. 丰富；充实",
+    "enriching": "adj. 使人充实的；丰富人生的",
+    "enriched": "adj. 添加了营养成分的；强化的",
+    "refresh": "v. 使恢复精力；使提神",
+    "refreshing": "adj. 令人耳目一新的；提神的",
+    "refreshed": "adj. 精力恢复的；神清气爽的",
+    "schedule": "n. 日程安排；时间表 / v. 安排；预定",
+    "strike": "v. 达成（strike a deal） / n. 罢工",
+    "ground": "n. 地面，土地 / v. 使停飞，使搁浅；禁止（孩子）外出",
+    "grounded": "adj. 脚踏实地的，理智的",
+    "resistant": "adj. 有抵抗力的，抵抗的",
+    "place": "n. 地方，场所；位置 / v. 放置，安放",
+    "purpose": "n. 目的，意义",
+    "theoretically": "adv. 理论上",
+    "theoretical": "adj. 理论的",
+    "theory": "n. 理论，学说",
+    "practice": "n. 练习，实践 / v. 练习，实习",
+    "practical": "adj. 实用的，实际的",
+    "practically": "adv. 几乎，差不多",
+    "inseparable": "adj. 不可分离的，形影不离的",
+    "strive": "v. 努力，奋斗",
+    "factor": "n. 因素",
+    "sustainability": "n. 可持续性",
+    "sustain": "v. 维持，支撑",
+    "sustainable": "adj. 可持续的",
+    "continuity": "n. 连续性",
+    "awaken": "v. 唤醒，使醒来",
+    "awake": "adj. 醒着的 / v. 醒来",
+    "drone": "n. 无人机 / v. 发出嗡嗡声",
+    "capacity": "n. 容量；容纳能力",
+    "formerly": "adv. 以前，从前",
+    "credible": "adj. 可信的，可靠的",
+    "credit": "n. 赊购；信贷 / v. 把……归于；认为……有（某种品质或成就）",
+    "incredible": "adj. 极好的；惊人的",
+    "informed": "adj. 有知识的；了解情况的",
+    "matter": "n. 事情，问题 / v. 要紧，有关系",
+    "depict": "v. 描绘，描述",
+    "bend": "v. 弯曲；俯身 / n. 弯道；弯曲处",
+    "recreation": "n. 娱乐，消遣",
+    "recreational": "adj. 娱乐的，休闲的",
+    "digest": "v. 消化；理解，领会 / n. 摘要，文摘",
+    "reassure": "v. 使安心，打消……的疑虑",
+    "stagger": "v. 蹒跚，摇晃着走"
+  },
+  "POS": {
+    "reject": [
+      "v"
+    ],
+    "rejection": [
+      "n"
+    ],
+    "choice": [
+      "n"
+    ],
+    "chance": [
+      "n"
+    ],
+    "feed": [
+      "n",
+      "v"
+    ],
+    "in-depth": [
+      "adj"
+    ],
+    "statement": [
+      "n"
+    ],
+    "state": [
+      "n",
+      "v",
+      "adj"
+    ],
+    "symptom": [
+      "n"
+    ],
+    "build": [
+      "v",
+      "n"
+    ],
+    "spill": [
+      "v"
+    ],
+    "accumulation": [
+      "n"
+    ],
+    "accumulate": [
+      "v"
+    ],
+    "moderation": [
+      "n"
+    ],
+    "moderate": [
+      "adj",
+      "v"
+    ],
+    "apply": [
+      "v"
+    ],
+    "enrich": [
+      "v"
+    ],
+    "enriching": [
+      "adj"
+    ],
+    "enriched": [
+      "adj"
+    ],
+    "refresh": [
+      "v"
+    ],
+    "refreshing": [
+      "adj"
+    ],
+    "refreshed": [
+      "adj"
+    ],
+    "schedule": [
+      "n",
+      "v"
+    ],
+    "strike": [
+      "v",
+      "n"
+    ],
+    "ground": [
+      "n",
+      "v"
+    ],
+    "grounded": [
+      "adj"
+    ],
+    "resistant": [
+      "adj"
+    ],
+    "place": [
+      "n",
+      "v"
+    ],
+    "purpose": [
+      "n"
+    ],
+    "theoretically": [
+      "adv"
+    ],
+    "theoretical": [
+      "adj"
+    ],
+    "theory": [
+      "n"
+    ],
+    "practice": [
+      "n",
+      "v"
+    ],
+    "practical": [
+      "adj"
+    ],
+    "practically": [
+      "adv"
+    ],
+    "inseparable": [
+      "adj"
+    ],
+    "strive": [
+      "v"
+    ],
+    "factor": [
+      "n"
+    ],
+    "sustainability": [
+      "n"
+    ],
+    "sustain": [
+      "v"
+    ],
+    "sustainable": [
+      "adj"
+    ],
+    "continuity": [
+      "n"
+    ],
+    "awaken": [
+      "v"
+    ],
+    "awake": [
+      "adj",
+      "v"
+    ],
+    "drone": [
+      "n",
+      "v"
+    ],
+    "capacity": [
+      "n"
+    ],
+    "formerly": [
+      "adv"
+    ],
+    "credible": [
+      "adj"
+    ],
+    "credit": [
+      "n",
+      "v"
+    ],
+    "incredible": [
+      "adj"
+    ],
+    "informed": [
+      "adj"
+    ],
+    "matter": [
+      "n",
+      "v"
+    ],
+    "depict": [
+      "v"
+    ],
+    "bend": [
+      "v",
+      "n"
+    ],
+    "recreation": [
+      "n"
+    ],
+    "recreational": [
+      "adj"
+    ],
+    "digest": [
+      "v",
+      "n"
+    ],
+    "reassure": [
+      "v"
+    ],
+    "stagger": [
+      "v"
+    ]
+  },
+  "VARIANTS": {
+    "accumulating": "accumulate",
+    "applies": "apply",
+    "awakened": "awaken",
+    "awoke": "awake",
+    "bent": "bend",
+    "built": "build",
+    "credited": "credit",
+    "depicted": "depict",
+    "droning": "drone",
+    "enriched": "enrich",
+    "fed": "feed",
+    "grounded": "ground",
+    "matters": "matter",
+    "placed": "place",
+    "practiced": "practice",
+    "refreshed": "refresh",
+    "rejected": "reject",
+    "scheduled": "schedule",
+    "spilled": "spill",
+    "staggered": "stagger",
+    "stated": "state",
+    "struck": "strike",
+    "sustained": "sustain"
+  }
+}
