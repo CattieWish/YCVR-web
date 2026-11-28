@@ -116,6 +116,15 @@
       "pools": "pools_weekly_202620",
       "cloze": "cloze_weekly_202620",
       "material": "weekly_202620.md"
+    },
+    {
+      "id": "202621",
+      "short": "W13",
+      "title": "学期第 13 周词汇",
+      "subtitle": "2026 秋季学期 · 第 14 期",
+      "pools": "pools_weekly_202621",
+      "cloze": "cloze_weekly_202621",
+      "material": "weekly_202621.md"
     }
   ]
 }

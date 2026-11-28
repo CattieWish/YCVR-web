@@ -1,0 +1,514 @@
+{
+  "BASE": [
+    "accent",
+    "account",
+    "approach",
+    "budget-conscious",
+    "channel",
+    "chronic",
+    "chronically",
+    "cipher",
+    "complete",
+    "consistent",
+    "course",
+    "cram",
+    "criterion",
+    "currency",
+    "decipher",
+    "eco-conscious",
+    "eliminate",
+    "entertain",
+    "ethical",
+    "ethics",
+    "evidence",
+    "evident",
+    "fashion-conscious",
+    "flight",
+    "fulfill",
+    "grateful",
+    "gratitude",
+    "ground",
+    "groundless",
+    "health-conscious",
+    "hostile",
+    "hostility",
+    "hypothesis",
+    "imaginary",
+    "imaginative",
+    "immune",
+    "inscribe",
+    "inscription",
+    "laugh",
+    "laughter",
+    "leftover",
+    "light",
+    "magnificent",
+    "magnify",
+    "mask",
+    "matter",
+    "milestone",
+    "mysterious",
+    "mystery",
+    "optimal",
+    "optimize",
+    "over-the-top",
+    "place",
+    "prescribe",
+    "proportion",
+    "prospect",
+    "renowned",
+    "retailer",
+    "rhythm",
+    "robust",
+    "root",
+    "safety-conscious",
+    "scale",
+    "schedule",
+    "self-control",
+    "self-employed",
+    "self-evident",
+    "self-service",
+    "shareholder",
+    "sound",
+    "span",
+    "stem",
+    "stimulus",
+    "subscribe",
+    "survive",
+    "time-honored",
+    "transcribe",
+    "transition",
+    "unveil",
+    "veil",
+    "welfare",
+    "well-informed",
+    "wholesaler",
+    "wind"
+  ],
+  "PLURAL": [
+    "flights",
+    "leftovers",
+    "masks",
+    "matters",
+    "retailers",
+    "shareholders",
+    "stems",
+    "wholesalers"
+  ],
+  "THIRD": [
+    "channels",
+    "eliminates",
+    "winds"
+  ],
+  "ING": [
+    "approaching"
+  ],
+  "PAST": [
+    "crammed",
+    "entertained",
+    "evidenced",
+    "grounded",
+    "inscribed",
+    "lit",
+    "magnified",
+    "placed",
+    "rooted",
+    "scaled",
+    "scheduled",
+    "spanned",
+    "unveiled"
+  ],
+  "COMP": [],
+  "SUPER": [],
+  "DICT": {
+    "accent": "n. 口音",
+    "account": "n. 描述；叙述 / v. 解释；说明（与for连用）",
+    "approach": "v. 接近，靠近；着手处理 / n. 方法，方式；接近",
+    "budget-conscious": "adj. 精打细算的；注重预算的",
+    "channel": "n. 渠道；途径 / v. 引导；将……投入",
+    "chronic": "adj. 慢性的；长期的",
+    "chronically": "adv. 慢性地；长期地",
+    "cipher": "n. 密码；暗号",
+    "complete": "adj. 配备有…的；附带有…的 / v. 完成；使完整",
+    "consistent": "adj. 一贯的，始终如一的",
+    "course": "n. 方向，路线；航道",
+    "cram": "v. 塞满；挤满",
+    "criterion": "n. 标准；准则",
+    "currency": "n. 货币；通货",
+    "decipher": "v. 破译；辨认",
+    "eco-conscious": "adj. 有环保意识的",
+    "eliminate": "v. 消除，根除；淘汰",
+    "entertain": "v. 使快乐；娱乐",
+    "ethical": "adj. 合乎道德的；伦理的",
+    "ethics": "n. 道德准则；伦理规范",
+    "evidence": "n. 证据；证明 / v. 表明；显示",
+    "evident": "adj. 明显的；显而易见的",
+    "fashion-conscious": "adj. 注重时尚的；赶时髦的",
+    "flight": "n. 航班",
+    "fulfill": "v. 实现，履行；发挥（作用）",
+    "grateful": "adj. 感激的，感谢的",
+    "gratitude": "n. 感激，感谢",
+    "ground": "n. 理由；根据（on... ground 表示基于……） / v. 使停飞",
+    "groundless": "adj. 无根据的；无理由的",
+    "health-conscious": "adj. 注重健康的",
+    "hostile": "adj. 不友好的，敌对的",
+    "hostility": "n. 敌意，对抗",
+    "hypothesis": "n. 假设；假说",
+    "imaginary": "adj. 想象中的；虚构的",
+    "imaginative": "adj. 富有想象力的",
+    "immune": "adj. 有免疫力的；不受影响的",
+    "inscribe": "v. 刻写；题写",
+    "inscription": "n. 铭文；题词",
+    "laugh": "v. 笑，发笑 / n. 笑，笑声",
+    "laughter": "n. 笑声",
+    "leftover": "adj. 剩余的；吃剩的 / n. 剩饭；剩余物",
+    "light": "n. 光；了解（in light of 表示鉴于） / adj. 轻的 / v. 点燃 / adv. 轻装地",
+    "magnificent": "adj. 壮丽的；宏伟的",
+    "magnify": "v. 放大；夸大",
+    "mask": "v. 掩饰，掩盖 / n. 面具，面罩",
+    "matter": "n. 事情；问题",
+    "milestone": "n. 里程碑，重要事件",
+    "mysterious": "adj. 神秘的；难以解释的",
+    "mystery": "n. 谜；神秘的事物",
+    "optimal": "adj. 最佳的；最理想的",
+    "optimize": "v. 优化；使最优化",
+    "over-the-top": "adj. 过分的，夸张的",
+    "place": "n. 发生；举行（take place） / v. 放置",
+    "prescribe": "v. 开处方；规定",
+    "proportion": "n. 比例；均衡；部分",
+    "prospect": "n. 可能性，前景",
+    "renowned": "adj. 著名的；有声望的",
+    "retailer": "n. 零售商",
+    "rhythm": "n. 节奏；节律",
+    "robust": "adj. 强健的；结实的",
+    "root": "n. 根；根源，根本原因 / v. 生根；根源在于，起源于",
+    "safety-conscious": "adj. 有安全意识的",
+    "scale": "n. 规模，范围；等级，刻度 / v. 攀登，翻越",
+    "schedule": "n. 日程安排，时间表 / v. 安排，预定",
+    "self-control": "n. 自制力；自我控制",
+    "self-employed": "adj. 自雇的；个体经营的",
+    "self-evident": "adj. 不言而喻的；不证自明的",
+    "self-service": "n. 自助服务 / adj. 自助的",
+    "shareholder": "n. 股东",
+    "sound": "n. 声音 / v. 听起来 / adj. 合理的，可靠的",
+    "span": "n. 持续时间，跨度 / v. 持续，跨越",
+    "stem": "v. 阻止，遏制 / n. 茎，干",
+    "stimulus": "n. 促进因素，刺激物",
+    "subscribe": "v. 赞同；支持",
+    "survive": "v. 幸存，挺过（及物）",
+    "time-honored": "adj. 历史悠久的，因长期沿用而受尊重的",
+    "transcribe": "v. 转录；抄写",
+    "transition": "n. 过渡，转变 / v. 过渡，转变",
+    "unveil": "v. 揭幕，公布",
+    "veil": "n. 面纱，遮蔽物 / v. 遮掩，遮蔽",
+    "welfare": "n. 福祉；福利",
+    "well-informed": "adj. 消息灵通的；见多识广的",
+    "wholesaler": "n. 批发商",
+    "wind": "n. 风 / v. 蜿蜒，曲折而行"
+  },
+  "POS": {
+    "accent": [
+      "n"
+    ],
+    "account": [
+      "n",
+      "v"
+    ],
+    "approach": [
+      "v",
+      "n"
+    ],
+    "budget-conscious": [
+      "adj"
+    ],
+    "channel": [
+      "n",
+      "v"
+    ],
+    "chronic": [
+      "adj"
+    ],
+    "chronically": [
+      "adv"
+    ],
+    "cipher": [
+      "n"
+    ],
+    "complete": [
+      "adj",
+      "v"
+    ],
+    "consistent": [
+      "adj"
+    ],
+    "course": [
+      "n"
+    ],
+    "cram": [
+      "v"
+    ],
+    "criterion": [
+      "n"
+    ],
+    "currency": [
+      "n"
+    ],
+    "decipher": [
+      "v"
+    ],
+    "eco-conscious": [
+      "adj"
+    ],
+    "eliminate": [
+      "v"
+    ],
+    "entertain": [
+      "v"
+    ],
+    "ethical": [
+      "adj"
+    ],
+    "ethics": [
+      "n"
+    ],
+    "evidence": [
+      "n",
+      "v"
+    ],
+    "evident": [
+      "adj"
+    ],
+    "fashion-conscious": [
+      "adj"
+    ],
+    "flight": [
+      "n"
+    ],
+    "fulfill": [
+      "v"
+    ],
+    "grateful": [
+      "adj"
+    ],
+    "gratitude": [
+      "n"
+    ],
+    "ground": [
+      "n",
+      "v"
+    ],
+    "groundless": [
+      "adj"
+    ],
+    "health-conscious": [
+      "adj"
+    ],
+    "hostile": [
+      "adj"
+    ],
+    "hostility": [
+      "n"
+    ],
+    "hypothesis": [
+      "n"
+    ],
+    "imaginary": [
+      "adj"
+    ],
+    "imaginative": [
+      "adj"
+    ],
+    "immune": [
+      "adj"
+    ],
+    "inscribe": [
+      "v"
+    ],
+    "inscription": [
+      "n"
+    ],
+    "laugh": [
+      "v",
+      "n"
+    ],
+    "laughter": [
+      "n"
+    ],
+    "leftover": [
+      "adj",
+      "n"
+    ],
+    "light": [
+      "n",
+      "adj",
+      "v",
+      "adv"
+    ],
+    "magnificent": [
+      "adj"
+    ],
+    "magnify": [
+      "v"
+    ],
+    "mask": [
+      "v",
+      "n"
+    ],
+    "matter": [
+      "n"
+    ],
+    "milestone": [
+      "n"
+    ],
+    "mysterious": [
+      "adj"
+    ],
+    "mystery": [
+      "n"
+    ],
+    "optimal": [
+      "adj"
+    ],
+    "optimize": [
+      "v"
+    ],
+    "over-the-top": [
+      "adj"
+    ],
+    "place": [
+      "n",
+      "v"
+    ],
+    "prescribe": [
+      "v"
+    ],
+    "proportion": [
+      "n"
+    ],
+    "prospect": [
+      "n"
+    ],
+    "renowned": [
+      "adj"
+    ],
+    "retailer": [
+      "n"
+    ],
+    "rhythm": [
+      "n"
+    ],
+    "robust": [
+      "adj"
+    ],
+    "root": [
+      "n",
+      "v"
+    ],
+    "safety-conscious": [
+      "adj"
+    ],
+    "scale": [
+      "n",
+      "v"
+    ],
+    "schedule": [
+      "n",
+      "v"
+    ],
+    "self-control": [
+      "n"
+    ],
+    "self-employed": [
+      "adj"
+    ],
+    "self-evident": [
+      "adj"
+    ],
+    "self-service": [
+      "n",
+      "adj"
+    ],
+    "shareholder": [
+      "n"
+    ],
+    "sound": [
+      "n",
+      "v",
+      "adj"
+    ],
+    "span": [
+      "n",
+      "v"
+    ],
+    "stem": [
+      "v",
+      "n"
+    ],
+    "stimulus": [
+      "n"
+    ],
+    "subscribe": [
+      "v"
+    ],
+    "survive": [
+      "v"
+    ],
+    "time-honored": [
+      "adj"
+    ],
+    "transcribe": [
+      "v"
+    ],
+    "transition": [
+      "n",
+      "v"
+    ],
+    "unveil": [
+      "v"
+    ],
+    "veil": [
+      "n",
+      "v"
+    ],
+    "welfare": [
+      "n"
+    ],
+    "well-informed": [
+      "adj"
+    ],
+    "wholesaler": [
+      "n"
+    ],
+    "wind": [
+      "n",
+      "v"
+    ]
+  },
+  "VARIANTS": {
+    "approaching": "approach",
+    "channels": "channel",
+    "crammed": "cram",
+    "eliminates": "eliminate",
+    "entertained": "entertain",
+    "evidenced": "evidence",
+    "flights": "flight",
+    "grounded": "ground",
+    "inscribed": "inscribe",
+    "leftovers": "leftover",
+    "lit": "light",
+    "magnified": "magnify",
+    "masks": "mask",
+    "matters": "matter",
+    "placed": "place",
+    "retailers": "retailer",
+    "rooted": "root",
+    "scaled": "scale",
+    "scheduled": "schedule",
+    "shareholders": "shareholder",
+    "spanned": "span",
+    "stems": "stem",
+    "unveiled": "unveil",
+    "wholesalers": "wholesaler",
+    "winds": "wind"
+  }
+}
